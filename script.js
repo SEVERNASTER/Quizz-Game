@@ -1,7 +1,9 @@
 
 
-const counterCointainer = document.getElementById('counterContainer');  
+const counterContainer = document.getElementById('counterContainer');  
 let counter = document.getElementById('counter');
+const loadingBarContainer = document.getElementById('loadingBarContainer');
+const loadingBar = document.getElementById('loadingBar');
 const playBtn = document.getElementById('play');
 const startMenuContainer = document.querySelector('.start-menu-container');
 const startMenu = document.querySelector('.start-menu');
@@ -22,12 +24,20 @@ async function getQuestions() {
 
 
 playBtn.addEventListener('click', () => {
-    counterCointainer.style.transform = 'translateY(0)';
+    setCounterAndLoadingBar();
     const questionContainer = createQuestionCard();
     // questionContainer.style.display = 'flex';
     const questionCard = questionContainer.querySelector('.question-card');
     activeTransition(startMenuContainer, startMenu, questionContainer, questionCard);
 });
+
+function setCounterAndLoadingBar(){
+    counterContainer.style.transform = 'translateY(0)';
+    loadingBarContainer.style.transform = 'translateY(0)';
+    setTimeout(() => {
+        loadingBar.classList.add('active-loading-bar');
+    }, 3000);
+}
 
 function activeTransition(outtingElementContainer, outtingElement, incomingElementContainer, incomingElement) {
     incomingElementContainer.style.display = 'flex';
@@ -124,11 +134,11 @@ function transitionToNextCard(currentQuestion){
         );
         setTimeout(() => {
             counter.innerText = parseInt(counter.innerText) + 1;
-            counterCointainer.classList.add('change-counter');
+            counterContainer.classList.add('change-counter');
         }, 500);
-        counterCointainer.classList.remove('change-counter');
+        counterContainer.classList.remove('change-counter');
     }else{
-        counterCointainer.style.transform = 'translateY(-20vh)';
+        counterContainer.style.transform = 'translateY(-20vh)';
     }
 }
 
