@@ -84,7 +84,7 @@ body {
     width: 100%;
     background-color: #FAB005;
     border-radius: 25px;
-    transition: transform 10s linear;
+    transition: 10s linear;
 }
 
 
@@ -112,6 +112,10 @@ body {
 
 .loading-bar.active-loading-bar::after {
     transform: translateX(-19.8vw);
+}
+
+.loading-bar.reaload-loading-bar::before, .loading-bar.reaload-loading-bar::after {
+    transition: 3s ease-in;
 }
 
 

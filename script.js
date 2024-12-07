@@ -1,6 +1,6 @@
 
 
-const counterContainer = document.getElementById('counterContainer');  
+const counterContainer = document.getElementById('counterContainer');
 let counter = document.getElementById('counter');
 const loadingBarContainer = document.getElementById('loadingBarContainer');
 const loadingBar = document.getElementById('loadingBar');
@@ -31,7 +31,7 @@ playBtn.addEventListener('click', () => {
     activeTransition(startMenuContainer, startMenu, questionContainer, questionCard);
 });
 
-function setCounterAndLoadingBar(){
+function setCounterAndLoadingBar() {
     counterContainer.style.transform = 'translateY(0)';
     loadingBarContainer.style.transform = 'translateY(0)';
     setTimeout(() => {
@@ -117,16 +117,27 @@ function checkAnswer(optionsButtons, rightAnswer, currentQuestion) {
             setTimeout(() => {
                 transitionToNextCard(currentQuestion);
             }, 1000);
+
+            restartLoadingBar();
         });
     });
 }
 
-function transitionToNextCard(currentQuestion){
+function restartLoadingBar() {
+    loadingBar.classList.remove('active-loading-bar');
+    loadingBar.classList.add('reaload-loading-bar');
+    setTimeout(() => {
+        loadingBar.classList.add('active-loading-bar');
+        loadingBar.classList.remove('reaload-loading-bar');
+    }, 3500);
+}
+
+function transitionToNextCard(currentQuestion) {
     if (remainingQuestions > 0) {
         const currentQuestionCard = currentQuestion.querySelector('.question-card');
         const newQuestion = createQuestionCard();
         const newQuestionCard = newQuestion.querySelector('.question-card');
-        
+
         activeTransition(currentQuestion,
             currentQuestionCard,
             newQuestion,
@@ -137,8 +148,9 @@ function transitionToNextCard(currentQuestion){
             counterContainer.classList.add('change-counter');
         }, 500);
         counterContainer.classList.remove('change-counter');
-    }else{
+    } else {
         counterContainer.style.transform = 'translateY(-20vh)';
+        loadingBarContainer.style.transform = 'translateY(-25vh)';
     }
 }
 
