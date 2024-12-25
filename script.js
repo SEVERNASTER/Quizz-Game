@@ -13,6 +13,9 @@ const optionsLetters = ['a) ', 'b) ', 'c) ', 'd) '];
 const wrongColor = '#ee4b4b';
 const rightColor = '#10A37F';
 let remainingQuestions = 10;
+let currentCard = null;
+let currentDimensions = null;
+let time = 1;
 
 getQuestions();
 
@@ -35,8 +38,25 @@ function setCounterAndLoadingBar() {
     counterContainer.style.transform = 'translateY(0)';
     loadingBarContainer.style.transform = 'translateY(0)';
     setTimeout(() => {
+        activeChronometer();
         loadingBar.classList.add('active-loading-bar');
     }, 3000);
+}
+
+function activeChronometer() {
+    const intervalID = setInterval(() => {
+        if (time <= 0) {
+            clearInterval(intervalID);
+            setInterrogationMarks(currentCard.querySelector('.question-card'), currentDimensions);
+            setTimeout(() => {
+                transitionToNextCard(currentCard);
+                restartLoadingBar();
+            }, 2000);
+        } else {
+            console.log(time);
+            time--;
+        }
+    }, 1000);
 }
 
 function activeTransition(outtingElementContainer, outtingElement, incomingElementContainer, incomingElement) {
@@ -64,7 +84,7 @@ function createQuestionCard() {
     newQuestion.className = 'question-container';
     newQuestion.innerHTML = `
         <div class="question-card">
-            <div class="question-card-title">
+        <div class="question-card-title">
                 <h2>${question.question}</h2>
             </div>
             <div class="question-options-wrapper">
@@ -75,6 +95,7 @@ function createQuestionCard() {
         </div>
     `;
 
+
     addOptionsToCard(newQuestion.querySelector('.question-options-container'), question);
     checkAnswer(newQuestion.querySelector('.question-options-container')
         .querySelectorAll('.question-option'),
@@ -82,9 +103,13 @@ function createQuestionCard() {
         newQuestion
     );
 
+    setTimeout(() => {
+        currentCard = newQuestion;
+        currentDimensions = currentCard.querySelector('.question-card').getBoundingClientRect()
+    }, 1000);
+
     body.appendChild(newQuestion);
     remainingQuestions--;
-    currentQuestion = newQuestion;
     return newQuestion;
 }
 
@@ -118,12 +143,14 @@ function checkAnswer(optionsButtons, rightAnswer, currentQuestion) {
                 transitionToNextCard(currentQuestion);
             }, 1000);
 
+
+
             restartLoadingBar();
         });
     });
 }
 
-function restartLoadingBar() {
+function restartLoadingBar() {//para restaurar la carga de la barra
     loadingBar.classList.remove('active-loading-bar');
     loadingBar.classList.add('reaload-loading-bar');
     setTimeout(() => {
@@ -162,6 +189,96 @@ function paintAllButtonsExcept(targetButton, buttons, rightAnswer) {
             button.style.border = 'solid 3px #000'
         }
     });
+}
+function setInterrogationMarks(card, dimensions) {
+
+    let svg = '';
+    // const dimensions = card.getBoundingClientRect();
+
+    let horizontalItems = 3;
+    let verticalItems = 2;
+    let posX = dimensions.width / (horizontalItems * 3);
+    let posY = dimensions.height / (verticalItems * 5);
+
+    for (let i = 0; i < 3; i++) {
+        for (let j = 0; j < 4; j++) {
+            svg = createInterrogationSVG();
+            randomPosition(svg);
+            svg.style.transition = '1s';
+            svg.style.transform = 'rotate(0deg)';
+            svg.style.scale = '0';
+            card.appendChild(svg);
+            setSVGPosition(svg, posX, posY);
+            posX += dimensions.width / horizontalItems;
+        }
+        posX = dimensions.width / (horizontalItems * 3);
+        posY += dimensions.height / verticalItems;
+    }
+    activeTransitionSVG(card);
+}
+
+function activeTransitionSVG(card) {
+    const svgList = card.querySelectorAll('.interrogation-mark');
+    setTimeout(() => {
+        svgList.forEach(svg => {
+            svg.style.transform = `rotate(${randomDegree()}deg)`;
+            svg.style.scale = `${randomScale()}`;
+        });
+    }, 50);
+}
+
+function setSVGPosition(svg, posX, posY) {
+    svg.style.position = 'absolute';
+    svg.style.left = posX;
+    svg.style.top = posY;
+
+}
+
+function randomPosition(svg) {
+    const currentTop = parseInt(svg.style.top) || 0;
+    const currentLeft = parseInt(svg.style.left) || 0;
+
+    switch (Math.floor(Math.random() * 4) + 1) {
+        case 1: // top
+            svg.style.top = `${currentTop - 20}px`;
+            break;
+        case 2: // bottom
+            svg.style.top = `${currentTop + 20}px`;
+            break;
+        case 3: // left
+            svg.style.left = `${currentLeft - 20}px`;
+            break;
+        case 4: // right
+            svg.style.left = `${currentLeft + 20}px`;
+            break;
+    }
+}
+
+function randomDegree() {//entre -35 y 35 grados
+    return Math.round(Math.random() * (35 - (-35))) - 35;
+}
+
+function randomScale() {
+    return (Math.random() * 0.6) + 0.6;
+}
+
+
+function createInterrogationSVG() {
+    const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    svg.setAttribute("class", "interrogation-mark");
+    svg.setAttribute("xmlns", "http://www.w3.org/2000/svg");
+    svg.setAttribute("width", "128");
+    svg.setAttribute("height", "128");
+    svg.setAttribute("viewBox", "0 0 24 24");
+
+    // Crear el elemento <path>
+    const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    path.setAttribute("fill", "#ffffff");
+    path.setAttribute("d", "M14.6 8.075q0-1.075-.712-1.725T12 5.7q-.725 0-1.312.313t-1.013.912q-.4.575-1.088.663T7.4 7.225q-.35-.325-.387-.8t.237-.9q.8-1.2 2.038-1.862T12 3q2.425 0 3.938 1.375t1.512 3.6q0 1.125-.475 2.025t-1.75 2.125q-.925.875-1.25 1.363T13.55 14.6q-.1.6-.513 1t-.987.4t-.987-.387t-.413-.963q0-.975.425-1.787T12.5 11.15q1.275-1.125 1.688-1.737t.412-1.338M12 22q-.825 0-1.412-.587T10 20t.588-1.412T12 18t1.413.588T14 20t-.587 1.413T12 22");
+
+    // Añadir el <path> dentro del <svg>
+    svg.appendChild(path);
+    return svg;
 }
 
 
