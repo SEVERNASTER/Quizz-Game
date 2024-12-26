@@ -12,7 +12,7 @@ let questions = [];
 const optionsLetters = ['a) ', 'b) ', 'c) ', 'd) '];
 const wrongColor = '#ee4b4b';
 const rightColor = '#10A37F';
-let remainingQuestions = 10;
+let remainingQuestions = 3;
 let currentCard = null;
 let currentDimensions = null;
 let time = 1;
@@ -38,22 +38,28 @@ function setCounterAndLoadingBar() {
     counterContainer.style.transform = 'translateY(0)';
     loadingBarContainer.style.transform = 'translateY(0)';
     setTimeout(() => {
-        activeChronometer();
+        activeCountDown();
         loadingBar.classList.add('active-loading-bar');
     }, 3000);
 }
 
-function activeChronometer() {
+function activeCountDown() {
     const intervalID = setInterval(() => {
         if (time <= 0) {
             clearInterval(intervalID);
             setInterrogationMarks(currentCard.querySelector('.question-card'), currentDimensions);
             setTimeout(() => {
+                console.log('preguntas restantes: ', remainingQuestions);
                 transitionToNextCard(currentCard);
                 restartLoadingBar();
+                if (remainingQuestions >= 0) {
+                    time = 1;
+                    setTimeout(() => {
+                        activeCountDown();
+                    }, 3000);
+                }
             }, 2000);
         } else {
-            console.log(time);
             time--;
         }
     }, 1000);
@@ -143,7 +149,10 @@ function checkAnswer(optionsButtons, rightAnswer, currentQuestion) {
                 transitionToNextCard(currentQuestion);
             }, 1000);
 
-
+            // setTimeout(() => {
+            //     time = 1;
+            //     activeCountDown();
+            // }, 3000);
 
             restartLoadingBar();
         });
@@ -159,7 +168,7 @@ function restartLoadingBar() {//para restaurar la carga de la barra
     }, 3500);
 }
 
-function transitionToNextCard(currentQuestion) {
+function transitionToNextCard(currentQuestion) {//crea la siguiente carta de pregunta automaticamente
     if (remainingQuestions > 0) {
         const currentQuestionCard = currentQuestion.querySelector('.question-card');
         const newQuestion = createQuestionCard();
@@ -176,9 +185,13 @@ function transitionToNextCard(currentQuestion) {
         }, 500);
         counterContainer.classList.remove('change-counter');
     } else {
-        counterContainer.style.transform = 'translateY(-20vh)';
-        loadingBarContainer.style.transform = 'translateY(-25vh)';
+        hideLoadingBar();
     }
+}
+
+function hideLoadingBar() {
+    counterContainer.style.transform = 'translateY(-20vh)';
+    loadingBarContainer.style.transform = 'translateY(-25vh)';
 }
 
 function paintAllButtonsExcept(targetButton, buttons, rightAnswer) {
