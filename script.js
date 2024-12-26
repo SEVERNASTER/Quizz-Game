@@ -12,10 +12,11 @@ let questions = [];
 const optionsLetters = ['a) ', 'b) ', 'c) ', 'd) '];
 const wrongColor = '#ee4b4b';
 const rightColor = '#10A37F';
-let remainingQuestions = 3;
+let remainingQuestions = 10;
 let currentCard = null;
 let currentDimensions = null;
-let time = 1;
+let intervalID = null;
+let time = 10;
 
 getQuestions();
 
@@ -44,8 +45,8 @@ function setCounterAndLoadingBar() {
 }
 
 function activeCountDown() {
-    const intervalID = setInterval(() => {
-        if (time <= 0) {
+    intervalID = setInterval(() => {
+        if (time <= 1) {
             clearInterval(intervalID);
             setInterrogationMarks(currentCard.querySelector('.question-card'), currentDimensions);
             setTimeout(() => {
@@ -53,7 +54,7 @@ function activeCountDown() {
                 transitionToNextCard(currentCard);
                 restartLoadingBar();
                 if (remainingQuestions >= 0) {
-                    time = 1;
+                    time = 10;
                     setTimeout(() => {
                         activeCountDown();
                     }, 3000);
@@ -153,6 +154,12 @@ function checkAnswer(optionsButtons, rightAnswer, currentQuestion) {
             //     time = 1;
             //     activeCountDown();
             // }, 3000);
+
+            clearInterval(intervalID);
+            time = 10;
+            setTimeout(() => {
+                activeCountDown();
+            }, 3000);
 
             restartLoadingBar();
         });
