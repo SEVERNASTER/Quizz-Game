@@ -16,7 +16,7 @@ let remainingQuestions = 10;
 let currentCard = null;
 let currentDimensions = null;
 let intervalID = null;
-let time = 10;
+let time = 1;
 
 getQuestions();
 
@@ -235,6 +235,7 @@ function setInterrogationMarks(card, dimensions) {
         posY += dimensions.height / verticalItems;
     }
     activeTransitionSVG(card);
+    currentCard.querySelector('.question-card').classList.add('unable-question');
 }
 
 function activeTransitionSVG(card) {
