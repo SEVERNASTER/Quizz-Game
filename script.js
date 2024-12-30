@@ -11,6 +11,8 @@ const body = document.querySelector('body');
 const conicGraphic = document.querySelector('.conic-graphic');
 const againBtn = document.getElementById('againBtn');
 const assertedQuestionsLabel = document.getElementById('assertedQuestions');
+const finalPhrase = document.querySelector('.final-phrase');
+const finalScreenWrapper = document.querySelector('.final-screen-wrapper');
 let questions = [];
 const optionsLetters = ['a) ', 'b) ', 'c) ', 'd) '];
 const wrongColor = '#ee4b4b';
@@ -316,6 +318,7 @@ againBtn.addEventListener('click', () => {
     let currentProgress = 0;
     let aux = 360 / 10;// 360 entre el numero de preguntas
     let i = 1;
+    let fontSize = 43;
     let progress = setInterval(() => {
         conicGraphic.style.background = `
         conic-gradient(
@@ -325,11 +328,23 @@ againBtn.addEventListener('click', () => {
         currentProgress += 1;
         if(currentProgress >= aux){
             assertedQuestionsLabel.innerText = `${i}`;
+            assertedQuestionsLabel.style.fontSize = `${fontSize}px`;
+            fontSize += 4;
             i++;
             aux += 360 / 10;//360 entre el numero de preguntas
         }
         if(currentProgress >= progressEnd + 2){// +2 para que se vea completo, hay margen de error
             clearInterval(progress);
+            assertedQuestionsLabel.style.fontSize = '40px';
+            setTimeout(() => {
+                conicGraphic.style.transform = 'translateY(0)';
+                finalPhrase.style.display = 'block';
+                setTimeout(() => {
+                    finalPhrase.style.opacity = '1';
+                    finalPhrase.style.scale = '1';
+                }, 100);
+            }, 500);
+            // finalScreenWrapper.style.display = 'none';
         }
     }, 5);
 });
