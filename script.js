@@ -8,6 +8,9 @@ const playBtn = document.getElementById('play');
 const startMenuContainer = document.querySelector('.start-menu-container');
 const startMenu = document.querySelector('.start-menu');
 const body = document.querySelector('body');
+const conicGraphic = document.querySelector('.conic-graphic');
+const againBtn = document.getElementById('againBtn');
+const assertedQuestionsLabel = document.getElementById('assertedQuestions');
 let questions = [];
 const optionsLetters = ['a) ', 'b) ', 'c) ', 'd) '];
 const wrongColor = '#ee4b4b';
@@ -16,7 +19,8 @@ let remainingQuestions = 10;
 let currentCard = null;
 let currentDimensions = null;
 let intervalID = null;
-let time = 1;
+let time = 10;
+let assertedQuestions = 7;
 
 getQuestions();
 
@@ -144,11 +148,16 @@ function checkAnswer(optionsButtons, rightAnswer, currentQuestion) {
                 'right-answer-animation' :
                 'wrong-answer-animation';
             button.classList.add(className);
-            if (className === 'right-answer-animation') confetti();
+            if (className === 'right-answer-animation') {
+                confetti();
+                assertedQuestions++;
+            }
             paintAllButtonsExcept(button, optionsButtons, rightAnswer);
             setTimeout(() => {
                 transitionToNextCard(currentQuestion);
             }, 1000);
+
+            currentQuestion.querySelector('.question-card').classList.add('unable-question-insivible');
 
             // setTimeout(() => {
             //     time = 1;
@@ -301,6 +310,29 @@ function createInterrogationSVG() {
     svg.appendChild(path);
     return svg;
 }
+
+againBtn.addEventListener('click', () => {
+    let progressEnd = 360 * (assertedQuestions / 10);
+    let currentProgress = 0;
+    let aux = 360 / 10;// 360 entre el numero de preguntas
+    let i = 1;
+    let progress = setInterval(() => {
+        conicGraphic.style.background = `
+        conic-gradient(
+            #FF33A1 0deg ${currentProgress}deg,
+            transparent ${currentProgress}deg 360deg
+        )`;
+        currentProgress += 1;
+        if(currentProgress >= aux){
+            assertedQuestionsLabel.innerText = `${i}`;
+            i++;
+            aux += 360 / 10;//360 entre el numero de preguntas
+        }
+        if(currentProgress >= progressEnd + 2){// +2 para que se vea completo, hay margen de error
+            clearInterval(progress);
+        }
+    }, 5);
+});
 
 
 
