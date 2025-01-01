@@ -13,16 +13,19 @@ const againBtn = document.getElementById('againBtn');
 const assertedQuestionsLabel = document.getElementById('assertedQuestions');
 const finalPhrase = document.querySelector('.final-phrase');
 const finalScreenWrapper = document.querySelector('.final-screen-wrapper');
+const finalScreen = document.querySelector('.final-screen');
+const fsAnimationContainer = document.querySelector('.fs-animation-container');
+const fsButtons = document.querySelectorAll('.fs-button');
 let questions = [];
 const optionsLetters = ['a) ', 'b) ', 'c) ', 'd) '];
 const wrongColor = '#ee4b4b';
 const rightColor = '#10A37F';
-let remainingQuestions = 10;
 let currentCard = null;
 let currentDimensions = null;
 let intervalID = null;
 let time = 10;
-let assertedQuestions = 7;
+let remainingQuestions = 10; 
+let assertedQuestions = 0;
 
 getQuestions();
 
@@ -91,8 +94,8 @@ function activeTransition(outtingElementContainer, outtingElement, incomingEleme
 }
 
 function createQuestionCard() {
-    // const question = questions.splice(Math.floor(Math.random() * questions.length), 1)[0];
-    const question = questions[1];
+    const question = questions.splice(Math.floor(Math.random() * questions.length), 1)[0];
+    // const question = questions[1];
     let newQuestion = document.createElement('div');
     newQuestion.className = 'question-container';
     newQuestion.innerHTML = `
@@ -204,6 +207,7 @@ function transitionToNextCard(currentQuestion) {//crea la siguiente carta de pre
         counterContainer.classList.remove('change-counter');
     } else {
         hideLoadingBar();
+        showFinalScreen();
     }
 }
 
@@ -313,41 +317,61 @@ function createInterrogationSVG() {
     return svg;
 }
 
-againBtn.addEventListener('click', () => {
-    let progressEnd = 360 * (assertedQuestions / 10);
-    let currentProgress = 0;
-    let aux = 360 / 10;// 360 entre el numero de preguntas
-    let i = 1;
-    let fontSize = 43;
-    let progress = setInterval(() => {
-        conicGraphic.style.background = `
-        conic-gradient(
-            #FF33A1 0deg ${currentProgress}deg,
-            transparent ${currentProgress}deg 360deg
-        )`;
-        currentProgress += 1;
-        if(currentProgress >= aux){
-            assertedQuestionsLabel.innerText = `${i}`;
-            assertedQuestionsLabel.style.fontSize = `${fontSize}px`;
-            fontSize += 4;
-            i++;
-            aux += 360 / 10;//360 entre el numero de preguntas
-        }
-        if(currentProgress >= progressEnd + 2){// +2 para que se vea completo, hay margen de error
-            clearInterval(progress);
-            assertedQuestionsLabel.style.fontSize = '40px';
-            setTimeout(() => {
-                conicGraphic.style.transform = 'translateY(0)';
-                finalPhrase.style.display = 'block';
+// final screen code
+
+function showFinalScreen() {
+    finalScreenWrapper.style.transform = 'translateY(0)';
+    setTimeout(() => {
+        fsAnimationContainer.style.opacity = '1';
+        let progressEnd = 360 * (assertedQuestions / 10);
+        let currentProgress = 0;
+        let aux = 360 / 10;// 360 entre el numero de preguntas
+        let i = 1;
+        let fontSize = 43;
+        let progress = setInterval(() => {
+            conicGraphic.style.background = `
+            conic-gradient(
+                #FF33A1 0deg ${currentProgress}deg,
+                transparent ${currentProgress}deg 360deg
+            )`;
+            currentProgress += 1;
+            if (currentProgress >= aux) {
+                assertedQuestionsLabel.innerText = `${i}`;
+                assertedQuestionsLabel.style.fontSize = `${fontSize}px`;
+                fontSize += 4;
+                i++;
+                aux += 360 / 10;//360 entre el numero de preguntas
+            }
+            if (currentProgress >= progressEnd + 2) {// +2 para que se vea completo, hay margen de error
+                clearInterval(progress);
+                assertedQuestionsLabel.style.fontSize = '40px';
                 setTimeout(() => {
-                    finalPhrase.style.opacity = '1';
-                    finalPhrase.style.scale = '1';
-                }, 100);
-            }, 500);
-            // finalScreenWrapper.style.display = 'none';
-        }
-    }, 5);
-});
+                    conicGraphic.style.transform = 'translateY(0)';
+                    finalPhrase.style.display = 'block';
+                    setTimeout(() => {
+                        finalPhrase.style.opacity = '1';
+                        finalPhrase.style.scale = '1';
+                        setTimeout(() => {
+                            finalScreen.classList.add('active-final-screen-animation');
+                            animateFSButtons();
+                        }, 1000);
+                    }, 100);
+                }, 500);
+                // finalScreenWrapper.style.display = 'none';
+            }
+        }, 5);
+    }, 1500);
+}
+
+function animateFSButtons(){
+    fsButtons.forEach(button => {
+        button.classList.add('active-fs-button-animation');
+        setTimeout(() => {
+            button.style.scale = '1';
+        }, 1000);
+    });
+}
+
 
 
 

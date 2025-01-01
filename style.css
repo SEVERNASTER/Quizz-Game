@@ -33,7 +33,7 @@ body {
 
 .interrogation-mark {
     transition: .5s;
-    
+
 }
 
 .interrogation-mark:hover {
@@ -128,7 +128,8 @@ body {
     transform: translateX(-18.5vw);
 }
 
-.loading-bar.reaload-loading-bar::before, .loading-bar.reaload-loading-bar::after {
+.loading-bar.reaload-loading-bar::before,
+.loading-bar.reaload-loading-bar::after {
     transition: 3s ease-in;
 }
 
@@ -420,17 +421,22 @@ body {
 
 /* Final screen code */
 
-.start-menu-container {
-    transform: translateX(-100vw);
-}
-
 .final-screen-wrapper {
+    position: absolute;
     width: 100%;
     height: 100%;
     display: flex;
     justify-content: center;
     /* background-color: #09001D; */
-    background-color: #191c31;
+    background-color: #09001d;
+    transform: translateY(100%);
+    transition: 1s ease-in-out;
+    z-index: 1;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='49' viewBox='0 0 28 49'%3E%3Cg fill-rule='evenodd'%3E%3Cg id='hexagons' fill='%23ff33a0' fill-opacity='0.4' fill-rule='nonzero'%3E%3Cpath d='M13.99 9.25l13 7.5v15l-13 7.5L1 31.75v-15l12.99-7.5zM3 17.9v12.7l10.99 6.34 11-6.35V17.9l-11-6.34L3 17.9zM0 15l12.98-7.5V0h-2v6.35L0 12.69v2.3zm0 18.5L12.98 41v8h-2v-6.85L0 35.81v-2.3zM15 0v7.5L27.99 15H28v-2.31h-.01L17 6.35V0h-2zm0 49v-8l12.99-7.5H28v2.31h-.01L17 42.15V49h-2z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+.final-screen-wrapper:hover {
+    transform: translateY(0);
 }
 
 .final-screen-container {
@@ -443,23 +449,27 @@ body {
 
 .fs-animation-container {
     overflow: hidden;
-    border: solid 3px #fff;
+    /* border: solid 3px #fff; */
     height: 70%;
     width: 95%;
     display: flex;
     justify-content: center;
     align-items: center;
     z-index: 0;
+    border-radius: 10px;
+    opacity: .7;
+    transition: .5s;
 }
 
 .final-screen {
     position: relative;
-    border: solid 3px #B2167F;
+    /* border: solid 3px #B2167F; */
     width: 97%;
     height: 97%;
     display: grid;
     grid-template-rows: 20% 60% 20%;
-    background-color: #09001D ;
+    background-color: #09001D;
+    border-radius: 10px;
     /* z-index: 10; */
 }
 
@@ -478,16 +488,23 @@ body {
     position: absolute;
     width: 400px;
     height: 400px;
-    background: linear-gradient(0deg, #fff, #fff);
+    background: linear-gradient(0deg, #FF4500, #B2167F, transparent);
     transform-origin: top left;
     top: 50%;
     left: 50%;
-    animation: rotate var(--animation-duration) linear infinite;
     z-index: -1;
+    animation: rotate var(--animation-duration) linear infinite;
+    opacity: 0;
+    transition: .5s;
 }
 
 .final-screen::after {
     animation-delay: calc(var(--animation-duration) / 2 * -1);
+}
+
+.final-screen.active-final-screen-animation::before,
+.final-screen.active-final-screen-animation::after {
+    opacity: 1;
 }
 
 @keyframes rotate {
@@ -527,10 +544,10 @@ body {
     height: 100%;
     width: 50%;
     border-radius: 50%;
-    background: conic-gradient(/*3.2 grados para que sea mas estetico*/
-        #FF33A1 0deg 0deg,
-        transparent 0deg 360deg
-    );
+    background: conic-gradient(
+            /*3.2 grados para que sea mas estetico*/
+            #FF33A1 0deg 0deg,
+            transparent 0deg 360deg);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -596,6 +613,11 @@ body {
     width: 130px;
     font-size: 15px;
     border-radius: 10px;
+    scale: 0;
+}
+
+.fs-button.active-fs-button-animation {
+    animation: appearButton 1s linear 1;
 }
 
 .fs-button:first-child {
@@ -611,5 +633,13 @@ body {
     background-color: #09001D;
     border: solid #B2167F;
     color: #B2167F;
+    animation-delay: .5s;
 }
 
+@keyframes appearButton {
+    50%{
+        scale: 1.2;
+    }100%{
+        scale: 1;
+    }
+}
