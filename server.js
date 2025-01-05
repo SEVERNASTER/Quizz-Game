@@ -12,8 +12,6 @@ app.use(express.static('public'));
 // Ruta para generar la frase final utilizando la API de Gemini
 app.get('/generar-frase', async (req, res) => {
     const API_KEY = process.env.API_KEY;  // Usar la clave API desde el archivo .env
-    // const API_KEY = 'AIzaSyBGAjtvEnvn_FQkD3qmt5UcrtiJVfNCxEk';  // Usar la clave API desde el archivo .env
-    // const genAI = new GoogleGenerativeAI(API_KEY);
     const assertedQuestions = req.query.assertedQuestions;
     const totalQuestions = req.query.totalQuestions;
     const genAI = new GoogleGenerativeAI(API_KEY);
