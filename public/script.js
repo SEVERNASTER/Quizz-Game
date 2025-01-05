@@ -5,13 +5,16 @@ let counter = document.getElementById('counter');
 const loadingBarContainer = document.getElementById('loadingBarContainer');
 const loadingBar = document.getElementById('loadingBar');
 const playBtn = document.getElementById('play');
+const playBtn2 = document.getElementById('play2');
 const startMenuContainer = document.querySelector('.start-menu-container');
 const startMenu = document.querySelector('.start-menu');
 const body = document.querySelector('body');
+const fsTitle = document.querySelector('.fs-title-container');
 const conicGraphic = document.querySelector('.conic-graphic');
 const againBtn = document.getElementById('againBtn');
 const assertedQuestionsLabel = document.getElementById('assertedQuestions');
 const finalPhrase = document.querySelector('.final-phrase');
+const finalPhraseParagraph = document.getElementById('finalPhrase');
 const finalScreenWrapper = document.querySelector('.final-screen-wrapper');
 const finalScreen = document.querySelector('.final-screen');
 const fsAnimationContainer = document.querySelector('.fs-animation-container');
@@ -23,8 +26,9 @@ const rightColor = '#10A37F';
 let currentCard = null;
 let currentDimensions = null;
 let intervalID = null;
-let time = 10;
-let remainingQuestions = 10; 
+let time = 10;// en segundos
+const totalQuestions = 10;
+let remainingQuestions = 2;
 let assertedQuestions = 0;
 
 getQuestions();
@@ -48,24 +52,28 @@ function setCounterAndLoadingBar() {
     counterContainer.style.transform = 'translateY(0)';
     loadingBarContainer.style.transform = 'translateY(0)';
     setTimeout(() => {
-        activeCountDown();
+        activeCountDown('from setCounterAndLoadingBar');
+        console.log(1);
+        
         loadingBar.classList.add('active-loading-bar');
     }, 3000);
 }
 
-function activeCountDown() {
+// ERROR BUG FIX IT
+function activeCountDown(whereFrom) {
+    console.log(whereFrom);
     intervalID = setInterval(() => {
-        if (time <= 1) {
+        if (time < 1) {
             clearInterval(intervalID);
             setInterrogationMarks(currentCard.querySelector('.question-card'), currentDimensions);
             setTimeout(() => {
                 console.log('preguntas restantes: ', remainingQuestions);
                 transitionToNextCard(currentCard);
                 restartLoadingBar();
-                if (remainingQuestions >= 0) {
+                if (remainingQuestions > 0) {
                     time = 10;
                     setTimeout(() => {
-                        activeCountDown();
+                        activeCountDown(whereFrom);
                     }, 3000);
                 }
             }, 2000);
@@ -94,8 +102,8 @@ function activeTransition(outtingElementContainer, outtingElement, incomingEleme
 }
 
 function createQuestionCard() {
-    const question = questions.splice(Math.floor(Math.random() * questions.length), 1)[0];
-    // const question = questions[1];
+    // const question = questions.splice(Math.floor(Math.random() * questions.length), 1)[0];
+    const question = questions[1];
     let newQuestion = document.createElement('div');
     newQuestion.className = 'question-container';
     newQuestion.innerHTML = `
@@ -171,9 +179,11 @@ function checkAnswer(optionsButtons, rightAnswer, currentQuestion) {
 
             clearInterval(intervalID);
             time = 10;
-            setTimeout(() => {
-                activeCountDown();
-            }, 3000);
+            if(remainingQuestions > 0) {
+                setTimeout(() => {
+                    activeCountDown('from checkAnswer');
+                }, 3000);
+            }
 
             restartLoadingBar();
         });
@@ -206,6 +216,8 @@ function transitionToNextCard(currentQuestion) {//crea la siguiente carta de pre
         }, 500);
         counterContainer.classList.remove('change-counter');
     } else {
+        clearInterval(intervalID);
+        generateFinalPhrase();
         hideLoadingBar();
         showFinalScreen();
     }
@@ -320,50 +332,60 @@ function createInterrogationSVG() {
 // final screen code
 
 function showFinalScreen() {
+    let timeout = 800;
+    if(assertedQuestions < 3){
+        timeout = 1500;
+    }else if(assertedQuestions < 5){
+        timeout = 1000;
+    }
     finalScreenWrapper.style.transform = 'translateY(0)';
     setTimeout(() => {
         fsAnimationContainer.style.opacity = '1';
-        let progressEnd = 360 * (assertedQuestions / 10);
-        let currentProgress = 0;
-        let aux = 360 / 10;// 360 entre el numero de preguntas
-        let i = 1;
-        let fontSize = 43;
-        let progress = setInterval(() => {
-            conicGraphic.style.background = `
-            conic-gradient(
-                #FF33A1 0deg ${currentProgress}deg,
-                transparent ${currentProgress}deg 360deg
-            )`;
-            currentProgress += 1;
-            if (currentProgress >= aux) {
-                assertedQuestionsLabel.innerText = `${i}`;
-                assertedQuestionsLabel.style.fontSize = `${fontSize}px`;
-                fontSize += 4;
-                i++;
-                aux += 360 / 10;//360 entre el numero de preguntas
-            }
-            if (currentProgress >= progressEnd + 2) {// +2 para que se vea completo, hay margen de error
-                clearInterval(progress);
-                assertedQuestionsLabel.style.fontSize = '40px';
-                setTimeout(() => {
-                    conicGraphic.style.transform = 'translateY(0)';
-                    finalPhrase.style.display = 'block';
+        fsAnimationContainer.style.scale = '1';
+        setTimeout(() => {
+            let progressEnd = 360 * (assertedQuestions / 10);
+            let currentProgress = 0;
+            let aux = 360 / 10;// 360 entre el numero de preguntas
+            let i = 1;
+            let fontSize = 43;
+            let progress = setInterval(() => {
+                conicGraphic.style.background = `
+                conic-gradient(
+                    #FF33A1 0deg ${currentProgress}deg,
+                    transparent ${currentProgress}deg 360deg
+                )`;
+                currentProgress += 1;
+                if (currentProgress >= aux) {
+                    assertedQuestionsLabel.innerText = `${i}`;
+                    assertedQuestionsLabel.style.fontSize = `${fontSize}px`;
+                    fontSize += 4;
+                    i++;
+                    aux += 360 / 10;//360 entre el numero de preguntas
+                }
+                if (currentProgress >= progressEnd + 2) {// +2 para que se vea completo, hay margen de error
+                    clearInterval(progress);
+                    assertedQuestionsLabel.style.fontSize = '40px';
                     setTimeout(() => {
-                        finalPhrase.style.opacity = '1';
-                        finalPhrase.style.scale = '1';
+                        fsTitle.style.transform = 'translateY(0)';
+                        conicGraphic.style.transform = 'translateY(0)';
+                        finalPhrase.style.display = 'block';
                         setTimeout(() => {
-                            finalScreen.classList.add('active-final-screen-animation');
-                            animateFSButtons();
-                        }, 1000);
-                    }, 100);
-                }, 500);
-                // finalScreenWrapper.style.display = 'none';
-            }
-        }, 5);
-    }, 1500);
+                            finalPhrase.style.opacity = '1';
+                            finalPhrase.style.scale = '1';
+                            setTimeout(() => {
+                                finalScreen.classList.add('active-final-screen-animation');
+                                animateFSButtons();
+                            }, 1000);
+                        }, 100);
+                    }, 500);
+                    // finalScreenWrapper.style.display = 'none';
+                }
+            }, 5);
+        }, 250);
+    }, timeout);
 }
 
-function animateFSButtons(){
+function animateFSButtons() {
     fsButtons.forEach(button => {
         button.classList.add('active-fs-button-animation');
         setTimeout(() => {
@@ -371,6 +393,44 @@ function animateFSButtons(){
         }, 1000);
     });
 }
+
+
+
+playBtn2.addEventListener('click', async function () {
+    try {
+        const response = await fetch('/generar-frase?assertedQuestions=${assertedQuestions}&totalQuestions=${totalQuestions}');
+        const data = await response.text();
+        console.log('Frase generada:', data);
+    } catch (error) {
+        console.error('Error al obtener la frase:', error);
+    }
+});
+
+againBtn.addEventListener('click', async () => {
+    clearInterval(intervalID);
+    showFinalScreen();
+    try {
+        const response = await fetch(`/generar-frase?assertedQuestions=${assertedQuestions}&totalQuestions=${totalQuestions}`);
+        const generatedPhrase = await response.text();
+        finalPhrase.textContent = generatedPhrase;
+        // console.log('Frase generada:', data);
+    } catch (error) {
+        console.error('Error al obtener la frase:', error);
+    }
+})
+
+async function generateFinalPhrase() {
+    try {
+        const response = await fetch(`/generar-frase?assertedQuestions=${assertedQuestions}&totalQuestions=${totalQuestions}`);
+        const generatedPhrase = await response.text();
+        finalPhrase.textContent = generatedPhrase;
+        // console.log('Frase generada:', data);
+    } catch (error) {
+        console.error('Error al obtener la frase:', error);
+    }
+}
+
+
 
 
 
