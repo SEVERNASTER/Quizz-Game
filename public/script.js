@@ -419,16 +419,26 @@ againBtn.addEventListener('click', async () => {
     }
 })
 
+// async function generateFinalPhrase() {
+//     try {
+//         const response = await fetch(`/generar-frase?assertedQuestions=${assertedQuestions}&totalQuestions=${totalQuestions}`);
+//         const generatedPhrase = await response.text();
+//         finalPhrase.textContent = generatedPhrase;
+//     } catch (error) {
+//         console.error('Error al obtener la frase:', error);
+//     }
+// }
+
 async function generateFinalPhrase() {
     try {
-        const response = await fetch(`/generar-frase?assertedQuestions=${assertedQuestions}&totalQuestions=${totalQuestions}`);
+        const response = await fetch(`/api/generate-phrase?assertedQuestions=${assertedQuestions}&totalQuestions=${totalQuestions}`);
         const generatedPhrase = await response.text();
         finalPhrase.textContent = generatedPhrase;
-        // console.log('Frase generada:', data);
     } catch (error) {
         console.error('Error al obtener la frase:', error);
     }
 }
+
 
 
 
