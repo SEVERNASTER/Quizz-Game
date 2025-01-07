@@ -128,6 +128,7 @@ body {
     transform: translateX(-18.5vw);
 }
 
+/* solamente transition porque asi vuelve a su posicion original */
 .loading-bar.reaload-loading-bar::before,
 .loading-bar.reaload-loading-bar::after {
     transition: 3s ease-in;
@@ -516,8 +517,8 @@ body {
     justify-content: center;
     align-items: center;
     font-size: 30px;
-    transform: translateY(80%);
     transition: 1s;
+    transform: translateY(80%);
 }
 
 
@@ -615,6 +616,7 @@ body {
     font-size: 15px;
     border-radius: 10px;
     scale: 0;
+    cursor: pointer;
 }
 
 .fs-button.active-fs-button-animation {

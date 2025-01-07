@@ -2,6 +2,7 @@
 
 const counterContainer = document.getElementById('counterContainer');
 let counter = document.getElementById('counter');
+let totalQuestionsLabel = document.getElementById('gameTotalQuestions');
 const loadingBarContainer = document.getElementById('loadingBarContainer');
 const loadingBar = document.getElementById('loadingBar');
 const playBtn = document.getElementById('play');
@@ -11,14 +12,16 @@ const startMenu = document.querySelector('.start-menu');
 const body = document.querySelector('body');
 const fsTitle = document.querySelector('.fs-title-container');
 const conicGraphic = document.querySelector('.conic-graphic');
-const againBtn = document.getElementById('againBtn');
-const assertedQuestionsLabel = document.getElementById('assertedQuestions');
+const fsAssertedQuestions = document.getElementById('fsAssertedQuestions');
+const fsTotalQuestions = document.getElementById('fsTotalQuestions');
 const finalPhrase = document.querySelector('.final-phrase');
 const finalPhraseParagraph = document.getElementById('finalPhrase');
 const finalScreenWrapper = document.querySelector('.final-screen-wrapper');
 const finalScreen = document.querySelector('.final-screen');
 const fsAnimationContainer = document.querySelector('.fs-animation-container');
 const fsButtons = document.querySelectorAll('.fs-button');
+const againBtn = document.getElementById('againBtn');
+const fsMenuBtn = document.getElementById('fsMenuBtn');
 let questions = [];
 const optionsLetters = ['a) ', 'b) ', 'c) ', 'd) '];
 const wrongColor = '#ee4b4b';
@@ -42,29 +45,30 @@ async function getQuestions() {
 
 playBtn.addEventListener('click', () => {
     setCounterAndLoadingBar();
+    restartLoadingBar();
     const questionContainer = createQuestionCard();
-    // questionContainer.style.display = 'flex';
     const questionCard = questionContainer.querySelector('.question-card');
     activeTransition(startMenuContainer, startMenu, questionContainer, questionCard);
+    setTimeout(() => {
+        activeCountDown();
+    }, 3000);
 });
 
 function setCounterAndLoadingBar() {
     counterContainer.style.transform = 'translateY(0)';
     loadingBarContainer.style.transform = 'translateY(0)';
-    setTimeout(() => {
-        activeCountDown('from setCounterAndLoadingBar');
-        console.log(1);
-        
-        loadingBar.classList.add('active-loading-bar');
-    }, 3000);
+    totalQuestionsLabel.innerText = `${totalQuestions}`;
+    // setTimeout(() => {
+    //     loadingBar.classList.add('active-loading-bar');
+    // }, 3000);
 }
 
 // ERROR BUG FIX IT
-function activeCountDown(whereFrom) {
-    console.log(whereFrom);
+function activeCountDown() {
     intervalID = setInterval(() => {
         if (time < 1) {
             clearInterval(intervalID);
+
             setInterrogationMarks(currentCard.querySelector('.question-card'), currentDimensions);
             setTimeout(() => {
                 console.log('preguntas restantes: ', remainingQuestions);
@@ -73,7 +77,7 @@ function activeCountDown(whereFrom) {
                 if (remainingQuestions > 0) {
                     time = 10;
                     setTimeout(() => {
-                        activeCountDown(whereFrom);
+                        activeCountDown();
                     }, 3000);
                 }
             }, 2000);
@@ -98,6 +102,9 @@ function activeTransition(outtingElementContainer, outtingElement, incomingEleme
 
     setTimeout(() => {
         outtingElementContainer.style.display = 'none';
+        outtingElementContainer.style.transform = 'translateX(0)';
+        outtingElement.style.scale = '1';
+        outtingElementContainer.style.position = 'static';
     }, 3000);
 }
 
@@ -179,9 +186,9 @@ function checkAnswer(optionsButtons, rightAnswer, currentQuestion) {
 
             clearInterval(intervalID);
             time = 10;
-            if(remainingQuestions > 0) {
+            if (remainingQuestions > 0) {
                 setTimeout(() => {
-                    activeCountDown('from checkAnswer');
+                    activeCountDown();
                 }, 3000);
             }
 
@@ -217,7 +224,7 @@ function transitionToNextCard(currentQuestion) {//crea la siguiente carta de pre
         counterContainer.classList.remove('change-counter');
     } else {
         clearInterval(intervalID);
-        generateFinalPhrase();
+        // generateFinalPhrase();
         hideLoadingBar();
         showFinalScreen();
     }
@@ -226,6 +233,10 @@ function transitionToNextCard(currentQuestion) {//crea la siguiente carta de pre
 function hideLoadingBar() {
     counterContainer.style.transform = 'translateY(-20vh)';
     loadingBarContainer.style.transform = 'translateY(-25vh)';
+    // loadingBar.classList.remove('active-loading-bar');
+    // loadingBar.classList.add('reaload-loading-bar');
+    // setTimeout(() => {
+    // }, 1000);
 }
 
 function paintAllButtonsExcept(targetButton, buttons, rightAnswer) {
@@ -333,38 +344,41 @@ function createInterrogationSVG() {
 
 function showFinalScreen() {
     let timeout = 800;
-    if(assertedQuestions < 3){
+    if (assertedQuestions < 3) {
         timeout = 1500;
-    }else if(assertedQuestions < 5){
+    } else if (assertedQuestions < 5) {
         timeout = 1000;
     }
+
+    fsTotalQuestions.innerText = `${totalQuestions}`;
+    fsAssertedQuestions.innerText = '0';
     finalScreenWrapper.style.transform = 'translateY(0)';
     setTimeout(() => {
-        fsAnimationContainer.style.opacity = '1';
         fsAnimationContainer.style.scale = '1';
+        fsAnimationContainer.style.opacity = '1';
         setTimeout(() => {
-            let progressEnd = 360 * (assertedQuestions / 10);
+            let progressEnd = 360 * (assertedQuestions / totalQuestions);
             let currentProgress = 0;
-            let aux = 360 / 10;// 360 entre el numero de preguntas
+            let aux = 360 / totalQuestions;// 360 entre el numero de preguntas
             let i = 1;
             let fontSize = 43;
             let progress = setInterval(() => {
                 conicGraphic.style.background = `
-                conic-gradient(
-                    #FF33A1 0deg ${currentProgress}deg,
-                    transparent ${currentProgress}deg 360deg
-                )`;
+                    conic-gradient(
+                        #FF33A1 0deg ${currentProgress}deg,
+                        transparent ${currentProgress}deg 360deg
+                    )`;
                 currentProgress += 1;
                 if (currentProgress >= aux) {
-                    assertedQuestionsLabel.innerText = `${i}`;
-                    assertedQuestionsLabel.style.fontSize = `${fontSize}px`;
+                    fsAssertedQuestions.innerText = `${i}`;
+                    fsAssertedQuestions.style.fontSize = `${fontSize}px`;
                     fontSize += 4;
                     i++;
-                    aux += 360 / 10;//360 entre el numero de preguntas
+                    aux += 360 / totalQuestions;//360 entre el numero de preguntas
                 }
                 if (currentProgress >= progressEnd + 2) {// +2 para que se vea completo, hay margen de error
                     clearInterval(progress);
-                    assertedQuestionsLabel.style.fontSize = '40px';
+                    fsAssertedQuestions.style.fontSize = '40px';
                     setTimeout(() => {
                         fsTitle.style.transform = 'translateY(0)';
                         conicGraphic.style.transform = 'translateY(0)';
@@ -381,7 +395,7 @@ function showFinalScreen() {
                     // finalScreenWrapper.style.display = 'none';
                 }
             }, 5);
-        }, 250);
+        }, 700);
     }, timeout);
 }
 
@@ -417,7 +431,7 @@ againBtn.addEventListener('click', async () => {
     } catch (error) {
         console.error('Error al obtener la frase:', error);
     }
-})
+});
 
 // async function generateFinalPhrase() {
 //     try {
@@ -437,6 +451,42 @@ async function generateFinalPhrase() {
     } catch (error) {
         console.error('Error al obtener la frase:', error);
     }
+}
+
+
+// Final Screen buttons code
+
+fsMenuBtn.addEventListener('click', () => {
+    finalScreenWrapper.style.transform = 'translateY(-100%)';
+    setTimeout(() => {
+        finalScreenWrapper.style.transition = 'none';
+        finalScreenWrapper.style.transform = 'translateY(100%)';
+        fsAnimationContainer.style.opacity = '0';
+        fsAnimationContainer.style.scale = '.5';
+        fsAssertedQuestions.innerText = '0';
+        conicGraphic.style.background = `
+                conic-gradient(
+                    #FF33A1 0deg 0deg,
+                    transparent 0deg 360deg)`;
+        fsTitle.style.transform = 'translateY(80%)';
+        conicGraphic.style.transform = 'translateY(30%)';
+        setTimeout(() => {
+            finalScreenWrapper.style.transition = '1s ease-in-out';
+        }, 100);
+    }, 1000);
+    currentCard.style.display = 'none';
+    startMenuContainer.style.display = 'flex';
+    restartGameVariables();
+});
+
+function restartGameVariables() {
+    remainingQuestions = 1;
+    time = 10;
+    currentCard = null;
+    currentDimensions = null;
+    intervalID = null;
+    assertedQuestions = 0;
+    counter.innerHTML = '1';
 }
 
 

@@ -19,7 +19,7 @@
 
 <body>
     <div class="counter-container" id="counterContainer">
-        <h2><span id="counter">1</span> / 10</h2>
+        <h2><span id="counter">1</span> / <span id="gameTotalQuestions">10</span></h2>
     </div>
 
     <div class="loading-bar-container" id="loadingBarContainer">
@@ -57,7 +57,7 @@
                     <div class="fs-main-content">
                         <div class="conic-graphic-container">
                             <div class="conic-graphic">
-                                <h3 class="conic-graphic-label"><span id="assertedQuestions">0</span>/10</h3>
+                                <h3 class="conic-graphic-label"><span id="fsAssertedQuestions"></span>/<span id="fsTotalQuestions"></span></h3>
                             </div>
                         </div>
                         <p class="final-phrase"></p>
@@ -65,7 +65,7 @@
 
                     <div class="fs-buttons-container">
                         <button class="fs-button" id="againBtn">Otra vez</button>
-                        <button class="fs-button">Menu</button>
+                        <button class="fs-button" id="fsMenuBtn">Menu</button>
                     </div>
                 </div>
             </div>
