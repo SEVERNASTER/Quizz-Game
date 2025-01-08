@@ -31,7 +31,7 @@ let currentDimensions = null;
 let intervalID = null;
 let time = 10;// en segundos
 const totalQuestions = 10;
-let remainingQuestions = 2;
+let remainingQuestions = 1;
 let assertedQuestions = 0;
 
 getQuestions();
@@ -43,16 +43,7 @@ async function getQuestions() {
 }
 
 
-playBtn.addEventListener('click', () => {
-    setCounterAndLoadingBar();
-    restartLoadingBar();
-    const questionContainer = createQuestionCard();
-    const questionCard = questionContainer.querySelector('.question-card');
-    activeTransition(startMenuContainer, startMenu, questionContainer, questionCard);
-    setTimeout(() => {
-        activeCountDown();
-    }, 3000);
-});
+
 
 function setCounterAndLoadingBar() {
     counterContainer.style.transform = 'translateY(0)';
@@ -420,17 +411,36 @@ playBtn2.addEventListener('click', async function () {
     }
 });
 
-againBtn.addEventListener('click', async () => {
-    clearInterval(intervalID);
-    showFinalScreen();
-    try {
-        const response = await fetch(`/generar-frase?assertedQuestions=${assertedQuestions}&totalQuestions=${totalQuestions}`);
-        const generatedPhrase = await response.text();
-        finalPhrase.textContent = generatedPhrase;
-        // console.log('Frase generada:', data);
-    } catch (error) {
-        console.error('Error al obtener la frase:', error);
-    }
+playBtn.addEventListener('click', () => {
+    setCounterAndLoadingBar();
+    restartLoadingBar();
+    const questionContainer = createQuestionCard();
+    const questionCard = questionContainer.querySelector('.question-card');
+    activeTransition(startMenuContainer, startMenu, questionContainer, questionCard);
+    setTimeout(() => {
+        activeCountDown();
+    }, 3000);
+});
+
+// Again button code
+
+againBtn.addEventListener('click', () => {
+    const lasCardQuestion = currentCard;
+    restartGameVariables();
+    setTimeout(() => {//para dar tiempo a que se hagan los cambios en las variables
+        finalScreenWrapper.style.transform = 'translateY(-100%)';
+        setTimeout(() => {
+            setCounterAndLoadingBar();
+            restartLoadingBar();
+            const questionContainer = createQuestionCard();
+            const questionCard = questionContainer.querySelector('.question-card');
+            activeTransition(lasCardQuestion, lasCardQuestion.querySelector('.question-card'), questionContainer, questionCard);
+            setTimeout(() => {
+                restartFinalScreen();
+                activeCountDown();
+            }, 3000);
+        }, 500);
+    }, 100);
 });
 
 // async function generateFinalPhrase() {
@@ -457,6 +467,13 @@ async function generateFinalPhrase() {
 // Final Screen buttons code
 
 fsMenuBtn.addEventListener('click', () => {
+    restartFinalScreen();
+    currentCard.style.display = 'none';
+    startMenuContainer.style.display = 'flex';
+    restartGameVariables();
+});
+
+function restartFinalScreen(){
     finalScreenWrapper.style.transform = 'translateY(-100%)';
     setTimeout(() => {
         finalScreenWrapper.style.transition = 'none';
@@ -474,13 +491,10 @@ fsMenuBtn.addEventListener('click', () => {
             finalScreenWrapper.style.transition = '1s ease-in-out';
         }, 100);
     }, 1000);
-    currentCard.style.display = 'none';
-    startMenuContainer.style.display = 'flex';
-    restartGameVariables();
-});
+}
 
 function restartGameVariables() {
-    remainingQuestions = 1;
+    remainingQuestions = 3;
     time = 10;
     currentCard = null;
     currentDimensions = null;
