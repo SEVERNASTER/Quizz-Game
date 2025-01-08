@@ -9,6 +9,7 @@ const playBtn = document.getElementById('play');
 const playBtn2 = document.getElementById('play2');
 const startMenuContainer = document.querySelector('.start-menu-container');
 const startMenu = document.querySelector('.start-menu');
+const smFlipContainer = document.querySelector('.start-menu-flip-container');
 const body = document.querySelector('body');
 const fsTitle = document.querySelector('.fs-title-container');
 const conicGraphic = document.querySelector('.conic-graphic');
@@ -42,7 +43,16 @@ async function getQuestions() {
         .then(response => questions = response);
 }
 
-
+playBtn.addEventListener('click', () => {
+    setCounterAndLoadingBar();
+    restartLoadingBar();
+    const questionContainer = createQuestionCard();
+    const questionCard = questionContainer.querySelector('.question-card');
+    activeTransition(startMenuContainer, startMenu, questionContainer, questionCard);
+    setTimeout(() => {
+        activeCountDown();
+    }, 3000);
+});
 
 
 function setCounterAndLoadingBar() {
@@ -402,25 +412,10 @@ function animateFSButtons() {
 
 
 playBtn2.addEventListener('click', async function () {
-    try {
-        const response = await fetch('/generar-frase?assertedQuestions=${assertedQuestions}&totalQuestions=${totalQuestions}');
-        const data = await response.text();
-        console.log('Frase generada:', data);
-    } catch (error) {
-        console.error('Error al obtener la frase:', error);
-    }
+    smFlipContainer.classList.add('flip');
 });
 
-playBtn.addEventListener('click', () => {
-    setCounterAndLoadingBar();
-    restartLoadingBar();
-    const questionContainer = createQuestionCard();
-    const questionCard = questionContainer.querySelector('.question-card');
-    activeTransition(startMenuContainer, startMenu, questionContainer, questionCard);
-    setTimeout(() => {
-        activeCountDown();
-    }, 3000);
-});
+
 
 // Again button code
 
