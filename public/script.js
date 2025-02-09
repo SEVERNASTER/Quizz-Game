@@ -32,7 +32,7 @@ let currentDimensions = null;
 let intervalID = null;
 let time = 10;// en segundos
 const totalQuestions = 10;
-let remainingQuestions = 1;
+let remainingQuestions = 3;
 let assertedQuestions = 0;
 
 getQuestions();
@@ -110,8 +110,8 @@ function activeTransition(outtingElementContainer, outtingElement, incomingEleme
 }
 
 function createQuestionCard() {
-    // const question = questions.splice(Math.floor(Math.random() * questions.length), 1)[0];
-    const question = questions[1];
+    const question = questions.splice(Math.floor(Math.random() * questions.length), 1)[0];
+    // const question = questions[1];
     let newQuestion = document.createElement('div');
     newQuestion.className = 'question-container';
     newQuestion.innerHTML = `
@@ -225,7 +225,7 @@ function transitionToNextCard(currentQuestion) {//crea la siguiente carta de pre
         counterContainer.classList.remove('change-counter');
     } else {
         clearInterval(intervalID);
-        // generateFinalPhrase();
+        generateFinalPhrase();
         hideLoadingBar();
         showFinalScreen();
     }
@@ -453,6 +453,7 @@ async function generateFinalPhrase() {
         const response = await fetch(`/api/generate-phrase?assertedQuestions=${assertedQuestions}&totalQuestions=${totalQuestions}`);
         const generatedPhrase = await response.text();
         finalPhrase.textContent = generatedPhrase;
+        console.log(generatedPhrase);
     } catch (error) {
         console.error('Error al obtener la frase:', error);
     }

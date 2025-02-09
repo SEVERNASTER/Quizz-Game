@@ -10,7 +10,7 @@ const port = process.env.port || 3000;
 app.use(express.static('public'));
 
 // Ruta para generar la frase final utilizando la API de Gemini
-app.get('/generar-frase', async (req, res) => {
+app.get('/generate-phrase', async (req, res) => {
     const API_KEY = process.env.API_KEY;  // Usar la clave API desde el archivo .env
     const assertedQuestions = req.query.assertedQuestions;
     const totalQuestions = req.query.totalQuestions;
@@ -19,12 +19,12 @@ app.get('/generar-frase', async (req, res) => {
     const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
     const prompt = `Genera una frase sarcástica y humorística basada en el hecho de que el usuario respondió correctamente ${assertedQuestions} de ${totalQuestions} preguntas en un cuestionario. Haz mofa de su puntaje si este fue bajo o di algo ingenioso y divertido si fue alto. Evita frases genéricas como 'sigue así' y apunta a un tono irónico, ingenioso y sarcastico, puedes incluir emojis.`;
-
     try {
         const result = await model.generateContent(prompt);
         // console.log(result);
         // res.send(result.contents[0].parts[0].text);
         res.send(result.response.candidates[0].content.parts[0].text);
+        
     } catch (error) {
         res.status(500).send('Error al generar la frase: ' + error.message);
     }

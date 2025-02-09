@@ -2,7 +2,7 @@ const { GoogleGenerativeAI } = require('@google/generative-ai');
 require('dotenv').config();  // Cargar las variables de entorno
 
 module.exports = async (req, res) => {
-    const API_KEY = process.env.API_KEY;  // Usar la clave API desde el archivo .env
+    const API_KEY = process.env.API_KEY;
     const { assertedQuestions, totalQuestions } = req.query;
 
     const genAI = new GoogleGenerativeAI(API_KEY);
