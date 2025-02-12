@@ -1,0 +1,1012 @@
+[
+    {
+        "question": "¿Qué es la encapsulación en Java?",
+        "options": [
+            "El proceso de ocultar los detalles de implementación y mostrar solo la funcionalidad",
+            "El proceso de crear nuevos objetos",
+            "Una forma de crear métodos",
+            "Un tipo de bucle en Java"
+        ],
+        "answer": "El proceso de ocultar los detalles de implementación y mostrar solo la funcionalidad"
+    },
+    {
+        "question": "¿Qué palabra clave se utiliza para heredar una clase en Java?",
+        "options": [
+            "extends",
+            "implements",
+            "inherits",
+            "using"
+        ],
+        "answer": "extends"
+    },
+    {
+        "question": "¿Qué es un constructor en Java?",
+        "options": [
+            "Un método especial que se llama automáticamente cuando se crea un objeto",
+            "Una variable que almacena valores",
+            "Un tipo de bucle",
+            "Una clase abstracta"
+        ],
+        "answer": "Un método especial que se llama automáticamente cuando se crea un objeto"
+    },
+    {
+        "question": "¿Qué significa que un método sea 'static' en Java?",
+        "options": [
+            "Que puede ser llamado sin crear una instancia de la clase",
+            "Que solo puede ser usado una vez",
+            "Que no puede ser modificado",
+            "Que es privado"
+        ],
+        "answer": "Que puede ser llamado sin crear una instancia de la clase"
+    },
+    {
+        "question": "¿Qué es el polimorfismo en POO?",
+        "options": [
+            "La capacidad de un objeto de tomar diferentes formas",
+            "La capacidad de crear objetos",
+            "Un tipo de variable",
+            "Un método constructor"
+        ],
+        "answer": "La capacidad de un objeto de tomar diferentes formas"
+    },
+    {
+        "question": "¿Qué es una interfaz en Java?",
+        "options": [
+            "Una colección de métodos abstractos y constantes",
+            "Una clase que no puede ser instanciada",
+            "Un tipo de variable",
+            "Un método constructor"
+        ],
+        "answer": "Una colección de métodos abstractos y constantes"
+    },
+    {
+        "question": "¿Qué significa la palabra clave 'final' en Java cuando se aplica a una clase?",
+        "options": [
+            "La clase no puede ser heredada",
+            "La clase no puede ser modificada",
+            "La clase debe ser heredada",
+            "La clase es abstracta"
+        ],
+        "answer": "La clase no puede ser heredada"
+    },
+    {
+        "question": "¿Qué es una excepción en Java?",
+        "options": [
+            "Un evento que ocurre durante la ejecución que interrumpe el flujo normal",
+            "Un tipo de variable",
+            "Un método especial",
+            "Una clase abstracta"
+        ],
+        "answer": "Un evento que ocurre durante la ejecución que interrumpe el flujo normal"
+    },
+    {
+        "question": "¿Qué es el garbage collector en Java?",
+        "options": [
+            "Un proceso que libera memoria eliminando objetos no utilizados",
+            "Una clase para manejar archivos",
+            "Un tipo de variable",
+            "Un método de ordenamiento"
+        ],
+        "answer": "Un proceso que libera memoria eliminando objetos no utilizados"
+    },
+    {
+        "question": "¿Qué es una clase abstracta en Java?",
+        "options": [
+            "Una clase que no puede ser instanciada y puede tener métodos abstractos",
+            "Una clase que solo contiene métodos",
+            "Una clase que no puede tener métodos",
+            "Una clase que solo puede tener variables"
+        ],
+        "answer": "Una clase que no puede ser instanciada y puede tener métodos abstractos"
+    },
+    {
+        "question": "¿Qué es la sobrecarga de métodos en Java?",
+        "options": [
+            "Definir múltiples métodos con el mismo nombre pero diferentes parámetros",
+            "Crear un método dentro de otro método",
+            "Heredar métodos de una clase padre",
+            "Llamar a un método recursivamente"
+        ],
+        "answer": "Definir múltiples métodos con el mismo nombre pero diferentes parámetros"
+    },
+    {
+        "question": "¿Qué es un paquete en Java?",
+        "options": [
+            "Un mecanismo para organizar clases relacionadas",
+            "Un tipo de variable",
+            "Un método especial",
+            "Una clase abstracta"
+        ],
+        "answer": "Un mecanismo para organizar clases relacionadas"
+    },
+    {
+        "question": "¿Qué es el método toString() en Java?",
+        "options": [
+            "Un método que devuelve una representación en cadena del objeto",
+            "Un método para convertir números a texto",
+            "Un método para concatenar strings",
+            "Un método constructor"
+        ],
+        "answer": "Un método que devuelve una representación en cadena del objeto"
+    },
+    {
+        "question": "¿Qué es una colección en Java?",
+        "options": [
+            "Un framework que proporciona arquitectura para almacenar y manipular objetos",
+            "Un tipo de variable",
+            "Una clase abstracta",
+            "Un método especial"
+        ],
+        "answer": "Un framework que proporciona arquitectura para almacenar y manipular objetos"
+    },
+    {
+        "question": "¿Qué es un ArrayList en Java?",
+        "options": [
+            "Una implementación de lista redimensionable",
+            "Un tipo de bucle",
+            "Una clase abstracta",
+            "Un método constructor"
+        ],
+        "answer": "Una implementación de lista redimensionable"
+    },
+    {
+        "question": "¿Qué es la serialización en Java?",
+        "options": [
+            "El proceso de convertir un objeto en una secuencia de bytes",
+            "Un tipo de variable",
+            "Un método especial",
+            "Una clase abstracta"
+        ],
+        "answer": "El proceso de convertir un objeto en una secuencia de bytes"
+    },
+    {
+        "question": "¿Qué es un método getter en Java?",
+        "options": [
+            "Un método que devuelve el valor de una variable privada",
+            "Un método que modifica una variable",
+            "Un método constructor",
+            "Un método abstracto"
+        ],
+        "answer": "Un método que devuelve el valor de una variable privada"
+    },
+    {
+        "question": "¿Qué es un método setter en Java?",
+        "options": [
+            "Un método que modifica el valor de una variable privada",
+            "Un método que devuelve un valor",
+            "Un método constructor",
+            "Un método abstracto"
+        ],
+        "answer": "Un método que modifica el valor de una variable privada"
+    },
+    {
+        "question": "¿Qué es una variable de instancia en Java?",
+        "options": [
+            "Una variable declarada dentro de una clase pero fuera de cualquier método",
+            "Una variable declarada dentro de un método",
+            "Una variable estática",
+            "Una constante"
+        ],
+        "answer": "Una variable declarada dentro de una clase pero fuera de cualquier método"
+    },
+    {
+        "question": "¿Qué es un constructor por defecto en Java?",
+        "options": [
+            "Un constructor sin parámetros creado automáticamente si no se define ningún constructor",
+            "Un constructor con parámetros",
+            "Un método normal",
+            "Una variable especial"
+        ],
+        "answer": "Un constructor sin parámetros creado automáticamente si no se define ningún constructor"
+    },
+    {
+        "question": "¿Qué es la herencia múltiple en Java?",
+        "options": [
+            "No está permitida en Java con clases",
+            "Es cuando una clase hereda de múltiples clases",
+            "Es un tipo de polimorfismo",
+            "Es una característica de las interfaces"
+        ],
+        "answer": "No está permitida en Java con clases"
+    },
+    {
+        "question": "¿Qué es una variable estática en Java?",
+        "options": [
+            "Una variable que pertenece a la clase y no a instancias específicas",
+            "Una variable que no puede cambiar",
+            "Una variable local",
+            "Una variable de instancia"
+        ],
+        "answer": "Una variable que pertenece a la clase y no a instancias específicas"
+    },
+    {
+        "question": "¿Qué es el método main en Java?",
+        "options": [
+            "El punto de entrada de un programa Java",
+            "Un método constructor",
+            "Un método getter",
+            "Un método setter"
+        ],
+        "answer": "El punto de entrada de un programa Java"
+    },
+    {
+        "question": "¿Qué es un bloque try-catch en Java?",
+        "options": [
+            "Un mecanismo para manejar excepciones",
+            "Un tipo de bucle",
+            "Una estructura de control",
+            "Un método especial"
+        ],
+        "answer": "Un mecanismo para manejar excepciones"
+    },
+    {
+        "question": "¿Qué es la palabra clave 'this' en Java?",
+        "options": [
+            "Una referencia al objeto actual",
+            "Una referencia a la clase padre",
+            "Una variable global",
+            "Un método especial"
+        ],
+        "answer": "Una referencia al objeto actual"
+    },
+    {
+        "question": "¿Qué es un método abstracto en Java?",
+        "options": [
+            "Un método declarado sin implementación",
+            "Un método privado",
+            "Un método estático",
+            "Un método final"
+        ],
+        "answer": "Un método declarado sin implementación"
+    },
+    {
+        "question": "¿Qué es el principio de cohesión en POO?",
+        "options": [
+            "El grado en que los elementos de un módulo permanecen juntos",
+            "La capacidad de heredar propiedades",
+            "El proceso de crear objetos",
+            "Un tipo de polimorfismo"
+        ],
+        "answer": "El grado en que los elementos de un módulo permanecen juntos"
+    },
+    {
+        "question": "¿Qué es el acoplamiento en POO?",
+        "options": [
+            "El grado de interdependencia entre módulos",
+            "Una forma de herencia",
+            "Un tipo de variable",
+            "Un método constructor"
+        ],
+        "answer": "El grado de interdependencia entre módulos"
+    },
+    {
+        "question": "¿Qué es una clase anidada en Java?",
+        "options": [
+            "Una clase definida dentro de otra clase",
+            "Una clase que hereda de otra",
+            "Una clase abstracta",
+            "Una interfaz"
+        ],
+        "answer": "Una clase definida dentro de otra clase"
+    },
+    {
+        "question": "¿Qué es un objeto inmutable en Java?",
+        "options": [
+            "Un objeto cuyo estado no puede ser modificado después de su creación",
+            "Un objeto que puede ser modificado",
+            "Un objeto estático",
+            "Un objeto abstracto"
+        ],
+        "answer": "Un objeto cuyo estado no puede ser modificado después de su creación"
+    },
+    {
+        "question": "¿Qué es una clase final en Java?",
+        "options": [
+            "Una clase que no puede ser heredada",
+            "Una clase que debe ser heredada",
+            "Una clase abstracta",
+            "Una interfaz"
+        ],
+        "answer": "Una clase que no puede ser heredada"
+    },
+    {
+        "question": "¿Qué es el método equals() en Java?",
+        "options": [
+            "Un método que compara dos objetos para igualdad",
+            "Un método que convierte a string",
+            "Un método constructor",
+            "Un método abstracto"
+        ],
+        "answer": "Un método que compara dos objetos para igualdad"
+    },
+    {
+        "question": "¿Qué es una variable local en Java?",
+        "options": [
+            "Una variable declarada dentro de un método",
+            "Una variable de clase",
+            "Una variable estática",
+            "Una constante"
+        ],
+        "answer": "Una variable declarada dentro de un método"
+    },
+    {
+        "question": "¿Qué es el principio de sustitución de Liskov?",
+        "options": [
+            "Los objetos de una superclase deben poder ser reemplazados por objetos de una subclase",
+            "Un tipo de herencia",
+            "Un método constructor",
+            "Una forma de encapsulación"
+        ],
+        "answer": "Los objetos de una superclase deben poder ser reemplazados por objetos de una subclase"
+    },
+    {
+        "question": "¿Qué es una clase singleton en Java?",
+        "options": [
+            "Una clase que solo puede tener una instancia",
+            "Una clase que debe tener múltiples instancias",
+            "Una clase abstracta",
+            "Una interfaz"
+        ],
+        "answer": "Una clase que solo puede tener una instancia"
+    },
+    {
+        "question": "¿Qué es el método hashCode() en Java?",
+        "options": [
+            "Un método que devuelve un valor numérico que representa al objeto",
+            "Un método que convierte a string",
+            "Un método constructor",
+            "Un método abstracto"
+        ],
+        "answer": "Un método que devuelve un valor numérico que representa al objeto"
+    },
+    {
+        "question": "¿Qué es una clase interna en Java?",
+        "options": [
+            "Una clase no estática definida dentro de otra clase",
+            "Una clase estática",
+            "Una clase abstracta",
+            "Una interfaz"
+        ],
+        "answer": "Una clase no estática definida dentro de otra clase"
+    },
+    {
+        "question": "¿Qué es el método finalize() en Java?",
+        "options": [
+            "Un método llamado por el garbage collector antes de destruir el objeto",
+            "Un método constructor",
+            "Un método getter",
+            "Un método setter"
+        ],
+        "answer": "Un método llamado por el garbage collector antes de destruir el objeto"
+    },
+    {
+        "question": "¿Qué es una excepción verificada en Java?",
+        "options": [
+            "Una excepción que debe ser declarada o manejada explícitamente",
+            "Una excepción en tiempo de ejecución",
+            "Un error del sistema",
+            "Una excepción no verificada"
+        ],
+        "answer": "Una excepción que debe ser declarada o manejada explícitamente"
+    },
+    {
+        "question": "¿Qué es una variable volatile en Java?",
+        "options": [
+            "Una variable que puede ser modificada por múltiples threads",
+            "Una variable constante",
+            "Una variable local",
+            "Una variable estática"
+        ],
+        "answer": "Una variable que puede ser modificada por múltiples threads"
+    },
+    {
+        "question": "¿Qué es el método clone() en Java?",
+        "options": [
+            "Un método que crea una copia exacta de un objeto",
+            "Un método que elimina un objeto",
+            "Un método que compara objetos",
+            "Un método que modifica un objeto"
+        ],
+        "answer": "Un método que crea una copia exacta de un objeto"
+    },
+    {
+        "question": "¿Qué es una clase wrapper en Java?",
+        "options": [
+            "Una clase que encapsula tipos primitivos como objetos",
+            "Una clase que implementa interfaces",
+            "Una clase que hereda de otra clase",
+            "Una clase que contiene el método main"
+        ],
+        "answer": "Una clase que encapsula tipos primitivos como objetos"
+    },
+    {
+        "question": "¿Qué es el modificador transient en Java?",
+        "options": [
+            "Indica que una variable no debe ser serializada",
+            "Indica que una variable es constante",
+            "Indica que una variable es estática",
+            "Indica que una variable es pública"
+        ],
+        "answer": "Indica que una variable no debe ser serializada"
+    },
+    {
+        "question": "¿Qué es una clase genérica en Java?",
+        "options": [
+            "Una clase que puede trabajar con diferentes tipos de datos",
+            "Una clase que solo trabaja con números",
+            "Una clase que solo trabaja con strings",
+            "Una clase sin métodos"
+        ],
+        "answer": "Una clase que puede trabajar con diferentes tipos de datos"
+    },
+    {
+        "question": "¿Qué es el patrón de diseño Factory en Java?",
+        "options": [
+            "Un patrón que proporciona una interfaz para crear objetos",
+            "Un patrón para manejar excepciones",
+            "Un patrón para implementar interfaces",
+            "Un patrón para crear variables"
+        ],
+        "answer": "Un patrón que proporciona una interfaz para crear objetos"
+    },
+    {
+        "question": "¿Qué es una cola (Queue) en estructuras de datos?",
+        "options": [
+            "Una estructura FIFO (First In First Out)",
+            "Una estructura LIFO (Last In First Out)",
+            "Una estructura desordenada",
+            "Una estructura circular"
+        ],
+        "answer": "Una estructura FIFO (First In First Out)"
+    },
+    {
+        "question": "¿Qué es una pila (Stack) en estructuras de datos?",
+        "options": [
+            "Una estructura LIFO (Last In First Out)",
+            "Una estructura FIFO (First In First Out)",
+            "Una estructura desordenada",
+            "Una estructura secuencial"
+        ],
+        "answer": "Una estructura LIFO (Last In First Out)"
+    },
+    {
+        "question": "¿Qué es el método compareTo() en Java?",
+        "options": [
+            "Un método que compara dos objetos y devuelve un entero",
+            "Un método que convierte a string",
+            "Un método que clona objetos",
+            "Un método que suma valores"
+        ],
+        "answer": "Un método que compara dos objetos y devuelve un entero"
+    },
+    {
+        "question": "¿Qué es una expresión lambda en Java?",
+        "options": [
+            "Una función anónima que puede ser tratada como un objeto",
+            "Un tipo de variable",
+            "Un método estático",
+            "Una clase abstracta"
+        ],
+        "answer": "Una función anónima que puede ser tratada como un objeto"
+    },
+    {
+        "question": "¿Qué es el Stream API en Java?",
+        "options": [
+            "Una forma de procesar colecciones de objetos de manera declarativa",
+            "Una forma de leer archivos",
+            "Una forma de escribir en consola",
+            "Una forma de crear objetos"
+        ],
+        "answer": "Una forma de procesar colecciones de objetos de manera declarativa"
+    },
+    {
+        "question": "¿Qué es la programación funcional?",
+        "options": [
+            "Un paradigma que trata la computación como evaluación de funciones matemáticas",
+            "Un paradigma que solo usa objetos",
+            "Un paradigma que solo usa variables",
+            "Un paradigma que solo usa bucles"
+        ],
+        "answer": "Un paradigma que trata la computación como evaluación de funciones matemáticas"
+    },
+    {
+        "question": "¿Qué es el proceso de autoboxing en Java?",
+        "options": [
+            "La conversión automática entre tipos primitivos y sus clases wrapper",
+            "La creación de objetos",
+            "La eliminación de objetos",
+            "La comparación de objetos"
+        ],
+        "answer": "La conversión automática entre tipos primitivos y sus clases wrapper"
+    },
+    {
+        "question": "¿Qué es un Iterator en Java?",
+        "options": [
+            "Un objeto que permite recorrer elementos de una colección",
+            "Un tipo de bucle",
+            "Una clase abstracta",
+            "Un método especial"
+        ],
+        "answer": "Un objeto que permite recorrer elementos de una colección"
+    },
+    {
+        "question": "¿Qué es una clase Enum en Java?",
+        "options": [
+            "Un tipo especial de clase que representa un conjunto fijo de constantes",
+            "Una clase que no puede tener instancias",
+            "Una clase que solo contiene métodos",
+            "Una clase que implementa interfaces"
+        ],
+        "answer": "Un tipo especial de clase que representa un conjunto fijo de constantes"
+    },
+    {
+        "question": "¿Qué es el patrón Observer en Java?",
+        "options": [
+            "Un patrón de diseño donde los objetos son notificados automáticamente de cualquier cambio",
+            "Un patrón para crear objetos",
+            "Un patrón para manejar excepciones",
+            "Un patrón para implementar interfaces"
+        ],
+        "answer": "Un patrón de diseño donde los objetos son notificados automáticamente de cualquier cambio"
+    },
+    {
+        "question": "¿Qué es una LinkedList en Java?",
+        "options": [
+            "Una estructura de datos donde cada elemento tiene una referencia al siguiente",
+            "Un tipo de array",
+            "Una clase abstracta",
+            "Un tipo de interfaz"
+        ],
+        "answer": "Una estructura de datos donde cada elemento tiene una referencia al siguiente"
+    },
+    {
+        "question": "¿Qué es un TreeMap en Java?",
+        "options": [
+            "Una estructura de datos que mantiene las claves ordenadas",
+            "Un tipo de lista",
+            "Una estructura de datos desordenada",
+            "Un tipo de array"
+        ],
+        "answer": "Una estructura de datos que mantiene las claves ordenadas"
+    },
+    {
+        "question": "¿Qué es un ThreadPool en Java?",
+        "options": [
+            "Un grupo de threads reutilizables para ejecutar tareas",
+            "Un tipo de variable",
+            "Una clase abstracta",
+            "Un método especial"
+        ],
+        "answer": "Un grupo de threads reutilizables para ejecutar tareas"
+    },
+    {
+        "question": "¿Qué es el patrón Singleton Thread-Safe?",
+        "options": [
+            "Una implementación de Singleton segura para múltiples hilos",
+            "Un tipo de variable",
+            "Una clase abstracta",
+            "Un método constructor"
+        ],
+        "answer": "Una implementación de Singleton segura para múltiples hilos"
+    },
+    {
+        "question": "¿Qué es una tabla hash?",
+        "options": [
+            "Una estructura de datos que implementa un array asociativo",
+            "Un tipo de lista",
+            "Una clase abstracta",
+            "Un método especial"
+        ],
+        "answer": "Una estructura de datos que implementa un array asociativo"
+    },
+    {
+        "question": "¿Qué es el patrón Decorator en Java?",
+        "options": [
+            "Un patrón que permite añadir funcionalidad a objetos dinámicamente",
+            "Un patrón para crear objetos",
+            "Un patrón para manejar excepciones",
+            "Un tipo de clase"
+        ],
+        "answer": "Un patrón que permite añadir funcionalidad a objetos dinámicamente"
+    },
+    {
+        "question": "¿Qué es una RuntimeException en Java?",
+        "options": [
+            "Una excepción que no necesita ser declarada explícitamente",
+            "Una excepción que siempre debe ser declarada",
+            "Un error del sistema",
+            "Un tipo de error de compilación"
+        ],
+        "answer": "Una excepción que no necesita ser declarada explícitamente"
+    },
+    {
+        "question": "¿Qué es el Garbage Collector en Java?",
+        "options": [
+            "Un proceso que libera memoria automáticamente",
+            "Un tipo de variable",
+            "Una clase abstracta",
+            "Un método especial"
+        ],
+        "answer": "Un proceso que libera memoria automáticamente"
+    },
+    {
+        "question": "¿Qué es un método default en una interfaz Java?",
+        "options": [
+            "Un método con implementación en una interfaz",
+            "Un método abstracto",
+            "Un método privado",
+            "Un método estático"
+        ],
+        "answer": "Un método con implementación en una interfaz"
+    },
+    {
+        "question": "¿Qué es el patrón Strategy en Java?",
+        "options": [
+            "Un patrón que define una familia de algoritmos intercambiables",
+            "Un patrón para crear objetos",
+            "Un patrón para manejar excepciones",
+            "Un tipo de clase"
+        ],
+        "answer": "Un patrón que define una familia de algoritmos intercambiables"
+    },
+    {
+        "question": "¿Qué es una clase Record en Java?",
+        "options": [
+            "Una clase inmutable que actúa como portador de datos",
+            "Una clase que maneja archivos",
+            "Una clase abstracta",
+            "Un tipo de interfaz"
+        ],
+        "answer": "Una clase inmutable que actúa como portador de datos"
+    },
+    {
+        "question": "¿Qué es el principio de inversión de dependencias?",
+        "options": [
+            "Los módulos de alto nivel no deben depender de módulos de bajo nivel",
+            "Un tipo de herencia",
+            "Un método constructor",
+            "Una forma de encapsulación"
+        ],
+        "answer": "Los módulos de alto nivel no deben depender de módulos de bajo nivel"
+    },
+    {
+        "question": "¿Qué es una cola de prioridad (PriorityQueue)?",
+        "options": [
+            "Una cola donde los elementos se procesan según su prioridad",
+            "Una cola normal",
+            "Un tipo de lista",
+            "Un tipo de array"
+        ],
+        "answer": "Una cola donde los elementos se procesan según su prioridad"
+    },
+    {
+        "question": "¿Qué es la reflexión en Java?",
+        "options": [
+            "La capacidad de examinar y modificar el comportamiento de clases en tiempo de ejecución",
+            "Un tipo de variable",
+            "Una clase abstracta",
+            "Un método especial"
+        ],
+        "answer": "La capacidad de examinar y modificar el comportamiento de clases en tiempo de ejecución"
+    },
+    {
+        "question": "¿Qué es el patrón Builder en Java?",
+        "options": [
+            "Un patrón para construir objetos complejos paso a paso",
+            "Un patrón para manejar excepciones",
+            "Un tipo de clase",
+            "Un método constructor"
+        ],
+        "answer": "Un patrón para construir objetos complejos paso a paso"
+    },
+    {
+        "question": "¿Qué es una clase sellada (sealed) en Java?",
+        "options": [
+            "Una clase que restringe qué otras clases pueden heredar de ella",
+            "Una clase que no puede ser modificada",
+            "Una clase abstracta",
+            "Un tipo de interfaz"
+        ],
+        "answer": "Una clase que restringe qué otras clases pueden heredar de ella"
+    },
+    {
+        "question": "¿Qué es el método computeIfAbsent en Map?",
+        "options": [
+            "Un método que calcula un valor si la clave no existe",
+            "Un método que elimina elementos",
+            "Un método que ordena el mapa",
+            "Un método que limpia el mapa"
+        ],
+        "answer": "Un método que calcula un valor si la clave no existe"
+    },
+    {
+        "question": "¿Qué es un WeakHashMap en Java?",
+        "options": [
+            "Un mapa donde las claves pueden ser recolectadas por el garbage collector",
+            "Un mapa normal",
+            "Un tipo de lista",
+            "Un tipo de array"
+        ],
+        "answer": "Un mapa donde las claves pueden ser recolectadas por el garbage collector"
+    },
+    {
+        "question": "¿Qué es el patrón Proxy en Java?",
+        "options": [
+            "Un patrón que proporciona un sustituto para controlar el acceso a otro objeto",
+            "Un patrón para crear objetos",
+            "Un patrón para manejar excepciones",
+            "Un tipo de clase"
+        ],
+        "answer": "Un patrón que proporciona un sustituto para controlar el acceso a otro objeto"
+    },
+    {
+        "question": "¿Qué es la anotación @FunctionalInterface?",
+        "options": [
+            "Una anotación que marca interfaces con un único método abstracto",
+            "Una anotación para métodos",
+            "Una anotación para clases",
+            "Una anotación para variables"
+        ],
+        "answer": "Una anotación que marca interfaces con un único método abstracto"
+    },
+    {
+        "question": "¿Qué es el principio de segregación de interfaces?",
+        "options": [
+            "Los clientes no deben ser forzados a depender de interfaces que no usan",
+            "Un tipo de herencia",
+            "Un método constructor",
+            "Una forma de encapsulación"
+        ],
+        "answer": "Los clientes no deben ser forzados a depender de interfaces que no usan"
+    },
+    {
+        "question": "¿Qué es una NavigableMap en Java?",
+        "options": [
+            "Un mapa que permite navegar por sus elementos en orden",
+            "Un tipo de lista",
+            "Una clase abstracta",
+            "Un tipo de array"
+        ],
+        "answer": "Un mapa que permite navegar por sus elementos en orden"
+    },
+    {
+        "question": "¿Qué es el patrón Composite en Java?",
+        "options": [
+            "Un patrón que permite tratar objetos individuales y composiciones uniformemente",
+            "Un patrón para crear objetos",
+            "Un patrón para manejar excepciones",
+            "Un tipo de clase"
+        ],
+        "answer": "Un patrón que permite tratar objetos individuales y composiciones uniformemente"
+    },
+    {
+        "question": "¿Qué es una BlockingQueue en Java?",
+        "options": [
+            "Una cola que soporta operaciones que esperan cuando la cola está vacía o llena",
+            "Una cola normal",
+            "Un tipo de lista",
+            "Un tipo de array"
+        ],
+        "answer": "Una cola que soporta operaciones que esperan cuando la cola está vacía o llena"
+    },
+    {
+        "question": "¿Qué es el patrón Command en Java?",
+        "options": [
+            "Un patrón que encapsula una solicitud como un objeto",
+            "Un patrón para crear objetos",
+            "Un patrón para manejar excepciones",
+            "Un tipo de clase"
+        ],
+        "answer": "Un patrón que encapsula una solicitud como un objeto"
+    },
+    {
+        "question": "¿Qué es una CopyOnWriteArrayList?",
+        "options": [
+            "Una lista thread-safe que crea una copia al modificarla",
+            "Una lista normal",
+            "Un tipo de array",
+            "Una clase abstracta"
+        ],
+        "answer": "Una lista thread-safe que crea una copia al modificarla"
+    },
+    {
+        "question": "¿Qué es el patrón State en Java?",
+        "options": [
+            "Un patrón que permite que un objeto altere su comportamiento cuando su estado interno cambia",
+            "Un patrón para crear objetos",
+            "Un patrón para manejar excepciones",
+            "Un tipo de clase"
+        ],
+        "answer": "Un patrón que permite que un objeto altere su comportamiento cuando su estado interno cambia"
+    },
+    {
+        "question": "¿Qué es una ConcurrentHashMap?",
+        "options": [
+            "Un mapa thread-safe que permite accesos concurrentes",
+            "Un mapa normal",
+            "Un tipo de lista",
+            "Un tipo de array"
+        ],
+        "answer": "Un mapa thread-safe que permite accesos concurrentes"
+    },
+    {
+        "question": "¿Qué es el patrón Template Method?",
+        "options": [
+            "Un patrón que define el esqueleto de un algoritmo en un método",
+            "Un patrón para crear objetos",
+            "Un patrón para manejar excepciones",
+            "Un tipo de clase"
+        ],
+        "answer": "Un patrón que define el esqueleto de un algoritmo en un método"
+    },
+    {
+        "question": "¿Qué es una interfaz funcional?",
+        "options": [
+            "Una interfaz que contiene exactamente un método abstracto",
+            "Una interfaz normal",
+            "Una clase abstracta",
+            "Un tipo de clase"
+        ],
+        "answer": "Una interfaz que contiene exactamente un método abstracto"
+    },
+    {
+        "question": "¿Qué es el patrón Chain of Responsibility?",
+        "options": [
+            "Un patrón que permite pasar solicitudes a lo largo de una cadena de manejadores",
+            "Un patrón para crear objetos",
+            "Un patrón para manejar excepciones",
+            "Un tipo de clase"
+        ],
+        "answer": "Un patrón que permite pasar solicitudes a lo largo de una cadena de manejadores"
+    },
+    {
+        "question": "¿Qué es una SortedSet en Java?",
+        "options": [
+            "Un conjunto que mantiene sus elementos ordenados",
+            "Un conjunto normal",
+            "Un tipo de lista",
+            "Un tipo de array"
+        ],
+        "answer": "Un conjunto que mantiene sus elementos ordenados"
+    },
+    {
+        "question": "¿Qué es el patrón Adapter en Java?",
+        "options": [
+            "Un patrón que permite que interfaces incompatibles trabajen juntas",
+            "Un patrón para crear objetos",
+            "Un patrón para manejar excepciones",
+            "Un tipo de clase"
+        ],
+        "answer": "Un patrón que permite que interfaces incompatibles trabajen juntas"
+    },
+    {
+        "question": "¿Qué es un CompletableFuture en Java?",
+        "options": [
+            "Una clase para programación asíncrona",
+            "Un tipo de variable",
+            "Una clase abstracta",
+            "Un método especial"
+        ],
+        "answer": "Una clase para programación asíncrona"
+    },
+    {
+        "question": "¿Qué es el patrón Mediator?",
+        "options": [
+            "Un patrón que reduce el acoplamiento entre objetos introduciendo un mediador",
+            "Un patrón para crear objetos",
+            "Un patrón para manejar excepciones",
+            "Un tipo de clase"
+        ],
+        "answer": "Un patrón que reduce el acoplamiento entre objetos introduciendo un mediador"
+    },
+    {
+        "question": "¿Qué es un CountDownLatch en Java?",
+        "options": [
+            "Un sincronizador que permite que uno o más hilos esperen hasta que otros hilos completen operaciones",
+            "Un contador simple",
+            "Un tipo de temporizador",
+            "Una clase para contar objetos"
+        ],
+        "answer": "Un sincronizador que permite que uno o más hilos esperen hasta que otros hilos completen operaciones"
+    },
+    {
+        "question": "¿Qué es el principio YAGNI?",
+        "options": [
+            "You Aren't Gonna Need It - No implementes funcionalidad que no necesitas ahora",
+            "Un patrón de diseño",
+            "Una metodología de testing",
+            "Un tipo de variable"
+        ],
+        "answer": "You Aren't Gonna Need It - No implementes funcionalidad que no necesitas ahora"
+    },
+    {
+        "question": "¿Qué es el patrón Prototype?",
+        "options": [
+            "Un patrón que permite crear objetos nuevos clonando un objeto existente",
+            "Un patrón para manejar excepciones",
+            "Un patrón para crear interfaces",
+            "Un tipo de herencia"
+        ],
+        "answer": "Un patrón que permite crear objetos nuevos clonando un objeto existente"
+    },
+    {
+        "question": "¿Qué es un módulo en Java?",
+        "options": [
+            "Un contenedor para paquetes que especifica sus dependencias",
+            "Un tipo de clase",
+            "Un tipo de interfaz",
+            "Un paquete simple"
+        ],
+        "answer": "Un contenedor para paquetes que especifica sus dependencias"
+    },
+    {
+        "question": "¿Qué es JShell?",
+        "options": [
+            "Una herramienta REPL para evaluar declaraciones y expresiones Java",
+            "Un IDE de Java",
+            "Un compilador",
+            "Una biblioteca"
+        ],
+        "answer": "Una herramienta REPL para evaluar declaraciones y expresiones Java"
+    },
+    {
+        "question": "¿Qué es el Bytecode en Java?",
+        "options": [
+            "El código intermedio generado por el compilador Java",
+            "Código fuente Java",
+            "Código máquina",
+            "Un tipo de variable"
+        ],
+        "answer": "El código intermedio generado por el compilador Java"
+    },
+    {
+        "question": "¿Qué es una clase sealed en Java 17?",
+        "options": [
+            "Una clase que restringe qué otras clases pueden heredar de ella",
+            "Una clase encriptada",
+            "Una clase final",
+            "Una clase abstracta"
+        ],
+        "answer": "Una clase que restringe qué otras clases pueden heredar de ella"
+    },
+    {
+        "question": "¿Qué es un Future en Java?",
+        "options": [
+            "Un objeto que representa un resultado que estará disponible en el futuro",
+            "Un tipo de fecha",
+            "Una clase para programar tareas",
+            "Un tipo de promesa"
+        ],
+        "answer": "Un objeto que representa un resultado que estará disponible en el futuro"
+    },
+    {
+        "question": "¿Qué es el patrón Facade?",
+        "options": [
+            "Un patrón que proporciona una interfaz unificada para un conjunto de interfaces",
+            "Un patrón para crear objetos",
+            "Un patrón para manejar excepciones",
+            "Un tipo de interfaz"
+        ],
+        "answer": "Un patrón que proporciona una interfaz unificada para un conjunto de interfaces"
+    },
+    {
+        "question": "¿Qué es la JVM?",
+        "options": [
+            "Java Virtual Machine - Una máquina virtual que ejecuta bytecode Java",
+            "Un compilador de Java",
+            "Un IDE de Java",
+            "Una biblioteca de Java"
+        ],
+        "answer": "Java Virtual Machine - Una máquina virtual que ejecuta bytecode Java"
+    },
+    {
+        "question": "¿Qué es el ClassLoader en Java?",
+        "options": [
+            "Un componente que carga clases dinámicamente en la JVM",
+            "Un cargador de archivos",
+            "Un tipo de compilador",
+            "Una herramienta de desarrollo"
+        ],
+        "answer": "Un componente que carga clases dinámicamente en la JVM"
+    }
+]

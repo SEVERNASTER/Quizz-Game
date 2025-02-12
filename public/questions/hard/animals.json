@@ -1,542 +1,512 @@
 [
     {
-        "question": "¿A qué velocidad puede mover un colibrí sus alas?",
+        "question": "¿Qué es la encapsulación en Java?",
         "options": [
-            "80 veces/segundo",
-            "60 veces/segundo",
-            "70 veces/segundo",
-            "90 veces/segundo"
+            "El proceso de ocultar los detalles de implementación y mostrar solo la funcionalidad",
+            "El proceso de crear nuevos objetos",
+            "Una forma de crear métodos",
+            "Un tipo de bucle en Java"
         ],
-        "answer": "80 veces/segundo"
+        "answer": "El proceso de ocultar los detalles de implementación y mostrar solo la funcionalidad"
     },
     {
-        "question": "¿Cuál es el promedio de vida de un cóndor andino en libertad?",
+        "question": "¿Qué palabra clave se utiliza para heredar una clase en Java?",
         "options": [
-            "50 años",
-            "40 años",
-            "60 años",
-            "45 años"
+            "extends",
+            "implements",
+            "inherits",
+            "using"
         ],
-        "answer": "50 años"
+        "answer": "extends"
     },
     {
-        "question": "¿Qué especie de medusa es considerada biológicamente inmortal?",
+        "question": "¿Qué es un constructor en Java?",
         "options": [
-            "Turritopsis dohrnii",
-            "Aurelia aurita",
-            "Chrysaora hysoscella",
-            "Pelagia noctiluca"
+            "Un método especial que se llama automáticamente cuando se crea un objeto",
+            "Una variable que almacena valores",
+            "Un tipo de bucle",
+            "Una clase abstracta"
         ],
-        "answer": "Turritopsis dohrnii"
+        "answer": "Un método especial que se llama automáticamente cuando se crea un objeto"
     },
     {
-        "question": "¿Cuál es la profundidad máxima a la que se ha registrado un cachalote?",
+        "question": "¿Qué significa que un método sea 'static' en Java?",
         "options": [
-            "2,992 metros",
-            "2,200 metros",
-            "3,200 metros",
-            "1,800 metros"
+            "Que puede ser llamado sin crear una instancia de la clase",
+            "Que solo puede ser usado una vez",
+            "Que no puede ser modificado",
+            "Que es privado"
         ],
-        "answer": "2,992 metros"
+        "answer": "Que puede ser llamado sin crear una instancia de la clase"
     },
     {
-        "question": "¿Qué animal tiene el veneno más potente del mundo?",
+        "question": "¿Qué es el polimorfismo en POO?",
         "options": [
-            "Caracol cono geógrafo",
-            "Cobra real",
-            "Araña de embudo",
-            "Medusa caja"
+            "La capacidad de un objeto de tomar diferentes formas",
+            "La capacidad de crear objetos",
+            "Un tipo de variable",
+            "Un método constructor"
         ],
-        "answer": "Caracol cono geógrafo"
+        "answer": "La capacidad de un objeto de tomar diferentes formas"
     },
     {
-        "question": "¿Cuál es la temperatura corporal promedio de un pingüino emperador?",
+        "question": "¿Qué es una interfaz en Java?",
         "options": [
-            "39°C",
-            "37°C",
-            "35°C",
-            "41°C"
+            "Una colección de métodos abstractos y constantes",
+            "Una clase que no puede ser instanciada",
+            "Un tipo de variable",
+            "Un método constructor"
         ],
-        "answer": "39°C"
+        "answer": "Una colección de métodos abstractos y constantes"
     },
     {
-        "question": "¿Qué especie de ave puede volar hacia atrás?",
+        "question": "¿Qué significa la palabra clave 'final' en Java cuando se aplica a una clase?",
         "options": [
-            "Colibrí",
-            "Águila",
-            "Halcón",
-            "Búho"
+            "La clase no puede ser heredada",
+            "La clase no puede ser modificada",
+            "La clase debe ser heredada",
+            "La clase es abstracta"
         ],
-        "answer": "Colibrí"
+        "answer": "La clase no puede ser heredada"
     },
     {
-        "question": "¿Cuántos corazones tiene un pulpo?",
+        "question": "¿Qué es una excepción en Java?",
         "options": [
-            "3",
-            "2",
-            "4",
-            "1"
+            "Un evento que ocurre durante la ejecución que interrumpe el flujo normal",
+            "Un tipo de variable",
+            "Un método especial",
+            "Una clase abstracta"
         ],
-        "answer": "3"
+        "answer": "Un evento que ocurre durante la ejecución que interrumpe el flujo normal"
     },
     {
-        "question": "¿Qué animal puede sobrevivir siendo congelado hasta el 65% de su cuerpo?",
+        "question": "¿Qué es el garbage collector en Java?",
         "options": [
-            "Rana de la madera",
-            "Salamandra",
-            "Lagarto cornudo",
-            "Tritón"
+            "Un proceso que libera memoria eliminando objetos no utilizados",
+            "Una clase para manejar archivos",
+            "Un tipo de variable",
+            "Un método de ordenamiento"
         ],
-        "answer": "Rana de la madera"
+        "answer": "Un proceso que libera memoria eliminando objetos no utilizados"
     },
     {
-        "question": "¿Cuál es el único mamífero que no puede saltar?",
+        "question": "¿Qué es una clase abstracta en Java?",
         "options": [
-            "Elefante",
-            "Rinoceronte",
-            "Hipopótamo",
-            "Jirafa"
+            "Una clase que no puede ser instanciada y puede tener métodos abstractos",
+            "Una clase que solo contiene métodos",
+            "Una clase que no puede tener métodos",
+            "Una clase que solo puede tener variables"
         ],
-        "answer": "Elefante"
+        "answer": "Una clase que no puede ser instanciada y puede tener métodos abstractos"
     },
     {
-        "question": "¿Qué especie de tiburón vive más tiempo?",
+        "question": "¿Qué es la sobrecarga de métodos en Java?",
         "options": [
-            "Tiburón de Groenlandia",
-            "Tiburón blanco",
-            "Tiburón ballena",
-            "Tiburón tigre"
+            "Definir múltiples métodos con el mismo nombre pero diferentes parámetros",
+            "Crear un método dentro de otro método",
+            "Heredar métodos de una clase padre",
+            "Llamar a un método recursivamente"
         ],
-        "answer": "Tiburón de Groenlandia"
+        "answer": "Definir múltiples métodos con el mismo nombre pero diferentes parámetros"
     },
     {
-        "question": "¿Cuál es la velocidad máxima del guepardo en una carrera corta?",
+        "question": "¿Qué es un paquete en Java?",
         "options": [
-            "120 km/h",
-            "100 km/h",
-            "110 km/h",
-            "130 km/h"
+            "Un mecanismo para organizar clases relacionadas",
+            "Un tipo de variable",
+            "Un método especial",
+            "Una clase abstracta"
         ],
-        "answer": "120 km/h"
+        "answer": "Un mecanismo para organizar clases relacionadas"
     },
     {
-        "question": "¿Qué animal tiene el cerebro más grande en relación a su tamaño corporal?",
+        "question": "¿Qué es el método toString() en Java?",
         "options": [
-            "Hormiga",
-            "Delfín",
-            "Humano",
-            "Chimpancé"
+            "Un método que devuelve una representación en cadena del objeto",
+            "Un método para convertir números a texto",
+            "Un método para concatenar strings",
+            "Un método constructor"
         ],
-        "answer": "Hormiga"
+        "answer": "Un método que devuelve una representación en cadena del objeto"
     },
     {
-        "question": "¿Cuántos años puede vivir una tortuga de las Galápagos?",
+        "question": "¿Qué es una colección en Java?",
         "options": [
-            "Más de 100 años",
-            "80 años",
-            "90 años",
-            "70 años"
+            "Un framework que proporciona arquitectura para almacenar y manipular objetos",
+            "Un tipo de variable",
+            "Una clase abstracta",
+            "Un método especial"
         ],
-        "answer": "Más de 100 años"
+        "answer": "Un framework que proporciona arquitectura para almacenar y manipular objetos"
     },
     {
-        "question": "¿Qué animal puede regenerar su cerebro?",
+        "question": "¿Qué es un ArrayList en Java?",
         "options": [
-            "Axolote",
-            "Lagartija",
-            "Estrella de mar",
-            "Cangrejo"
+            "Una implementación de lista redimensionable",
+            "Un tipo de bucle",
+            "Una clase abstracta",
+            "Un método constructor"
         ],
-        "answer": "Axolote"
+        "answer": "Una implementación de lista redimensionable"
     },
     {
-        "question": "¿Cuál es el único mamífero que no puede mover la mandíbula hacia los lados?",
+        "question": "¿Qué es la serialización en Java?",
         "options": [
-            "Vaca",
-            "Caballo",
-            "Cerdo",
-            "Oveja"
+            "El proceso de convertir un objeto en una secuencia de bytes",
+            "Un tipo de variable",
+            "Un método especial",
+            "Una clase abstracta"
         ],
-        "answer": "Vaca"
+        "answer": "El proceso de convertir un objeto en una secuencia de bytes"
     },
     {
-        "question": "¿Qué animal tiene la mordida más fuerte del mundo?",
+        "question": "¿Qué es un método getter en Java?",
         "options": [
-            "Cocodrilo de agua salada",
-            "Hipopótamo",
-            "Tiburón blanco",
-            "Orca"
+            "Un método que devuelve el valor de una variable privada",
+            "Un método que modifica una variable",
+            "Un método constructor",
+            "Un método abstracto"
         ],
-        "answer": "Cocodrilo de agua salada"
+        "answer": "Un método que devuelve el valor de una variable privada"
     },
     {
-        "question": "¿Cuánto tiempo puede aguantar sin respirar una ballena boreal?",
+        "question": "¿Qué es un método setter en Java?",
         "options": [
-            "85 minutos",
-            "60 minutos",
-            "70 minutos",
-            "95 minutos"
+            "Un método que modifica el valor de una variable privada",
+            "Un método que devuelve un valor",
+            "Un método constructor",
+            "Un método abstracto"
         ],
-        "answer": "85 minutos"
+        "answer": "Un método que modifica el valor de una variable privada"
     },
     {
-        "question": "¿Qué animal tiene la lengua más larga en relación a su cuerpo?",
+        "question": "¿Qué es una variable de instancia en Java?",
         "options": [
-            "Camaleón",
-            "Oso hormiguero",
-            "Jirafa",
-            "Serpiente"
+            "Una variable declarada dentro de una clase pero fuera de cualquier método",
+            "Una variable declarada dentro de un método",
+            "Una variable estática",
+            "Una constante"
         ],
-        "answer": "Camaleón"
+        "answer": "Una variable declarada dentro de una clase pero fuera de cualquier método"
     },
     {
-        "question": "¿Cuál es el único mamífero que no tiene cuerdas vocales?",
+        "question": "¿Qué es un constructor por defecto en Java?",
         "options": [
-            "Jirafa",
-            "Koala",
-            "Tortuga",
-            "Armadillo"
+            "Un constructor sin parámetros creado automáticamente si no se define ningún constructor",
+            "Un constructor con parámetros",
+            "Un método normal",
+            "Una variable especial"
         ],
-        "answer": "Jirafa"
+        "answer": "Un constructor sin parámetros creado automáticamente si no se define ningún constructor"
     },
     {
-        "question": "¿Qué animal puede cambiar su sexo biológico naturalmente?",
+        "question": "¿Qué es la herencia múltiple en Java?",
         "options": [
-            "Pez payaso",
-            "Caballito de mar",
-            "Tortuga marina",
-            "Rana"
+            "No está permitida en Java con clases",
+            "Es cuando una clase hereda de múltiples clases",
+            "Es un tipo de polimorfismo",
+            "Es una característica de las interfaces"
         ],
-        "answer": "Pez payaso"
+        "answer": "No está permitida en Java con clases"
     },
     {
-        "question": "¿Cuántos dientes tiene un caracol?",
+        "question": "¿Qué es una variable estática en Java?",
         "options": [
-            "14,000",
-            "10,000",
-            "12,000",
-            "16,000"
+            "Una variable que pertenece a la clase y no a instancias específicas",
+            "Una variable que no puede cambiar",
+            "Una variable local",
+            "Una variable de instancia"
         ],
-        "answer": "14,000"
+        "answer": "Una variable que pertenece a la clase y no a instancias específicas"
     },
     {
-        "question": "¿Qué animal puede dormir hasta 22 horas al día?",
+        "question": "¿Qué es el método main en Java?",
         "options": [
-            "Koala",
-            "Perezoso",
-            "Panda",
-            "Armadillo"
+            "El punto de entrada de un programa Java",
+            "Un método constructor",
+            "Un método getter",
+            "Un método setter"
         ],
-        "answer": "Koala"
+        "answer": "El punto de entrada de un programa Java"
     },
     {
-        "question": "¿Cuál es el único mamífero que puede volar?",
+        "question": "¿Qué es un bloque try-catch en Java?",
         "options": [
-            "Murciélago",
-            "Ardilla voladora",
-            "Lémur volador",
-            "Petauro del azúcar"
+            "Un mecanismo para manejar excepciones",
+            "Un tipo de bucle",
+            "Una estructura de control",
+            "Un método especial"
         ],
-        "answer": "Murciélago"
+        "answer": "Un mecanismo para manejar excepciones"
     },
     {
-        "question": "¿Qué animal tiene la mayor presión sanguínea?",
+        "question": "¿Qué es la palabra clave 'this' en Java?",
         "options": [
-            "Jirafa",
-            "Elefante",
-            "Ballena azul",
-            "Hipopótamo"
+            "Una referencia al objeto actual",
+            "Una referencia a la clase padre",
+            "Una variable global",
+            "Un método especial"
         ],
-        "answer": "Jirafa"
+        "answer": "Una referencia al objeto actual"
     },
     {
-        "question": "¿Cuántos estómagos tiene una vaca?",
+        "question": "¿Qué es un método abstracto en Java?",
         "options": [
-            "4",
-            "3",
-            "2",
-            "5"
+            "Un método declarado sin implementación",
+            "Un método privado",
+            "Un método estático",
+            "Un método final"
         ],
-        "answer": "4"
+        "answer": "Un método declarado sin implementación"
     },
     {
-        "question": "¿Qué animal puede sobrevivir sin cerebro hasta 9 días?",
+        "question": "¿Qué es el principio de cohesión en POO?",
         "options": [
-            "Cucaracha",
-            "Lombriz",
-            "Araña",
-            "Hormiga"
+            "El grado en que los elementos de un módulo permanecen juntos",
+            "La capacidad de heredar propiedades",
+            "El proceso de crear objetos",
+            "Un tipo de polimorfismo"
         ],
-        "answer": "Cucaracha"
+        "answer": "El grado en que los elementos de un módulo permanecen juntos"
     },
     {
-        "question": "¿Cuál es el animal más venenoso del mundo?",
+        "question": "¿Qué es el acoplamiento en POO?",
         "options": [
-            "Avispa de mar",
-            "Serpiente taipán",
-            "Rana dorada",
-            "Araña brasileña"
+            "El grado de interdependencia entre módulos",
+            "Una forma de herencia",
+            "Un tipo de variable",
+            "Un método constructor"
         ],
-        "answer": "Avispa de mar"
+        "answer": "El grado de interdependencia entre módulos"
     },
     {
-        "question": "¿Qué animal puede ver en todas direcciones al mismo tiempo?",
+        "question": "¿Qué es una clase anidada en Java?",
         "options": [
-            "Camaleón",
-            "Búho",
-            "Águila",
-            "Halcón"
+            "Una clase definida dentro de otra clase",
+            "Una clase que hereda de otra",
+            "Una clase abstracta",
+            "Una interfaz"
         ],
-        "answer": "Camaleón"
+        "answer": "Una clase definida dentro de otra clase"
     },
     {
-        "question": "¿Cuántos huesos tiene un tiburón?",
+        "question": "¿Qué es un objeto inmutable en Java?",
         "options": [
-            "0",
-            "206",
-            "150",
-            "300"
+            "Un objeto cuyo estado no puede ser modificado después de su creación",
+            "Un objeto que puede ser modificado",
+            "Un objeto estático",
+            "Un objeto abstracto"
         ],
-        "answer": "0"
+        "answer": "Un objeto cuyo estado no puede ser modificado después de su creación"
     },
     {
-        "question": "¿Qué animal tiene la mayor esperanza de vida?",
+        "question": "¿Qué es una clase final en Java?",
         "options": [
-            "Esponja de cristal antártica",
-            "Tortuga gigante",
-            "Ballena boreal",
-            "Tiburón de Groenlandia"
+            "Una clase que no puede ser heredada",
+            "Una clase que debe ser heredada",
+            "Una clase abstracta",
+            "Una interfaz"
         ],
-        "answer": "Esponja de cristal antártica"
+        "answer": "Una clase que no puede ser heredada"
     },
     {
-        "question": "¿Cuál es el único mamífero que pone huevos?",
+        "question": "¿Qué es el método equals() en Java?",
         "options": [
-            "Ornitorrinco",
-            "Equidna",
-            "Ambos",
-            "Ninguno"
+            "Un método que compara dos objetos para igualdad",
+            "Un método que convierte a string",
+            "Un método constructor",
+            "Un método abstracto"
         ],
-        "answer": "Ambos"
+        "answer": "Un método que compara dos objetos para igualdad"
     },
     {
-        "question": "¿Qué animal tiene el corazón más grande en proporción a su cuerpo?",
+        "question": "¿Qué es una variable local en Java?",
         "options": [
-            "Colibrí",
-            "Ballena azul",
-            "Ratón",
-            "Elefante"
+            "Una variable declarada dentro de un método",
+            "Una variable de clase",
+            "Una variable estática",
+            "Una constante"
         ],
-        "answer": "Colibrí"
+        "answer": "Una variable declarada dentro de un método"
     },
     {
-        "question": "¿Cuántos músculos tiene la trompa de un elefante?",
+        "question": "¿Qué es el principio de sustitución de Liskov?",
         "options": [
-            "40,000",
-            "30,000",
-            "50,000",
-            "60,000"
+            "Los objetos de una superclase deben poder ser reemplazados por objetos de una subclase",
+            "Un tipo de herencia",
+            "Un método constructor",
+            "Una forma de encapsulación"
         ],
-        "answer": "40,000"
+        "answer": "Los objetos de una superclase deben poder ser reemplazados por objetos de una subclase"
     },
     {
-        "question": "¿Qué animal puede reconocerse a sí mismo en un espejo?",
+        "question": "¿Qué es una clase singleton en Java?",
         "options": [
-            "Delfín",
-            "Perro",
-            "Gato",
-            "Caballo"
+            "Una clase que solo puede tener una instancia",
+            "Una clase que debe tener múltiples instancias",
+            "Una clase abstracta",
+            "Una interfaz"
         ],
-        "answer": "Delfín"
+        "answer": "Una clase que solo puede tener una instancia"
     },
     {
-        "question": "¿Cuál es el único animal que no puede contraer rabia?",
+        "question": "¿Qué es el método hashCode() en Java?",
         "options": [
-            "Zarigüeya",
-            "Mapache",
-            "Murciélago",
-            "Zorro"
+            "Un método que devuelve un valor numérico que representa al objeto",
+            "Un método que convierte a string",
+            "Un método constructor",
+            "Un método abstracto"
         ],
-        "answer": "Zarigüeya"
+        "answer": "Un método que devuelve un valor numérico que representa al objeto"
     },
     {
-        "question": "¿Qué animal tiene la mayor cantidad de neuronas?",
+        "question": "¿Qué es una clase interna en Java?",
         "options": [
-            "Elefante africano",
-            "Humano",
-            "Delfín",
-            "Gorila"
+            "Una clase no estática definida dentro de otra clase",
+            "Una clase estática",
+            "Una clase abstracta",
+            "Una interfaz"
         ],
-        "answer": "Elefante africano"
+        "answer": "Una clase no estática definida dentro de otra clase"
     },
     {
-        "question": "¿Cuál es la velocidad máxima de un halcón peregrino en picada?",
+        "question": "¿Qué es el método finalize() en Java?",
         "options": [
-            "389 km/h",
-            "320 km/h",
-            "350 km/h",
-            "400 km/h"
+            "Un método llamado por el garbage collector antes de destruir el objeto",
+            "Un método constructor",
+            "Un método getter",
+            "Un método setter"
         ],
-        "answer": "389 km/h"
+        "answer": "Un método llamado por el garbage collector antes de destruir el objeto"
     },
     {
-        "question": "¿Qué animal puede vivir sin comida durante más tiempo?",
+        "question": "¿Qué es una excepción verificada en Java?",
         "options": [
-            "Tardigrado",
-            "Camello",
-            "Serpiente",
-            "Oso polar"
+            "Una excepción que debe ser declarada o manejada explícitamente",
+            "Una excepción en tiempo de ejecución",
+            "Un error del sistema",
+            "Una excepción no verificada"
         ],
-        "answer": "Tardigrado"
+        "answer": "Una excepción que debe ser declarada o manejada explícitamente"
     },
     {
-        "question": "¿Cuántos años puede vivir una langosta?",
+        "question": "¿Qué es el método clone() en Java?",
         "options": [
-            "100 años",
-            "80 años",
-            "120 años",
-            "90 años"
+            "Un método que crea una copia exacta de un objeto",
+            "Un método que elimina un objeto",
+            "Un método que compara objetos",
+            "Un método que modifica un objeto"
         ],
-        "answer": "100 años"
+        "answer": "Un método que crea una copia exacta de un objeto"
     },
     {
-        "question": "¿Qué animal tiene el mejor sentido del olfato?",
+        "question": "¿Qué es una clase wrapper en Java?",
         "options": [
-            "Oso polar",
-            "Perro",
-            "Elefante",
-            "Tiburón"
+            "Una clase que encapsula tipos primitivos como objetos",
+            "Una clase que implementa interfaces",
+            "Una clase que hereda de otra clase",
+            "Una clase que contiene el método main"
         ],
-        "answer": "Oso polar"
+        "answer": "Una clase que encapsula tipos primitivos como objetos"
     },
     {
-        "question": "¿Cuál es el único animal que no puede saltar ni nadar?",
+        "question": "¿Qué es el modificador transient en Java?",
         "options": [
-            "Gorila",
-            "Elefante",
-            "Jirafa",
-            "Hipopótamo"
+            "Indica que una variable no debe ser serializada",
+            "Indica que una variable es constante",
+            "Indica que una variable es estática",
+            "Indica que una variable es pública"
         ],
-        "answer": "Gorila"
+        "answer": "Indica que una variable no debe ser serializada"
     },
     {
-        "question": "¿Qué animal tiene los ojos más grandes del mundo?",
+        "question": "¿Qué es una clase genérica en Java?",
         "options": [
-            "Calamar gigante",
-            "Ballena azul",
-            "Elefante",
-            "Tiburón ballena"
+            "Una clase que puede trabajar con diferentes tipos de datos",
+            "Una clase que solo trabaja con números",
+            "Una clase que solo trabaja con strings",
+            "Una clase sin métodos"
         ],
-        "answer": "Calamar gigante"
+        "answer": "Una clase que puede trabajar con diferentes tipos de datos"
     },
     {
-        "question": "¿Cuántos años puede vivir un erizo de mar rojo?",
+        "question": "¿Qué es el patrón de diseño Factory en Java?",
         "options": [
-            "200 años",
-            "150 años",
-            "180 años",
-            "220 años"
+            "Un patrón que proporciona una interfaz para crear objetos",
+            "Un patrón para manejar excepciones",
+            "Un patrón para implementar interfaces",
+            "Un patrón para crear variables"
         ],
-        "answer": "200 años"
+        "answer": "Un patrón que proporciona una interfaz para crear objetos"
     },
     {
-        "question": "¿Qué animal tiene la mayor cantidad de dientes?",
+        "question": "¿Qué es una cola (Queue) en estructuras de datos?",
         "options": [
-            "Caracol de jardín",
-            "Tiburón",
-            "Delfín",
-            "Cocodrilo"
+            "Una estructura FIFO (First In First Out)",
+            "Una estructura LIFO (Last In First Out)",
+            "Una estructura desordenada",
+            "Una estructura circular"
         ],
-        "answer": "Caracol de jardín"
+        "answer": "Una estructura FIFO (First In First Out)"
     },
     {
-        "question": "¿Cuál es el único mamífero que no puede pestañear?",
+        "question": "¿Qué es una pila (Stack) en estructuras de datos?",
         "options": [
-            "Ballena",
-            "Delfín",
-            "Foca",
-            "Morsa"
+            "Una estructura LIFO (Last In First Out)",
+            "Una estructura FIFO (First In First Out)",
+            "Una estructura desordenada",
+            "Una estructura secuencial"
         ],
-        "answer": "Ballena"
+        "answer": "Una estructura LIFO (Last In First Out)"
     },
     {
-        "question": "¿Qué animal puede regenerar su corazón?",
+        "question": "¿Qué es el método compareTo() en Java?",
         "options": [
-            "Pez cebra",
-            "Salamandra",
-            "Estrella de mar",
-            "Lagartija"
+            "Un método que compara dos objetos y devuelve un entero",
+            "Un método que convierte a string",
+            "Un método que clona objetos",
+            "Un método que suma valores"
         ],
-        "answer": "Pez cebra"
+        "answer": "Un método que compara dos objetos y devuelve un entero"
     },
     {
-        "question": "¿Cuántos brazos tiene un pulpo gigante del Pacífico?",
+        "question": "¿Qué es una expresión lambda en Java?",
         "options": [
-            "8",
-            "6",
-            "10",
-            "12"
+            "Una función anónima que puede ser tratada como un objeto",
+            "Un tipo de variable",
+            "Un método estático",
+            "Una clase abstracta"
         ],
-        "answer": "8"
+        "answer": "Una función anónima que puede ser tratada como un objeto"
     },
     {
-        "question": "¿Qué animal puede cambiar el color de su sangre?",
+        "question": "¿Qué es el Stream API en Java?",
         "options": [
-            "Lagarto cornudo",
-            "Camaleón",
-            "Rana venenosa",
-            "Salamandra"
+            "Una forma de procesar colecciones de objetos de manera declarativa",
+            "Una forma de leer archivos",
+            "Una forma de escribir en consola",
+            "Una forma de crear objetos"
         ],
-        "answer": "Lagarto cornudo"
+        "answer": "Una forma de procesar colecciones de objetos de manera declarativa"
     },
     {
-        "question": "¿Cuál es el único pájaro que puede volar hacia atrás y de lado?",
+        "question": "¿Qué es la programación funcional?",
         "options": [
-            "Colibrí",
-            "Golondrina",
-            "Águila",
-            "Halcón"
+            "Un paradigma que trata la computación como evaluación de funciones matemáticas",
+            "Un paradigma que solo usa objetos",
+            "Un paradigma que solo usa variables",
+            "Un paradigma que solo usa bucles"
         ],
-        "answer": "Colibrí"
+        "answer": "Un paradigma que trata la computación como evaluación de funciones matemáticas"
     },
     {
-        "question": "¿Qué porcentaje de su vida pasa durmiendo un león?",
+        "question": "¿Qué es el proceso de autoboxing en Java?",
         "options": [
-            "20 horas al día",
-            "16 horas al día",
-            "18 horas al día",
-            "14 horas al día"
+            "La conversión automática entre tipos primitivos y sus clases wrapper",
+            "La creación de objetos",
+            "La eliminación de objetos",
+            "La comparación de objetos"
         ],
-        "answer": "20 horas al día"
-    },
-    {
-        "question": "¿Cuál es la única especie de oso que es completamente herbívora?",
-        "options": [
-            "Panda gigante",
-            "Oso negro",
-            "Oso polar",
-            "Oso pardo"
-        ],
-        "answer": "Panda gigante"
-    },
-    {
-        "question": "¿Qué animal tiene el periodo de gestación más largo?",
-        "options": [
-            "Elefante africano",
-            "Ballena azul",
-            "Jirafa",
-            "Rinoceronte"
-        ],
-        "answer": "Elefante africano"
-    },
-    {
-        "question": "¿Cuál es la temperatura corporal más alta registrada en un animal?",
-        "options": [
-            "Picaflor",
-            "Colibrí",
-            "Águila",
-            "Halcón"
-        ],
-        "answer": "Picaflor"
+        "answer": "La conversión automática entre tipos primitivos y sus clases wrapper"
     }
 ]

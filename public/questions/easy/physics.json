@@ -1,0 +1,542 @@
+[
+    {
+        "question": "¿Cuál es la unidad de medida de la fuerza en el Sistema Internacional?",
+        "options": [
+            "Newton",
+            "Joule",
+            "Watt",
+            "Pascal"
+        ],
+        "answer": "Newton"
+    },
+    {
+        "question": "¿Qué estudia la cinemática?",
+        "options": [
+            "El movimiento de los cuerpos sin considerar sus causas",
+            "Las fuerzas que actúan sobre un cuerpo",
+            "Las energías involucradas en un sistema",
+            "Las ondas electromagnéticas"
+        ],
+        "answer": "El movimiento de los cuerpos sin considerar sus causas"
+    },
+    {
+        "question": "¿Cuál es el valor aproximado de la aceleración de la gravedad en la Tierra?",
+        "options": [
+            "9.8 m/s²",
+            "6.7 m/s²",
+            "12.5 m/s²",
+            "3.5 m/s²"
+        ],
+        "answer": "9.8 m/s²"
+    },
+    {
+        "question": "¿Cuál es la tercera ley de Newton?",
+        "options": [
+            "Toda acción tiene una reacción de igual magnitud y dirección opuesta",
+            "La fuerza es igual a la masa por la aceleración",
+            "Un cuerpo en reposo permanece en reposo a menos que actúe una fuerza externa",
+            "La energía no se crea ni se destruye, solo se transforma"
+        ],
+        "answer": "Toda acción tiene una reacción de igual magnitud y dirección opuesta"
+    },
+    {
+        "question": "¿Cómo se llama el cambio de estado de líquido a gas?",
+        "options": [
+            "Evaporación",
+            "Condensación",
+            "Sublimación",
+            "Fusión"
+        ],
+        "answer": "Evaporación"
+    },
+    {
+        "question": "¿Cuál es la unidad de medida de la energía?",
+        "options": [
+            "Joule",
+            "Watt",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Joule"
+    },
+    {
+        "question": "¿Qué estudia la dinámica en física?",
+        "options": [
+            "Las fuerzas y el movimiento",
+            "La energía en sistemas eléctricos",
+            "El comportamiento de fluidos",
+            "La propagación del sonido"
+        ],
+        "answer": "Las fuerzas y el movimiento"
+    },
+    {
+        "question": "¿Qué fuerza mantiene a los planetas en sus órbitas alrededor del Sol?",
+        "options": [
+            "Gravitacional",
+            "Electromagnética",
+            "Nuclear",
+            "Centrífuga"
+        ],
+        "answer": "Gravitacional"
+    },
+    {
+        "question": "¿Cuál es la velocidad de la luz en el vacío?",
+        "options": [
+            "299,792,458 m/s",
+            "150,000 km/s",
+            "9.8 m/s²",
+            "100,000 m/s"
+        ],
+        "answer": "299,792,458 m/s"
+    },
+    {
+        "question": "¿Qué propiedad de la materia mide la cantidad de sustancia?",
+        "options": [
+            "Masa",
+            "Peso",
+            "Densidad",
+            "Volumen"
+        ],
+        "answer": "Masa"
+    },
+    {
+        "question": "¿Cuál es la unidad de medida de la potencia?",
+        "options": [
+            "Watt",
+            "Joule",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Watt"
+    },
+    {
+        "question": "¿Qué tipo de energía posee un objeto en movimiento?",
+        "options": [
+            "Cinética",
+            "Potencial",
+            "Térmica",
+            "Eléctrica"
+        ],
+        "answer": "Cinética"
+    },
+    {
+        "question": "¿Cómo se llama el cambio de estado de sólido a gas sin pasar por el estado líquido?",
+        "options": [
+            "Sublimación",
+            "Evaporación",
+            "Condensación",
+            "Fusión"
+        ],
+        "answer": "Sublimación"
+    },
+    {
+        "question": "¿Qué científico formuló las leyes del movimiento?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Nikola Tesla"
+        ],
+        "answer": "Isaac Newton"
+    },
+    {
+        "question": "¿Qué fenómeno explica por qué un barco flota en el agua?",
+        "options": [
+            "Principio de Arquímedes",
+            "Principio de Pascal",
+            "Ley de Ohm",
+            "Principio de Bernoulli"
+        ],
+        "answer": "Principio de Arquímedes"
+    },
+    {
+        "question": "¿Cuál es la unidad de medida de la carga eléctrica?",
+        "options": [
+            "Coulomb",
+            "Volt",
+            "Ampere",
+            "Ohm"
+        ],
+        "answer": "Coulomb"
+    },
+    {
+        "question": "¿Cómo se mide la intensidad de una corriente eléctrica?",
+        "options": [
+            "En amperios",
+            "En voltios",
+            "En ohmios",
+            "En watts"
+        ],
+        "answer": "En amperios"
+    },
+    {
+        "question": "¿Cuál de los siguientes es un ejemplo de energía renovable?",
+        "options": [
+            "Energía solar",
+            "Energía nuclear",
+            "Carbón",
+            "Petróleo"
+        ],
+        "answer": "Energía solar"
+    },
+    {
+        "question": "¿Qué es un imán?",
+        "options": [
+            "Un objeto que atrae metales ferromagnéticos",
+            "Un tipo de metal",
+            "Un material que conduce electricidad",
+            "Un dispositivo de almacenamiento de energía"
+        ],
+        "answer": "Un objeto que atrae metales ferromagnéticos"
+    },
+    {
+        "question": "¿Qué mide un termómetro?",
+        "options": [
+            "Temperatura",
+            "Presión",
+            "Velocidad",
+            "Masa"
+        ],
+        "answer": "Temperatura"
+    },
+    {
+        "question": "¿Qué ley dice que la presión de un fluido es igual en todas las direcciones?",
+        "options": [
+            "Principio de Pascal",
+            "Principio de Arquímedes",
+            "Ley de Newton",
+            "Ley de Coulomb"
+        ],
+        "answer": "Principio de Pascal"
+    },
+    {
+        "question": "¿Cuál es la ecuación de la velocidad media?",
+        "options": [
+            "Distancia / Tiempo",
+            "Masa x Aceleración",
+            "Fuerza x Distancia",
+            "Presión x Volumen"
+        ],
+        "answer": "Distancia / Tiempo"
+    },
+    {
+        "question": "¿Qué sucede con la presión cuando disminuye el volumen de un gas?",
+        "options": [
+            "Aumenta",
+            "Disminuye",
+            "Se mantiene constante",
+            "Desaparece"
+        ],
+        "answer": "Aumenta"
+    },
+    {
+        "question": "¿Qué es un circuito eléctrico?",
+        "options": [
+            "Un camino cerrado por donde fluye la corriente eléctrica",
+            "Una pila recargable",
+            "Un tipo de interruptor",
+            "Un material aislante"
+        ],
+        "answer": "Un camino cerrado por donde fluye la corriente eléctrica"
+    },
+    {
+        "question": "¿Cómo se llama la fuerza que frena el movimiento de un objeto en contacto con una superficie?",
+        "options": [
+            "Fricción",
+            "Tensión",
+            "Gravitación",
+            "Centrípeta"
+        ],
+        "answer": "Fricción"
+    },
+    {
+        "question": "¿Cuál es la unidad de medida de la presión?",
+        "options": [
+            "Pascal",
+            "Newton",
+            "Joule",
+            "Ohm"
+        ],
+        "answer": "Pascal"
+    },
+    {
+        "question": "¿Qué mide un barómetro?",
+        "options": [
+            "Presión atmosférica",
+            "Temperatura",
+            "Velocidad del viento",
+            "Humedad"
+        ],
+        "answer": "Presión atmosférica"
+    },
+    {
+        "question": "¿Cuál es la unidad de medida de la resistencia eléctrica?",
+        "options": [
+            "Ohm",
+            "Volt",
+            "Ampere",
+            "Watt"
+        ],
+        "answer": "Ohm"
+    },
+    {
+        "question": "¿Qué ley relaciona el voltaje, la corriente y la resistencia en un circuito eléctrico?",
+        "options": [
+            "Ley de Ohm",
+            "Ley de Faraday",
+            "Ley de Coulomb",
+            "Ley de Kirchhoff"
+        ],
+        "answer": "Ley de Ohm"
+    },
+    {
+        "question": "¿Cómo se llama el fenómeno en el que la luz cambia de dirección al pasar de un medio a otro?",
+        "options": [
+            "Refracción",
+            "Reflexión",
+            "Difracción",
+            "Absorción"
+        ],
+        "answer": "Refracción"
+    },
+    {
+        "question": "¿Cuál es el estado de la materia que no tiene forma ni volumen definido?",
+        "options": [
+            "Gas",
+            "Líquido",
+            "Sólido",
+            "Plasma"
+        ],
+        "answer": "Gas"
+    },
+    {
+        "question": "¿Qué tipo de onda es el sonido?",
+        "options": [
+            "Mecánica y longitudinal",
+            "Electromagnética y transversal",
+            "Mecánica y transversal",
+            "Electromagnética y longitudinal"
+        ],
+        "answer": "Mecánica y longitudinal"
+    },
+    {
+        "question": "¿Cómo se llama la capacidad de un material para recuperar su forma después de ser deformado?",
+        "options": [
+            "Elasticidad",
+            "Ductilidad",
+            "Fragilidad",
+            "Plasticidad"
+        ],
+        "answer": "Elasticidad"
+    },
+    {
+        "question": "¿Cuál es la ley de la termodinámica que establece que la energía no se crea ni se destruye?",
+        "options": [
+            "Primera ley de la termodinámica",
+            "Segunda ley de la termodinámica",
+            "Tercera ley de la termodinámica",
+            "Ley cero de la termodinámica"
+        ],
+        "answer": "Primera ley de la termodinámica"
+    },
+    {
+        "question": "¿Cómo se llama el fenómeno por el cual los metales se expanden al calentarse?",
+        "options": [
+            "Dilatación térmica",
+            "Expansión cuántica",
+            "Sublimación",
+            "Fusión"
+        ],
+        "answer": "Dilatación térmica"
+    },
+    {
+        "question": "¿Cuál de los siguientes NO es un tipo de energía?",
+        "options": [
+            "Energía sonora",
+            "Energía nuclear",
+            "Energía gravitacional",
+            "Energía plástica"
+        ],
+        "answer": "Energía plástica"
+    },
+    {
+        "question": "¿Cuál es la fuerza que nos mantiene sobre la Tierra?",
+        "options": [
+            "Gravedad",
+            "Fuerza centrífuga",
+            "Electromagnetismo",
+            "Fuerza nuclear"
+        ],
+        "answer": "Gravedad"
+    },
+    {
+        "question": "¿Cómo se llama el cambio de estado de gas a líquido?",
+        "options": [
+            "Condensación",
+            "Sublimación",
+            "Evaporación",
+            "Solidificación"
+        ],
+        "answer": "Condensación"
+    },
+    {
+        "question": "¿Cuál es el principal gas responsable del efecto invernadero?",
+        "options": [
+            "Dióxido de carbono",
+            "Oxígeno",
+            "Nitrógeno",
+            "Hidrógeno"
+        ],
+        "answer": "Dióxido de carbono"
+    },
+    {
+        "question": "¿Cómo se llama el punto en el que un objeto en caída libre ya no acelera debido a la resistencia del aire?",
+        "options": [
+            "Velocidad terminal",
+            "Velocidad inicial",
+            "Punto de inflexión",
+            "Equilibrio dinámico"
+        ],
+        "answer": "Velocidad terminal"
+    },
+    {
+        "question": "¿Qué nombre recibe la fuerza que actúa sobre un objeto sumergido en un fluido?",
+        "options": [
+            "Empuje",
+            "Tensión",
+            "Peso",
+            "Fricción"
+        ],
+        "answer": "Empuje"
+    },
+    {
+        "question": "¿Qué tipo de espejo hace que los objetos parezcan más grandes?",
+        "options": [
+            "Cóncavo",
+            "Convexo",
+            "Plano",
+            "Irregular"
+        ],
+        "answer": "Cóncavo"
+    },
+    {
+        "question": "¿Cuál es la partícula subatómica con carga negativa?",
+        "options": [
+            "Electrón",
+            "Protón",
+            "Neutrón",
+            "Quark"
+        ],
+        "answer": "Electrón"
+    },
+    {
+        "question": "¿Qué ocurre con la energía cinética de un cuerpo cuando su velocidad se duplica?",
+        "options": [
+            "Se cuadruplica",
+            "Se duplica",
+            "Se mantiene igual",
+            "Se reduce a la mitad"
+        ],
+        "answer": "Se cuadruplica"
+    },
+    {
+        "question": "¿Cómo se llama la cantidad de materia contenida en un cuerpo?",
+        "options": [
+            "Masa",
+            "Peso",
+            "Volumen",
+            "Densidad"
+        ],
+        "answer": "Masa"
+    },
+    {
+        "question": "¿Qué tipo de onda es la luz?",
+        "options": [
+            "Electromagnética y transversal",
+            "Electromagnética y longitudinal",
+            "Mecánica y transversal",
+            "Mecánica y longitudinal"
+        ],
+        "answer": "Electromagnética y transversal"
+    },
+    {
+        "question": "¿Qué fenómeno óptico explica la formación del arcoíris?",
+        "options": [
+            "Refracción y dispersión",
+            "Reflexión total",
+            "Difracción",
+            "Absorción"
+        ],
+        "answer": "Refracción y dispersión"
+    },
+    {
+        "question": "¿Qué propiedad de los fluidos explica por qué los aviones pueden volar?",
+        "options": [
+            "Principio de Bernoulli",
+            "Principio de Pascal",
+            "Principio de Arquímedes",
+            "Ley de Newton"
+        ],
+        "answer": "Principio de Bernoulli"
+    },
+    {
+        "question": "¿Qué nombre recibe la energía almacenada en un resorte estirado?",
+        "options": [
+            "Energía potencial elástica",
+            "Energía cinética",
+            "Energía química",
+            "Energía térmica"
+        ],
+        "answer": "Energía potencial elástica"
+    },
+    {
+        "question": "¿Qué propiedad física mide la resistencia de un material a ser rayado?",
+        "options": [
+            "Dureza",
+            "Elasticidad",
+            "Ductilidad",
+            "Tenacidad"
+        ],
+        "answer": "Dureza"
+    },
+    {
+        "question": "¿Qué instrumento se usa para medir la presión atmosférica?",
+        "options": [
+            "Barómetro",
+            "Manómetro",
+            "Dinamómetro",
+            "Higrómetro"
+        ],
+        "answer": "Barómetro"
+    },
+    {
+        "question": "¿Qué fenómeno hace que los objetos que giran sobre su eje mantengan su orientación?",
+        "options": [
+            "Efecto giroscópico",
+            "Efecto Doppler",
+            "Principio de Arquímedes",
+            "Ley de Coulomb"
+        ],
+        "answer": "Efecto giroscópico"
+    },
+    {
+        "question": "¿Qué unidad se usa para medir la frecuencia de una onda?",
+        "options": [
+            "Hertz",
+            "Newton",
+            "Joule",
+            "Ohm"
+        ],
+        "answer": "Hertz"
+    },
+    {
+        "question": "¿Qué es la inercia?",
+        "options": [
+            "La tendencia de un cuerpo a mantener su estado de movimiento o reposo",
+            "La resistencia al flujo de corriente",
+            "La fuerza que mantiene los planetas en órbita",
+            "La transferencia de calor en un material"
+        ],
+        "answer": "La tendencia de un cuerpo a mantener su estado de movimiento o reposo"
+    }
+]

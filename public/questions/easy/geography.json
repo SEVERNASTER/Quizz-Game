@@ -1,0 +1,1042 @@
+[
+    {
+        "question": "¿Cuál es la capital de Francia?",
+        "options": [
+            "París",
+            "Londres",
+            "Madrid",
+            "Roma"
+        ],
+        "answer": "París"
+    },
+    {
+        "question": "¿Cuál es el océano más grande del mundo?",
+        "options": [
+            "Océano Pacífico",
+            "Océano Atlántico",
+            "Océano Índico",
+            "Océano Ártico"
+        ],
+        "answer": "Océano Pacífico"
+    },
+    {
+        "question": "¿En qué continente se encuentra Egipto?",
+        "options": [
+            "África",
+            "Asia",
+            "Europa",
+            "América"
+        ],
+        "answer": "África"
+    },
+    {
+        "question": "¿Cuál es el río más largo del mundo?",
+        "options": [
+            "Río Nilo",
+            "Río Amazonas",
+            "Río Misisipi",
+            "Río Yangtsé"
+        ],
+        "answer": "Río Amazonas"
+    },
+    {
+        "question": "¿Cuál es el país más grande del mundo por territorio?",
+        "options": [
+            "Rusia",
+            "China",
+            "Estados Unidos",
+            "Canadá"
+        ],
+        "answer": "Rusia"
+    },
+    {
+        "question": "¿En qué país se encuentra la Torre Eiffel?",
+        "options": [
+            "Francia",
+            "Italia",
+            "España",
+            "Alemania"
+        ],
+        "answer": "Francia"
+    },
+    {
+        "question": "¿Cuál es el desierto más grande del mundo?",
+        "options": [
+            "Sahara",
+            "Atacama",
+            "Gobi",
+            "Antártida"
+        ],
+        "answer": "Sahara"
+    },
+    {
+        "question": "¿Cuál es la capital de Italia?",
+        "options": [
+            "Roma",
+            "Milán",
+            "Venecia",
+            "Florencia"
+        ],
+        "answer": "Roma"
+    },
+    {
+        "question": "¿En qué continente se encuentra Australia?",
+        "options": [
+            "Oceanía",
+            "Asia",
+            "América",
+            "Europa"
+        ],
+        "answer": "Oceanía"
+    },
+    {
+        "question": "¿Cuál es el país más poblado del mundo?",
+        "options": [
+            "China",
+            "India",
+            "Estados Unidos",
+            "Indonesia"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "¿Qué país tiene forma de bota?",
+        "options": [
+            "Italia",
+            "España",
+            "Grecia",
+            "Portugal"
+        ],
+        "answer": "Italia"
+    },
+    {
+        "question": "¿Cuál es la capital de España?",
+        "options": [
+            "Madrid",
+            "Barcelona",
+            "Valencia",
+            "Sevilla"
+        ],
+        "answer": "Madrid"
+    },
+    {
+        "question": "¿En qué continente está ubicada la selva amazónica?",
+        "options": [
+            "América del Sur",
+            "África",
+            "Asia",
+            "Oceanía"
+        ],
+        "answer": "América del Sur"
+    },
+    {
+        "question": "¿Cuál es el monte más alto del mundo?",
+        "options": [
+            "Monte Everest",
+            "Monte Kilimanjaro",
+            "Monte Aconcagua",
+            "Monte McKinley"
+        ],
+        "answer": "Monte Everest"
+    },
+    {
+        "question": "¿Cuál es la capital de México?",
+        "options": [
+            "Ciudad de México",
+            "Guadalajara",
+            "Monterrey",
+            "Cancún"
+        ],
+        "answer": "Ciudad de México"
+    },
+    {
+        "question": "¿En qué país se encuentra el Taj Mahal?",
+        "options": [
+            "India",
+            "Pakistán",
+            "Bangladesh",
+            "Nepal"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "¿Cuál es el país más pequeño del mundo?",
+        "options": [
+            "Vaticano",
+            "Mónaco",
+            "San Marino",
+            "Liechtenstein"
+        ],
+        "answer": "Vaticano"
+    },
+    {
+        "question": "¿Cuál es la capital de Japón?",
+        "options": [
+            "Tokio",
+            "Osaka",
+            "Kioto",
+            "Hiroshima"
+        ],
+        "answer": "Tokio"
+    },
+    {
+        "question": "¿En qué continente se encuentra Marruecos?",
+        "options": [
+            "África",
+            "Asia",
+            "Europa",
+            "América"
+        ],
+        "answer": "África"
+    },
+    {
+        "question": "¿Cuál es el lago más profundo del mundo?",
+        "options": [
+            "Lago Baikal",
+            "Lago Victoria",
+            "Lago Superior",
+            "Lago Titicaca"
+        ],
+        "answer": "Lago Baikal"
+    },
+    {
+        "question": "¿Cuál es la capital de Brasil?",
+        "options": [
+            "Brasilia",
+            "Río de Janeiro",
+            "São Paulo",
+            "Salvador"
+        ],
+        "answer": "Brasilia"
+    },
+    {
+        "question": "¿En qué país se encuentra la Gran Muralla?",
+        "options": [
+            "China",
+            "Japón",
+            "Corea del Sur",
+            "Mongolia"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "¿Cuál es el mar más grande del mundo?",
+        "options": [
+            "Mar de China",
+            "Mar Mediterráneo",
+            "Mar Caribe",
+            "Mar Negro"
+        ],
+        "answer": "Mar de China"
+    },
+    {
+        "question": "¿Cuál es la capital de Argentina?",
+        "options": [
+            "Buenos Aires",
+            "Córdoba",
+            "Rosario",
+            "Mendoza"
+        ],
+        "answer": "Buenos Aires"
+    },
+    {
+        "question": "¿En qué país se encuentran las pirámides de Giza?",
+        "options": [
+            "Egipto",
+            "Sudán",
+            "Libia",
+            "Túnez"
+        ],
+        "answer": "Egipto"
+    },
+    {
+        "question": "¿Cuál es la capital de Rusia?",
+        "options": [
+            "Moscú",
+            "San Petersburgo",
+            "Kiev",
+            "Minsk"
+        ],
+        "answer": "Moscú"
+    },
+    {
+        "question": "¿Cuál es el estrecho que separa Asia de América?",
+        "options": [
+            "Estrecho de Bering",
+            "Estrecho de Gibraltar",
+            "Estrecho de Malaca",
+            "Estrecho de Magallanes"
+        ],
+        "answer": "Estrecho de Bering"
+    },
+    {
+        "question": "¿Cuál es la capital de China?",
+        "options": [
+            "Pekín",
+            "Shanghái",
+            "Hong Kong",
+            "Cantón"
+        ],
+        "answer": "Pekín"
+    },
+    {
+        "question": "¿En qué país se encuentra el Monte Fuji?",
+        "options": [
+            "Japón",
+            "China",
+            "Corea del Sur",
+            "Vietnam"
+        ],
+        "answer": "Japón"
+    },
+    {
+        "question": "¿Cuál es la capital de Canadá?",
+        "options": [
+            "Ottawa",
+            "Toronto",
+            "Montreal",
+            "Vancouver"
+        ],
+        "answer": "Ottawa"
+    },
+    {
+        "question": "¿En qué continente se encuentra Nigeria?",
+        "options": [
+            "África",
+            "Asia",
+            "América",
+            "Europa"
+        ],
+        "answer": "África"
+    },
+    {
+        "question": "¿Cuál es el país más austral del mundo?",
+        "options": [
+            "Chile",
+            "Argentina",
+            "Nueva Zelanda",
+            "Sudáfrica"
+        ],
+        "answer": "Chile"
+    },
+    {
+        "question": "¿Cuál es la capital de Australia?",
+        "options": [
+            "Canberra",
+            "Sídney",
+            "Melbourne",
+            "Brisbane"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "question": "¿En qué país se encuentra Machu Picchu?",
+        "options": [
+            "Perú",
+            "Bolivia",
+            "Ecuador",
+            "Colombia"
+        ],
+        "answer": "Perú"
+    },
+    {
+        "question": "¿Cuál es el golfo más grande del mundo?",
+        "options": [
+            "Golfo de México",
+            "Golfo Pérsico",
+            "Golfo de Bengala",
+            "Golfo de Guinea"
+        ],
+        "answer": "Golfo de México"
+    },
+    {
+        "question": "¿Cuál es la capital de Portugal?",
+        "options": [
+            "Lisboa",
+            "Oporto",
+            "Faro",
+            "Coímbra"
+        ],
+        "answer": "Lisboa"
+    },
+    {
+        "question": "¿En qué país se encuentra el Canal de Suez?",
+        "options": [
+            "Egipto",
+            "Arabia Saudita",
+            "Jordania",
+            "Israel"
+        ],
+        "answer": "Egipto"
+    },
+    {
+        "question": "¿Cuál es la capital de Colombia?",
+        "options": [
+            "Bogotá",
+            "Medellín",
+            "Cali",
+            "Cartagena"
+        ],
+        "answer": "Bogotá"
+    },
+    {
+        "question": "¿En qué continente se encuentra Turquía?",
+        "options": [
+            "Asia y Europa",
+            "Solo Asia",
+            "Solo Europa",
+            "África"
+        ],
+        "answer": "Asia y Europa"
+    },
+    {
+        "question": "¿Cuál es el país más pequeño de América?",
+        "options": [
+            "San Cristóbal y Nieves",
+            "El Salvador",
+            "Belice",
+            "Bahamas"
+        ],
+        "answer": "San Cristóbal y Nieves"
+    },
+    {
+        "question": "¿Cuál es la capital de Alemania?",
+        "options": [
+            "Berlín",
+            "Múnich",
+            "Hamburgo",
+            "Frankfurt"
+        ],
+        "answer": "Berlín"
+    },
+    {
+        "question": "¿En qué país se encuentra el Monte Kilimanjaro?",
+        "options": [
+            "Tanzania",
+            "Kenia",
+            "Uganda",
+            "Etiopía"
+        ],
+        "answer": "Tanzania"
+    },
+    {
+        "question": "¿Cuál es la isla más grande del mundo?",
+        "options": [
+            "Groenlandia",
+            "Nueva Guinea",
+            "Borneo",
+            "Madagascar"
+        ],
+        "answer": "Groenlandia"
+    },
+    {
+        "question": "¿Cuál es la capital de Perú?",
+        "options": [
+            "Lima",
+            "Cusco",
+            "Arequipa",
+            "Trujillo"
+        ],
+        "answer": "Lima"
+    },
+    {
+        "question": "¿En qué país se encuentra el volcán Vesubio?",
+        "options": [
+            "Italia",
+            "Grecia",
+            "España",
+            "Francia"
+        ],
+        "answer": "Italia"
+    },
+    {
+        "question": "¿Cuál es el país con más lagos del mundo?",
+        "options": [
+            "Canadá",
+            "Rusia",
+            "Estados Unidos",
+            "Finlandia"
+        ],
+        "answer": "Canadá"
+    },
+    {
+        "question": "¿Cuál es la capital de Sudáfrica?",
+        "options": [
+            "Pretoria",
+            "Ciudad del Cabo",
+            "Johannesburgo",
+            "Durban"
+        ],
+        "answer": "Pretoria"
+    },
+    {
+        "question": "¿En qué país se encuentra el río Danubio?",
+        "options": [
+            "Alemania",
+            "Francia",
+            "Italia",
+            "Polonia"
+        ],
+        "answer": "Alemania"
+    },
+    {
+        "question": "¿Cuál es la capital de Chile?",
+        "options": [
+            "Santiago",
+            "Valparaíso",
+            "Concepción",
+            "Antofagasta"
+        ],
+        "answer": "Santiago"
+    },
+    {
+        "question": "¿En qué continente se encuentra Nueva Zelanda?",
+        "options": [
+            "Oceanía",
+            "Asia",
+            "América",
+            "Europa"
+        ],
+        "answer": "Oceanía"
+    },
+    {
+        "question": "¿Cuál es el país con más islas del mundo?",
+        "options": [
+            "Suecia",
+            "Indonesia",
+            "Filipinas",
+            "Japón"
+        ],
+        "answer": "Suecia"
+    },
+    {
+        "question": "¿Cuál es la capital de Cuba?",
+        "options": [
+            "La Habana",
+            "Santiago de Cuba",
+            "Camagüey",
+            "Holguín"
+        ],
+        "answer": "La Habana"
+    },
+    {
+        "question": "¿Cuál es la capital de Suecia?",
+        "options": [
+            "Estocolmo",
+            "Oslo",
+            "Copenhague",
+            "Helsinki"
+        ],
+        "answer": "Estocolmo"
+    },
+    {
+        "question": "¿En qué país se encuentra el Lago Ness?",
+        "options": [
+            "Escocia",
+            "Irlanda",
+            "Gales",
+            "Inglaterra"
+        ],
+        "answer": "Escocia"
+    },
+    {
+        "question": "¿Cuál es la capital de Marruecos?",
+        "options": [
+            "Rabat",
+            "Casablanca",
+            "Marrakech",
+            "Tánger"
+        ],
+        "answer": "Rabat"
+    },
+    {
+        "question": "¿En qué país se encuentra Angkor Wat?",
+        "options": [
+            "Camboya",
+            "Tailandia",
+            "Vietnam",
+            "Laos"
+        ],
+        "answer": "Camboya"
+    },
+    {
+        "question": "¿Cuál es el país más grande de Sudamérica?",
+        "options": [
+            "Brasil",
+            "Argentina",
+            "Colombia",
+            "Perú"
+        ],
+        "answer": "Brasil"
+    },
+    {
+        "question": "¿Cuál es la capital de Irlanda?",
+        "options": [
+            "Dublín",
+            "Belfast",
+            "Cork",
+            "Galway"
+        ],
+        "answer": "Dublín"
+    },
+    {
+        "question": "¿En qué continente se encuentra Madagascar?",
+        "options": [
+            "África",
+            "Asia",
+            "Oceanía",
+            "Europa"
+        ],
+        "answer": "África"
+    },
+    {
+        "question": "¿Cuál es el país más montañoso de Europa?",
+        "options": [
+            "Suiza",
+            "Austria",
+            "Italia",
+            "Francia"
+        ],
+        "answer": "Suiza"
+    },
+    {
+        "question": "¿Cuál es la capital de Vietnam?",
+        "options": [
+            "Hanói",
+            "Ho Chi Minh",
+            "Da Nang",
+            "Hue"
+        ],
+        "answer": "Hanói"
+    },
+    {
+        "question": "¿En qué país se encuentra la ciudad de Petra?",
+        "options": [
+            "Jordania",
+            "Siria",
+            "Líbano",
+            "Iraq"
+        ],
+        "answer": "Jordania"
+    },
+    {
+        "question": "¿Cuál es el río más largo de Europa?",
+        "options": [
+            "Volga",
+            "Danubio",
+            "Rin",
+            "Sena"
+        ],
+        "answer": "Volga"
+    },
+    {
+        "question": "¿Cuál es la capital de Nueva Zelanda?",
+        "options": [
+            "Wellington",
+            "Auckland",
+            "Christchurch",
+            "Hamilton"
+        ],
+        "answer": "Wellington"
+    },
+    {
+        "question": "¿En qué país se encuentra el Monte Olimpo?",
+        "options": [
+            "Grecia",
+            "Italia",
+            "Turquía",
+            "Bulgaria"
+        ],
+        "answer": "Grecia"
+    },
+    {
+        "question": "¿Cuál es el país más pequeño de Asia?",
+        "options": [
+            "Maldivas",
+            "Brunéi",
+            "Singapur",
+            "Bahréin"
+        ],
+        "answer": "Maldivas"
+    },
+    {
+        "question": "¿Cuál es la capital de Hungría?",
+        "options": [
+            "Budapest",
+            "Praga",
+            "Varsovia",
+            "Bucarest"
+        ],
+        "answer": "Budapest"
+    },
+    {
+        "question": "¿En qué país se encuentra el lago Titicaca?",
+        "options": [
+            "Perú y Bolivia",
+            "Chile y Argentina",
+            "Ecuador y Perú",
+            "Bolivia y Chile"
+        ],
+        "answer": "Perú y Bolivia"
+    },
+    {
+        "question": "¿Cuál es el archipiélago más grande del mundo?",
+        "options": [
+            "Indonesia",
+            "Filipinas",
+            "Japón",
+            "Maldivas"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Cuál es la capital de Dinamarca?",
+        "options": [
+            "Copenhague",
+            "Oslo",
+            "Estocolmo",
+            "Helsinki"
+        ],
+        "answer": "Copenhague"
+    },
+    {
+        "question": "¿En qué país se encuentra la ciudad de Casablanca?",
+        "options": [
+            "Marruecos",
+            "Argelia",
+            "Túnez",
+            "Libia"
+        ],
+        "answer": "Marruecos"
+    },
+    {
+        "question": "¿Cuál es el estrecho que separa Europa de África?",
+        "options": [
+            "Gibraltar",
+            "Bósforo",
+            "Dardanelos",
+            "Messina"
+        ],
+        "answer": "Gibraltar"
+    },
+    {
+        "question": "¿Cuál es la capital de Bolivia?",
+        "options": [
+            "La Paz",
+            "Sucre",
+            "Santa Cruz",
+            "Cochabamba"
+        ],
+        "answer": "Sucre"
+    },
+    {
+        "question": "¿En qué país se encuentra la ciudad de Dubái?",
+        "options": [
+            "Emiratos Árabes Unidos",
+            "Arabia Saudita",
+            "Qatar",
+            "Omán"
+        ],
+        "answer": "Emiratos Árabes Unidos"
+    },
+    {
+        "question": "¿Cuál es el país más grande de África?",
+        "options": [
+            "Argelia",
+            "Sudán",
+            "Libia",
+            "República Democrática del Congo"
+        ],
+        "answer": "Argelia"
+    },
+    {
+        "question": "¿Cuál es la capital de Filipinas?",
+        "options": [
+            "Manila",
+            "Cebú",
+            "Davao",
+            "Quezon"
+        ],
+        "answer": "Manila"
+    },
+    {
+        "question": "¿En qué país se encuentra el Círculo Polar Ártico?",
+        "options": [
+            "Noruega",
+            "Suecia",
+            "Finlandia",
+            "Todos los anteriores"
+        ],
+        "answer": "Todos los anteriores"
+    },
+    {
+        "question": "¿Cuál es la montaña más alta de África?",
+        "options": [
+            "Kilimanjaro",
+            "Monte Kenia",
+            "Monte Stanley",
+            "Ras Dashen"
+        ],
+        "answer": "Kilimanjaro"
+    },
+    {
+        "question": "¿Cuál es la capital de Tailandia?",
+        "options": [
+            "Bangkok",
+            "Phuket",
+            "Chiang Mai",
+            "Pattaya"
+        ],
+        "answer": "Bangkok"
+    },
+    {
+        "question": "¿En qué país se encuentra la isla de Bali?",
+        "options": [
+            "Indonesia",
+            "Malasia",
+            "Filipinas",
+            "Tailandia"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Cuál es el país más poblado de África?",
+        "options": [
+            "Nigeria",
+            "Etiopía",
+            "Egipto",
+            "República Democrática del Congo"
+        ],
+        "answer": "Nigeria"
+    },
+    {
+        "question": "¿Cuál es la capital de Ecuador?",
+        "options": [
+            "Quito",
+            "Guayaquil",
+            "Cuenca",
+            "Manta"
+        ],
+        "answer": "Quito"
+    },
+    {
+        "question": "¿En qué país se encuentra el Valle de la Muerte?",
+        "options": [
+            "Estados Unidos",
+            "México",
+            "Chile",
+            "Argentina"
+        ],
+        "answer": "Estados Unidos"
+    },
+    {
+        "question": "¿Cuál es el país con más volcanes activos?",
+        "options": [
+            "Indonesia",
+            "Japón",
+            "Chile",
+            "Estados Unidos"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Cuál es la capital de Polonia?",
+        "options": [
+            "Varsovia",
+            "Cracovia",
+            "Gdansk",
+            "Poznan"
+        ],
+        "answer": "Varsovia"
+    },
+    {
+        "question": "¿En qué país se encuentra el desierto de Atacama?",
+        "options": [
+            "Chile",
+            "Perú",
+            "Bolivia",
+            "Argentina"
+        ],
+        "answer": "Chile"
+    },
+    {
+        "question": "¿Cuál es el segundo continente más grande?",
+        "options": [
+            "África",
+            "América",
+            "Asia",
+            "Europa"
+        ],
+        "answer": "África"
+    },
+    {
+        "question": "¿Cuál es la capital de Venezuela?",
+        "options": [
+            "Caracas",
+            "Maracaibo",
+            "Valencia",
+            "Barquisimeto"
+        ],
+        "answer": "Caracas"
+    },
+    {
+        "question": "¿En qué país se encuentra la Capadocia?",
+        "options": [
+            "Turquía",
+            "Grecia",
+            "Siria",
+            "Irán"
+        ],
+        "answer": "Turquía"
+    },
+    {
+        "question": "¿Cuál es el país más lluvioso del mundo?",
+        "options": [
+            "Colombia",
+            "India",
+            "Indonesia",
+            "Brasil"
+        ],
+        "answer": "Colombia"
+    },
+    {
+        "question": "¿Cuál es la capital de Noruega?",
+        "options": [
+            "Oslo",
+            "Bergen",
+            "Trondheim",
+            "Stavanger"
+        ],
+        "answer": "Oslo"
+    },
+    {
+        "question": "¿En qué país se encuentra el Monte Aconcagua?",
+        "options": [
+            "Argentina",
+            "Chile",
+            "Perú",
+            "Bolivia"
+        ],
+        "answer": "Argentina"
+    },
+    {
+        "question": "¿Cuál es el país más antiguo de Europa?",
+        "options": [
+            "Portugal",
+            "Francia",
+            "Italia",
+            "Grecia"
+        ],
+        "answer": "Portugal"
+    },
+    {
+        "question": "¿Cuál es la capital de Corea del Sur?",
+        "options": [
+            "Seúl",
+            "Busan",
+            "Incheon",
+            "Daegu"
+        ],
+        "answer": "Seúl"
+    },
+    {
+        "question": "¿En qué país se encuentra el lago Victoria?",
+        "options": [
+            "Tanzania, Uganda y Kenia",
+            "Kenia y Etiopía",
+            "Uganda y Ruanda",
+            "Tanzania y Mozambique"
+        ],
+        "answer": "Tanzania, Uganda y Kenia"
+    },
+    {
+        "question": "¿Cuál es la isla más grande del Mediterráneo?",
+        "options": [
+            "Sicilia",
+            "Creta",
+            "Cerdeña",
+            "Chipre"
+        ],
+        "answer": "Sicilia"
+    },
+    {
+        "question": "¿Cuál es la capital de Israel?",
+        "options": [
+            "Jerusalén",
+            "Tel Aviv",
+            "Haifa",
+            "Beersheba"
+        ],
+        "answer": "Jerusalén"
+    },
+    {
+        "question": "¿En qué país se encuentra el Monte Cervino?",
+        "options": [
+            "Suiza e Italia",
+            "Francia y Suiza",
+            "Austria e Italia",
+            "Alemania y Austria"
+        ],
+        "answer": "Suiza e Italia"
+    },
+    {
+        "question": "¿Cuál es el país con más ríos del mundo?",
+        "options": [
+            "Brasil",
+            "Rusia",
+            "China",
+            "Estados Unidos"
+        ],
+        "answer": "Brasil"
+    },
+    {
+        "question": "¿Cuál es la capital de Uruguay?",
+        "options": [
+            "Montevideo",
+            "Punta del Este",
+            "Salto",
+            "Maldonado"
+        ],
+        "answer": "Montevideo"
+    },
+    {
+        "question": "¿En qué país se encuentra la ciudad de Marrakech?",
+        "options": [
+            "Marruecos",
+            "Túnez",
+            "Argelia",
+            "Egipto"
+        ],
+        "answer": "Marruecos"
+    },
+    {
+        "question": "¿Cuál es el río más largo de Asia?",
+        "options": [
+            "Yangtsé",
+            "Ganges",
+            "Mekong",
+            "Amur"
+        ],
+        "answer": "Yangtsé"
+    },
+    {
+        "question": "¿Cuál es la capital de Finlandia?",
+        "options": [
+            "Helsinki",
+            "Tampere",
+            "Turku",
+            "Espoo"
+        ],
+        "answer": "Helsinki"
+    },
+    {
+        "question": "¿En qué país se encuentra la región de la Patagonia?",
+        "options": [
+            "Argentina y Chile",
+            "Chile y Perú",
+            "Argentina y Uruguay",
+            "Brasil y Argentina"
+        ],
+        "answer": "Argentina y Chile"
+    }
+]

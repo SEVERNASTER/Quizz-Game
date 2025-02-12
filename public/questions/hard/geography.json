@@ -1,0 +1,532 @@
+[
+    {
+        "question": "¿Qué país está ubicado en tres continentes diferentes?",
+        "options": [
+            "Rusia",
+            "Turquía",
+            "Francia",
+            "Estados Unidos"
+        ],
+        "answer": "Turquía"
+    },
+    {
+        "question": "¿Cuál es el punto más profundo de la tierra que no está cubierto por agua?",
+        "options": [
+            "Valle de la Muerte",
+            "Depresión de Danakil",
+            "Depresión de Turpan",
+            "Depresión del Mar Muerto"
+        ],
+        "answer": "Depresión del Mar Muerto"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de lagos naturales?",
+        "options": [
+            "Canadá",
+            "Rusia",
+            "Estados Unidos",
+            "Noruega"
+        ],
+        "answer": "Canadá"
+    },
+    {
+        "question": "¿Cuál es el río más contaminado del mundo?",
+        "options": [
+            "Ganges",
+            "Citarum",
+            "Amarillo",
+            "Marilao"
+        ],
+        "answer": "Citarum"
+    },
+    {
+        "question": "¿Qué país tiene la frontera más larga con el océano?",
+        "options": [
+            "Canadá",
+            "Indonesia",
+            "Rusia",
+            "Australia"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Cuál es el punto más alejado del centro de la Tierra?",
+        "options": [
+            "Monte Everest",
+            "Chimborazo",
+            "Monte Kilimanjaro",
+            "Monte McKinley"
+        ],
+        "answer": "Chimborazo"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de islas en el mundo?",
+        "options": [
+            "Indonesia",
+            "Filipinas",
+            "Suecia",
+            "Noruega"
+        ],
+        "answer": "Suecia"
+    },
+    {
+        "question": "¿Cuál es el desierto más frío del mundo?",
+        "options": [
+            "Gobi",
+            "Atacama",
+            "Antártida",
+            "Namib"
+        ],
+        "answer": "Antártida"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de volcanes activos?",
+        "options": [
+            "Indonesia",
+            "Japón",
+            "Estados Unidos",
+            "Chile"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Cuál es el país más montañoso del mundo por porcentaje de territorio?",
+        "options": [
+            "Nepal",
+            "Suiza",
+            "Bután",
+            "Kirguistán"
+        ],
+        "answer": "Bután"
+    },
+    {
+        "question": "¿Qué ciudad es la más septentrional del mundo con más de 50,000 habitantes?",
+        "options": [
+            "Tromsø",
+            "Murmansk",
+            "Norilsk",
+            "Reykjavik"
+        ],
+        "answer": "Murmansk"
+    },
+    {
+        "question": "¿Cuál es el lago más salado del mundo?",
+        "options": [
+            "Mar Muerto",
+            "Lago Assal",
+            "Don Juan Pond",
+            "Gran Lago Salado"
+        ],
+        "answer": "Don Juan Pond"
+    },
+    {
+        "question": "¿Qué país tiene la mayor diversidad de climas?",
+        "options": [
+            "Rusia",
+            "China",
+            "Brasil",
+            "México"
+        ],
+        "answer": "México"
+    },
+    {
+        "question": "¿Cuál es el punto más bajo de la Tierra que está en tierra firme?",
+        "options": [
+            "Mar Muerto",
+            "Lago Assal",
+            "Depresión de Turpan",
+            "Depresión de Qattara"
+        ],
+        "answer": "Mar Muerto"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de fronteras internacionales?",
+        "options": [
+            "Rusia",
+            "China",
+            "Brasil",
+            "Francia"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "¿Cuál es el río más radioactivo del mundo?",
+        "options": [
+            "Techa",
+            "Ganges",
+            "Amarillo",
+            "Citarum"
+        ],
+        "answer": "Techa"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de glaciares fuera de las regiones polares?",
+        "options": [
+            "Canadá",
+            "Chile",
+            "Noruega",
+            "Pakistan"
+        ],
+        "answer": "Pakistan"
+    },
+    {
+        "question": "¿Cuál es la isla más grande que está dentro de un lago en una isla que está dentro de un lago en una isla?",
+        "options": [
+            "Isla Vulcan Point",
+            "Isla René-Levasseur",
+            "Isla Manitoulin",
+            "Isla Fraser"
+        ],
+        "answer": "Isla Vulcan Point"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de sitios declarados Patrimonio de la Humanidad por la UNESCO?",
+        "options": [
+            "Italia",
+            "China",
+            "España",
+            "Francia"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "¿Cuál es el bosque más antiguo del mundo?",
+        "options": [
+            "Daintree",
+            "Tongass",
+            "Tarkine",
+            "Waipoua"
+        ],
+        "answer": "Daintree"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de zonas horarias?",
+        "options": [
+            "Rusia",
+            "Estados Unidos",
+            "Francia",
+            "Reino Unido"
+        ],
+        "answer": "Francia"
+    },
+    {
+        "question": "¿Cuál es la montaña más alta completamente bajo el mar?",
+        "options": [
+            "Monte Mauna Kea",
+            "Banco Dogger",
+            "Monte submarino Davidson",
+            "Monte submarino Great Meteor"
+        ],
+        "answer": "Monte submarino Great Meteor"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de lenguas oficiales?",
+        "options": [
+            "India",
+            "Sudáfrica",
+            "Zimbabwe",
+            "Bolivia"
+        ],
+        "answer": "Zimbabwe"
+    },
+    {
+        "question": "¿Cuál es el lago más profundo de América?",
+        "options": [
+            "Gran Lago del Esclavo",
+            "Lago Crater",
+            "Lago Superior",
+            "Lago Michigan"
+        ],
+        "answer": "Gran Lago del Esclavo"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de archipiélagos?",
+        "options": [
+            "Indonesia",
+            "Filipinas",
+            "Japón",
+            "Noruega"
+        ],
+        "answer": "Noruega"
+    },
+    {
+        "question": "¿Cuál es el desierto más alto del mundo?",
+        "options": [
+            "Atacama",
+            "Ladakh",
+            "Qaidam",
+            "Salar de Uyuni"
+        ],
+        "answer": "Qaidam"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de reservas de la biosfera reconocidas por la UNESCO?",
+        "options": [
+            "Estados Unidos",
+            "Rusia",
+            "China",
+            "España"
+        ],
+        "answer": "España"
+    },
+    {
+        "question": "¿Cuál es la falla geológica más larga del mundo?",
+        "options": [
+            "Falla de San Andrés",
+            "Falla Alpina",
+            "Falla del Mar Muerto",
+            "Falla de Altyn Tagh"
+        ],
+        "answer": "Falla Alpina"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de cascadas?",
+        "options": [
+            "Noruega",
+            "Nueva Zelanda",
+            "Islandia",
+            "Canadá"
+        ],
+        "answer": "Noruega"
+    },
+    {
+        "question": "¿Cuál es el delta más grande del mundo?",
+        "options": [
+            "Delta del Ganges",
+            "Delta del Nilo",
+            "Delta del Mississippi",
+            "Delta del Amazonas"
+        ],
+        "answer": "Delta del Ganges"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de cuevas exploradas?",
+        "options": [
+            "Estados Unidos",
+            "China",
+            "Francia",
+            "Eslovenia"
+        ],
+        "answer": "Eslovenia"
+    },
+    {
+        "question": "¿Cuál es el punto más profundo del océano Índico?",
+        "options": [
+            "Fosa de Java",
+            "Fosa Diamantina",
+            "Trinchera de Sunda",
+            "Fosa de las Marianas"
+        ],
+        "answer": "Fosa de Java"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de géiseres activos?",
+        "options": [
+            "Estados Unidos",
+            "Islandia",
+            "Nueva Zelanda",
+            "Rusia"
+        ],
+        "answer": "Estados Unidos"
+    },
+    {
+        "question": "¿Cuál es el valle más profundo del mundo?",
+        "options": [
+            "Valle del Rift",
+            "Valle de Yarlung Tsangpo",
+            "Valle de Kali Gandaki",
+            "Valle de la Muerte"
+        ],
+        "answer": "Valle de Yarlung Tsangpo"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de sitios Ramsar (humedales de importancia internacional)?",
+        "options": [
+            "Reino Unido",
+            "México",
+            "China",
+            "Australia"
+        ],
+        "answer": "Reino Unido"
+    },
+    {
+        "question": "¿Cuál es la isla más grande formada por un atolón?",
+        "options": [
+            "Kiritimati",
+            "Aldabra",
+            "Rangiroa",
+            "Funafuti"
+        ],
+        "answer": "Kiritimati"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de parques nacionales?",
+        "options": [
+            "Estados Unidos",
+            "Australia",
+            "Brasil",
+            "China"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "¿Cuál es el cañón submarino más profundo?",
+        "options": [
+            "Cañón Zhemchug",
+            "Cañón de Monterey",
+            "Gran Cañón Azul",
+            "Cañón del Congo"
+        ],
+        "answer": "Cañón Zhemchug"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de lagos artificiales?",
+        "options": [
+            "Estados Unidos",
+            "China",
+            "India",
+            "Canadá"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "¿Cuál es el desierto polar más grande del mundo?",
+        "options": [
+            "Desierto de la Antártida Oriental",
+            "Desierto Ártico Canadiense",
+            "Desierto de Groenlandia",
+            "Desierto del Polo Norte"
+        ],
+        "answer": "Desierto de la Antártida Oriental"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de islas artificiales?",
+        "options": [
+            "Emiratos Árabes Unidos",
+            "China",
+            "Países Bajos",
+            "Japón"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "¿Cuál es la meseta más alta del mundo?",
+        "options": [
+            "Meseta del Tíbet",
+            "Meseta del Pamir",
+            "Meseta de Deosai",
+            "Meseta del Altiplano"
+        ],
+        "answer": "Meseta del Tíbet"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de volcanes submarinos?",
+        "options": [
+            "Estados Unidos",
+            "Indonesia",
+            "Japón",
+            "Nueva Zelanda"
+        ],
+        "answer": "Estados Unidos"
+    },
+    {
+        "question": "¿Cuál es el bosque más diverso del mundo en términos de especies de árboles?",
+        "options": [
+            "Amazonia",
+            "Borneo",
+            "Congo",
+            "Daintree"
+        ],
+        "answer": "Borneo"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de glaciares tropicales?",
+        "options": [
+            "Perú",
+            "Indonesia",
+            "Ecuador",
+            "Colombia"
+        ],
+        "answer": "Perú"
+    },
+    {
+        "question": "¿Cuál es la corriente oceánica más rápida del mundo?",
+        "options": [
+            "Corriente del Golfo",
+            "Corriente de Agulhas",
+            "Corriente Circumpolar Antártica",
+            "Corriente de Kuroshio"
+        ],
+        "answer": "Corriente de Agulhas"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de fiordos?",
+        "options": [
+            "Noruega",
+            "Chile",
+            "Nueva Zelanda",
+            "Canadá"
+        ],
+        "answer": "Noruega"
+    },
+    {
+        "question": "¿Cuál es el campo de lava más grande del mundo?",
+        "options": [
+            "Campos de lava de Siberia",
+            "Meseta del Decán",
+            "Traps de Columbia",
+            "Gran Cuenca"
+        ],
+        "answer": "Campos de lava de Siberia"
+    },
+    {
+        "question": "¿Qué país tiene la mayor diversidad de minerales?",
+        "options": [
+            "Brasil",
+            "Rusia",
+            "Estados Unidos",
+            "Australia"
+        ],
+        "answer": "Brasil"
+    },
+    {
+        "question": "¿Cuál es la isla más grande formada por un solo volcán?",
+        "options": [
+            "Isla de Hawái",
+            "Isla de Reunión",
+            "Isla de Tenerife",
+            "Isla de Sicilia"
+        ],
+        "answer": "Isla de Hawái"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de ríos subterráneos?",
+        "options": [
+            "México",
+            "Filipinas",
+            "Vietnam",
+            "China"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "¿Cuál es el desierto más antiguo del mundo?",
+        "options": [
+            "Namib",
+            "Atacama",
+            "Sahara",
+            "Simpson"
+        ],
+        "answer": "Namib"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de montañas submarinas?",
+        "options": [
+            "Estados Unidos",
+            "Nueva Zelanda",
+            "Japón",
+            "Indonesia"
+        ],
+        "answer": "Estados Unidos"
+    }
+]

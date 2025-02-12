@@ -1,0 +1,1062 @@
+[
+    {
+        "question": "¿Qué animal es conocido como el rey de la selva?",
+        "options": [
+            "León",
+            "Tigre",
+            "Pantera",
+            "Guepardo"
+        ],
+        "answer": "León"
+    },
+    {
+        "question": "¿Qué animal tiene la trompa más larga?",
+        "options": [
+            "Elefante",
+            "Oso hormiguero",
+            "Tapir",
+            "Cocodrilo"
+        ],
+        "answer": "Elefante"
+    },
+    {
+        "question": "¿Cuál es el animal más alto del mundo?",
+        "options": [
+            "Jirafa",
+            "Elefante",
+            "Oso polar",
+            "Ballena"
+        ],
+        "answer": "Jirafa"
+    },
+    {
+        "question": "¿Qué animal es el mejor amigo del hombre?",
+        "options": [
+            "Perro",
+            "Gato",
+            "Hamster",
+            "Loro"
+        ],
+        "answer": "Perro"
+    },
+    {
+        "question": "¿Cuál de estos animales puede volar?",
+        "options": [
+            "Pingüino",
+            "Águila",
+            "Avestruz",
+            "Gallina"
+        ],
+        "answer": "Águila"
+    },
+    {
+        "question": "¿Qué animal duerme colgado boca abajo?",
+        "options": [
+            "Murciélago",
+            "Koala",
+            "Mono",
+            "Panda"
+        ],
+        "answer": "Murciélago"
+    },
+    {
+        "question": "¿Cuál es el animal terrestre más rápido?",
+        "options": [
+            "Guepardo",
+            "León",
+            "Cebra",
+            "Antílope"
+        ],
+        "answer": "Guepardo"
+    },
+    {
+        "question": "¿Qué animal tiene rayas negras y blancas?",
+        "options": [
+            "Cebra",
+            "Jirafa",
+            "Leopardo",
+            "Tigre"
+        ],
+        "answer": "Cebra"
+    },
+    {
+        "question": "¿Cuál de estos animales es herbívoro?",
+        "options": [
+            "Vaca",
+            "León",
+            "Tiburón",
+            "Águila"
+        ],
+        "answer": "Vaca"
+    },
+    {
+        "question": "¿Qué animal produce miel?",
+        "options": [
+            "Abeja",
+            "Hormiga",
+            "Mariposa",
+            "Mosca"
+        ],
+        "answer": "Abeja"
+    },
+    {
+        "question": "¿Cuál es el animal nacional de Australia?",
+        "options": [
+            "Canguro",
+            "Koala",
+            "Ornitorrinco",
+            "Emú"
+        ],
+        "answer": "Canguro"
+    },
+    {
+        "question": "¿Qué animal cambia de color para camuflarse?",
+        "options": [
+            "Camaleón",
+            "Iguana",
+            "Lagartija",
+            "Serpiente"
+        ],
+        "answer": "Camaleón"
+    },
+    {
+        "question": "¿Cuál de estos animales hiberna?",
+        "options": [
+            "Oso",
+            "León",
+            "Jirafa",
+            "Delfín"
+        ],
+        "answer": "Oso"
+    },
+    {
+        "question": "¿Qué animal tiene una bolsa en su cuerpo para llevar a sus crías?",
+        "options": [
+            "Canguro",
+            "Gorila",
+            "Cebra",
+            "Elefante"
+        ],
+        "answer": "Canguro"
+    },
+    {
+        "question": "¿Cuál es el animal más grande del mundo?",
+        "options": [
+            "Ballena azul",
+            "Elefante",
+            "Jirafa",
+            "Tiburón ballena"
+        ],
+        "answer": "Ballena azul"
+    },
+    {
+        "question": "¿Qué animal tiene ocho patas?",
+        "options": [
+            "Araña",
+            "Hormiga",
+            "Abeja",
+            "Escarabajo"
+        ],
+        "answer": "Araña"
+    },
+    {
+        "question": "¿Cuál de estos animales es un ave?",
+        "options": [
+            "Pingüino",
+            "Murciélago",
+            "Delfín",
+            "Ballena"
+        ],
+        "answer": "Pingüino"
+    },
+    {
+        "question": "¿Qué animal puede vivir más de 100 años?",
+        "options": [
+            "Tortuga",
+            "Elefante",
+            "León",
+            "Jirafa"
+        ],
+        "answer": "Tortuga"
+    },
+    {
+        "question": "¿Cuál es el animal más pesado que vive en tierra?",
+        "options": [
+            "Elefante africano",
+            "Rinoceronte",
+            "Hipopótamo",
+            "Jirafa"
+        ],
+        "answer": "Elefante africano"
+    },
+    {
+        "question": "¿Qué animal es conocido como el mejor nadador?",
+        "options": [
+            "Delfín",
+            "Tiburón",
+            "Tortuga",
+            "Pingüino"
+        ],
+        "answer": "Delfín"
+    },
+    {
+        "question": "¿Cuál de estos animales es un reptil?",
+        "options": [
+            "Cocodrilo",
+            "Delfín",
+            "Pingüino",
+            "Murciélago"
+        ],
+        "answer": "Cocodrilo"
+    },
+    {
+        "question": "¿Qué animal es el símbolo de la paz?",
+        "options": [
+            "Paloma",
+            "Águila",
+            "Pavo real",
+            "Colibrí"
+        ],
+        "answer": "Paloma"
+    },
+    {
+        "question": "¿Cuál es el animal más pequeño del mundo?",
+        "options": [
+            "Colibrí abeja",
+            "Ratón",
+            "Hormiga",
+            "Mariposa"
+        ],
+        "answer": "Colibrí abeja"
+    },
+    {
+        "question": "¿Qué animal puede regenerar su cola?",
+        "options": [
+            "Lagartija",
+            "Serpiente",
+            "Iguana",
+            "Tortuga"
+        ],
+        "answer": "Lagartija"
+    },
+    {
+        "question": "¿Cuál de estos animales es nocturno?",
+        "options": [
+            "Búho",
+            "Paloma",
+            "Colibrí",
+            "Águila"
+        ],
+        "answer": "Búho"
+    },
+    {
+        "question": "¿Qué animal es conocido por su memoria?",
+        "options": [
+            "Elefante",
+            "Jirafa",
+            "León",
+            "Hipopótamo"
+        ],
+        "answer": "Elefante"
+    },
+    {
+        "question": "¿Cuál de estos animales no tiene dientes?",
+        "options": [
+            "Tortuga",
+            "Cocodrilo",
+            "León",
+            "Tiburón"
+        ],
+        "answer": "Tortuga"
+    },
+    {
+        "question": "¿Qué animal construye presas en los ríos?",
+        "options": [
+            "Castor",
+            "Nutria",
+            "Pingüino",
+            "Foca"
+        ],
+        "answer": "Castor"
+    },
+    {
+        "question": "¿Cuál es el animal que hace el sonido 'muu'?",
+        "options": [
+            "Vaca",
+            "Oveja",
+            "Caballo",
+            "Cerdo"
+        ],
+        "answer": "Vaca"
+    },
+    {
+        "question": "¿Qué animal tiene una melena?",
+        "options": [
+            "León macho",
+            "Tigre",
+            "Leopardo",
+            "Guepardo"
+        ],
+        "answer": "León macho"
+    },
+    {
+        "question": "¿Cuál de estos animales pone huevos?",
+        "options": [
+            "Gallina",
+            "Vaca",
+            "Perro",
+            "Gato"
+        ],
+        "answer": "Gallina"
+    },
+    {
+        "question": "¿Qué animal tiene una trompa larga y delgada?",
+        "options": [
+            "Oso hormiguero",
+            "Elefante",
+            "Jirafa",
+            "Hipopótamo"
+        ],
+        "answer": "Oso hormiguero"
+    },
+    {
+        "question": "¿Cuál es el animal que relincha?",
+        "options": [
+            "Caballo",
+            "Vaca",
+            "Oveja",
+            "Cerdo"
+        ],
+        "answer": "Caballo"
+    },
+    {
+        "question": "¿Qué animal es el símbolo de la sabiduría?",
+        "options": [
+            "Búho",
+            "Águila",
+            "Paloma",
+            "Pavo real"
+        ],
+        "answer": "Búho"
+    },
+    {
+        "question": "¿Cuál de estos animales vive en el desierto?",
+        "options": [
+            "Camello",
+            "Pingüino",
+            "Oso polar",
+            "Delfín"
+        ],
+        "answer": "Camello"
+    },
+    {
+        "question": "¿Qué animal es conocido por saltar muy alto?",
+        "options": [
+            "Canguro",
+            "Elefante",
+            "Hipopótamo",
+            "Jirafa"
+        ],
+        "answer": "Canguro"
+    },
+    {
+        "question": "¿Cuál es el animal que hace el sonido 'guau'?",
+        "options": [
+            "Perro",
+            "Gato",
+            "Vaca",
+            "Oveja"
+        ],
+        "answer": "Perro"
+    },
+    {
+        "question": "¿Qué animal tiene escamas y vive en el agua?",
+        "options": [
+            "Pez",
+            "Delfín",
+            "Ballena",
+            "Foca"
+        ],
+        "answer": "Pez"
+    },
+    {
+        "question": "¿Cuál de estos animales tiene plumas?",
+        "options": [
+            "Pájaro",
+            "Murciélago",
+            "Mariposa",
+            "Abeja"
+        ],
+        "answer": "Pájaro"
+    },
+    {
+        "question": "¿Qué animal es blanco y negro y vive en China?",
+        "options": [
+            "Panda",
+            "Cebra",
+            "Pingüino",
+            "Orca"
+        ],
+        "answer": "Panda"
+    },
+    {
+        "question": "¿Cuál es el animal que hace telarañas?",
+        "options": [
+            "Araña",
+            "Mariposa",
+            "Abeja",
+            "Hormiga"
+        ],
+        "answer": "Araña"
+    },
+    {
+        "question": "¿Qué animal tiene un cuello muy largo?",
+        "options": [
+            "Jirafa",
+            "Elefante",
+            "León",
+            "Cebra"
+        ],
+        "answer": "Jirafa"
+    },
+    {
+        "question": "¿Cuál de estos animales vive en el Polo Norte?",
+        "options": [
+            "Oso polar",
+            "Pingüino",
+            "León",
+            "Camello"
+        ],
+        "answer": "Oso polar"
+    },
+    {
+        "question": "¿Qué animal es conocido por comer zanahorias?",
+        "options": [
+            "Conejo",
+            "León",
+            "Tiburón",
+            "Águila"
+        ],
+        "answer": "Conejo"
+    },
+    {
+        "question": "¿Cuál es el animal que hace el sonido 'miau'?",
+        "options": [
+            "Gato",
+            "Perro",
+            "Vaca",
+            "Caballo"
+        ],
+        "answer": "Gato"
+    },
+    {
+        "question": "¿Qué animal tiene una cola muy larga?",
+        "options": [
+            "Mono",
+            "Oso",
+            "Hipopótamo",
+            "Rinoceronte"
+        ],
+        "answer": "Mono"
+    },
+    {
+        "question": "¿Cuál de estos animales come bambú?",
+        "options": [
+            "Panda",
+            "Koala",
+            "Canguro",
+            "Jirafa"
+        ],
+        "answer": "Panda"
+    },
+    {
+        "question": "¿Qué animal es conocido por su caparazón?",
+        "options": [
+            "Tortuga",
+            "Serpiente",
+            "Lagarto",
+            "Rana"
+        ],
+        "answer": "Tortuga"
+    },
+    {
+        "question": "¿Cuál es el animal que hace el sonido 'meee'?",
+        "options": [
+            "Oveja",
+            "Vaca",
+            "Cerdo",
+            "Caballo"
+        ],
+        "answer": "Oveja"
+    },
+    {
+        "question": "¿Qué animal duerme en los árboles?",
+        "options": [
+            "Koala",
+            "Canguro",
+            "Elefante",
+            "Hipopótamo"
+        ],
+        "answer": "Koala"
+    },
+    {
+        "question": "¿Cuál de estos animales come insectos?",
+        "options": [
+            "Rana",
+            "Jirafa",
+            "Elefante",
+            "Vaca"
+        ],
+        "answer": "Rana"
+    },
+    {
+        "question": "¿Qué animal es conocido por su veneno?",
+        "options": [
+            "Serpiente cobra",
+            "Jirafa",
+            "Elefante",
+            "Pingüino"
+        ],
+        "answer": "Serpiente cobra"
+    },
+    {
+        "question": "¿Cuál de estos animales vive en el mar?",
+        "options": [
+            "Delfín",
+            "Águila",
+            "León",
+            "Mono"
+        ],
+        "answer": "Delfín"
+    },
+    {
+        "question": "¿Qué animal es conocido por dar lana?",
+        "options": [
+            "Oveja",
+            "Vaca",
+            "Cerdo",
+            "Caballo"
+        ],
+        "answer": "Oveja"
+    },
+    {
+        "question": "¿Qué animal es el más pequeño de la familia de los felinos?",
+        "options": [
+            "Gato de Rusty",
+            "Gato doméstico",
+            "Lince",
+            "Ocelote"
+        ],
+        "answer": "Gato de Rusty"
+    },
+    {
+        "question": "¿Cuál es el ave nacional de Estados Unidos?",
+        "options": [
+            "Águila calva",
+            "Cóndor",
+            "Halcón",
+            "Búho"
+        ],
+        "answer": "Águila calva"
+    },
+    {
+        "question": "¿Qué animal respira por la piel además de los pulmones?",
+        "options": [
+            "Rana",
+            "Lagarto",
+            "Serpiente",
+            "Tortuga"
+        ],
+        "answer": "Rana"
+    },
+    {
+        "question": "¿Cuál de estos animales no tiene cuerda vocal?",
+        "options": [
+            "Jirafa",
+            "León",
+            "Elefante",
+            "Mono"
+        ],
+        "answer": "Jirafa"
+    },
+    {
+        "question": "¿Qué animal puede mover los ojos en diferentes direcciones al mismo tiempo?",
+        "options": [
+            "Camaleón",
+            "Serpiente",
+            "Lagarto",
+            "Iguana"
+        ],
+        "answer": "Camaleón"
+    },
+    {
+        "question": "¿Cuál es el único mamífero que no puede saltar?",
+        "options": [
+            "Elefante",
+            "Hipopótamo",
+            "Rinoceronte",
+            "Jirafa"
+        ],
+        "answer": "Elefante"
+    },
+    {
+        "question": "¿Qué animal tiene la lengua más larga en relación a su tamaño?",
+        "options": [
+            "Camaleón",
+            "Jirafa",
+            "Oso hormiguero",
+            "Serpiente"
+        ],
+        "answer": "Camaleón"
+    },
+    {
+        "question": "¿Cuál de estos animales puede correr sobre el agua?",
+        "options": [
+            "Basilisco",
+            "Iguana",
+            "Salamandra",
+            "Tortuga"
+        ],
+        "answer": "Basilisco"
+    },
+    {
+        "question": "¿Qué animal tiene el cerebro más grande entre los invertebrados?",
+        "options": [
+            "Pulpo",
+            "Caracol",
+            "Estrella de mar",
+            "Medusa"
+        ],
+        "answer": "Pulpo"
+    },
+    {
+        "question": "¿Cuál es el pez más venenoso del mundo?",
+        "options": [
+            "Pez piedra",
+            "Pez globo",
+            "Morena",
+            "Pez león"
+        ],
+        "answer": "Pez piedra"
+    },
+    {
+        "question": "¿Qué animal puede sobrevivir sin cerebro hasta 9 días?",
+        "options": [
+            "Gallina",
+            "Rana",
+            "Lagartija",
+            "Caracol"
+        ],
+        "answer": "Gallina"
+    },
+    {
+        "question": "¿Cuál es el único mamífero que pone huevos?",
+        "options": [
+            "Ornitorrinco",
+            "Koala",
+            "Canguro",
+            "Zarigüeya"
+        ],
+        "answer": "Ornitorrinco"
+    },
+    {
+        "question": "¿Qué animal tiene sangre azul?",
+        "options": [
+            "Pulpo",
+            "Delfín",
+            "Tiburón",
+            "Ballena"
+        ],
+        "answer": "Pulpo"
+    },
+    {
+        "question": "¿Cuál es el animal más lento del mundo?",
+        "options": [
+            "Perezoso",
+            "Tortuga",
+            "Caracol",
+            "Koala"
+        ],
+        "answer": "Perezoso"
+    },
+    {
+        "question": "¿Qué animal puede vivir sin agua toda su vida?",
+        "options": [
+            "Rata canguro",
+            "Camello",
+            "Lagarto",
+            "Serpiente"
+        ],
+        "answer": "Rata canguro"
+    },
+    {
+        "question": "¿Cuál de estos animales nunca duerme?",
+        "options": [
+            "Tiburón",
+            "Delfín",
+            "Ballena",
+            "Foca"
+        ],
+        "answer": "Tiburón"
+    },
+    {
+        "question": "¿Qué animal tiene los ojos más grandes del mundo?",
+        "options": [
+            "Calamar gigante",
+            "Ballena azul",
+            "Elefante",
+            "Jirafa"
+        ],
+        "answer": "Calamar gigante"
+    },
+    {
+        "question": "¿Cuál es el único felino que no puede retraer sus garras?",
+        "options": [
+            "Guepardo",
+            "León",
+            "Tigre",
+            "Jaguar"
+        ],
+        "answer": "Guepardo"
+    },
+    {
+        "question": "¿Qué animal tiene tres corazones?",
+        "options": [
+            "Pulpo",
+            "Ballena",
+            "Delfín",
+            "Tiburón"
+        ],
+        "answer": "Pulpo"
+    },
+    {
+        "question": "¿Cuál es el animal que nunca olvida un rostro?",
+        "options": [
+            "Cuervo",
+            "Perro",
+            "Gato",
+            "Loro"
+        ],
+        "answer": "Cuervo"
+    },
+    {
+        "question": "¿Qué animal puede sobrevivir hasta 2 años sin comer?",
+        "options": [
+            "Serpiente pitón",
+            "Oso",
+            "Cocodrilo",
+            "Camello"
+        ],
+        "answer": "Serpiente pitón"
+    },
+    {
+        "question": "¿Cuál es el único mamífero que no puede caminar hacia atrás?",
+        "options": [
+            "Canguro",
+            "Koala",
+            "Wombat",
+            "Ornitorrinco"
+        ],
+        "answer": "Canguro"
+    },
+    {
+        "question": "¿Qué animal tiene las huellas digitales más parecidas a las humanas?",
+        "options": [
+            "Koala",
+            "Chimpancé",
+            "Gorila",
+            "Orangután"
+        ],
+        "answer": "Koala"
+    },
+    {
+        "question": "¿Cuál es el único animal que no puede cerrar los ojos?",
+        "options": [
+            "Pez",
+            "Serpiente",
+            "Lagarto",
+            "Tortuga"
+        ],
+        "answer": "Pez"
+    },
+    {
+        "question": "¿Qué animal puede girar su cabeza 360 grados?",
+        "options": [
+            "Búho",
+            "Águila",
+            "Halcón",
+            "Buitre"
+        ],
+        "answer": "Búho"
+    },
+    {
+        "question": "¿Cuál es el único mamífero que puede volar?",
+        "options": [
+            "Murciélago",
+            "Ardilla voladora",
+            "Lémur volador",
+            "Perico"
+        ],
+        "answer": "Murciélago"
+    },
+    {
+        "question": "¿Qué animal puede dormir hasta 22 horas al día?",
+        "options": [
+            "Koala",
+            "Perezoso",
+            "Oso",
+            "Gato"
+        ],
+        "answer": "Koala"
+    },
+    {
+        "question": "¿Cuál es el animal más antiguo del planeta?",
+        "options": [
+            "Medusa inmortal",
+            "Tortuga",
+            "Tiburón",
+            "Cangrejo herradura"
+        ],
+        "answer": "Medusa inmortal"
+    },
+    {
+        "question": "¿Qué animal puede ver detrás de su cabeza?",
+        "options": [
+            "Conejo",
+            "Cabra",
+            "Caballo",
+            "Vaca"
+        ],
+        "answer": "Conejo"
+    },
+    {
+        "question": "¿Cuál es el único animal que siempre cae de pie?",
+        "options": [
+            "Gato",
+            "Mono",
+            "Ardilla",
+            "Conejo"
+        ],
+        "answer": "Gato"
+    },
+    {
+        "question": "¿Qué animal puede cambiar de sexo?",
+        "options": [
+            "Pez payaso",
+            "Delfín",
+            "Tortuga",
+            "Lagarto"
+        ],
+        "answer": "Pez payaso"
+    },
+    {
+        "question": "¿Cuál es el animal que nunca deja de crecer?",
+        "options": [
+            "Tiburón",
+            "Ballena",
+            "Elefante",
+            "Jirafa"
+        ],
+        "answer": "Tiburón"
+    },
+    {
+        "question": "¿Qué animal tiene el mordisco más fuerte?",
+        "options": [
+            "Cocodrilo marino",
+            "Tiburón blanco",
+            "León",
+            "Hipopótamo"
+        ],
+        "answer": "Cocodrilo marino"
+    },
+    {
+        "question": "¿Cuál es el único mamífero que no puede saltar?",
+        "options": [
+            "Elefante",
+            "Rinoceronte",
+            "Hipopótamo",
+            "Jirafa"
+        ],
+        "answer": "Elefante"
+    },
+    {
+        "question": "¿Qué animal puede ver los colores ultravioleta?",
+        "options": [
+            "Abeja",
+            "Perro",
+            "Gato",
+            "Mono"
+        ],
+        "answer": "Abeja"
+    },
+    {
+        "question": "¿Cuál es el animal que tiene más dientes?",
+        "options": [
+            "Caracol",
+            "Tiburón",
+            "Cocodrilo",
+            "Delfín"
+        ],
+        "answer": "Caracol"
+    },
+    {
+        "question": "¿Qué animal puede regenerar sus órganos internos?",
+        "options": [
+            "Estrella de mar",
+            "Salamandra",
+            "Lagartija",
+            "Medusa"
+        ],
+        "answer": "Estrella de mar"
+    },
+    {
+        "question": "¿Cuál es el único mamífero que no tiene cuerdas vocales?",
+        "options": [
+            "Jirafa",
+            "Cebra",
+            "Antílope",
+            "Gacela"
+        ],
+        "answer": "Jirafa"
+    },
+    {
+        "question": "¿Qué animal puede nadar hacia atrás?",
+        "options": [
+            "Cangrejo",
+            "Pez",
+            "Delfín",
+            "Tortuga marina"
+        ],
+        "answer": "Cangrejo"
+    },
+    {
+        "question": "¿Cuál es el ave que pone el huevo más pequeño?",
+        "options": [
+            "Colibrí",
+            "Gorrión",
+            "Canario",
+            "Pinzón"
+        ],
+        "answer": "Colibrí"
+    },
+    {
+        "question": "¿Qué animal tiene el corazón más grande en proporción a su cuerpo?",
+        "options": [
+            "Colibrí",
+            "Ratón",
+            "Elefante",
+            "Ballena"
+        ],
+        "answer": "Colibrí"
+    },
+    {
+        "question": "¿Cuál es el único pájaro que puede volar hacia atrás?",
+        "options": [
+            "Colibrí",
+            "Águila",
+            "Paloma",
+            "Búho"
+        ],
+        "answer": "Colibrí"
+    },
+    {
+        "question": "¿Qué animal tiene el sentido del olfato más desarrollado?",
+        "options": [
+            "Oso hormiguero",
+            "Perro",
+            "Elefante",
+            "Lobo"
+        ],
+        "answer": "Oso hormiguero"
+    },
+    {
+        "question": "¿Cuál es el animal que más tiempo puede estar sin respirar?",
+        "options": [
+            "Tortuga marina",
+            "Ballena",
+            "Delfín",
+            "Foca"
+        ],
+        "answer": "Tortuga marina"
+    },
+    {
+        "question": "¿Qué animal puede saltar hasta 350 veces su longitud corporal?",
+        "options": [
+            "Pulga",
+            "Saltamontes",
+            "Grillo",
+            "Hormiga"
+        ],
+        "answer": "Pulga"
+    },
+    {
+        "question": "¿Cuál es el único animal que tiene la nariz en la cabeza?",
+        "options": [
+            "Delfín",
+            "Ballena",
+            "Foca",
+            "Morsa"
+        ],
+        "answer": "Delfín"
+    },
+    {
+        "question": "¿Qué animal puede vivir hasta 500 años?",
+        "options": [
+            "Almeja gigante",
+            "Tortuga",
+            "Ballena",
+            "Tiburón"
+        ],
+        "answer": "Almeja gigante"
+    },
+    {
+        "question": "¿Cuál es el animal que tiene más huesos en el cuello?",
+        "options": [
+            "Perezoso",
+            "Jirafa",
+            "Serpiente",
+            "Camello"
+        ],
+        "answer": "Perezoso"
+    },
+    {
+        "question": "¿Qué animal puede producir sonidos más graves que el oído humano puede escuchar?",
+        "options": [
+            "Elefante",
+            "Ballena",
+            "León",
+            "Tigre"
+        ],
+        "answer": "Elefante"
+    },
+    {
+        "question": "¿Cuál es el animal que nunca enferma de cáncer?",
+        "options": [
+            "Tiburón",
+            "Delfín",
+            "Ballena",
+            "Foca"
+        ],
+        "answer": "Tiburón"
+    },
+    {
+        "question": "¿Qué animal puede pasar más tiempo sin beber agua?",
+        "options": [
+            "Rata canguro",
+            "Camello",
+            "Jerbo",
+            "Tortuga del desierto"
+        ],
+        "answer": "Rata canguro"
+    },
+    {
+        "question": "¿Cuál es el animal más resistente del planeta?",
+        "options": [
+            "Tardígrado",
+            "Cucaracha",
+            "Escorpión",
+            "Camello"
+        ],
+        "answer": "Tardígrado"
+    }
+]

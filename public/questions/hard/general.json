@@ -1,0 +1,512 @@
+[
+    {
+        "question": "¿Quién escribió la novela 'Cien años de soledad'?",
+        "options": [
+            "Gabriel García Márquez",
+            "Mario Vargas Llosa",
+            "Julio Cortázar",
+            "Pablo Neruda"
+        ],
+        "answer": "Gabriel García Márquez"
+    },
+    {
+        "question": "¿En qué año se firmó el Tratado de Versalles?",
+        "options": [
+            "1918",
+            "1919",
+            "1920",
+            "1921"
+        ],
+        "answer": "1919"
+    },
+    {
+        "question": "¿Cuál es el río más largo del mundo?",
+        "options": [
+            "Amazonas",
+            "Nilo",
+            "Yangtsé",
+            "Misisipi"
+        ],
+        "answer": "Amazonas"
+    },
+    {
+        "question": "¿Quién pintó 'La noche estrellada'?",
+        "options": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Claude Monet",
+            "Salvador Dalí"
+        ],
+        "answer": "Vincent van Gogh"
+    },
+    {
+        "question": "¿Cuál es el metal más abundante en la corteza terrestre?",
+        "options": [
+            "Hierro",
+            "Aluminio",
+            "Calcio",
+            "Sodio"
+        ],
+        "answer": "Aluminio"
+    },
+    {
+        "question": "¿En qué país se encuentra la ciudad de Petra?",
+        "options": [
+            "Egipto",
+            "Jordania",
+            "Siria",
+            "Arabia Saudita"
+        ],
+        "answer": "Jordania"
+    },
+    {
+        "question": "¿Quién fue el primer presidente de los Estados Unidos?",
+        "options": [
+            "Thomas Jefferson",
+            "George Washington",
+            "John Adams",
+            "Benjamin Franklin"
+        ],
+        "answer": "George Washington"
+    },
+    {
+        "question": "¿Cuál es el océano más grande del mundo?",
+        "options": [
+            "Atlántico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "answer": "Pacífico"
+    },
+    {
+        "question": "¿En qué año llegó el hombre a la Luna por primera vez?",
+        "options": [
+            "1967",
+            "1968",
+            "1969",
+            "1970"
+        ],
+        "answer": "1969"
+    },
+    {
+        "question": "¿Quién escribió 'El Principito'?",
+        "options": [
+            "Antoine de Saint-Exupéry",
+            "Jules Verne",
+            "Victor Hugo",
+            "Albert Camus"
+        ],
+        "answer": "Antoine de Saint-Exupéry"
+    },
+    {
+        "question": "¿Cuál es el país más grande del mundo por superficie?",
+        "options": [
+            "China",
+            "Estados Unidos",
+            "Rusia",
+            "Canadá"
+        ],
+        "answer": "Rusia"
+    },
+    {
+        "question": "¿Quién compuso la 'Novena Sinfonía'?",
+        "options": [
+            "Wolfgang Amadeus Mozart",
+            "Ludwig van Beethoven",
+            "Johann Sebastian Bach",
+            "Franz Schubert"
+        ],
+        "answer": "Ludwig van Beethoven"
+    },
+    {
+        "question": "¿Cuál es el planeta más cercano al Sol?",
+        "options": [
+            "Venus",
+            "Mercurio",
+            "Tierra",
+            "Marte"
+        ],
+        "answer": "Mercurio"
+    },
+    {
+        "question": "¿En qué año cayó el Muro de Berlín?",
+        "options": [
+            "1987",
+            "1988",
+            "1989",
+            "1990"
+        ],
+        "answer": "1989"
+    },
+    {
+        "question": "¿Quién fue el primer ser humano en viajar al espacio?",
+        "options": [
+            "Yuri Gagarin",
+            "Neil Armstrong",
+            "Alan Shepard",
+            "John Glenn"
+        ],
+        "answer": "Yuri Gagarin"
+    },
+    {
+        "question": "¿Cuál es el idioma más hablado del mundo?",
+        "options": [
+            "Inglés",
+            "Mandarín",
+            "Español",
+            "Hindi"
+        ],
+        "answer": "Mandarín"
+    },
+    {
+        "question": "¿Quién escribió '1984'?",
+        "options": [
+            "George Orwell",
+            "Aldous Huxley",
+            "Ray Bradbury",
+            "H.G. Wells"
+        ],
+        "answer": "George Orwell"
+    },
+    {
+        "question": "¿Cuál es el país con más habitantes del mundo?",
+        "options": [
+            "India",
+            "Estados Unidos",
+            "China",
+            "Indonesia"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "¿Quién pintó 'La última cena'?",
+        "options": [
+            "Leonardo da Vinci",
+            "Miguel Ángel",
+            "Rafael",
+            "Donatello"
+        ],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "¿Cuál es el metal más caro del mundo?",
+        "options": [
+            "Oro",
+            "Platino",
+            "Rodio",
+            "Paladio"
+        ],
+        "answer": "Rodio"
+    },
+    {
+        "question": "¿En qué país se originó el sushi?",
+        "options": [
+            "China",
+            "Japón",
+            "Corea del Sur",
+            "Tailandia"
+        ],
+        "answer": "Japón"
+    },
+    {
+        "question": "¿Quién fue el primer emperador romano?",
+        "options": [
+            "Julio César",
+            "Augusto",
+            "Nerón",
+            "Calígula"
+        ],
+        "answer": "Augusto"
+    },
+    {
+        "question": "¿Cuál es el libro más vendido de la historia?",
+        "options": [
+            "La Biblia",
+            "El Quijote",
+            "Harry Potter y la piedra filosofal",
+            "Cien años de soledad"
+        ],
+        "answer": "La Biblia"
+    },
+    {
+        "question": "¿Quién descubrió la penicilina?",
+        "options": [
+            "Alexander Fleming",
+            "Louis Pasteur",
+            "Marie Curie",
+            "Robert Koch"
+        ],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "question": "¿Cuál es el país con más islas del mundo?",
+        "options": [
+            "Filipinas",
+            "Indonesia",
+            "Suecia",
+            "Japón"
+        ],
+        "answer": "Suecia"
+    },
+    {
+        "question": "¿Quién escribió 'La Odisea'?",
+        "options": [
+            "Homero",
+            "Virgilio",
+            "Sófocles",
+            "Heródoto"
+        ],
+        "answer": "Homero"
+    },
+    {
+        "question": "¿Cuál es el elemento químico con el símbolo 'Au'?",
+        "options": [
+            "Plata",
+            "Oro",
+            "Aluminio",
+            "Argón"
+        ],
+        "answer": "Oro"
+    },
+    {
+        "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+        "options": [
+            "1912",
+            "1914",
+            "1916",
+            "1918"
+        ],
+        "answer": "1914"
+    },
+    {
+        "question": "¿Quién fue el primer hombre en pisar la Luna?",
+        "options": [
+            "Yuri Gagarin",
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Michael Collins"
+        ],
+        "answer": "Neil Armstrong"
+    },
+    {
+        "question": "¿Cuál es el país más pequeño del mundo?",
+        "options": [
+            "Mónaco",
+            "San Marino",
+            "Vaticano",
+            "Liechtenstein"
+        ],
+        "answer": "Vaticano"
+    },
+    {
+        "question": "¿Quién escribió 'Hamlet'?",
+        "options": [
+            "William Shakespeare",
+            "Charles Dickens",
+            "Mark Twain",
+            "Jane Austen"
+        ],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "¿Cuál es la montaña más alta del mundo?",
+        "options": [
+            "Monte Everest",
+            "K2",
+            "Monte Kilimanjaro",
+            "Aconcagua"
+        ],
+        "answer": "Monte Everest"
+    },
+    {
+        "question": "¿En qué año se fundó la ONU?",
+        "options": [
+            "1943",
+            "1945",
+            "1947",
+            "1950"
+        ],
+        "answer": "1945"
+    },
+    {
+        "question": "¿Quién pintó 'El grito'?",
+        "options": [
+            "Edvard Munch",
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Salvador Dalí"
+        ],
+        "answer": "Edvard Munch"
+    },
+    {
+        "question": "¿Cuál es el país con más Patrimonios de la Humanidad de la UNESCO?",
+        "options": [
+            "Italia",
+            "China",
+            "España",
+            "Francia"
+        ],
+        "answer": "Italia"
+    },
+    {
+        "question": "¿Quién fue el primer presidente de Sudáfrica elegido democráticamente?",
+        "options": [
+            "Nelson Mandela",
+            "Thabo Mbeki",
+            "Jacob Zuma",
+            "Cyril Ramaphosa"
+        ],
+        "answer": "Nelson Mandela"
+    },
+    {
+        "question": "¿Cuál es el animal más grande del mundo?",
+        "options": [
+            "Elefante africano",
+            "Ballena azul",
+            "Tiburón ballena",
+            "Jirafa"
+        ],
+        "answer": "Ballena azul"
+    },
+    {
+        "question": "¿Quién escribió 'Orgullo y prejuicio'?",
+        "options": [
+            "Jane Austen",
+            "Charlotte Brontë",
+            "Emily Brontë",
+            "Virginia Woolf"
+        ],
+        "answer": "Jane Austen"
+    },
+    {
+        "question": "¿Cuál es el país con más medallas olímpicas de oro?",
+        "options": [
+            "Estados Unidos",
+            "China",
+            "Rusia",
+            "Alemania"
+        ],
+        "answer": "Estados Unidos"
+    },
+    {
+        "question": "¿Quién fue el primer líder de la Unión Soviética?",
+        "options": [
+            "Vladimir Lenin",
+            "Joseph Stalin",
+            "Leon Trotsky",
+            "Nikita Khrushchev"
+        ],
+        "answer": "Vladimir Lenin"
+    },
+    {
+        "question": "¿Cuál es el desierto más grande del mundo?",
+        "options": [
+            "Desierto del Sahara",
+            "Desierto de Arabia",
+            "Desierto de Gobi",
+            "Desierto de Kalahari"
+        ],
+        "answer": "Desierto del Sahara"
+    },
+    {
+        "question": "¿Quién escribió 'El origen de las especies'?",
+        "options": [
+            "Charles Darwin",
+            "Isaac Newton",
+            "Gregor Mendel",
+            "Alfred Russel Wallace"
+        ],
+        "answer": "Charles Darwin"
+    },
+    {
+        "question": "¿Cuál es el país con más volcanes activos?",
+        "options": [
+            "Indonesia",
+            "Japón",
+            "Chile",
+            "Estados Unidos"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Quién fue el primer emperador de China?",
+        "options": [
+            "Qin Shi Huang",
+            "Confucio",
+            "Sun Tzu",
+            "Lao Tse"
+        ],
+        "answer": "Qin Shi Huang"
+    },
+    {
+        "question": "¿Cuál es el lago más profundo del mundo?",
+        "options": [
+            "Lago Titicaca",
+            "Lago Baikal",
+            "Lago Victoria",
+            "Lago Superior"
+        ],
+        "answer": "Lago Baikal"
+    },
+    {
+        "question": "¿Quién escribió 'La divina comedia'?",
+        "options": [
+            "Dante Alighieri",
+            "Giovanni Boccaccio",
+            "Francesco Petrarca",
+            "Niccolò Machiavelli"
+        ],
+        "answer": "Dante Alighieri"
+    },
+    {
+        "question": "¿Cuál es el país con más zonas horarias?",
+        "options": [
+            "Rusia",
+            "Estados Unidos",
+            "China",
+            "Canadá"
+        ],
+        "answer": "Rusia"
+    },
+    {
+        "question": "¿Quién fue el primer presidente de México?",
+        "options": [
+            "Guadalupe Victoria",
+            "Benito Juárez",
+            "Porfirio Díaz",
+            "Miguel Hidalgo"
+        ],
+        "answer": "Guadalupe Victoria"
+    },
+    {
+        "question": "¿Cuál es el metal más ligero?",
+        "options": [
+            "Litio",
+            "Aluminio",
+            "Magnesio",
+            "Berilio"
+        ],
+        "answer": "Litio"
+    },
+    {
+        "question": "¿Quién escribió 'El viejo y el mar'?",
+        "options": [
+            "Ernest Hemingway",
+            "Mark Twain",
+            "John Steinbeck",
+            "F. Scott Fitzgerald"
+        ],
+        "answer": "Ernest Hemingway"
+    },
+    {
+        "question": "¿Cuál es el país con más idiomas oficiales?",
+        "options": [
+            "India",
+            "Sudáfrica",
+            "Suiza",
+            "Canadá"
+        ],
+        "answer": "India"
+    }
+]

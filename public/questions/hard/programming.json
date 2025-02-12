@@ -1,0 +1,622 @@
+[
+    {
+        "question": "¿Cuál es la diferencia entre synchronized(this) y synchronized(Object.class) en Java?",
+        "options": [
+            "synchronized(this) bloquea la instancia actual, synchronized(Object.class) bloquea la clase completa",
+            "Son exactamente lo mismo",
+            "synchronized(this) es más rápido",
+            "synchronized(Object.class) solo funciona en métodos estáticos"
+        ],
+        "answer": "synchronized(this) bloquea la instancia actual, synchronized(Object.class) bloquea la clase completa"
+    },
+    {
+        "question": "¿Qué imprime el siguiente código? Integer a = 1000, b = 1000; System.out.println(a == b); Integer c = 100, d = 100; System.out.println(c == d);",
+        "options": [
+            "false\ntrue",
+            "true\ntrue",
+            "false\nfalse",
+            "true\nfalse"
+        ],
+        "answer": "false\ntrue"
+    },
+    {
+        "question": "¿Cuál es el problema del siguiente código para un Singleton? private static Singleton instance = new Singleton();",
+        "options": [
+            "No es thread-safe durante la inicialización y puede causar memory leaks por inicialización temprana",
+            "No es un singleton válido",
+            "No puede ser serializado",
+            "Es demasiado lento"
+        ],
+        "answer": "No es thread-safe durante la inicialización y puede causar memory leaks por inicialización temprana"
+    },
+    {
+        "question": "¿Qué sucede si se lanza una excepción en el bloque finally?",
+        "options": [
+            "Sobrescribe cualquier excepción previa y es la que se propaga",
+            "Se ignora y se propaga la excepción original",
+            "Se lanzan ambas excepciones",
+            "Causa un error de compilación"
+        ],
+        "answer": "Sobrescribe cualquier excepción previa y es la que se propaga"
+    },
+    {
+        "question": "¿Qué problema puede causar el uso de ThreadLocal con un pool de threads?",
+        "options": [
+            "Memory leaks si no se limpia correctamente cuando los threads se reutilizan",
+            "No funciona con thread pools",
+            "Causa deadlocks",
+            "Ralentiza la aplicación"
+        ],
+        "answer": "Memory leaks si no se limpia correctamente cuando los threads se reutilizan"
+    },
+    {
+        "question": "¿Qué imprime System.out.println(1.0/0.0);?",
+        "options": [
+            "Infinity",
+            "Exception",
+            "NaN",
+            "Error de compilación"
+        ],
+        "answer": "Infinity"
+    },
+    {
+        "question": "En Java, ¿qué sucede si un método de una interfaz funcional lanza una excepción checked en Java 8+?",
+        "options": [
+            "La lambda que implementa la interfaz debe manejar o propagar la excepción explícitamente",
+            "La excepción se convierte en runtime",
+            "Causa un error de compilación en la interfaz",
+            "La excepción se ignora"
+        ],
+        "answer": "La lambda que implementa la interfaz debe manejar o propagar la excepción explícitamente"
+    },
+    {
+        "question": "¿Cuál es la complejidad temporal de ConcurrentHashMap.size()?",
+        "options": [
+            "O(N) porque debe contar todos los segmentos",
+            "O(1) como HashMap normal",
+            "O(log N)",
+            "O(N²)"
+        ],
+        "answer": "O(N) porque debe contar todos los segmentos"
+    },
+    {
+        "question": "¿Qué problema puede causar el uso incorrecto de String.intern()?",
+        "options": [
+            "Memory leaks en la PermGen/Metaspace y degradación del rendimiento",
+            "Corrupción de strings",
+            "Errores de compilación",
+            "Ningún problema grave"
+        ],
+        "answer": "Memory leaks en la PermGen/Metaspace y degradación del rendimiento"
+    },
+    {
+        "question": "¿Qué sucede si se modifica una colección mientras se itera usando el Stream API?",
+        "options": [
+            "ConcurrentModificationException en la mayoría de los casos",
+            "La iteración continúa normalmente",
+            "El stream se cierra automáticamente",
+            "Los cambios se reflejan en el stream"
+        ],
+        "answer": "ConcurrentModificationException en la mayoría de los casos"
+    },
+    {
+        "question": "¿Cuál es la diferencia entre CompletableFuture.allOf() y CompletableFuture.anyOf()?",
+        "options": [
+            "allOf espera que todos completen y retorna void, anyOf retorna el resultado del primero en completar",
+            "Son lo mismo con diferente nombre",
+            "allOf es más rápido que anyOf",
+            "anyOf espera todos los resultados"
+        ],
+        "answer": "allOf espera que todos completen y retorna void, anyOf retorna el resultado del primero en completar"
+    },
+    {
+        "question": "¿Qué sucede en Java cuando un thread intenta adquirir un lock que ya tiene?",
+        "options": [
+            "Puede causar un deadlock si es un ReentrantLock con política justa",
+            "Siempre causa deadlock",
+            "El thread espera normalmente",
+            "Lanza una excepción"
+        ],
+        "answer": "Puede causar un deadlock si es un ReentrantLock con política justa"
+    },
+    {
+        "question": "¿Cuál es el problema con usar double para representar dinero en Java?",
+        "options": [
+            "Errores de redondeo debido a la representación binaria de punto flotante",
+            "Ocupa demasiada memoria",
+            "Es demasiado lento",
+            "No puede manejar números grandes"
+        ],
+        "answer": "Errores de redondeo debido a la representación binaria de punto flotante"
+    },
+    {
+        "question": "¿Qué sucede al serializar un objeto que contiene una referencia a una lambda?",
+        "options": [
+            "NotSerializableException si la lambda captura variables no serializables",
+            "La lambda se serializa normalmente",
+            "Error de compilación",
+            "La lambda se ignora"
+        ],
+        "answer": "NotSerializableException si la lambda captura variables no serializables"
+    },
+    {
+        "question": "¿Cuál es el problema del Double-Checked Locking en Java sin volatile?",
+        "options": [
+            "Puede devolver una referencia a un objeto parcialmente inicializado debido al reordenamiento de instrucciones",
+            "Es más lento",
+            "No funciona en Java moderno",
+            "Causa memory leaks"
+        ],
+        "answer": "Puede devolver una referencia a un objeto parcialmente inicializado debido al reordenamiento de instrucciones"
+    },
+    {
+        "question": "¿Qué sucede si se usa break con una etiqueta que no existe?",
+        "options": [
+            "Error de compilación",
+            "RuntimeException",
+            "Se ignora el break",
+            "El programa termina"
+        ],
+        "answer": "Error de compilación"
+    },
+    {
+        "question": "¿Cuál es la diferencia entre g1gc y zgc en Java?",
+        "options": [
+            "ZGC tiene pausas menores a 1ms y escala mejor, pero usa más memoria",
+            "G1GC es más nuevo y mejor",
+            "ZGC solo funciona en Windows",
+            "Son exactamente iguales"
+        ],
+        "answer": "ZGC tiene pausas menores a 1ms y escala mejor, pero usa más memoria"
+    },
+    {
+        "question": "¿Qué problema puede causar el uso de WeakHashMap como caché?",
+        "options": [
+            "Las entradas pueden ser eliminadas incluso si están en uso activo en otra parte",
+            "Es más lento que HashMap",
+            "No es thread-safe",
+            "Usa más memoria"
+        ],
+        "answer": "Las entradas pueden ser eliminadas incluso si están en uso activo en otra parte"
+    },
+    {
+        "question": "¿Qué sucede si se llama a System.gc()?",
+        "options": [
+            "Es solo una sugerencia y puede ser completamente ignorada por la JVM",
+            "Fuerza la recolección de basura inmediatamente",
+            "Causa un error",
+            "Detiene la aplicación momentáneamente"
+        ],
+        "answer": "Es solo una sugerencia y puede ser completamente ignorada por la JVM"
+    },
+    {
+        "question": "¿Cuál es el problema de usar recursión para recorrer un árbol muy profundo?",
+        "options": [
+            "Puede causar StackOverflowError por el límite de la pila de llamadas",
+            "Es más lento que un bucle",
+            "Usa más memoria heap",
+            "No es orientado a objetos"
+        ],
+        "answer": "Puede causar StackOverflowError por el límite de la pila de llamadas"
+    },
+    {
+        "question": "¿Qué sucede si se intenta deserializar un objeto cuya clase ha cambiado?",
+        "options": [
+            "InvalidClassException si el serialVersionUID no coincide",
+            "El objeto se deserializa normalmente",
+            "NullPointerException",
+            "ClassNotFoundException"
+        ],
+        "answer": "InvalidClassException si el serialVersionUID no coincide"
+    },
+    {
+        "question": "¿Cuál es la diferencia entre & y && en Java?",
+        "options": [
+            "& evalúa ambos lados siempre, && usa evaluación de cortocircuito",
+            "Son exactamente iguales",
+            "& es más rápido",
+            "&& solo funciona con booleanos"
+        ],
+        "answer": "& evalúa ambos lados siempre, && usa evaluación de cortocircuito"
+    },
+    {
+        "question": "¿Qué problema puede causar el uso de BigDecimal con el constructor que acepta double?",
+        "options": [
+            "Puede introducir imprecisiones debido a la conversión inicial del double",
+            "Es más lento",
+            "Usa más memoria",
+            "No puede manejar números grandes"
+        ],
+        "answer": "Puede introducir imprecisiones debido a la conversión inicial del double"
+    },
+    {
+        "question": "¿Qué sucede si se modifica un objeto después de usarlo como clave en un HashMap?",
+        "options": [
+            "El objeto puede perderse en el mapa si el hashCode cambia",
+            "El mapa se actualiza automáticamente",
+            "Lanza una excepción",
+            "Nada, funciona normalmente"
+        ],
+        "answer": "El objeto puede perderse en el mapa si el hashCode cambia"
+    },
+    {
+        "question": "¿Cuál es el problema de usar float o double como índices en un bucle?",
+        "options": [
+            "Errores de redondeo pueden causar que se salten o repitan iteraciones",
+            "Es más lento",
+            "Usa más memoria",
+            "No está permitido por el compilador"
+        ],
+        "answer": "Errores de redondeo pueden causar que se salten o repitan iteraciones"
+    },
+    {
+        "question": "¿Qué sucede si se usa reflection para modificar un campo final?",
+        "options": [
+            "Puede funcionar pero puede causar comportamiento indefinido en la JVM",
+            "Es imposible",
+            "Lanza una excepción siempre",
+            "El campo no se modifica"
+        ],
+        "answer": "Puede funcionar pero puede causar comportamiento indefinido en la JVM"
+    },
+    {
+        "question": "¿Cuál es la diferencia entre Callable y Runnable?",
+        "options": [
+            "Callable puede retornar un valor y lanzar excepciones checked",
+            "Son exactamente iguales",
+            "Callable es más nuevo",
+            "Runnable es más eficiente"
+        ],
+        "answer": "Callable puede retornar un valor y lanzar excepciones checked"
+    },
+    {
+        "question": "¿Qué problema puede causar el uso de ThreadLocalRandom en un entorno Fork/Join?",
+        "options": [
+            "Contención y pérdida de rendimiento debido a la inicialización por thread",
+            "No funciona en Fork/Join",
+            "Causa deadlocks",
+            "Genera números no aleatorios"
+        ],
+        "answer": "Contención y pérdida de rendimiento debido a la inicialización por thread"
+    },
+    {
+        "question": "¿Qué sucede si se intenta serializar una clase interna no estática?",
+        "options": [
+            "Falla porque la clase interna tiene una referencia implícita a la clase externa",
+            "Se serializa normalmente",
+            "La clase externa también se serializa",
+            "Error de compilación"
+        ],
+        "answer": "Falla porque la clase interna tiene una referencia implícita a la clase externa"
+    },
+    {
+        "question": "¿Cuál es el problema de usar el operador == con BigDecimal?",
+        "options": [
+            "Compara referencias en lugar de valores, y 1.0 y 1.00 son objetos distintos",
+            "No funciona con BigDecimal",
+            "Es más lento que equals()",
+            "Causa error de compilación"
+        ],
+        "answer": "Compara referencias en lugar de valores, y 1.0 y 1.00 son objetos distintos"
+    },
+    {
+        "question": "¿Cuál es la diferencia principal entre una cola de trabajo y un pool de threads?",
+        "options": [
+            "La cola mantiene las tareas hasta que un thread esté disponible, mientras el pool mantiene threads listos para ejecutar tareas",
+            "La cola es más rápida que el pool",
+            "El pool solo funciona con tareas sincrónicas",
+            "No hay diferencia significativa"
+        ],
+        "answer": "La cola mantiene las tareas hasta que un thread esté disponible, mientras el pool mantiene threads listos para ejecutar tareas"
+    },
+    {
+        "question": "¿Qué problema puede ocurrir al usar un Singleton con múltiples ClassLoaders?",
+        "options": [
+            "Se pueden crear múltiples instancias del Singleton, una por cada ClassLoader",
+            "El Singleton no se puede cargar",
+            "Causa un error de compilación",
+            "El ClassLoader principal lo bloquea"
+        ],
+        "answer": "Se pueden crear múltiples instancias del Singleton, una por cada ClassLoader"
+    },
+    {
+        "question": "¿Cuál es el impacto de usar String.format() en un loop crítico de rendimiento?",
+        "options": [
+            "Puede causar overhead significativo por la creación de objetos Pattern y Matcher",
+            "No tiene impacto en el rendimiento",
+            "Mejora el rendimiento",
+            "Solo afecta en Android"
+        ],
+        "answer": "Puede causar overhead significativo por la creación de objetos Pattern y Matcher"
+    },
+    {
+        "question": "¿Qué sucede si se implementa Cloneable sin sobrescribir clone()?",
+        "options": [
+            "Se usa la implementación de Object.clone() que hace una copia superficial",
+            "El objeto no se puede clonar",
+            "Error en tiempo de ejecución",
+            "Copia profunda automática"
+        ],
+        "answer": "Se usa la implementación de Object.clone() que hace una copia superficial"
+    },
+    {
+        "question": "¿Cuál es el problema de usar HashMap con claves que tienen un hashCode mal implementado?",
+        "options": [
+            "Degradación a complejidad O(n) en búsquedas por colisiones",
+            "El mapa no funciona",
+            "Solo almacena la última entrada",
+            "Causa error de compilación"
+        ],
+        "answer": "Degradación a complejidad O(n) en búsquedas por colisiones"
+    },
+    {
+        "question": "¿Qué sucede al deserializar un objeto que implementa Externalizable sin un constructor sin argumentos?",
+        "options": [
+            "InvalidClassException durante la deserialización",
+            "El objeto se crea normalmente",
+            "Se usa el constructor por defecto",
+            "NullPointerException"
+        ],
+        "answer": "InvalidClassException durante la deserialización"
+    },
+    {
+        "question": "¿Cuál es la diferencia entre volatile y atomic en Java?",
+        "options": [
+            "volatile garantiza visibilidad, atomic además garantiza operaciones atómicas",
+            "Son sinónimos",
+            "volatile es más rápido",
+            "atomic solo funciona en un thread"
+        ],
+        "answer": "volatile garantiza visibilidad, atomic además garantiza operaciones atómicas"
+    },
+    {
+        "question": "¿Qué problema puede causar el uso de default methods en interfaces con herencia múltiple?",
+        "options": [
+            "El diamante de la muerte si múltiples interfaces definen el mismo método",
+            "No se permiten default methods",
+            "Solo funciona en Java 8+",
+            "Causa error de compilación"
+        ],
+        "answer": "El diamante de la muerte si múltiples interfaces definen el mismo método"
+    },
+    {
+        "question": "¿Cuál es el impacto de usar reflection en Android con ProGuard?",
+        "options": [
+            "Las clases y métodos accedidos por reflection pueden ser eliminados si no se configuran las reglas",
+            "ProGuard lo detecta automáticamente",
+            "No hay impacto",
+            "Reflection no funciona con ProGuard"
+        ],
+        "answer": "Las clases y métodos accedidos por reflection pueden ser eliminados si no se configuran las reglas"
+    },
+    {
+        "question": "¿Qué sucede si se usa una expresión lambda que captura variables en un stream paralelo?",
+        "options": [
+            "Puede causar condiciones de carrera si las variables capturadas son mutables",
+            "No se permite capturar variables",
+            "El stream se vuelve secuencial",
+            "Mejora el rendimiento"
+        ],
+        "answer": "Puede causar condiciones de carrera si las variables capturadas son mutables"
+    },
+    {
+        "question": "¿Cuál es la diferencia entre ForkJoinPool y ThreadPoolExecutor?",
+        "options": [
+            "ForkJoinPool está optimizado para tareas recursivas y usa work-stealing",
+            "Son exactamente iguales",
+            "ForkJoinPool es más antiguo",
+            "ThreadPoolExecutor es más eficiente"
+        ],
+        "answer": "ForkJoinPool está optimizado para tareas recursivas y usa work-stealing"
+    },
+    {
+        "question": "¿Qué problema puede causar el uso de SecureRandom en un servidor web?",
+        "options": [
+            "Bloqueo del thread principal durante la recolección de entropía",
+            "No es seguro para web",
+            "Consume mucha memoria",
+            "No funciona en Linux"
+        ],
+        "answer": "Bloqueo del thread principal durante la recolección de entropía"
+    },
+    {
+        "question": "¿Cuál es el impacto de usar @Transactional en un método privado?",
+        "options": [
+            "La anotación es ignorada porque AOP requiere llamadas a través del proxy",
+            "Funciona normalmente",
+            "Causa error en runtime",
+            "No se permite en métodos privados"
+        ],
+        "answer": "La anotación es ignorada porque AOP requiere llamadas a través del proxy"
+    },
+    {
+        "question": "¿Qué sucede si se usa una referencia débil a un objeto en un WeakHashMap?",
+        "options": [
+            "El objeto puede ser recolectado incluso si está referenciado en el map",
+            "La referencia se vuelve fuerte",
+            "Causa memory leak",
+            "No se permite"
+        ],
+        "answer": "El objeto puede ser recolectado incluso si está referenciado en el map"
+    },
+    {
+        "question": "¿Cuál es el problema de usar SimpleDateFormat en un ambiente multithreaded?",
+        "options": [
+            "No es thread-safe y puede producir resultados incorrectos o excepciones",
+            "Es más lento",
+            "No funciona con todas las zonas horarias",
+            "Consume más memoria"
+        ],
+        "answer": "No es thread-safe y puede producir resultados incorrectos o excepciones"
+    },
+    {
+        "question": "¿Qué implicaciones tiene usar -XX:+UseCompressedOops en una JVM de 64 bits?",
+        "options": [
+            "Reduce el uso de memoria pero puede impactar el rendimiento en ciertas operaciones",
+            "Solo funciona en Windows",
+            "Aumenta el uso de memoria",
+            "No tiene efecto en 64 bits"
+        ],
+        "answer": "Reduce el uso de memoria pero puede impactar el rendimiento en ciertas operaciones"
+    },
+    {
+        "question": "¿Cuál es el problema de usar enum como clave en un distributed cache?",
+        "options": [
+            "Los valores ordinales pueden cambiar si el enum se modifica, causando inconsistencias",
+            "No se puede serializar",
+            "Consume mucha memoria",
+            "Es muy lento"
+        ],
+        "answer": "Los valores ordinales pueden cambiar si el enum se modifica, causando inconsistencias"
+    },
+    {
+        "question": "¿Qué sucede si se usa un método con @Scheduled en una clase no administrada por Spring?",
+        "options": [
+            "El método nunca se ejecutará porque Spring no puede interceptar la clase",
+            "Funciona normalmente",
+            "Lanza una excepción",
+            "Se ejecuta una sola vez"
+        ],
+        "answer": "El método nunca se ejecutará porque Spring no puede interceptar la clase"
+    },
+    {
+        "question": "¿Cuál es la diferencia entre StampedLock y ReadWriteLock?",
+        "options": [
+            "StampedLock permite lecturas optimistas sin bloqueo pero puede causar inanición",
+            "Son iguales en funcionamiento",
+            "StampedLock es más antiguo",
+            "ReadWriteLock es más eficiente"
+        ],
+        "answer": "StampedLock permite lecturas optimistas sin bloqueo pero puede causar inanición"
+    },
+    {
+        "question": "¿Qué problema puede causar el uso de System.nanoTime() para medir intervalos largos?",
+        "options": [
+            "Puede sufrir de overflow y dar resultados incorrectos después de 292 años",
+            "No es preciso",
+            "Consume muchos recursos",
+            "Solo funciona en Windows"
+        ],
+        "answer": "Puede sufrir de overflow y dar resultados incorrectos después de 292 años"
+    },
+    {
+        "question": "¿Cuál es el impacto de usar String.intern() en una aplicación web?",
+        "options": [
+            "Puede causar OutOfMemoryError en el PermGen/Metaspace si se usa indiscriminadamente",
+            "Mejora siempre el rendimiento",
+            "No tiene impacto",
+            "Solo afecta al startup"
+        ],
+        "answer": "Puede causar OutOfMemoryError en el PermGen/Metaspace si se usa indiscriminadamente"
+    },
+    {
+        "question": "¿Qué sucede si se usa @Autowired en un campo final?",
+        "options": [
+            "Error en tiempo de ejecución porque Spring no puede inyectar en campos finales",
+            "Funciona normalmente",
+            "Se ignora la anotación",
+            "Error de compilación"
+        ],
+        "answer": "Error en tiempo de ejecución porque Spring no puede inyectar en campos finales"
+    },
+    {
+        "question": "¿Cuál es la diferencia entre G1GC y CMS en términos de fragmentación?",
+        "options": [
+            "G1GC maneja mejor la fragmentación por su diseño de regiones",
+            "CMS tiene mejor manejo",
+            "No hay diferencia",
+            "Depende del hardware"
+        ],
+        "answer": "G1GC maneja mejor la fragmentación por su diseño de regiones"
+    },
+    {
+        "question": "¿Qué problema puede causar el uso de UUID.randomUUID() en un sistema distribuido?",
+        "options": [
+            "Posibles colisiones si se generan muchos IDs en intervalos cortos",
+            "No es único globalmente",
+            "Es muy lento",
+            "No funciona en red"
+        ],
+        "answer": "Posibles colisiones si se generan muchos IDs en intervalos cortos"
+    },
+    {
+        "question": "¿Cuál es el impacto de usar @Transactional(readOnly = true) en JPA?",
+        "options": [
+            "Puede mejorar el rendimiento pero no garantiza que las modificaciones sean detectadas",
+            "No tiene efecto",
+            "Causa error en runtime",
+            "Bloquea la base de datos"
+        ],
+        "answer": "Puede mejorar el rendimiento pero no garantiza que las modificaciones sean detectadas"
+    },
+    {
+        "question": "¿Qué sucede si se usa una expresión lambda en un método default de una interfaz?",
+        "options": [
+            "La lambda se crea para cada instancia que implementa la interfaz",
+            "Se comparte entre instancias",
+            "No se permite",
+            "Causa error de compilación"
+        ],
+        "answer": "La lambda se crea para cada instancia que implementa la interfaz"
+    },
+    {
+        "question": "¿Cuál es el problema de usar BigDecimal.equals() para comparar montos monetarios?",
+        "options": [
+            "Considera diferentes las mismas cantidades con diferente escala (1.0 != 1.00)",
+            "Es más lento",
+            "No es preciso",
+            "No funciona con números grandes"
+        ],
+        "answer": "Considera diferentes las mismas cantidades con diferente escala (1.0 != 1.00)"
+    },
+    {
+        "question": "¿Qué implicaciones tiene usar -XX:+AggressiveOpts en producción?",
+        "options": [
+            "Puede causar comportamiento impredecible por optimizaciones experimentales",
+            "Siempre mejora el rendimiento",
+            "No tiene efecto",
+            "Solo funciona en desarrollo"
+        ],
+        "answer": "Puede causar comportamiento impredecible por optimizaciones experimentales"
+    },
+    {
+        "question": "¿Cuál es el impacto de usar @Async en un método que retorna void?",
+        "options": [
+            "Las excepciones no se propagan y pueden perderse silenciosamente",
+            "No se permite usar @Async con void",
+            "Funciona igual que sin @Async",
+            "Causa error en runtime"
+        ],
+        "answer": "Las excepciones no se propagan y pueden perderse silenciosamente"
+    },
+    {
+        "question": "¿Qué problema puede causar el uso de ThreadLocal con Reactive Streams?",
+        "options": [
+            "ThreadLocal no funciona correctamente porque los operadores pueden cambiar de thread",
+            "Es más lento",
+            "Causa memory leaks",
+            "No se permite en reactive"
+        ],
+        "answer": "ThreadLocal no funciona correctamente porque los operadores pueden cambiar de thread"
+    },
+    {
+        "question": "¿Cuál es la diferencia entre CompletableFuture.supplyAsync y Observable.fromCallable?",
+        "options": [
+            "CompletableFuture ejecuta inmediatamente, Observable es lazy hasta la suscripción",
+            "Son equivalentes",
+            "Observable es más rápido",
+            "CompletableFuture es más nuevo"
+        ],
+        "answer": "CompletableFuture ejecuta inmediatamente, Observable es lazy hasta la suscripción"
+    },
+    {
+        "question": "¿Qué sucede si se usa @Cacheable en un método privado de un bean de Spring?",
+        "options": [
+            "El cache no funciona porque AOP no puede interceptar métodos privados",
+            "Funciona normalmente",
+            "Causa error en runtime",
+            "Mejora el rendimiento"
+        ],
+        "answer": "El cache no funciona porque AOP no puede interceptar métodos privados"
+    }
+]

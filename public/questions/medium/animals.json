@@ -1,0 +1,502 @@
+[
+    {
+        "question": "¿Qué especie de gorila es la más grande?",
+        "options": [
+            "Gorila de montaña",
+            "Gorila occidental",
+            "Gorila oriental",
+            "Gorila de río"
+        ],
+        "answer": "Gorila oriental"
+    },
+    {
+        "question": "¿Cuál es la velocidad máxima que puede alcanzar un guepardo?",
+        "options": [
+            "115 km/h",
+            "95 km/h",
+            "125 km/h",
+            "105 km/h"
+        ],
+        "answer": "115 km/h"
+    },
+    {
+        "question": "¿Qué tipo de animal es un axolote?",
+        "options": [
+            "Anfibio",
+            "Reptil",
+            "Pez",
+            "Crustáceo"
+        ],
+        "answer": "Anfibio"
+    },
+    {
+        "question": "¿Cuántas especies diferentes de pingüinos existen?",
+        "options": [
+            "18",
+            "12",
+            "24",
+            "30"
+        ],
+        "answer": "18"
+    },
+    {
+        "question": "¿Qué animal tiene el veneno más potente del mundo?",
+        "options": [
+            "Medusa avispa de mar",
+            "Serpiente mamba negra",
+            "Araña viuda negra",
+            "Escorpión amarillo"
+        ],
+        "answer": "Medusa avispa de mar"
+    },
+    {
+        "question": "¿Cuál es el período de gestación de un elefante?",
+        "options": [
+            "22 meses",
+            "18 meses",
+            "20 meses",
+            "24 meses"
+        ],
+        "answer": "22 meses"
+    },
+    {
+        "question": "¿Qué especie de tiburón es el más grande?",
+        "options": [
+            "Tiburón ballena",
+            "Tiburón blanco",
+            "Tiburón martillo",
+            "Tiburón tigre"
+        ],
+        "answer": "Tiburón ballena"
+    },
+    {
+        "question": "¿Cuántos huesos tiene el esqueleto de un gato?",
+        "options": [
+            "230",
+            "206",
+            "180",
+            "250"
+        ],
+        "answer": "230"
+    },
+    {
+        "question": "¿Qué animal tiene el coeficiente de encefalización más alto después de los humanos?",
+        "options": [
+            "Delfín",
+            "Chimpancé",
+            "Orangután",
+            "Elefante"
+        ],
+        "answer": "Delfín"
+    },
+    {
+        "question": "¿Cuál es la serpiente más larga del mundo?",
+        "options": [
+            "Pitón reticulada",
+            "Anaconda verde",
+            "Boa constrictor",
+            "Cobra real"
+        ],
+        "answer": "Pitón reticulada"
+    },
+    {
+        "question": "¿Qué especie de ave tiene el pico más largo en proporción a su cuerpo?",
+        "options": [
+            "Colibrí espada",
+            "Tucán toco",
+            "Pelícano",
+            "Cigüeña"
+        ],
+        "answer": "Colibrí espada"
+    },
+    {
+        "question": "¿Cuántos años puede vivir una tortuga galápago?",
+        "options": [
+            "150 años",
+            "100 años",
+            "200 años",
+            "120 años"
+        ],
+        "answer": "150 años"
+    },
+    {
+        "question": "¿Qué especie de mono es la más pequeña del mundo?",
+        "options": [
+            "Tití pigmeo",
+            "Lémur ratón",
+            "Mono ardilla",
+            "Tarsero filipino"
+        ],
+        "answer": "Tití pigmeo"
+    },
+    {
+        "question": "¿Cuál es la profundidad máxima a la que puede bucear un cachalote?",
+        "options": [
+            "2,000 metros",
+            "1,500 metros",
+            "2,500 metros",
+            "1,000 metros"
+        ],
+        "answer": "2,000 metros"
+    },
+    {
+        "question": "¿Qué animal tiene la mordida más fuerte en relación a su tamaño?",
+        "options": [
+            "Hormiga guerrera",
+            "Escarabajo rinoceronte",
+            "Escorpión emperador",
+            "Cangrejo cocotero"
+        ],
+        "answer": "Hormiga guerrera"
+    },
+    {
+        "question": "¿Cuántas especies diferentes de murciélagos existen?",
+        "options": [
+            "1,400",
+            "1,000",
+            "800",
+            "1,200"
+        ],
+        "answer": "1,400"
+    },
+    {
+        "question": "¿Qué animal tiene la mayor presión sanguínea?",
+        "options": [
+            "Jirafa",
+            "Elefante",
+            "Ballena azul",
+            "Hipopótamo"
+        ],
+        "answer": "Jirafa"
+    },
+    {
+        "question": "¿Cuál es la temperatura corporal normal de un colibrí?",
+        "options": [
+            "40°C",
+            "37°C",
+            "42°C",
+            "39°C"
+        ],
+        "answer": "40°C"
+    },
+    {
+        "question": "¿Qué especie de felino tiene la mayor tasa de éxito en la caza?",
+        "options": [
+            "Gato negro de pies negros",
+            "Leopardo",
+            "Tigre",
+            "León"
+        ],
+        "answer": "Gato negro de pies negros"
+    },
+    {
+        "question": "¿Cuántos dientes tiene un tiburón blanco adulto?",
+        "options": [
+            "300",
+            "250",
+            "350",
+            "400"
+        ],
+        "answer": "300"
+    },
+    {
+        "question": "¿Qué animal tiene el sistema inmunológico más fuerte?",
+        "options": [
+            "Cocodrilo",
+            "Tiburón",
+            "Elefante",
+            "Tortuga"
+        ],
+        "answer": "Cocodrilo"
+    },
+    {
+        "question": "¿Cuál es la velocidad máxima de vuelo de un halcón peregrino en picada?",
+        "options": [
+            "389 km/h",
+            "320 km/h",
+            "400 km/h",
+            "350 km/h"
+        ],
+        "answer": "389 km/h"
+    },
+    {
+        "question": "¿Qué especie de araña es la más venenosa del mundo?",
+        "options": [
+            "Araña de los bananos",
+            "Viuda negra",
+            "Araña reclusa parda",
+            "Araña lobo"
+        ],
+        "answer": "Araña de los bananos"
+    },
+    {
+        "question": "¿Cuántos músculos tiene la trompa de un elefante?",
+        "options": [
+            "40,000",
+            "30,000",
+            "50,000",
+            "35,000"
+        ],
+        "answer": "40,000"
+    },
+    {
+        "question": "¿Qué animal tiene el ADN más similar al humano después de los chimpancés?",
+        "options": [
+            "Bonobos",
+            "Gorilas",
+            "Orangutanes",
+            "Gibones"
+        ],
+        "answer": "Bonobos"
+    },
+    {
+        "question": "¿Cuál es la esperanza de vida promedio de un pulpo?",
+        "options": [
+            "3-5 años",
+            "1-2 años",
+            "5-7 años",
+            "7-10 años"
+        ],
+        "answer": "3-5 años"
+    },
+    {
+        "question": "¿Qué especie de ave puede volar a mayor altura?",
+        "options": [
+            "Buitre moteado",
+            "Águila real",
+            "Cóndor andino",
+            "Ganso del Himalaya"
+        ],
+        "answer": "Buitre moteado"
+    },
+    {
+        "question": "¿Cuántas especies diferentes de abejas existen en el mundo?",
+        "options": [
+            "20,000",
+            "15,000",
+            "25,000",
+            "30,000"
+        ],
+        "answer": "20,000"
+    },
+    {
+        "question": "¿Qué animal tiene la mayor capacidad pulmonar en relación a su tamaño?",
+        "options": [
+            "Pika",
+            "Hámster",
+            "Ratón",
+            "Jerbo"
+        ],
+        "answer": "Pika"
+    },
+    {
+        "question": "¿Cuál es la velocidad máxima de nado de un delfín?",
+        "options": [
+            "37 km/h",
+            "45 km/h",
+            "30 km/h",
+            "40 km/h"
+        ],
+        "answer": "37 km/h"
+    },
+    {
+        "question": "¿Qué especie de primate tiene el cerebro más grande en proporción a su cuerpo?",
+        "options": [
+            "Capuchino",
+            "Gorila",
+            "Chimpancé",
+            "Orangután"
+        ],
+        "answer": "Capuchino"
+    },
+    {
+        "question": "¿Cuántos litros de leche produce una vaca lechera al día en promedio?",
+        "options": [
+            "28 litros",
+            "20 litros",
+            "35 litros",
+            "25 litros"
+        ],
+        "answer": "28 litros"
+    },
+    {
+        "question": "¿Qué animal tiene la mayor densidad de pelo por centímetro cuadrado?",
+        "options": [
+            "Nutria marina",
+            "Visón",
+            "Chinchilla",
+            "Conejo angora"
+        ],
+        "answer": "Nutria marina"
+    },
+    {
+        "question": "¿Cuál es la edad máxima registrada para un loro gris africano?",
+        "options": [
+            "73 años",
+            "65 años",
+            "80 años",
+            "70 años"
+        ],
+        "answer": "73 años"
+    },
+    {
+        "question": "¿Qué especie de rana es la más venenosa?",
+        "options": [
+            "Rana dorada",
+            "Rana dardo azul",
+            "Rana punta de flecha",
+            "Rana fantasma"
+        ],
+        "answer": "Rana dorada"
+    },
+    {
+        "question": "¿Cuántas vértebras tiene el cuello de una jirafa?",
+        "options": [
+            "7",
+            "8",
+            "10",
+            "12"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "¿Qué animal tiene la mayor cantidad de receptores de olor?",
+        "options": [
+            "Oso polar",
+            "Lobo",
+            "Perro sabueso",
+            "Zorro rojo"
+        ],
+        "answer": "Oso polar"
+    },
+    {
+        "question": "¿Cuál es la velocidad máxima de un caballo pura sangre?",
+        "options": [
+            "70 km/h",
+            "60 km/h",
+            "80 km/h",
+            "65 km/h"
+        ],
+        "answer": "70 km/h"
+    },
+    {
+        "question": "¿Qué especie de tortuga puede nadar más rápido?",
+        "options": [
+            "Tortuga laúd",
+            "Tortuga verde",
+            "Tortuga carey",
+            "Tortuga boba"
+        ],
+        "answer": "Tortuga laúd"
+    },
+    {
+        "question": "¿Cuántos días puede sobrevivir un camello sin agua?",
+        "options": [
+            "15 días",
+            "10 días",
+            "20 días",
+            "25 días"
+        ],
+        "answer": "15 días"
+    },
+    {
+        "question": "¿Qué animal tiene la mayor tasa metabólica?",
+        "options": [
+            "Musaraña etrusca",
+            "Colibrí",
+            "Ratón",
+            "Murciélago"
+        ],
+        "answer": "Musaraña etrusca"
+    },
+    {
+        "question": "¿Cuál es el peso máximo que puede levantar un gorila?",
+        "options": [
+            "815 kg",
+            "500 kg",
+            "1000 kg",
+            "750 kg"
+        ],
+        "answer": "815 kg"
+    },
+    {
+        "question": "¿Qué especie de ave tiene la mayor envergadura alar?",
+        "options": [
+            "Albatros viajero",
+            "Cóndor andino",
+            "Águila real",
+            "Pelícano"
+        ],
+        "answer": "Albatros viajero"
+    },
+    {
+        "question": "¿Cuántos huevos puede poner una termita reina en un día?",
+        "options": [
+            "30,000",
+            "20,000",
+            "40,000",
+            "25,000"
+        ],
+        "answer": "30,000"
+    },
+    {
+        "question": "¿Qué animal tiene la mayor cantidad de cromosomas?",
+        "options": [
+            "Helecho negro",
+            "Mariposa",
+            "Carpa",
+            "Cangrejo"
+        ],
+        "answer": "Helecho negro"
+    },
+    {
+        "question": "¿Cuál es la profundidad máxima a la que puede bucear un pingüino emperador?",
+        "options": [
+            "565 metros",
+            "400 metros",
+            "600 metros",
+            "500 metros"
+        ],
+        "answer": "565 metros"
+    },
+    {
+        "question": "¿Qué especie de serpiente es la más venenosa de América?",
+        "options": [
+            "Cascabel diamante",
+            "Coral del este",
+            "Yarará",
+            "Terciopelo"
+        ],
+        "answer": "Coral del este"
+    },
+    {
+        "question": "¿Cuántas especies de mariposas monarca existen?",
+        "options": [
+            "3",
+            "5",
+            "2",
+            "4"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "¿A qué velocidad puede mover un colibrí sus alas?",
+        "options": [
+            "80 veces/segundo",
+            "60 veces/segundo",
+            "70 veces/segundo",
+            "90 veces/segundo"
+        ],
+        "answer": "80 veces/segundo"
+    },
+    {
+        "question": "¿Cuál es el promedio de vida de un cóndor andino en libertad?",
+        "options": [
+            "50 años",
+            "40 años",
+            "60 años",
+            "45 años"
+        ],
+        "answer": "50 años"
+    }
+]
