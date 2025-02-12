@@ -522,7 +522,7 @@ againBtn.addEventListener('click', () => {
 
 async function generateFinalPhrase() {
     try {
-        const response = await fetch(`/api/generate-phrase?assertedQuestions=${assertedQuestions}&totalQuestions=${totalQuestions}`);
+        const response = await fetch(`/api/generate-phrase?assertedQuestions=${assertedQuestions}&totalQuestions=${totalQuestions}&category=${categoryName}&level=${currentLevel}`);
         const generatedPhrase = await response.text();
         finalPhrase.textContent = generatedPhrase;
         console.log(generatedPhrase);
