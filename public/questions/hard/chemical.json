@@ -1,0 +1,992 @@
+[
+    {
+        "question": "En una celda electroquímica Zn|Zn²⁺||Cu²⁺|Cu, ¿cuál es el potencial estándar si E°(Zn²⁺/Zn)=-0.76V y E°(Cu²⁺/Cu)=+0.34V?",
+        "options": [
+            "+1.10V",
+            "-1.10V",
+            "+0.42V",
+            "-0.42V"
+        ],
+        "answer": "+1.10V"
+    },
+    {
+        "question": "¿Cuál es la multiplicidad de espín de un ion d⁵ en campo débil?",
+        "options": [
+            "6",
+            "4",
+            "2",
+            "1"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "En un complejo octaédrico, ¿cuál es la diferencia de energía entre los orbitales t2g y eg en términos de Δo?",
+        "options": [
+            "0.6Δo",
+            "0.4Δo",
+            "Δo",
+            "2Δo"
+        ],
+        "answer": "0.6Δo"
+    },
+    {
+        "question": "¿Cuál es el orden de enlace en el ion O2⁻ según la teoría de orbitales moleculares?",
+        "options": [
+            "1.5",
+            "2",
+            "2.5",
+            "1"
+        ],
+        "answer": "1.5"
+    },
+    {
+        "question": "¿Cuál es la configuración absoluta del siguiente centro quiral: CHBrClF?",
+        "options": [
+            "(R)",
+            "(S)",
+            "Meso",
+            "Racémico"
+        ],
+        "answer": "(S)"
+    },
+    {
+        "question": "¿Cuál es el pH de una solución buffer de ácido acético 0.1M (Ka=1.8×10⁻⁵) y acetato de sodio 0.1M?",
+        "options": [
+            "4.74",
+            "4.26",
+            "5.74",
+            "3.74"
+        ],
+        "answer": "4.74"
+    },
+    {
+        "question": "En la reacción SN2, ¿cuál es el orden cinético total?",
+        "options": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "¿Cuál es el término espectroscópico del estado fundamental del átomo de carbono?",
+        "options": [
+            "³P",
+            "¹S",
+            "²P",
+            "⁴S"
+        ],
+        "answer": "³P"
+    },
+    {
+        "question": "¿Qué regla de selección debe cumplirse para una transición vibracional en IR?",
+        "options": [
+            "Cambio en momento dipolar",
+            "Cambio en polarizabilidad",
+            "Cambio en momento angular",
+            "Cambio en espín"
+        ],
+        "answer": "Cambio en momento dipolar"
+    },
+    {
+        "question": "¿Cuál es la energía de red del NaCl en kJ/mol?",
+        "options": [
+            "787",
+            "682",
+            "892",
+            "576"
+        ],
+        "answer": "787"
+    },
+    {
+        "question": "En un espectro RMN, ¿qué causa el desdoblamiento de señales?",
+        "options": [
+            "Acoplamiento espín-espín",
+            "Desacoplamiento nuclear",
+            "Efecto Zeeman",
+            "Relajación espín-red"
+        ],
+        "answer": "Acoplamiento espín-espín"
+    },
+    {
+        "question": "¿Cuál es el mecanismo de la reacción de Diels-Alder?",
+        "options": [
+            "Cicloadición [4+2]",
+            "Sustitución nucleofílica",
+            "Eliminación E2",
+            "Adición electrofílica"
+        ],
+        "answer": "Cicloadición [4+2]"
+    },
+    {
+        "question": "¿Qué efecto tiene la concentración en la constante de equilibrio Kc?",
+        "options": [
+            "Ninguno",
+            "Aumenta Kc",
+            "Disminuye Kc",
+            "Depende del sistema"
+        ],
+        "answer": "Ninguno"
+    },
+    {
+        "question": "¿Cuál es la hibridación del carbono en el ion carbonio (CH3⁺)?",
+        "options": [
+            "sp2",
+            "sp3",
+            "sp",
+            "sp3d"
+        ],
+        "answer": "sp2"
+    },
+    {
+        "question": "¿Qué tipo de magnetismo exhibe el complejo [Fe(CN)6]⁴⁻?",
+        "options": [
+            "Diamagnético",
+            "Paramagnético",
+            "Ferromagnético",
+            "Antiferromagnético"
+        ],
+        "answer": "Diamagnético"
+    },
+    {
+        "question": "¿Cuál es la energía de estabilización del campo cristalino para un complejo d⁶ octaédrico de campo fuerte?",
+        "options": [
+            "-2.4Δo",
+            "-1.8Δo",
+            "-3.0Δo",
+            "-1.2Δo"
+        ],
+        "answer": "-2.4Δo"
+    },
+    {
+        "question": "En una reacción de primer orden, ¿cuántas vidas medias se necesitan para que reaccione el 87.5% del reactivo?",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "¿Cuál es el producto mayoritario en la deshidrohalogenación del 2-bromopentano con KOH en etanol?",
+        "options": [
+            "Pent-2-eno",
+            "Pent-1-eno",
+            "Mezcla equimolar",
+            "Pent-3-eno"
+        ],
+        "answer": "Pent-2-eno"
+    },
+    {
+        "question": "¿Cuál es la multiplicidad de un estado con S=3/2?",
+        "options": [
+            "4",
+            "3",
+            "2",
+            "1"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "¿Qué orbital molecular del O2 tiene la mayor energía?",
+        "options": [
+            "σ*2p",
+            "π*2p",
+            "σ2p",
+            "π2p"
+        ],
+        "answer": "σ*2p"
+    },
+    {
+        "question": "¿Cuál es el número de microestados para ML=0 en un orbital d?",
+        "options": [
+            "5",
+            "3",
+            "7",
+            "1"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "¿Qué tipo de espectroscopía se basa en el efecto Raman?",
+        "options": [
+            "Dispersión inelástica",
+            "Absorción",
+            "Emisión",
+            "Fluorescencia"
+        ],
+        "answer": "Dispersión inelástica"
+    },
+    {
+        "question": "¿Cuál es el orden de reacción respecto a A si la velocidad es v=k[A]½[B]?",
+        "options": [
+            "1/2",
+            "1",
+            "2",
+            "0"
+        ],
+        "answer": "1/2"
+    },
+    {
+        "question": "¿Qué simetría tiene el grupo puntual D4h?",
+        "options": [
+            "Ditetragonal",
+            "Tetragonal",
+            "Octaédrica",
+            "Tetraédrica"
+        ],
+        "answer": "Ditetragonal"
+    },
+    {
+        "question": "¿Cuál es el valor de ΔG° cuando Keq=1?",
+        "options": [
+            "0",
+            "RT",
+            "-RT",
+            "2RT"
+        ],
+        "answer": "0"
+    },
+    {
+        "question": "En el efecto Jahn-Teller, ¿qué orbitales están involucrados principalmente?",
+        "options": [
+            "eg",
+            "t2g",
+            "a1g",
+            "t1u"
+        ],
+        "answer": "eg"
+    },
+    {
+        "question": "¿Cuál es el producto principal en la nitración del naftaleno?",
+        "options": [
+            "1-nitronaftaleno",
+            "2-nitronaftaleno",
+            "1,4-dinitronaftaleno",
+            "1,2-dinitronaftaleno"
+        ],
+        "answer": "1-nitronaftaleno"
+    },
+    {
+        "question": "¿Qué ecuación describe la dependencia de la constante de equilibrio con la temperatura?",
+        "options": [
+            "van 't Hoff",
+            "Arrhenius",
+            "Eyring",
+            "Clausius-Clapeyron"
+        ],
+        "answer": "van 't Hoff"
+    },
+    {
+        "question": "¿Cuál es el término espectroscópico del estado fundamental del ion Cr³⁺?",
+        "options": [
+            "⁴F",
+            "³D",
+            "²S",
+            "⁵D"
+        ],
+        "answer": "⁴F"
+    },
+    {
+        "question": "¿Qué regla determina la estabilidad conformacional del ciclohexano?",
+        "options": [
+            "Barton",
+            "Markovnikov",
+            "Zaitsev",
+            "Bredt"
+        ],
+        "answer": "Barton"
+    },
+    {
+        "question": "¿Cuál es el valor de J en el acoplamiento protón-protón trans en alquenos?",
+        "options": [
+            "16-18 Hz",
+            "6-8 Hz",
+            "10-12 Hz",
+            "2-4 Hz"
+        ],
+        "answer": "16-18 Hz"
+    },
+    {
+        "question": "¿Qué tipo de transición electrónica es n→π*?",
+        "options": [
+            "Prohibida",
+            "Permitida",
+            "Parcialmente permitida",
+            "Resonante"
+        ],
+        "answer": "Prohibida"
+    },
+    {
+        "question": "¿Cuál es el producto mayoritario en la bromación radicalaria del tolueno?",
+        "options": [
+            "Bromuro de bencilo",
+            "p-bromotolueno",
+            "o-bromotolueno",
+            "m-bromotolueno"
+        ],
+        "answer": "Bromuro de bencilo"
+    },
+    {
+        "question": "¿Qué técnica se usa para determinar el peso molecular de proteínas?",
+        "options": [
+            "Electroforesis SDS-PAGE",
+            "Cromatografía de gases",
+            "Polarimetría",
+            "Conductimetría"
+        ],
+        "answer": "Electroforesis SDS-PAGE"
+    },
+    {
+        "question": "¿Cuál es el intermediario en la reacción E1?",
+        "options": [
+            "Carbocatión",
+            "Carboanión",
+            "Radical libre",
+            "Carbeno"
+        ],
+        "answer": "Carbocatión"
+    },
+    {
+        "question": "¿Qué factor determina principalmente la basicidad de las aminas?",
+        "options": [
+            "Disponibilidad del par electrónico",
+            "Tamaño molecular",
+            "Masa molecular",
+            "Punto de ebullición"
+        ],
+        "answer": "Disponibilidad del par electrónico"
+    },
+    {
+        "question": "¿Cuál es el efecto anomérico en química de carbohidratos?",
+        "options": [
+            "Estabilización del sustituyente axial",
+            "Estabilización ecuatorial",
+            "Desestabilización axial",
+            "No hay preferencia"
+        ],
+        "answer": "Estabilización del sustituyente axial"
+    },
+    {
+        "question": "¿Qué tipo de catálisis exhibe la enzima carboxipeptidasa?",
+        "options": [
+            "Ácido-base general",
+            "Nucleofílica",
+            "Electrofílica",
+            "Radicalaria"
+        ],
+        "answer": "Ácido-base general"
+    },
+    {
+        "question": "¿Cuál es la configuración electrónica del estado excitado más bajo del formaldehído?",
+        "options": [
+            "(n,π*)",
+            "(π,π*)",
+            "(σ,σ*)",
+            "(n,σ*)"
+        ],
+        "answer": "(n,π*)"
+    },
+    {
+        "question": "¿Qué determina la estereoquímica E/Z en alquenos?",
+        "options": [
+            "Prioridad CIP de sustituyentes",
+            "Masa molecular",
+            "Momento dipolar",
+            "Polaridad"
+        ],
+        "answer": "Prioridad CIP de sustituyentes"
+    },
+    {
+        "question": "¿Cuál es el mecanismo de la reacción de Friedel-Crafts?",
+        "options": [
+            "Sustitución electrofílica aromática",
+            "Sustitución nucleofílica",
+            "Adición electrofílica",
+            "Eliminación"
+        ],
+        "answer": "Sustitución electrofílica aromática"
+    },
+    {
+        "question": "¿Qué relación existe entre Kp y Kc para la reacción N2(g) + 3H2(g) ⇌ 2NH3(g)?",
+        "options": [
+            "Kp = Kc(RT)⁻²",
+            "Kp = Kc(RT)²",
+            "Kp = Kc",
+            "Kp = Kc(RT)"
+        ],
+        "answer": "Kp = Kc(RT)⁻²"
+    },
+    {
+        "question": "¿Cuál es el mecanismo de la reacción de Williamson?",
+        "options": [
+            "SN2",
+            "SN1",
+            "E2",
+            "E1"
+        ],
+        "answer": "SN2"
+    },
+    {
+        "question": "¿Qué regla determina la estabilidad de anillos aromáticos?",
+        "options": [
+            "Hückel (4n+2)",
+            "Woodward-Hoffmann",
+            "Baldwin",
+            "Bredt"
+        ],
+        "answer": "Hückel (4n+2)"
+    },
+    {
+        "question": "¿Cuál es el efecto del sustituyente en meta en la SEAr del benceno?",
+        "options": [
+            "Inductivo",
+            "Resonancia",
+            "Hiperconjugación",
+            "Campo"
+        ],
+        "answer": "Inductivo"
+    },
+    {
+        "question": "¿Qué tipo de inhibición muestra una Vmax reducida y Km igual?",
+        "options": [
+            "No competitiva",
+            "Competitiva",
+            "Mixta",
+            "Acompetitiva"
+        ],
+        "answer": "No competitiva"
+    },
+    {
+        "question": "¿Cuál es el orbital molecular más alto ocupado (HOMO) en el benceno?",
+        "options": [
+            "e1g",
+            "a2u",
+            "e2u",
+            "b1u"
+        ],
+        "answer": "e1g"
+    },
+    {
+        "question": "¿Qué efecto tiene la conjugación en el espectro UV-vis?",
+        "options": [
+            "Desplazamiento batocrómico",
+            "Desplazamiento hipsocrómico",
+            "No hay efecto",
+            "Efecto hipercrómico"
+        ],
+        "answer": "Desplazamiento batocrómico"
+    },
+    {
+        "question": "¿Cuál es la multiplicidad del estado fundamental del ion Mn²⁺?",
+        "options": [
+            "6",
+            "4",
+            "2",
+            "5"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "En la teoría VSEPR, ¿qué geometría presenta una molécula con configuración AX5E?",
+        "options": [
+            "Pirámide cuadrada",
+            "Bipirámide trigonal",
+            "Octaédrica",
+            "Pirámide trigonal"
+        ],
+        "answer": "Pirámide cuadrada"
+    },
+    {
+        "question": "¿Cuál es el valor de la constante de Faraday en kC/mol?",
+        "options": [
+            "96.485",
+            "86.485",
+            "76.485",
+            "66.485"
+        ],
+        "answer": "96.485"
+    },
+    {
+        "question": "¿Qué efecto tiene la temperatura en un proceso endotérmico según Le Chatelier?",
+        "options": [
+            "Favorece productos",
+            "Favorece reactivos",
+            "No tiene efecto",
+            "Depende de la presión"
+        ],
+        "answer": "Favorece productos"
+    },
+    {
+        "question": "¿Cuál es la configuración electrónica del estado excitado más bajo del benceno?",
+        "options": [
+            "¹B2u",
+            "¹A1g",
+            "³B1u",
+            "¹B1u"
+        ],
+        "answer": "¹B2u"
+    },
+    {
+        "question": "¿Qué tipo de transición se observa en el espectro Mössbauer del ⁵⁷Fe?",
+        "options": [
+            "Nuclear",
+            "Electrónica",
+            "Vibracional",
+            "Rotacional"
+        ],
+        "answer": "Nuclear"
+    },
+    {
+        "question": "¿Cuál es el orden de enlace en el ion NO⁺?",
+        "options": [
+            "3",
+            "2.5",
+            "2",
+            "1.5"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "¿Qué regla determina la estereoquímica en la apertura de epóxidos?",
+        "options": [
+            "Fürst-Plattner",
+            "Cram",
+            "Felkin-Anh",
+            "Markovnikov"
+        ],
+        "answer": "Fürst-Plattner"
+    },
+    {
+        "question": "¿Cuál es el valor del momento magnético efectivo para un ion d⁵ de alto espín?",
+        "options": [
+            "5.92 μB",
+            "4.90 μB",
+            "3.87 μB",
+            "2.83 μB"
+        ],
+        "answer": "5.92 μB"
+    },
+    {
+        "question": "¿Qué tipo de proceso es la desnaturalización de proteínas?",
+        "options": [
+            "Cooperativo",
+            "No cooperativo",
+            "Lineal",
+            "Exponencial"
+        ],
+        "answer": "Cooperativo"
+    },
+    {
+        "question": "¿Cuál es la simetría del modo normal v1 en una molécula tetraédrica?",
+        "options": [
+            "A1",
+            "E",
+            "T2",
+            "T1"
+        ],
+        "answer": "A1"
+    },
+    {
+        "question": "¿Qué efecto tiene un grupo electroatractor en posición β en una eliminación E2?",
+        "options": [
+            "Disminuye velocidad",
+            "Aumenta velocidad",
+            "No tiene efecto",
+            "Cambia mecanismo"
+        ],
+        "answer": "Disminuye velocidad"
+    },
+    {
+        "question": "¿Cuál es el principio de la espectroscopía NOESY?",
+        "options": [
+            "Efecto nuclear Overhauser",
+            "Acoplamiento escalar",
+            "Relajación espín-red",
+            "Desplazamiento químico"
+        ],
+        "answer": "Efecto nuclear Overhauser"
+    },
+    {
+        "question": "¿Qué tipo de orbital molecular es el LUMO del etileno?",
+        "options": [
+            "π*",
+            "σ*",
+            "n",
+            "π"
+        ],
+        "answer": "π*"
+    },
+    {
+        "question": "¿Cuál es la degeneración orbital del término ²D?",
+        "options": [
+            "5",
+            "3",
+            "7",
+            "1"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "¿Qué regla gobierna las transiciones vibrónicas?",
+        "options": [
+            "Franck-Condon",
+            "Aufbau",
+            "Hund",
+            "Pauli"
+        ],
+        "answer": "Franck-Condon"
+    },
+    {
+        "question": "¿Cuál es el mecanismo de la transposición de Beckmann?",
+        "options": [
+            "E1cb",
+            "E2",
+            "SN1",
+            "SN2"
+        ],
+        "answer": "E1cb"
+    },
+    {
+        "question": "¿Qué determina la constante de acoplamiento J en RMN?",
+        "options": [
+            "Ángulo diedro",
+            "Distancia internuclear",
+            "Campo magnético",
+            "Temperatura"
+        ],
+        "answer": "Ángulo diedro"
+    },
+    {
+        "question": "¿Cuál es el estado de oxidación del Mn en el KMnO4?",
+        "options": [
+            "+7",
+            "+6",
+            "+5",
+            "+4"
+        ],
+        "answer": "+7"
+    },
+    {
+        "question": "¿Qué tipo de catálisis exhibe la quimotripsina?",
+        "options": [
+            "Covalente",
+            "Ácido-base",
+            "Metálica",
+            "Radicalaria"
+        ],
+        "answer": "Covalente"
+    },
+    {
+        "question": "¿Cuál es el efecto Cotton en dicroísmo circular?",
+        "options": [
+            "Cambio de signo en absorción",
+            "Desplazamiento batocrómico",
+            "Efecto hipercrómico",
+            "Desplazamiento hipsocrómico"
+        ],
+        "answer": "Cambio de signo en absorción"
+    },
+    {
+        "question": "¿Qué tipo de cinética sigue la polimerización por radicales libres?",
+        "options": [
+            "Terminación de segundo orden",
+            "Terminación de primer orden",
+            "Orden cero",
+            "Orden mixto"
+        ],
+        "answer": "Terminación de segundo orden"
+    },
+    {
+        "question": "¿Cuál es el mecanismo de la reacción de Mitsunobu?",
+        "options": [
+            "SN2 con inversión",
+            "SN2 con retención",
+            "SN1",
+            "SNi"
+        ],
+        "answer": "SN2 con inversión"
+    },
+    {
+        "question": "¿Qué tipo de efecto es el NIH shift?",
+        "options": [
+            "1,2-migración",
+            "1,3-migración",
+            "1,4-migración",
+            "1,5-migración"
+        ],
+        "answer": "1,2-migración"
+    },
+    {
+        "question": "¿Cuál es la geometría del estado de transición en una reacción SN2?",
+        "options": [
+            "Bipirámide trigonal",
+            "Tetraédrica",
+            "Planar",
+            "Octaédrica"
+        ],
+        "answer": "Bipirámide trigonal"
+    },
+    {
+        "question": "¿Qué efecto tiene la resonancia paramagnética electrónica en el desplazamiento químico?",
+        "options": [
+            "Ensanchamiento",
+            "Desdoblamiento",
+            "Apantallamiento",
+            "Desapantallamiento"
+        ],
+        "answer": "Ensanchamiento"
+    },
+    {
+        "question": "¿Cuál es el orden de reacción global en el mecanismo de Michaelis-Menten?",
+        "options": [
+            "Mixto",
+            "Primero",
+            "Segundo",
+            "Cero"
+        ],
+        "answer": "Mixto"
+    },
+    {
+        "question": "¿Qué tipo de barrera rotacional presenta el etano?",
+        "options": [
+            "3 kcal/mol",
+            "5 kcal/mol",
+            "7 kcal/mol",
+            "9 kcal/mol"
+        ],
+        "answer": "3 kcal/mol"
+    },
+    {
+        "question": "¿Cuál es el efecto del deuterio en la velocidad de reacción?",
+        "options": [
+            "Disminución",
+            "Aumento",
+            "No hay efecto",
+            "Variable"
+        ],
+        "answer": "Disminución"
+    },
+    {
+        "question": "¿Qué tipo de espectroscopía se basa en el efecto Auger?",
+        "options": [
+            "Electrónica",
+            "Fotónica",
+            "Neutrónica",
+            "Protónica"
+        ],
+        "answer": "Electrónica"
+    },
+    {
+        "question": "¿Cuál es la relación entre KH y KD en el efecto isotópico cinético primario?",
+        "options": [
+            "6-8",
+            "2-4",
+            "10-12",
+            "14-16"
+        ],
+        "answer": "6-8"
+    },
+    {
+        "question": "¿Qué tipo de mecanismo sigue la reacción de Claisen?",
+        "options": [
+            "Concertado",
+            "Radicalario",
+            "Iónico",
+            "Por pasos"
+        ],
+        "answer": "Concertado"
+    },
+    {
+        "question": "¿Cuál es el efecto del grupo saliente en una reacción SN1?",
+        "options": [
+            "Determinante",
+            "Insignificante",
+            "Variable",
+            "Inverso"
+        ],
+        "answer": "Determinante"
+    },
+    {
+        "question": "¿Qué tipo de hibridación presenta el carbono del CO2?",
+        "options": [
+            "sp",
+            "sp2",
+            "sp3",
+            "sp3d"
+        ],
+        "answer": "sp"
+    },
+    {
+        "question": "¿Cuál es el mecanismo de la reacción de Mannich?",
+        "options": [
+            "Adición nucleofílica",
+            "Sustitución electrofílica",
+            "Eliminación",
+            "Transposición"
+        ],
+        "answer": "Adición nucleofílica"
+    },
+    {
+        "question": "¿Qué tipo de espectroscopía utiliza la técnica DEPT?",
+        "options": [
+            "RMN ¹³C",
+            "RMN ¹H",
+            "RMN ³¹P",
+            "RMN ¹⁵N"
+        ],
+        "answer": "RMN ¹³C"
+    },
+    {
+        "question": "¿Cuál es el intermediario en la reacción de Wittig?",
+        "options": [
+            "Betaína",
+            "Carbeno",
+            "Carbocatión",
+            "Radical"
+        ],
+        "answer": "Betaína"
+    },
+    {
+        "question": "¿Qué tipo de polimerización sigue el mecanismo RAFT?",
+        "options": [
+            "Radicalaria controlada",
+            "Aniónica viva",
+            "Catiónica",
+            "Por condensación"
+        ],
+        "answer": "Radicalaria controlada"
+    },
+    {
+        "question": "¿Cuál es el efecto de la presión en una reacción bimolecular?",
+        "options": [
+            "Aumenta velocidad",
+            "Disminuye velocidad",
+            "No afecta",
+            "Efecto variable"
+        ],
+        "answer": "Aumenta velocidad"
+    },
+    {
+        "question": "¿Qué tipo de acoplamiento es el más fuerte en RMN ¹H-¹H?",
+        "options": [
+            "Geminal",
+            "Vecinal",
+            "Alílico",
+            "Homoalílico"
+        ],
+        "answer": "Geminal"
+    },
+    {
+        "question": "¿Cuál es el orden de enlace en el CO?",
+        "options": [
+            "3",
+            "2",
+            "2.5",
+            "1.5"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "¿Qué tipo de control predomina en la bromación del tolueno?",
+        "options": [
+            "Termodinámico",
+            "Cinético",
+            "Mixto",
+            "Estérico"
+        ],
+        "answer": "Termodinámico"
+    },
+    {
+        "question": "¿Cuál es el efecto anomérico inverso?",
+        "options": [
+            "Preferencia ecuatorial",
+            "Preferencia axial",
+            "No hay preferencia",
+            "Depende del disolvente"
+        ],
+        "answer": "Preferencia ecuatorial"
+    },
+    {
+        "question": "¿Qué tipo de mecanismo sigue la transposición de Wagner-Meerwein?",
+        "options": [
+            "1,2-shift",
+            "1,3-shift",
+            "1,4-shift",
+            "1,5-shift"
+        ],
+        "answer": "1,2-shift"
+    },
+    {
+        "question": "¿Cuál es el efecto del pH en el punto isoeléctrico de una proteína?",
+        "options": [
+            "Carga neta cero",
+            "Carga máxima",
+            "Carga mínima",
+            "Carga variable"
+        ],
+        "answer": "Carga neta cero"
+    },
+    {
+        "question": "¿Qué tipo de transición es π→π* en términos de simetría?",
+        "options": [
+            "Permitida",
+            "Prohibida",
+            "Parcialmente permitida",
+            "Depende del cromóforo"
+        ],
+        "answer": "Permitida"
+    },
+    {
+        "question": "¿Cuál es el mecanismo de la reacción de Reformatsky?",
+        "options": [
+            "Radicalario organometálico",
+            "Iónico",
+            "Concertado",
+            "Por pasos"
+        ],
+        "answer": "Radicalario organometálico"
+    },
+    {
+        "question": "¿Qué tipo de efecto es el desplazamiento hipsocrómico?",
+        "options": [
+            "Desplazamiento a menor λ",
+            "Desplazamiento a mayor λ",
+            "Aumento de intensidad",
+            "Disminución de intensidad"
+        ],
+        "answer": "Desplazamiento a menor λ"
+    },
+    {
+        "question": "¿Cuál es la regla que determina la estabilidad de carbenos?",
+        "options": [
+            "Bent",
+            "Walsh",
+            "Hückel",
+            "Bredt"
+        ],
+        "answer": "Bent"
+    },
+    {
+        "question": "¿Qué tipo de mecanismo sigue la hidrólisis básica de ésteres?",
+        "options": [
+            "BAc2",
+            "AAc2",
+            "BAc1",
+            "AAc1"
+        ],
+        "answer": "BAc2"
+    },
+    {
+        "question": "¿Cuál es el efecto del sustituyente en para en la SEAr del benceno?",
+        "options": [
+            "Resonancia",
+            "Inductivo",
+            "Campo",
+            "Hiperconjugación"
+        ],
+        "answer": "Resonancia"
+    }
+]

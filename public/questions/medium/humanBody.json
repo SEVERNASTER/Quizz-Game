@@ -1,262 +1,1052 @@
 [
-        {
-            "question": "¿Cuántas costillas flotantes tiene el ser humano?",
-            "options": ["4", "2", "6", "8"],
-            "answer": "4"
-        },
-        {
-            "question": "¿Qué parte del cerebro controla las funciones básicas como respirar?",
-            "options": ["Tronco encefálico", "Cerebelo", "Corteza cerebral", "Hipotálamo"],
-            "answer": "Tronco encefálico"
-        },
-        {
-            "question": "¿Cuál es el hueso más largo del cuerpo humano?",
-            "options": ["Fémur", "Húmero", "Tibia", "Peroné"],
-            "answer": "Fémur"
-        },
-        {
-            "question": "¿Cuántos pares de nervios craneales existen?",
-            "options": ["12", "10", "8", "14"],
-            "answer": "12"
-        },
-        {
-            "question": "¿Qué hormona regula el nivel de azúcar en sangre?",
-            "options": ["Insulina", "Tiroxina", "Cortisol", "Adrenalina"],
-            "answer": "Insulina"
-        },
-        {
-            "question": "¿Cuál es el pH normal de la sangre?",
-            "options": ["7.35-7.45", "6.5-7.0", "7.8-8.0", "6.8-7.2"],
-            "answer": "7.35-7.45"
-        },
-        {
-            "question": "¿Qué vitamina se produce en la piel con la exposición al sol?",
-            "options": ["Vitamina D", "Vitamina C", "Vitamina A", "Vitamina E"],
-            "answer": "Vitamina D"
-        },
-        {
-            "question": "¿Cuántas válvulas tiene el corazón?",
-            "options": ["4", "2", "6", "3"],
-            "answer": "4"
-        },
-        {
-            "question": "¿Qué porcentaje del cuerpo humano es agua aproximadamente?",
-            "options": ["60-70%", "40-50%", "80-90%", "30-40%"],
-            "answer": "60-70%"
-        },
-        {
-            "question": "¿Cuál es el músculo más fuerte del cuerpo humano?",
-            "options": ["Masetero", "Bíceps", "Cuádriceps", "Glúteo mayor"],
-            "answer": "Masetero"
-        },
-        {
-            "question": "¿Qué parte del oído contiene los huesecillos martillo, yunque y estribo?",
-            "options": ["Oído medio", "Oído interno", "Oído externo", "Canal auditivo"],
-            "answer": "Oído medio"
-        },
-        {
-            "question": "¿Cuál es la glándula más grande del cuerpo humano?",
-            "options": ["Hígado", "Páncreas", "Tiroides", "Hipófisis"],
-            "answer": "Hígado"
-        },
-        {
-            "question": "¿Cuántas vértebras cervicales tiene el ser humano?",
-            "options": ["7", "5", "9", "12"],
-            "answer": "7"
-        },
-        {
-            "question": "¿Qué tipo de articulación es la rodilla?",
-            "options": ["Bisagra", "Pivote", "Esférica", "Plana"],
-            "answer": "Bisagra"
-        },
-        {
-            "question": "¿Cuál es la función principal del sistema linfático?",
-            "options": ["Defensa inmunológica", "Digestión", "Respiración", "Circulación"],
-            "answer": "Defensa inmunológica"
-        },
-        {
-            "question": "¿En qué parte del ojo se encuentra el iris?",
-            "options": ["Úvea", "Retina", "Córnea", "Esclerótica"],
-            "answer": "Úvea"
-        },
-        {
-            "question": "¿Qué hormona se conoce como la 'hormona del estrés'?",
-            "options": ["Cortisol", "Melatonina", "Serotonina", "Dopamina"],
-            "answer": "Cortisol"
-        },
-        {
-            "question": "¿Cuántos músculos hay en la lengua?",
-            "options": ["17", "12", "8", "20"],
-            "answer": "17"
-        },
-        {
-            "question": "¿Qué parte del cerebro es responsable del equilibrio?",
-            "options": ["Cerebelo", "Hipotálamo", "Tálamo", "Amígdala"],
-            "answer": "Cerebelo"
-        },
-        {
-            "question": "¿Cuál es el único órgano que puede regenerarse por completo?",
-            "options": ["Hígado", "Riñón", "Pulmón", "Corazón"],
-            "answer": "Hígado"
-        },
-        {
-            "question": "¿Qué tipo de tejido forma las uñas?",
-            "options": ["Queratina", "Colágeno", "Elastina", "Fibrina"],
-            "answer": "Queratina"
-        },
-        {
-            "question": "¿Cuántas capas tiene la piel?",
-            "options": ["3", "2", "4", "5"],
-            "answer": "3"
-        },
-        {
-            "question": "¿Qué nervio es el más largo del cuerpo?",
-            "options": ["Ciático", "Vago", "Facial", "Trigémino"],
-            "answer": "Ciático"
-        },
-        {
-            "question": "¿Cuál es la función principal de los glóbulos rojos?",
-            "options": ["Transportar oxígeno", "Coagular sangre", "Combatir infecciones", "Producir anticuerpos"],
-            "answer": "Transportar oxígeno"
-        },
-        {
-            "question": "¿Qué hueso protege el cerebro?",
-            "options": ["Cráneo", "Atlas", "Axis", "Occipital"],
-            "answer": "Cráneo"
-        },
-        {
-            "question": "¿Cuántos litros de sangre tiene un adulto promedio?",
-            "options": ["5-6", "3-4", "7-8", "2-3"],
-            "answer": "5-6"
-        },
-        {
-            "question": "¿Qué enzima se encuentra en la saliva?",
-            "options": ["Amilasa", "Lipasa", "Pepsina", "Tripsina"],
-            "answer": "Amilasa"
-        },
-        {
-            "question": "¿Cuál es el músculo más pequeño del cuerpo?",
-            "options": ["Estapedio", "Orbicular", "Lumbrical", "Tensor"],
-            "answer": "Estapedio"
-        },
-        {
-            "question": "¿Qué parte del cerebro procesa las emociones?",
-            "options": ["Sistema límbico", "Corteza frontal", "Médula espinal", "Tronco encefálico"],
-            "answer": "Sistema límbico"
-        },
-        {
-            "question": "¿Cuántos huesos tiene un adulto promedio?",
-            "options": ["206", "212", "198", "224"],
-            "answer": "206"
-        },
-        {
-            "question": "¿Qué glándula produce melatonina?",
-            "options": ["Pineal", "Tiroides", "Hipófisis", "Suprarrenal"],
-            "answer": "Pineal"
-        },
-        {
-            "question": "¿Cuál es la arteria más grande del cuerpo?",
-            "options": ["Aorta", "Carótida", "Femoral", "Pulmonar"],
-            "answer": "Aorta"
-        },
-        {
-            "question": "¿Qué tipo de músculo es el corazón?",
-            "options": ["Cardíaco", "Liso", "Esquelético", "Estriado"],
-            "answer": "Cardíaco"
-        },
-        {
-            "question": "¿Cuántos dientes tiene un adulto normalmente?",
-            "options": ["32", "28", "36", "30"],
-            "answer": "32"
-        },
-        {
-            "question": "¿Qué parte del oído mantiene el equilibrio?",
-            "options": ["Vestíbulo", "Cóclea", "Tímpano", "Canal auditivo"],
-            "answer": "Vestíbulo"
-        },
-        {
-            "question": "¿Cuál es la función principal del páncreas?",
-            "options": ["Regular azúcar", "Filtrar sangre", "Producir bilis", "Digestión de grasas"],
-            "answer": "Regular azúcar"
-        },
-        {
-            "question": "¿Qué tipo de articulación es el codo?",
-            "options": ["Bisagra", "Esférica", "Pivote", "Elipsoide"],
-            "answer": "Bisagra"
-        },
-        {
-            "question": "¿Cuántos músculos tiene el cuerpo humano aproximadamente?",
-            "options": ["650", "500", "800", "1000"],
-            "answer": "650"
-        },
-        {
-            "question": "¿Qué vitamina es esencial para la coagulación de la sangre?",
-            "options": ["Vitamina K", "Vitamina C", "Vitamina D", "Vitamina E"],
-            "answer": "Vitamina K"
-        },
-        {
-            "question": "¿Cuál es la temperatura corporal normal?",
-            "options": ["36.5-37.5°C", "35.5-36.5°C", "37.5-38.5°C", "34.5-35.5°C"],
-            "answer": "36.5-37.5°C"
-        },
-        {
-            "question": "¿Qué parte del cerebro controla la memoria?",
-            "options": ["Hipocampo", "Cerebelo", "Médula", "Tálamo"],
-            "answer": "Hipocampo"
-        },
-        {
-            "question": "¿Cuántos tipos de receptores gustativos existen?",
-            "options": ["5", "3", "7", "4"],
-            "answer": "5"
-        },
-        {
-            "question": "¿Qué hormona se conoce como la 'hormona del crecimiento'?",
-            "options": ["Somatotropina", "Tiroxina", "Insulina", "Testosterona"],
-            "answer": "Somatotropina"
-        },
-        {
-            "question": "¿Cuál es el órgano más grande del cuerpo?",
-            "options": ["Piel", "Hígado", "Intestino grueso", "Pulmones"],
-            "answer": "Piel"
-        },
-        {
-            "question": "¿Qué tipo de células son los neutrófilos?",
-            "options": ["Glóbulos blancos", "Glóbulos rojos", "Plaquetas", "Células madre"],
-            "answer": "Glóbulos blancos"
-        },
-        {
-            "question": "¿Cuánto tiempo tarda el estómago en digerir los alimentos?",
-            "options": ["2-4 horas", "1-2 horas", "4-6 horas", "6-8 horas"],
-            "answer": "2-4 horas"
-        },
-        {
-            "question": "¿Qué hueso es comúnmente llamado 'rótula'?",
-            "options": ["Patela", "Tibia", "Peroné", "Fémur"],
-            "answer": "Patela"
-        },
-        {
-            "question": "¿Cuál es la principal función de la bilis?",
-            "options": ["Digerir grasas", "Digerir proteínas", "Absorber vitaminas", "Regular el pH"],
-            "answer": "Digerir grasas"
-        },
-        {
-            "question": "¿Qué porcentaje del cerebro es agua?",
-            "options": ["73%", "65%", "85%", "55%"],
-            "answer": "73%"
-        },
-        {
-            "question": "¿Cuántas arterias coronarias principales tiene el corazón?",
-            "options": ["2", "3", "4", "1"],
-            "answer": "2"
-        },
-        {
-            "question": "¿Qué tipo de tejido forma los tendones?",
-            "options": ["Conectivo", "Muscular", "Epitelial", "Nervioso"],
-            "answer": "Conectivo"
-        },
-        {
-            "question": "¿Cuál es la función principal de los alvéolos?",
-            "options": ["Intercambio gaseoso", "Filtrar sangre", "Producir hormonas", "Digerir alimentos"],
-            "answer": "Intercambio gaseoso"
-        }
-    ]
+    {
+        "question": "¿Cuántas costillas flotantes tiene el ser humano?",
+        "options": [
+            "4",
+            "2",
+            "6",
+            "8"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "¿Qué parte del cerebro controla las funciones básicas como respirar?",
+        "options": [
+            "Tronco encefálico",
+            "Cerebelo",
+            "Corteza cerebral",
+            "Hipotálamo"
+        ],
+        "answer": "Tronco encefálico"
+    },
+    {
+        "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+        "options": [
+            "Fémur",
+            "Húmero",
+            "Tibia",
+            "Peroné"
+        ],
+        "answer": "Fémur"
+    },
+    {
+        "question": "¿Cuántos pares de nervios craneales existen?",
+        "options": [
+            "12",
+            "10",
+            "8",
+            "14"
+        ],
+        "answer": "12"
+    },
+    {
+        "question": "¿Qué hormona regula el nivel de azúcar en sangre?",
+        "options": [
+            "Insulina",
+            "Tiroxina",
+            "Cortisol",
+            "Adrenalina"
+        ],
+        "answer": "Insulina"
+    },
+    {
+        "question": "¿Cuál es el pH normal de la sangre?",
+        "options": [
+            "7.35-7.45",
+            "6.5-7.0",
+            "7.8-8.0",
+            "6.8-7.2"
+        ],
+        "answer": "7.35-7.45"
+    },
+    {
+        "question": "¿Qué vitamina se produce en la piel con la exposición al sol?",
+        "options": [
+            "Vitamina D",
+            "Vitamina C",
+            "Vitamina A",
+            "Vitamina E"
+        ],
+        "answer": "Vitamina D"
+    },
+    {
+        "question": "¿Cuántas válvulas tiene el corazón?",
+        "options": [
+            "4",
+            "2",
+            "6",
+            "3"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "¿Qué porcentaje del cuerpo humano es agua aproximadamente?",
+        "options": [
+            "60-70%",
+            "40-50%",
+            "80-90%",
+            "30-40%"
+        ],
+        "answer": "60-70%"
+    },
+    {
+        "question": "¿Cuál es el músculo más fuerte del cuerpo humano?",
+        "options": [
+            "Masetero",
+            "Bíceps",
+            "Cuádriceps",
+            "Glúteo mayor"
+        ],
+        "answer": "Masetero"
+    },
+    {
+        "question": "¿Qué parte del oído contiene los huesecillos martillo, yunque y estribo?",
+        "options": [
+            "Oído medio",
+            "Oído interno",
+            "Oído externo",
+            "Canal auditivo"
+        ],
+        "answer": "Oído medio"
+    },
+    {
+        "question": "¿Cuál es la glándula más grande del cuerpo humano?",
+        "options": [
+            "Hígado",
+            "Páncreas",
+            "Tiroides",
+            "Hipófisis"
+        ],
+        "answer": "Hígado"
+    },
+    {
+        "question": "¿Cuántas vértebras cervicales tiene el ser humano?",
+        "options": [
+            "7",
+            "5",
+            "9",
+            "12"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "¿Qué tipo de articulación es la rodilla?",
+        "options": [
+            "Bisagra",
+            "Pivote",
+            "Esférica",
+            "Plana"
+        ],
+        "answer": "Bisagra"
+    },
+    {
+        "question": "¿Cuál es la función principal del sistema linfático?",
+        "options": [
+            "Defensa inmunológica",
+            "Digestión",
+            "Respiración",
+            "Circulación"
+        ],
+        "answer": "Defensa inmunológica"
+    },
+    {
+        "question": "¿En qué parte del ojo se encuentra el iris?",
+        "options": [
+            "Úvea",
+            "Retina",
+            "Córnea",
+            "Esclerótica"
+        ],
+        "answer": "Úvea"
+    },
+    {
+        "question": "¿Qué hormona se conoce como la 'hormona del estrés'?",
+        "options": [
+            "Cortisol",
+            "Melatonina",
+            "Serotonina",
+            "Dopamina"
+        ],
+        "answer": "Cortisol"
+    },
+    {
+        "question": "¿Cuántos músculos hay en la lengua?",
+        "options": [
+            "17",
+            "12",
+            "8",
+            "20"
+        ],
+        "answer": "17"
+    },
+    {
+        "question": "¿Qué parte del cerebro es responsable del equilibrio?",
+        "options": [
+            "Cerebelo",
+            "Hipotálamo",
+            "Tálamo",
+            "Amígdala"
+        ],
+        "answer": "Cerebelo"
+    },
+    {
+        "question": "¿Cuál es el único órgano que puede regenerarse por completo?",
+        "options": [
+            "Hígado",
+            "Riñón",
+            "Pulmón",
+            "Corazón"
+        ],
+        "answer": "Hígado"
+    },
+    {
+        "question": "¿Qué tipo de tejido forma las uñas?",
+        "options": [
+            "Queratina",
+            "Colágeno",
+            "Elastina",
+            "Fibrina"
+        ],
+        "answer": "Queratina"
+    },
+    {
+        "question": "¿Cuántas capas tiene la piel?",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "¿Qué nervio es el más largo del cuerpo?",
+        "options": [
+            "Ciático",
+            "Vago",
+            "Facial",
+            "Trigémino"
+        ],
+        "answer": "Ciático"
+    },
+    {
+        "question": "¿Cuál es la función principal de los glóbulos rojos?",
+        "options": [
+            "Transportar oxígeno",
+            "Coagular sangre",
+            "Combatir infecciones",
+            "Producir anticuerpos"
+        ],
+        "answer": "Transportar oxígeno"
+    },
+    {
+        "question": "¿Qué hueso protege el cerebro?",
+        "options": [
+            "Cráneo",
+            "Atlas",
+            "Axis",
+            "Occipital"
+        ],
+        "answer": "Cráneo"
+    },
+    {
+        "question": "¿Cuántos litros de sangre tiene un adulto promedio?",
+        "options": [
+            "5-6",
+            "3-4",
+            "7-8",
+            "2-3"
+        ],
+        "answer": "5-6"
+    },
+    {
+        "question": "¿Qué enzima se encuentra en la saliva?",
+        "options": [
+            "Amilasa",
+            "Lipasa",
+            "Pepsina",
+            "Tripsina"
+        ],
+        "answer": "Amilasa"
+    },
+    {
+        "question": "¿Cuál es el músculo más pequeño del cuerpo?",
+        "options": [
+            "Estapedio",
+            "Orbicular",
+            "Lumbrical",
+            "Tensor"
+        ],
+        "answer": "Estapedio"
+    },
+    {
+        "question": "¿Qué parte del cerebro procesa las emociones?",
+        "options": [
+            "Sistema límbico",
+            "Corteza frontal",
+            "Médula espinal",
+            "Tronco encefálico"
+        ],
+        "answer": "Sistema límbico"
+    },
+    {
+        "question": "¿Cuántos huesos tiene un adulto promedio?",
+        "options": [
+            "206",
+            "212",
+            "198",
+            "224"
+        ],
+        "answer": "206"
+    },
+    {
+        "question": "¿Qué glándula produce melatonina?",
+        "options": [
+            "Pineal",
+            "Tiroides",
+            "Hipófisis",
+            "Suprarrenal"
+        ],
+        "answer": "Pineal"
+    },
+    {
+        "question": "¿Cuál es la arteria más grande del cuerpo?",
+        "options": [
+            "Aorta",
+            "Carótida",
+            "Femoral",
+            "Pulmonar"
+        ],
+        "answer": "Aorta"
+    },
+    {
+        "question": "¿Qué tipo de músculo es el corazón?",
+        "options": [
+            "Cardíaco",
+            "Liso",
+            "Esquelético",
+            "Estriado"
+        ],
+        "answer": "Cardíaco"
+    },
+    {
+        "question": "¿Cuántos dientes tiene un adulto normalmente?",
+        "options": [
+            "32",
+            "28",
+            "36",
+            "30"
+        ],
+        "answer": "32"
+    },
+    {
+        "question": "¿Qué parte del oído mantiene el equilibrio?",
+        "options": [
+            "Vestíbulo",
+            "Cóclea",
+            "Tímpano",
+            "Canal auditivo"
+        ],
+        "answer": "Vestíbulo"
+    },
+    {
+        "question": "¿Cuál es la función principal del páncreas?",
+        "options": [
+            "Regular azúcar",
+            "Filtrar sangre",
+            "Producir bilis",
+            "Digestión de grasas"
+        ],
+        "answer": "Regular azúcar"
+    },
+    {
+        "question": "¿Qué tipo de articulación es el codo?",
+        "options": [
+            "Bisagra",
+            "Esférica",
+            "Pivote",
+            "Elipsoide"
+        ],
+        "answer": "Bisagra"
+    },
+    {
+        "question": "¿Cuántos músculos tiene el cuerpo humano aproximadamente?",
+        "options": [
+            "650",
+            "500",
+            "800",
+            "1000"
+        ],
+        "answer": "650"
+    },
+    {
+        "question": "¿Qué vitamina es esencial para la coagulación de la sangre?",
+        "options": [
+            "Vitamina K",
+            "Vitamina C",
+            "Vitamina D",
+            "Vitamina E"
+        ],
+        "answer": "Vitamina K"
+    },
+    {
+        "question": "¿Cuál es la temperatura corporal normal?",
+        "options": [
+            "36.5-37.5°C",
+            "35.5-36.5°C",
+            "37.5-38.5°C",
+            "34.5-35.5°C"
+        ],
+        "answer": "36.5-37.5°C"
+    },
+    {
+        "question": "¿Qué parte del cerebro controla la memoria?",
+        "options": [
+            "Hipocampo",
+            "Cerebelo",
+            "Médula",
+            "Tálamo"
+        ],
+        "answer": "Hipocampo"
+    },
+    {
+        "question": "¿Cuántos tipos de receptores gustativos existen?",
+        "options": [
+            "5",
+            "3",
+            "7",
+            "4"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "¿Qué hormona se conoce como la 'hormona del crecimiento'?",
+        "options": [
+            "Somatotropina",
+            "Tiroxina",
+            "Insulina",
+            "Testosterona"
+        ],
+        "answer": "Somatotropina"
+    },
+    {
+        "question": "¿Cuál es el órgano más grande del cuerpo?",
+        "options": [
+            "Piel",
+            "Hígado",
+            "Intestino grueso",
+            "Pulmones"
+        ],
+        "answer": "Piel"
+    },
+    {
+        "question": "¿Qué tipo de células son los neutrófilos?",
+        "options": [
+            "Glóbulos blancos",
+            "Glóbulos rojos",
+            "Plaquetas",
+            "Células madre"
+        ],
+        "answer": "Glóbulos blancos"
+    },
+    {
+        "question": "¿Cuánto tiempo tarda el estómago en digerir los alimentos?",
+        "options": [
+            "2-4 horas",
+            "1-2 horas",
+            "4-6 horas",
+            "6-8 horas"
+        ],
+        "answer": "2-4 horas"
+    },
+    {
+        "question": "¿Qué hueso es comúnmente llamado 'rótula'?",
+        "options": [
+            "Patela",
+            "Tibia",
+            "Peroné",
+            "Fémur"
+        ],
+        "answer": "Patela"
+    },
+    {
+        "question": "¿Cuál es la principal función de la bilis?",
+        "options": [
+            "Digerir grasas",
+            "Digerir proteínas",
+            "Absorber vitaminas",
+            "Regular el pH"
+        ],
+        "answer": "Digerir grasas"
+    },
+    {
+        "question": "¿Qué porcentaje del cerebro es agua?",
+        "options": [
+            "73%",
+            "65%",
+            "85%",
+            "55%"
+        ],
+        "answer": "73%"
+    },
+    {
+        "question": "¿Cuántas arterias coronarias principales tiene el corazón?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "¿Qué tipo de tejido forma los tendones?",
+        "options": [
+            "Conectivo",
+            "Muscular",
+            "Epitelial",
+            "Nervioso"
+        ],
+        "answer": "Conectivo"
+    },
+    {
+        "question": "¿Cuál es la función principal de los alvéolos?",
+        "options": [
+            "Intercambio gaseoso",
+            "Filtrar sangre",
+            "Producir hormonas",
+            "Digerir alimentos"
+        ],
+        "answer": "Intercambio gaseoso"
+    },
+    {
+        "question": "¿Cuál es la presión arterial normal en adultos?",
+        "options": [
+            "120/80",
+            "140/90",
+            "100/60",
+            "160/100"
+        ],
+        "answer": "120/80"
+    },
+    {
+        "question": "¿Cuántas papilas gustativas tiene la lengua aproximadamente?",
+        "options": [
+            "10,000",
+            "5,000",
+            "15,000",
+            "20,000"
+        ],
+        "answer": "10,000"
+    },
+    {
+        "question": "¿Qué tipo de articulación es la cadera?",
+        "options": [
+            "Esférica",
+            "Bisagra",
+            "Pivote",
+            "Deslizante"
+        ],
+        "answer": "Esférica"
+    },
+    {
+        "question": "¿Cuántas vértebras lumbares tiene el ser humano?",
+        "options": [
+            "5",
+            "7",
+            "4",
+            "6"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "¿Qué proteína da color rojo a la sangre?",
+        "options": [
+            "Hemoglobina",
+            "Mioglobina",
+            "Melanina",
+            "Queratina"
+        ],
+        "answer": "Hemoglobina"
+    },
+    {
+        "question": "¿Cuál es el nombre del hueso de la mandíbula?",
+        "options": [
+            "Maxilar inferior",
+            "Temporal",
+            "Zigomático",
+            "Maxilar superior"
+        ],
+        "answer": "Maxilar inferior"
+    },
+    {
+        "question": "¿Qué hormona controla el ciclo del sueño?",
+        "options": [
+            "Melatonina",
+            "Serotonina",
+            "Adrenalina",
+            "Oxitocina"
+        ],
+        "answer": "Melatonina"
+    },
+    {
+        "question": "¿Cuánto tiempo vive un glóbulo rojo en promedio?",
+        "options": [
+            "120 días",
+            "90 días",
+            "60 días",
+            "150 días"
+        ],
+        "answer": "120 días"
+    },
+    {
+        "question": "¿Qué parte del ojo detecta el color?",
+        "options": [
+            "Conos",
+            "Bastones",
+            "Cristalino",
+            "Córnea"
+        ],
+        "answer": "Conos"
+    },
+    {
+        "question": "¿Cuál es el nombre del primer hueso cervical?",
+        "options": [
+            "Atlas",
+            "Axis",
+            "Apófisis",
+            "Vértice"
+        ],
+        "answer": "Atlas"
+    },
+    {
+        "question": "¿Qué porcentaje del oxígeno corporal usa el cerebro?",
+        "options": [
+            "20%",
+            "10%",
+            "30%",
+            "15%"
+        ],
+        "answer": "20%"
+    },
+    {
+        "question": "¿Cuántas costillas verdaderas tiene el ser humano?",
+        "options": [
+            "7 pares",
+            "6 pares",
+            "8 pares",
+            "5 pares"
+        ],
+        "answer": "7 pares"
+    },
+    {
+        "question": "¿Qué glándula produce la adrenalina?",
+        "options": [
+            "Suprarrenal",
+            "Tiroides",
+            "Hipófisis",
+            "Páncreas"
+        ],
+        "answer": "Suprarrenal"
+    },
+    {
+        "question": "¿Cuál es la capacidad pulmonar total promedio?",
+        "options": [
+            "6 litros",
+            "4 litros",
+            "8 litros",
+            "3 litros"
+        ],
+        "answer": "6 litros"
+    },
+    {
+        "question": "¿Qué parte del cerebro controla el habla?",
+        "options": [
+            "Área de Broca",
+            "Área de Wernicke",
+            "Lóbulo temporal",
+            "Lóbulo occipital"
+        ],
+        "answer": "Área de Broca"
+    },
+    {
+        "question": "¿Cuántas veces parpadea una persona en promedio por minuto?",
+        "options": [
+            "15-20",
+            "5-10",
+            "25-30",
+            "30-35"
+        ],
+        "answer": "15-20"
+    },
+    {
+        "question": "¿Qué huesos forman la pelvis?",
+        "options": [
+            "Ilion, isquion y pubis",
+            "Sacro y coxis",
+            "Fémur y tibia",
+            "Lumbar y sacro"
+        ],
+        "answer": "Ilion, isquion y pubis"
+    },
+    {
+        "question": "¿Cuál es la función principal de la médula ósea roja?",
+        "options": [
+            "Producir células sanguíneas",
+            "Almacenar grasa",
+            "Producir anticuerpos",
+            "Filtrar sangre"
+        ],
+        "answer": "Producir células sanguíneas"
+    },
+    {
+        "question": "¿Qué hormona estimula el parto?",
+        "options": [
+            "Oxitocina",
+            "Progesterona",
+            "Estrógeno",
+            "Prolactina"
+        ],
+        "answer": "Oxitocina"
+    },
+    {
+        "question": "¿Cuántas vértebras dorsales tiene el ser humano?",
+        "options": [
+            "12",
+            "10",
+            "14",
+            "8"
+        ],
+        "answer": "12"
+    },
+    {
+        "question": "¿Qué tipo de tejido es el cartílago?",
+        "options": [
+            "Conectivo",
+            "Epitelial",
+            "Muscular",
+            "Nervioso"
+        ],
+        "answer": "Conectivo"
+    },
+    {
+        "question": "¿Cuál es la función principal del líquido sinovial?",
+        "options": [
+            "Lubricar articulaciones",
+            "Transportar nutrientes",
+            "Filtrar toxinas",
+            "Regular temperatura"
+        ],
+        "answer": "Lubricar articulaciones"
+    },
+    {
+        "question": "¿Qué parte del oído convierte las ondas sonoras en impulsos nerviosos?",
+        "options": [
+            "Cóclea",
+            "Tímpano",
+            "Yunque",
+            "Vestíbulo"
+        ],
+        "answer": "Cóclea"
+    },
+    {
+        "question": "¿Cuánto tiempo tarda en regenerarse completamente la piel?",
+        "options": [
+            "28 días",
+            "14 días",
+            "45 días",
+            "60 días"
+        ],
+        "answer": "28 días"
+    },
+    {
+        "question": "¿Qué parte del ojo enfoca la luz en la retina?",
+        "options": [
+            "Cristalino",
+            "Córnea",
+            "Iris",
+            "Pupila"
+        ],
+        "answer": "Cristalino"
+    },
+    {
+        "question": "¿Cuál es la velocidad promedio de un impulso nervioso?",
+        "options": [
+            "100 m/s",
+            "50 m/s",
+            "150 m/s",
+            "200 m/s"
+        ],
+        "answer": "100 m/s"
+    },
+    {
+        "question": "¿Qué vitamina ayuda en la absorción del calcio?",
+        "options": [
+            "Vitamina D",
+            "Vitamina A",
+            "Vitamina B12",
+            "Vitamina C"
+        ],
+        "answer": "Vitamina D"
+    },
+    {
+        "question": "¿Cuántas cámaras tiene el estómago de un humano?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "¿Qué tipo de músculo forma el útero?",
+        "options": [
+            "Liso",
+            "Estriado",
+            "Cardíaco",
+            "Esquelético"
+        ],
+        "answer": "Liso"
+    },
+    {
+        "question": "¿Cuál es la longitud promedio del intestino delgado?",
+        "options": [
+            "7 metros",
+            "5 metros",
+            "10 metros",
+            "3 metros"
+        ],
+        "answer": "7 metros"
+    },
+    {
+        "question": "¿Qué nervio controla los movimientos faciales?",
+        "options": [
+            "Facial",
+            "Trigémino",
+            "Vago",
+            "Óptico"
+        ],
+        "answer": "Facial"
+    },
+    {
+        "question": "¿Cuántos huesos tiene el cráneo?",
+        "options": [
+            "8",
+            "6",
+            "10",
+            "12"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "¿Qué hormona regula el metabolismo?",
+        "options": [
+            "Tiroxina",
+            "Insulina",
+            "Glucagón",
+            "Cortisol"
+        ],
+        "answer": "Tiroxina"
+    },
+    {
+        "question": "¿Cuál es la función principal del bazo?",
+        "options": [
+            "Filtrar sangre",
+            "Producir bilis",
+            "Digerir proteínas",
+            "Regular azúcar"
+        ],
+        "answer": "Filtrar sangre"
+    },
+    {
+        "question": "¿Qué tipo de tejido forma los ligamentos?",
+        "options": [
+            "Conectivo denso",
+            "Muscular",
+            "Epitelial",
+            "Nervioso"
+        ],
+        "answer": "Conectivo denso"
+    },
+    {
+        "question": "¿Cuántas vértebras sacras tiene el ser humano?",
+        "options": [
+            "5",
+            "4",
+            "6",
+            "3"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "¿Qué parte del cerebro controla la sed y el hambre?",
+        "options": [
+            "Hipotálamo",
+            "Tálamo",
+            "Cerebelo",
+            "Médula oblonga"
+        ],
+        "answer": "Hipotálamo"
+    },
+    {
+        "question": "¿Cuál es la función principal de las plaquetas?",
+        "options": [
+            "Coagulación",
+            "Transporte de oxígeno",
+            "Defensa",
+            "Digestión"
+        ],
+        "answer": "Coagulación"
+    },
+    {
+        "question": "¿Qué músculo separa el tórax del abdomen?",
+        "options": [
+            "Diafragma",
+            "Recto abdominal",
+            "Intercostal",
+            "Oblicuo"
+        ],
+        "answer": "Diafragma"
+    },
+    {
+        "question": "¿Cuántos pares de costillas falsas tiene el ser humano?",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "¿Qué glándula produce la hormona del crecimiento?",
+        "options": [
+            "Hipófisis",
+            "Tiroides",
+            "Pineal",
+            "Timo"
+        ],
+        "answer": "Hipófisis"
+    },
+    {
+        "question": "¿Cuál es la función principal del humor vítreo?",
+        "options": [
+            "Mantener forma del ojo",
+            "Enfocar luz",
+            "Proteger retina",
+            "Regular presión"
+        ],
+        "answer": "Mantener forma del ojo"
+    },
+    {
+        "question": "¿Qué porcentaje del peso corporal es músculo en promedio?",
+        "options": [
+            "40-50%",
+            "30-40%",
+            "50-60%",
+            "20-30%"
+        ],
+        "answer": "40-50%"
+    },
+    {
+        "question": "¿Cuántos tipos de inmunoglobulinas existen?",
+        "options": [
+            "5",
+            "3",
+            "7",
+            "4"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "¿Qué parte del cerebro procesa la visión?",
+        "options": [
+            "Lóbulo occipital",
+            "Lóbulo temporal",
+            "Lóbulo parietal",
+            "Lóbulo frontal"
+        ],
+        "answer": "Lóbulo occipital"
+    },
+    {
+        "question": "¿Cuál es la enzima digestiva más importante del estómago?",
+        "options": [
+            "Pepsina",
+            "Amilasa",
+            "Lipasa",
+            "Tripsina"
+        ],
+        "answer": "Pepsina"
+    },
+    {
+        "question": "¿Qué hueso forma el talón?",
+        "options": [
+            "Calcáneo",
+            "Astrágalo",
+            "Metatarso",
+            "Cuboides"
+        ],
+        "answer": "Calcáneo"
+    },
+    {
+        "question": "¿Cuántas vértebras coccígeas tiene el ser humano?",
+        "options": [
+            "4",
+            "3",
+            "5",
+            "6"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "¿Qué tipo de unión celular permite el paso de sustancias?",
+        "options": [
+            "Unión gap",
+            "Desmosoma",
+            "Unión estrecha",
+            "Hemidesmosoma"
+        ],
+        "answer": "Unión gap"
+    },
+    {
+        "question": "¿Cuál es la principal función del líquido cefalorraquídeo?",
+        "options": [
+            "Proteger el cerebro",
+            "Transportar oxígeno",
+            "Regular temperatura",
+            "Filtrar toxinas"
+        ],
+        "answer": "Proteger el cerebro"
+    },
+    {
+        "question": "¿Qué hormona estimula la producción de leche materna?",
+        "options": [
+            "Prolactina",
+            "Oxitocina",
+            "Progesterona",
+            "Estrógeno"
+        ],
+        "answer": "Prolactina"
+    },
+    {
+        "question": "¿Cuántas capas tiene la córnea?",
+        "options": [
+            "5",
+            "3",
+            "4",
+            "6"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "¿Qué nervio controla los movimientos oculares?",
+        "options": [
+            "Oculomotor",
+            "Óptico",
+            "Trigémino",
+            "Facial"
+        ],
+        "answer": "Oculomotor"
+    }
+]

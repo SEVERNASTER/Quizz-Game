@@ -1,0 +1,1042 @@
+[
+    {
+        "question": "¿Cuál es el símbolo químico del oro?",
+        "options": [
+            "Au",
+            "Ag",
+            "Fe",
+            "Cu"
+        ],
+        "answer": "Au"
+    },
+    {
+        "question": "¿Cuál es el elemento más abundante en el universo?",
+        "options": [
+            "Hidrógeno",
+            "Helio",
+            "Oxígeno",
+            "Carbono"
+        ],
+        "answer": "Hidrógeno"
+    },
+    {
+        "question": "¿Qué elemento es esencial para la fotosíntesis?",
+        "options": [
+            "Carbono",
+            "Nitrógeno",
+            "Fósforo",
+            "Potasio"
+        ],
+        "answer": "Carbono"
+    },
+    {
+        "question": "¿Cuál es el estado de la materia más ordenado?",
+        "options": [
+            "Sólido",
+            "Líquido",
+            "Gaseoso",
+            "Plasma"
+        ],
+        "answer": "Sólido"
+    },
+    {
+        "question": "¿Qué gas es necesario para la respiración?",
+        "options": [
+            "Oxígeno",
+            "Nitrógeno",
+            "Dióxido de carbono",
+            "Helio"
+        ],
+        "answer": "Oxígeno"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico de la plata?",
+        "options": [
+            "Ag",
+            "Au",
+            "Pt",
+            "Cu"
+        ],
+        "answer": "Ag"
+    },
+    {
+        "question": "¿Qué gas forma aproximadamente el 78% del aire?",
+        "options": [
+            "Nitrógeno",
+            "Oxígeno",
+            "Argón",
+            "Dióxido de carbono"
+        ],
+        "answer": "Nitrógeno"
+    },
+    {
+        "question": "¿Cuál es la fórmula química del agua?",
+        "options": [
+            "H2O",
+            "CO2",
+            "O2",
+            "N2"
+        ],
+        "answer": "H2O"
+    },
+    {
+        "question": "¿Qué metal es líquido a temperatura ambiente?",
+        "options": [
+            "Mercurio",
+            "Plomo",
+            "Zinc",
+            "Cobre"
+        ],
+        "answer": "Mercurio"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del sodio?",
+        "options": [
+            "Na",
+            "So",
+            "Sd",
+            "Sa"
+        ],
+        "answer": "Na"
+    },
+    {
+        "question": "¿Qué elemento es el más abundante en la corteza terrestre?",
+        "options": [
+            "Oxígeno",
+            "Silicio",
+            "Aluminio",
+            "Hierro"
+        ],
+        "answer": "Oxígeno"
+    },
+    {
+        "question": "¿Cuál es la fórmula química del dióxido de carbono?",
+        "options": [
+            "CO2",
+            "H2O",
+            "O2",
+            "N2"
+        ],
+        "answer": "CO2"
+    },
+    {
+        "question": "¿Qué color tiene el elemento azufre?",
+        "options": [
+            "Amarillo",
+            "Rojo",
+            "Verde",
+            "Azul"
+        ],
+        "answer": "Amarillo"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del hierro?",
+        "options": [
+            "Fe",
+            "Hi",
+            "Hr",
+            "Fr"
+        ],
+        "answer": "Fe"
+    },
+    {
+        "question": "¿Qué escala se usa para medir la acidez?",
+        "options": [
+            "pH",
+            "Celsius",
+            "Kelvin",
+            "Fahrenheit"
+        ],
+        "answer": "pH"
+    },
+    {
+        "question": "¿Cuál es el número atómico del hidrógeno?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "¿Qué gas se libera en la fotosíntesis?",
+        "options": [
+            "Oxígeno",
+            "Dióxido de carbono",
+            "Nitrógeno",
+            "Hidrógeno"
+        ],
+        "answer": "Oxígeno"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del potasio?",
+        "options": [
+            "K",
+            "P",
+            "Po",
+            "Pt"
+        ],
+        "answer": "K"
+    },
+    {
+        "question": "¿Qué valor de pH tienen las sustancias neutras?",
+        "options": [
+            "7",
+            "0",
+            "14",
+            "10"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "¿Cuál es el metal más abundante en el cuerpo humano?",
+        "options": [
+            "Calcio",
+            "Hierro",
+            "Sodio",
+            "Potasio"
+        ],
+        "answer": "Calcio"
+    },
+    {
+        "question": "¿Qué gas forma la capa de ozono?",
+        "options": [
+            "O3",
+            "O2",
+            "CO2",
+            "N2"
+        ],
+        "answer": "O3"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del carbono?",
+        "options": [
+            "C",
+            "Ca",
+            "Co",
+            "Cu"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "¿Qué elemento es esencial para la conducción eléctrica?",
+        "options": [
+            "Cobre",
+            "Aluminio",
+            "Plomo",
+            "Zinc"
+        ],
+        "answer": "Cobre"
+    },
+    {
+        "question": "¿Cuál es la fórmula química del oxígeno molecular?",
+        "options": [
+            "O2",
+            "O",
+            "O3",
+            "O4"
+        ],
+        "answer": "O2"
+    },
+    {
+        "question": "¿Qué gas es conocido como gas de la risa?",
+        "options": [
+            "Óxido nitroso",
+            "Helio",
+            "Neón",
+            "Argón"
+        ],
+        "answer": "Óxido nitroso"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del calcio?",
+        "options": [
+            "Ca",
+            "Cl",
+            "Co",
+            "Cu"
+        ],
+        "answer": "Ca"
+    },
+    {
+        "question": "¿Qué elemento es líquido a temperatura ambiente?",
+        "options": [
+            "Bromo",
+            "Cloro",
+            "Flúor",
+            "Yodo"
+        ],
+        "answer": "Bromo"
+    },
+    {
+        "question": "¿Cuál es el gas noble más abundante en el aire?",
+        "options": [
+            "Argón",
+            "Helio",
+            "Neón",
+            "Kriptón"
+        ],
+        "answer": "Argón"
+    },
+    {
+        "question": "¿Qué color tiene el elemento cobre puro?",
+        "options": [
+            "Rojizo",
+            "Plateado",
+            "Dorado",
+            "Negro"
+        ],
+        "answer": "Rojizo"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del nitrógeno?",
+        "options": [
+            "N",
+            "Ni",
+            "Na",
+            "Ne"
+        ],
+        "answer": "N"
+    },
+    {
+        "question": "¿Qué tipo de elemento es el helio?",
+        "options": [
+            "Gas noble",
+            "Metal",
+            "No metal",
+            "Semimetal"
+        ],
+        "answer": "Gas noble"
+    },
+    {
+        "question": "¿Cuál es la fórmula química de la sal común?",
+        "options": [
+            "NaCl",
+            "H2O",
+            "CO2",
+            "O2"
+        ],
+        "answer": "NaCl"
+    },
+    {
+        "question": "¿Qué elemento es esencial para los huesos?",
+        "options": [
+            "Calcio",
+            "Sodio",
+            "Potasio",
+            "Magnesio"
+        ],
+        "answer": "Calcio"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del zinc?",
+        "options": [
+            "Zn",
+            "Z",
+            "Zi",
+            "Za"
+        ],
+        "answer": "Zn"
+    },
+    {
+        "question": "¿Qué gas se usa en globos para que floten?",
+        "options": [
+            "Helio",
+            "Oxígeno",
+            "Nitrógeno",
+            "Hidrógeno"
+        ],
+        "answer": "Helio"
+    },
+    {
+        "question": "¿Cuál es el metal más ligero?",
+        "options": [
+            "Litio",
+            "Sodio",
+            "Potasio",
+            "Calcio"
+        ],
+        "answer": "Litio"
+    },
+    {
+        "question": "¿Qué elemento es esencial para la hemoglobina?",
+        "options": [
+            "Hierro",
+            "Calcio",
+            "Sodio",
+            "Potasio"
+        ],
+        "answer": "Hierro"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del aluminio?",
+        "options": [
+            "Al",
+            "Au",
+            "Ag",
+            "As"
+        ],
+        "answer": "Al"
+    },
+    {
+        "question": "¿Qué gas produce el efecto invernadero?",
+        "options": [
+            "CO2",
+            "O2",
+            "N2",
+            "He"
+        ],
+        "answer": "CO2"
+    },
+    {
+        "question": "¿Cuál es la fórmula química del ácido clorhídrico?",
+        "options": [
+            "HCl",
+            "H2O",
+            "NaCl",
+            "CO2"
+        ],
+        "answer": "HCl"
+    },
+    {
+        "question": "¿Qué nombre recibe la tabla de elementos químicos?",
+        "options": [
+            "Tabla periódica",
+            "Tabla elemental",
+            "Tabla química",
+            "Tabla atómica"
+        ],
+        "answer": "Tabla periódica"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del cobre?",
+        "options": [
+            "Cu",
+            "Co",
+            "Ca",
+            "Cr"
+        ],
+        "answer": "Cu"
+    },
+    {
+        "question": "¿Qué gas es necesario para la combustión?",
+        "options": [
+            "Oxígeno",
+            "Nitrógeno",
+            "Hidrógeno",
+            "Helio"
+        ],
+        "answer": "Oxígeno"
+    },
+    {
+        "question": "¿Cuál es el número atómico del carbono?",
+        "options": [
+            "6",
+            "4",
+            "8",
+            "10"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "¿Qué elemento es el más electronegativo?",
+        "options": [
+            "Flúor",
+            "Cloro",
+            "Oxígeno",
+            "Nitrógeno"
+        ],
+        "answer": "Flúor"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del magnesio?",
+        "options": [
+            "Mg",
+            "Ma",
+            "Mn",
+            "Mo"
+        ],
+        "answer": "Mg"
+    },
+    {
+        "question": "¿Qué estado de la materia tiene forma definida?",
+        "options": [
+            "Sólido",
+            "Líquido",
+            "Gaseoso",
+            "Plasma"
+        ],
+        "answer": "Sólido"
+    },
+    {
+        "question": "¿Cuál es la fórmula química del amoniaco?",
+        "options": [
+            "NH3",
+            "NO2",
+            "N2O",
+            "N2"
+        ],
+        "answer": "NH3"
+    },
+    {
+        "question": "¿Qué elemento es el más abundante en el cuerpo humano?",
+        "options": [
+            "Oxígeno",
+            "Carbono",
+            "Hidrógeno",
+            "Nitrógeno"
+        ],
+        "answer": "Oxígeno"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del fósforo?",
+        "options": [
+            "P",
+            "F",
+            "Po",
+            "Pt"
+        ],
+        "answer": "P"
+    },
+    {
+        "question": "¿Qué tipo de enlace comparten electrones?",
+        "options": [
+            "Covalente",
+            "Iónico",
+            "Metálico",
+            "Van der Waals"
+        ],
+        "answer": "Covalente"
+    },
+    {
+        "question": "¿Cuál es el pH de una sustancia ácida?",
+        "options": [
+            "Menor que 7",
+            "Igual a 7",
+            "Mayor que 7",
+            "Igual a 14"
+        ],
+        "answer": "Menor que 7"
+    },
+    {
+        "question": "¿Qué partícula subatómica tiene carga negativa?",
+        "options": [
+            "Electrón",
+            "Protón",
+            "Neutrón",
+            "Positrón"
+        ],
+        "answer": "Electrón"
+    },
+    {
+        "question": "¿Qué metal es el mejor conductor de electricidad?",
+        "options": [
+            "Plata",
+            "Cobre",
+            "Oro",
+            "Aluminio"
+        ],
+        "answer": "Plata"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del mercurio?",
+        "options": [
+            "Hg",
+            "Me",
+            "Mr",
+            "Mc"
+        ],
+        "answer": "Hg"
+    },
+    {
+        "question": "¿Qué gas es responsable del color azul del cielo?",
+        "options": [
+            "Nitrógeno",
+            "Oxígeno",
+            "Argón",
+            "Helio"
+        ],
+        "answer": "Nitrógeno"
+    },
+    {
+        "question": "¿Cuál es el punto de ebullición del agua pura?",
+        "options": [
+            "100°C",
+            "90°C",
+            "110°C",
+            "95°C"
+        ],
+        "answer": "100°C"
+    },
+    {
+        "question": "¿Qué metal es atraído por los imanes?",
+        "options": [
+            "Hierro",
+            "Aluminio",
+            "Cobre",
+            "Plata"
+        ],
+        "answer": "Hierro"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del plomo?",
+        "options": [
+            "Pb",
+            "Pl",
+            "Po",
+            "Pt"
+        ],
+        "answer": "Pb"
+    },
+    {
+        "question": "¿Qué elemento es esencial para la vida y forma parte del ADN?",
+        "options": [
+            "Fósforo",
+            "Calcio",
+            "Sodio",
+            "Potasio"
+        ],
+        "answer": "Fósforo"
+    },
+    {
+        "question": "¿Cuál es la fórmula química del metano?",
+        "options": [
+            "CH4",
+            "CO2",
+            "H2O",
+            "NH3"
+        ],
+        "answer": "CH4"
+    },
+    {
+        "question": "¿Qué gas utilizan las plantas para la fotosíntesis?",
+        "options": [
+            "Dióxido de carbono",
+            "Oxígeno",
+            "Nitrógeno",
+            "Hidrógeno"
+        ],
+        "answer": "Dióxido de carbono"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del tungsteno?",
+        "options": [
+            "W",
+            "Tu",
+            "Tn",
+            "Tg"
+        ],
+        "answer": "W"
+    },
+    {
+        "question": "¿Qué elemento es un halógeno?",
+        "options": [
+            "Cloro",
+            "Helio",
+            "Sodio",
+            "Calcio"
+        ],
+        "answer": "Cloro"
+    },
+    {
+        "question": "¿Cuál es la fórmula química del ácido sulfúrico?",
+        "options": [
+            "H2SO4",
+            "HCl",
+            "NaOH",
+            "H2O"
+        ],
+        "answer": "H2SO4"
+    },
+    {
+        "question": "¿Qué gas se usa en las lámparas fluorescentes?",
+        "options": [
+            "Neón",
+            "Oxígeno",
+            "Nitrógeno",
+            "Hidrógeno"
+        ],
+        "answer": "Neón"
+    },
+    {
+        "question": "¿Cuál es el metal más valioso?",
+        "options": [
+            "Rodio",
+            "Oro",
+            "Platino",
+            "Paladio"
+        ],
+        "answer": "Rodio"
+    },
+    {
+        "question": "¿Qué elemento es un gas noble?",
+        "options": [
+            "Xenón",
+            "Cloro",
+            "Sodio",
+            "Carbono"
+        ],
+        "answer": "Xenón"
+    },
+    {
+        "question": "¿Cuál es la fórmula química del hidróxido de sodio?",
+        "options": [
+            "NaOH",
+            "HCl",
+            "H2SO4",
+            "KOH"
+        ],
+        "answer": "NaOH"
+    },
+    {
+        "question": "¿Qué gas es incoloro e inodoro?",
+        "options": [
+            "Monóxido de carbono",
+            "Cloro",
+            "Azufre",
+            "Yodo"
+        ],
+        "answer": "Monóxido de carbono"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del estaño?",
+        "options": [
+            "Sn",
+            "Es",
+            "Et",
+            "St"
+        ],
+        "answer": "Sn"
+    },
+    {
+        "question": "¿Qué cambio de estado es la sublimación?",
+        "options": [
+            "Sólido a gas",
+            "Líquido a gas",
+            "Sólido a líquido",
+            "Gas a líquido"
+        ],
+        "answer": "Sólido a gas"
+    },
+    {
+        "question": "¿Cuál es el punto de fusión del agua pura?",
+        "options": [
+            "0°C",
+            "-10°C",
+            "10°C",
+            "100°C"
+        ],
+        "answer": "0°C"
+    },
+    {
+        "question": "¿Qué elemento es un metal alcalino?",
+        "options": [
+            "Cesio",
+            "Calcio",
+            "Cloro",
+            "Carbono"
+        ],
+        "answer": "Cesio"
+    },
+    {
+        "question": "¿Cuál es la fórmula química del ozono?",
+        "options": [
+            "O3",
+            "O2",
+            "O4",
+            "O"
+        ],
+        "answer": "O3"
+    },
+    {
+        "question": "¿Qué elemento es semimetal?",
+        "options": [
+            "Silicio",
+            "Sodio",
+            "Cloro",
+            "Calcio"
+        ],
+        "answer": "Silicio"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del bario?",
+        "options": [
+            "Ba",
+            "Br",
+            "Be",
+            "Bi"
+        ],
+        "answer": "Ba"
+    },
+    {
+        "question": "¿Qué tipo de mezcla es el aire?",
+        "options": [
+            "Homogénea",
+            "Heterogénea",
+            "Compuesto",
+            "Elemento"
+        ],
+        "answer": "Homogénea"
+    },
+    {
+        "question": "¿Cuál es la fórmula química del ácido acético?",
+        "options": [
+            "CH3COOH",
+            "H2SO4",
+            "HCl",
+            "NaOH"
+        ],
+        "answer": "CH3COOH"
+    },
+    {
+        "question": "¿Qué gas se usa en los globos meteorológicos?",
+        "options": [
+            "Hidrógeno",
+            "Helio",
+            "Nitrógeno",
+            "Oxígeno"
+        ],
+        "answer": "Hidrógeno"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del radio?",
+        "options": [
+            "Ra",
+            "Rd",
+            "Ro",
+            "Ri"
+        ],
+        "answer": "Ra"
+    },
+    {
+        "question": "¿Qué elemento es un no metal?",
+        "options": [
+            "Azufre",
+            "Sodio",
+            "Calcio",
+            "Hierro"
+        ],
+        "answer": "Azufre"
+    },
+    {
+        "question": "¿Cuál es la unidad básica de la materia?",
+        "options": [
+            "Átomo",
+            "Molécula",
+            "Célula",
+            "Protón"
+        ],
+        "answer": "Átomo"
+    },
+    {
+        "question": "¿Qué gas es el más ligero?",
+        "options": [
+            "Hidrógeno",
+            "Helio",
+            "Litio",
+            "Neón"
+        ],
+        "answer": "Hidrógeno"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del antimonio?",
+        "options": [
+            "Sb",
+            "An",
+            "Am",
+            "At"
+        ],
+        "answer": "Sb"
+    },
+    {
+        "question": "¿Qué tipo de reacción produce calor?",
+        "options": [
+            "Exotérmica",
+            "Endotérmica",
+            "Nuclear",
+            "Redox"
+        ],
+        "answer": "Exotérmica"
+    },
+    {
+        "question": "¿Cuál es la fórmula química del bicarbonato de sodio?",
+        "options": [
+            "NaHCO3",
+            "NaCl",
+            "Na2CO3",
+            "NaOH"
+        ],
+        "answer": "NaHCO3"
+    },
+    {
+        "question": "¿Qué gas se usa en las bebidas carbonatadas?",
+        "options": [
+            "CO2",
+            "O2",
+            "N2",
+            "He"
+        ],
+        "answer": "CO2"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del cobalto?",
+        "options": [
+            "Co",
+            "Cb",
+            "Ct",
+            "Cl"
+        ],
+        "answer": "Co"
+    },
+    {
+        "question": "¿Qué elemento es un metal de transición?",
+        "options": [
+            "Níquel",
+            "Sodio",
+            "Calcio",
+            "Aluminio"
+        ],
+        "answer": "Níquel"
+    },
+    {
+        "question": "¿Cuál es la carga de un neutrón?",
+        "options": [
+            "Neutra",
+            "Positiva",
+            "Negativa",
+            "Variable"
+        ],
+        "answer": "Neutra"
+    },
+    {
+        "question": "¿Qué sustancia es un ácido?",
+        "options": [
+            "Vinagre",
+            "Jabón",
+            "Bicarbonato",
+            "Lejía"
+        ],
+        "answer": "Vinagre"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del cromo?",
+        "options": [
+            "Cr",
+            "Co",
+            "Cu",
+            "Ca"
+        ],
+        "answer": "Cr"
+    },
+    {
+        "question": "¿Qué cambio es físico?",
+        "options": [
+            "Congelación",
+            "Oxidación",
+            "Combustión",
+            "Fermentación"
+        ],
+        "answer": "Congelación"
+    },
+    {
+        "question": "¿Cuál es la fórmula química del etanol?",
+        "options": [
+            "C2H5OH",
+            "CH3OH",
+            "C6H12O6",
+            "H2O"
+        ],
+        "answer": "C2H5OH"
+    },
+    {
+        "question": "¿Qué elemento es un lantánido?",
+        "options": [
+            "Cerio",
+            "Calcio",
+            "Cromo",
+            "Cloro"
+        ],
+        "answer": "Cerio"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del manganeso?",
+        "options": [
+            "Mn",
+            "Mg",
+            "Ma",
+            "Mo"
+        ],
+        "answer": "Mn"
+    },
+    {
+        "question": "¿Qué sustancia es una base?",
+        "options": [
+            "Amoniaco",
+            "Vinagre",
+            "Limón",
+            "Cola"
+        ],
+        "answer": "Amoniaco"
+    },
+    {
+        "question": "¿Cuál es la fórmula química del hidróxido de calcio?",
+        "options": [
+            "Ca(OH)2",
+            "CaCl2",
+            "CaCO3",
+            "CaO"
+        ],
+        "answer": "Ca(OH)2"
+    },
+    {
+        "question": "¿Qué gas se usa en los tubos de neón?",
+        "options": [
+            "Neón",
+            "Argón",
+            "Kriptón",
+            "Xenón"
+        ],
+        "answer": "Neón"
+    },
+    {
+        "question": "¿Cuál es el símbolo químico del berilio?",
+        "options": [
+            "Be",
+            "Br",
+            "Ba",
+            "Bi"
+        ],
+        "answer": "Be"
+    },
+    {
+        "question": "¿Qué tipo de enlace tiene el cloruro de sodio?",
+        "options": [
+            "Iónico",
+            "Covalente",
+            "Metálico",
+            "Puente de hidrógeno"
+        ],
+        "answer": "Iónico"
+    },
+    {
+        "question": "¿Cuál es la fórmula química del carbonato de calcio?",
+        "options": [
+            "CaCO3",
+            "Ca(OH)2",
+            "CaCl2",
+            "CaO"
+        ],
+        "answer": "CaCO3"
+    },
+    {
+        "question": "¿Qué elemento es radiactivo?",
+        "options": [
+            "Uranio",
+            "Cobre",
+            "Zinc",
+            "Oro"
+        ],
+        "answer": "Uranio"
+    }
+]

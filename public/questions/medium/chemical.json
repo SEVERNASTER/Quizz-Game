@@ -1,0 +1,1052 @@
+[
+    {
+        "question": "¿Cuál es el número de oxidación del azufre en el H2SO4?",
+        "options": [
+            "+6",
+            "+4",
+            "+2",
+            "+8"
+        ],
+        "answer": "+6"
+    },
+    {
+        "question": "¿Cuántos electrones de valencia tiene un átomo de fósforo?",
+        "options": [
+            "5",
+            "3",
+            "7",
+            "4"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "¿Qué tipo de hibridación presenta el carbono en el eteno (C2H4)?",
+        "options": [
+            "sp2",
+            "sp3",
+            "sp",
+            "sp3d"
+        ],
+        "answer": "sp2"
+    },
+    {
+        "question": "¿Cuál es la geometría molecular del metano (CH4)?",
+        "options": [
+            "Tetraédrica",
+            "Triangular plana",
+            "Lineal",
+            "Piramidal"
+        ],
+        "answer": "Tetraédrica"
+    },
+    {
+        "question": "¿Qué isótopo del hidrógeno contiene un neutrón?",
+        "options": [
+            "Deuterio",
+            "Tritio",
+            "Protio",
+            "Hidrógeno-4"
+        ],
+        "answer": "Deuterio"
+    },
+    {
+        "question": "¿Cuál es la configuración electrónica del ion Fe2+?",
+        "options": [
+            "[Ar]3d6",
+            "[Ar]3d5",
+            "[Ar]3d7",
+            "[Ar]3d8"
+        ],
+        "answer": "[Ar]3d6"
+    },
+    {
+        "question": "¿Qué tipo de radiación tiene mayor poder de penetración?",
+        "options": [
+            "Gamma",
+            "Beta",
+            "Alfa",
+            "Neutrones"
+        ],
+        "answer": "Gamma"
+    },
+    {
+        "question": "¿Cuál es el producto principal de la hidrólisis de un éster?",
+        "options": [
+            "Ácido carboxílico y alcohol",
+            "Aldehído y agua",
+            "Cetona y agua",
+            "Éter y agua"
+        ],
+        "answer": "Ácido carboxílico y alcohol"
+    },
+    {
+        "question": "¿Qué orbital tiene mayor energía?",
+        "options": [
+            "4s",
+            "3d",
+            "4p",
+            "3p"
+        ],
+        "answer": "4p"
+    },
+    {
+        "question": "¿Cuál es el número de coordinación más común para el cobre(II)?",
+        "options": [
+            "6",
+            "4",
+            "2",
+            "8"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "¿Qué tipo de enlace predomina en el HCl?",
+        "options": [
+            "Covalente polar",
+            "Iónico",
+            "Covalente no polar",
+            "Metálico"
+        ],
+        "answer": "Covalente polar"
+    },
+    {
+        "question": "¿Cuál es la masa atómica del isótopo más abundante del carbono?",
+        "options": [
+            "12",
+            "13",
+            "14",
+            "11"
+        ],
+        "answer": "12"
+    },
+    {
+        "question": "¿Qué compuesto es anfótero?",
+        "options": [
+            "Al(OH)3",
+            "NaOH",
+            "HCl",
+            "KOH"
+        ],
+        "answer": "Al(OH)3"
+    },
+    {
+        "question": "¿Cuál es el nombre del ion NH4+?",
+        "options": [
+            "Amonio",
+            "Amina",
+            "Amido",
+            "Nitrato"
+        ],
+        "answer": "Amonio"
+    },
+    {
+        "question": "¿Qué tipo de reacción es la fermentación alcohólica?",
+        "options": [
+            "Redox",
+            "Ácido-base",
+            "Precipitación",
+            "Sustitución"
+        ],
+        "answer": "Redox"
+    },
+    {
+        "question": "¿Cuál es la estructura de Lewis correcta para el CO2?",
+        "options": [
+            "O=C=O",
+            "O-C-O",
+            "O≡C-O",
+            "O-C=O"
+        ],
+        "answer": "O=C=O"
+    },
+    {
+        "question": "¿Qué significa que una solución esté saturada?",
+        "options": [
+            "No puede disolver más soluto",
+            "Está diluida",
+            "No tiene soluto",
+            "Está concentrada"
+        ],
+        "answer": "No puede disolver más soluto"
+    },
+    {
+        "question": "¿Cuál es el número cuántico principal del último nivel de energía del potasio?",
+        "options": [
+            "4",
+            "3",
+            "5",
+            "2"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "¿Qué tipo de enlace intermolecular es el más fuerte?",
+        "options": [
+            "Puente de hidrógeno",
+            "Fuerzas de London",
+            "Dipolo-dipolo",
+            "Ion-dipolo"
+        ],
+        "answer": "Puente de hidrógeno"
+    },
+    {
+        "question": "¿Cuál es la constante de Avogadro?",
+        "options": [
+            "6.022 × 10²³",
+            "6.022 × 10²¹",
+            "6.022 × 10²⁴",
+            "6.022 × 10²²"
+        ],
+        "answer": "6.022 × 10²³"
+    },
+    {
+        "question": "¿Qué es un catalizador?",
+        "options": [
+            "Aumenta la velocidad de reacción",
+            "Aumenta la temperatura",
+            "Disminuye la presión",
+            "Aumenta el volumen"
+        ],
+        "answer": "Aumenta la velocidad de reacción"
+    },
+    {
+        "question": "¿Cuál es el pH de una solución 0.01M de HCl?",
+        "options": [
+            "2",
+            "1",
+            "3",
+            "4"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "¿Qué tipo de enlace tiene el diamante?",
+        "options": [
+            "Covalente reticular",
+            "Iónico",
+            "Metálico",
+            "Covalente molecular"
+        ],
+        "answer": "Covalente reticular"
+    },
+    {
+        "question": "¿Cuál es la fórmula del sulfato de aluminio?",
+        "options": [
+            "Al2(SO4)3",
+            "AlSO4",
+            "Al3(SO4)2",
+            "Al(SO4)2"
+        ],
+        "answer": "Al2(SO4)3"
+    },
+    {
+        "question": "¿Qué es un grupo funcional?",
+        "options": [
+            "Átomo o grupo de átomos que determina propiedades químicas",
+            "Un elemento",
+            "Un compuesto",
+            "Un catalizador"
+        ],
+        "answer": "Átomo o grupo de átomos que determina propiedades químicas"
+    },
+    {
+        "question": "¿Cuántos isómeros geométricos tiene el 2-buteno?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "1"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "¿Qué tipo de radiación es detenida por una hoja de papel?",
+        "options": [
+            "Alfa",
+            "Beta",
+            "Gamma",
+            "Neutrones"
+        ],
+        "answer": "Alfa"
+    },
+    {
+        "question": "¿Cuál es la geometría del ion amonio (NH4+)?",
+        "options": [
+            "Tetraédrica",
+            "Triangular plana",
+            "Piramidal",
+            "Lineal"
+        ],
+        "answer": "Tetraédrica"
+    },
+    {
+        "question": "¿Qué tipo de reacción es la neutralización?",
+        "options": [
+            "Ácido-base",
+            "Redox",
+            "Precipitación",
+            "Descomposición"
+        ],
+        "answer": "Ácido-base"
+    },
+    {
+        "question": "¿Cuál es el número de oxidación del manganeso en el KMnO4?",
+        "options": [
+            "+7",
+            "+6",
+            "+5",
+            "+4"
+        ],
+        "answer": "+7"
+    },
+    {
+        "question": "¿Qué es un orbital molecular antienlazante?",
+        "options": [
+            "Orbital de mayor energía que debilita el enlace",
+            "Orbital que fortalece el enlace",
+            "Orbital atómico",
+            "Orbital híbrido"
+        ],
+        "answer": "Orbital de mayor energía que debilita el enlace"
+    },
+    {
+        "question": "¿Cuál es la hibridación del carbono en el acetileno (C2H2)?",
+        "options": [
+            "sp",
+            "sp2",
+            "sp3",
+            "sp3d"
+        ],
+        "answer": "sp"
+    },
+    {
+        "question": "¿Qué tipo de espectroscopía se usa para identificar grupos funcionales orgánicos?",
+        "options": [
+            "Infrarrojo",
+            "Ultravioleta",
+            "Rayos X",
+            "Visible"
+        ],
+        "answer": "Infrarrojo"
+    },
+    {
+        "question": "¿Cuál es el orden de enlace en la molécula de N2?",
+        "options": [
+            "3",
+            "2",
+            "1",
+            "4"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "¿Qué es un buffer o tampón?",
+        "options": [
+            "Solución que resiste cambios de pH",
+            "Catalizador",
+            "Indicador",
+            "Precipitado"
+        ],
+        "answer": "Solución que resiste cambios de pH"
+    },
+    {
+        "question": "¿Cuál es la geometría molecular del PCl5?",
+        "options": [
+            "Bipirámide trigonal",
+            "Tetraédrica",
+            "Octaédrica",
+            "Piramidal"
+        ],
+        "answer": "Bipirámide trigonal"
+    },
+    {
+        "question": "¿Qué tipo de isomería presentan los alcoholes y éteres?",
+        "options": [
+            "Funcional",
+            "Geométrica",
+            "Óptica",
+            "Posicional"
+        ],
+        "answer": "Funcional"
+    },
+    {
+        "question": "¿Cuál es el principio de Le Chatelier?",
+        "options": [
+            "Un sistema en equilibrio se opone a los cambios",
+            "La materia no se crea ni se destruye",
+            "La energía se conserva",
+            "Los gases ocupan todo el volumen"
+        ],
+        "answer": "Un sistema en equilibrio se opone a los cambios"
+    },
+    {
+        "question": "¿Qué es un electrófilo?",
+        "options": [
+            "Especie que acepta electrones",
+            "Especie que dona electrones",
+            "Catalizador",
+            "Inhibidor"
+        ],
+        "answer": "Especie que acepta electrones"
+    },
+    {
+        "question": "¿Cuál es la configuración electrónica del Cr?",
+        "options": [
+            "[Ar]3d5 4s1",
+            "[Ar]3d4 4s2",
+            "[Ar]3d6",
+            "[Ar]3d3 4s2"
+        ],
+        "answer": "[Ar]3d5 4s1"
+    },
+    {
+        "question": "¿Qué es la energía de ionización?",
+        "options": [
+            "Energía para remover un electrón",
+            "Energía de un enlace",
+            "Energía potencial",
+            "Energía cinética"
+        ],
+        "answer": "Energía para remover un electrón"
+    },
+    {
+        "question": "¿Cuál es el nombre del compuesto CH3-CH2-CHO?",
+        "options": [
+            "Propanal",
+            "Propanol",
+            "Propanona",
+            "Ácido propanoico"
+        ],
+        "answer": "Propanal"
+    },
+    {
+        "question": "¿Qué es la regla del octeto?",
+        "options": [
+            "Átomos tienden a tener 8 electrones de valencia",
+            "Átomos tienen 8 protones",
+            "Átomos tienen 8 neutrones",
+            "Átomos tienen 8 orbitales"
+        ],
+        "answer": "Átomos tienden a tener 8 electrones de valencia"
+    },
+    {
+        "question": "¿Cuál es el agente oxidante en la reacción 2KI + Cl2 → 2KCl + I2?",
+        "options": [
+            "Cl2",
+            "KI",
+            "KCl",
+            "I2"
+        ],
+        "answer": "Cl2"
+    },
+    {
+        "question": "¿Qué tipo de carbono es el que está unido a cuatro grupos diferentes?",
+        "options": [
+            "Quiral",
+            "Primario",
+            "Secundario",
+            "Terciario"
+        ],
+        "answer": "Quiral"
+    },
+    {
+        "question": "¿Cuál es la multiplicidad de un orbital con ml = -2, -1, 0, 1, 2?",
+        "options": [
+            "5",
+            "3",
+            "7",
+            "4"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "¿Qué tipo de enlace tiene mayor energía?",
+        "options": [
+            "Triple",
+            "Doble",
+            "Simple",
+            "Iónico"
+        ],
+        "answer": "Triple"
+    },
+    {
+        "question": "¿Cuál es el nombre del compuesto CH3COOH?",
+        "options": [
+            "Ácido acético",
+            "Acetona",
+            "Acetaldehído",
+            "Acetato"
+        ],
+        "answer": "Ácido acético"
+    },
+    {
+        "question": "¿Qué es un nucleófilo?",
+        "options": [
+            "Especie que dona electrones",
+            "Especie que acepta electrones",
+            "Catalizador",
+            "Inhibidor"
+        ],
+        "answer": "Especie que dona electrones"
+    },
+    {
+        "question": "¿Cuál es la geometría molecular del SO2?",
+        "options": [
+            "Angular",
+            "Lineal",
+            "Trigonal plana",
+            "Tetraédrica"
+        ],
+        "answer": "Angular"
+    },
+    {
+        "question": "¿Qué tipo de reacción es la combustión?",
+        "options": [
+            "Redox",
+            "Ácido-base",
+            "Sustitución",
+            "Eliminación"
+        ],
+        "answer": "Redox"
+    },
+    {
+        "question": "¿Cuál es la fórmula general de los alcanos?",
+        "options": [
+            "CnH2n+2",
+            "CnH2n",
+            "CnH2n-2",
+            "CnHn"
+        ],
+        "answer": "CnH2n+2"
+    },
+    {
+        "question": "¿Qué es un orbital atómico?",
+        "options": [
+            "Región donde es probable encontrar un electrón",
+            "Núcleo del átomo",
+            "Partícula subatómica",
+            "Tipo de enlace"
+        ],
+        "answer": "Región donde es probable encontrar un electrón"
+    },
+    {
+        "question": "¿Cuál es la energía de activación en una reacción catalizada?",
+        "options": [
+            "Menor que sin catalizador",
+            "Mayor que sin catalizador",
+            "Igual que sin catalizador",
+            "No tiene energía de activación"
+        ],
+        "answer": "Menor que sin catalizador"
+    },
+    {
+        "question": "¿Qué indica el número másico de un átomo?",
+        "options": [
+            "Protones + neutrones",
+            "Protones + electrones",
+            "Solo protones",
+            "Solo neutrones"
+        ],
+        "answer": "Protones + neutrones"
+    },
+    {
+        "question": "¿Cuál es la hibridación del nitrógeno en el NH3?",
+        "options": [
+            "sp3",
+            "sp2",
+            "sp",
+            "sp3d"
+        ],
+        "answer": "sp3"
+    },
+    {
+        "question": "¿Qué tipo de espectroscopía mide transiciones electrónicas?",
+        "options": [
+            "UV-visible",
+            "Infrarrojo",
+            "Rayos X",
+            "Resonancia magnética"
+        ],
+        "answer": "UV-visible"
+    },
+    {
+        "question": "¿Cuál es la geometría del ion carbonato (CO3²⁻)?",
+        "options": [
+            "Trigonal plana",
+            "Tetraédrica",
+            "Piramidal",
+            "Lineal"
+        ],
+        "answer": "Trigonal plana"
+    },
+    {
+        "question": "¿Qué es un grupo saliente en química orgánica?",
+        "options": [
+            "Base conjugada estable",
+            "Ácido fuerte",
+            "Base fuerte",
+            "Nucleófilo fuerte"
+        ],
+        "answer": "Base conjugada estable"
+    },
+    {
+        "question": "¿Cuál es el momento dipolar del CCl4?",
+        "options": [
+            "0",
+            "1.87 D",
+            "2.05 D",
+            "1.69 D"
+        ],
+        "answer": "0"
+    },
+    {
+        "question": "¿Qué tipo de mezcla es una emulsión?",
+        "options": [
+            "Coloidal",
+            "Homogénea",
+            "Saturada",
+            "Supersaturada"
+        ],
+        "answer": "Coloidal"
+    },
+    {
+        "question": "¿Cuál es el nombre del compuesto CH3-CO-CH3?",
+        "options": [
+            "Propanona",
+            "Propanal",
+            "Ácido propanoico",
+            "Propanol"
+        ],
+        "answer": "Propanona"
+    },
+    {
+        "question": "¿Qué es el efecto fotoeléctrico?",
+        "options": [
+            "Emisión de electrones por luz",
+            "Absorción de luz",
+            "Reflexión de luz",
+            "Refracción de luz"
+        ],
+        "answer": "Emisión de electrones por luz"
+    },
+    {
+        "question": "¿Cuál es la diferencia entre isótopos?",
+        "options": [
+            "Número de neutrones",
+            "Número de protones",
+            "Número de electrones",
+            "Carga nuclear"
+        ],
+        "answer": "Número de neutrones"
+    },
+    {
+        "question": "¿Qué es un orbital molecular enlazante?",
+        "options": [
+            "Orbital de menor energía que fortalece el enlace",
+            "Orbital que debilita el enlace",
+            "Orbital atómico",
+            "Orbital antienlazante"
+        ],
+        "answer": "Orbital de menor energía que fortalece el enlace"
+    },
+    {
+        "question": "¿Cuál es el nombre IUPAC del CH3-CH2-CH2-OH?",
+        "options": [
+            "1-propanol",
+            "2-propanol",
+            "Propanona",
+            "Propanal"
+        ],
+        "answer": "1-propanol"
+    },
+    {
+        "question": "¿Qué es la presión osmótica?",
+        "options": [
+            "Presión para detener ósmosis",
+            "Presión atmosférica",
+            "Presión hidrostática",
+            "Presión de vapor"
+        ],
+        "answer": "Presión para detener ósmosis"
+    },
+    {
+        "question": "¿Cuál es la geometría molecular del XeF4?",
+        "options": [
+            "Plano cuadrada",
+            "Tetraédrica",
+            "Octaédrica",
+            "Bipirámide trigonal"
+        ],
+        "answer": "Plano cuadrada"
+    },
+    {
+        "question": "¿Qué es un quelato?",
+        "options": [
+            "Compuesto con ligando bidentado",
+            "Compuesto iónico",
+            "Compuesto covalente",
+            "Metal de transición"
+        ],
+        "answer": "Compuesto con ligando bidentado"
+    },
+    {
+        "question": "¿Cuál es el número de oxidación del cromo en el K2Cr2O7?",
+        "options": [
+            "+6",
+            "+3",
+            "+4",
+            "+5"
+        ],
+        "answer": "+6"
+    },
+    {
+        "question": "¿Qué es la regla de Hund?",
+        "options": [
+            "Electrones se distribuyen con espines paralelos",
+            "Electrones aparean espines",
+            "Electrones comparten orbital",
+            "Electrones cambian de nivel"
+        ],
+        "answer": "Electrones se distribuyen con espines paralelos"
+    },
+    {
+        "question": "¿Cuál es el pH de una solución 0.001M de NaOH?",
+        "options": [
+            "11",
+            "10",
+            "12",
+            "13"
+        ],
+        "answer": "11"
+    },
+    {
+        "question": "¿Qué es un proceso endotérmico?",
+        "options": [
+            "Absorbe calor",
+            "Libera calor",
+            "Mantiene calor constante",
+            "No involucra calor"
+        ],
+        "answer": "Absorbe calor"
+    },
+    {
+        "question": "¿Cuál es la hibridación del oxígeno en el H2O?",
+        "options": [
+            "sp3",
+            "sp2",
+            "sp",
+            "sp3d"
+        ],
+        "answer": "sp3"
+    },
+    {
+        "question": "¿Qué es la tensión superficial?",
+        "options": [
+            "Fuerza en la superficie de líquidos",
+            "Presión atmosférica",
+            "Fuerza gravitacional",
+            "Fuerza electrostática"
+        ],
+        "answer": "Fuerza en la superficie de líquidos"
+    },
+    {
+        "question": "¿Cuál es el nombre del compuesto CH3-CH=CH2?",
+        "options": [
+            "Propeno",
+            "Propano",
+            "Propino",
+            "Propanal"
+        ],
+        "answer": "Propeno"
+    },
+    {
+        "question": "¿Qué es un orbital degenerado?",
+        "options": [
+            "Orbitales con igual energía",
+            "Orbitales vacíos",
+            "Orbitales llenos",
+            "Orbitales híbridos"
+        ],
+        "answer": "Orbitales con igual energía"
+    },
+    {
+        "question": "¿Cuál es la configuración electrónica del Cu2+?",
+        "options": [
+            "[Ar]3d9",
+            "[Ar]3d10",
+            "[Ar]3d8",
+            "[Ar]3d7"
+        ],
+        "answer": "[Ar]3d9"
+    },
+    {
+        "question": "¿Qué es la primera ley de la termodinámica?",
+        "options": [
+            "Conservación de la energía",
+            "Entropía aumenta",
+            "Equilibrio térmico",
+            "Trabajo máximo"
+        ],
+        "answer": "Conservación de la energía"
+    },
+    {
+        "question": "¿Cuál es el nombre del ion OH-?",
+        "options": [
+            "Hidróxido",
+            "Hidruro",
+            "Hidronio",
+            "Hidróxilo"
+        ],
+        "answer": "Hidróxido"
+    },
+    {
+        "question": "¿Qué es un enlace π (pi)?",
+        "options": [
+            "Solapamiento lateral de orbitales",
+            "Solapamiento frontal",
+            "Enlace iónico",
+            "Enlace metálico"
+        ],
+        "answer": "Solapamiento lateral de orbitales"
+    },
+    {
+        "question": "¿Cuál es la geometría del BF3?",
+        "options": [
+            "Trigonal plana",
+            "Piramidal",
+            "Tetraédrica",
+            "Angular"
+        ],
+        "answer": "Trigonal plana"
+    },
+    {
+        "question": "¿Qué es un grupo cromóforo?",
+        "options": [
+            "Grupo que absorbe luz visible",
+            "Grupo que emite luz",
+            "Grupo que refleja luz",
+            "Grupo que dispersa luz"
+        ],
+        "answer": "Grupo que absorbe luz visible"
+    },
+    {
+        "question": "¿Cuál es el número de oxidación del nitrógeno en el HNO3?",
+        "options": [
+            "+5",
+            "+3",
+            "+4",
+            "+6"
+        ],
+        "answer": "+5"
+    },
+    {
+        "question": "¿Qué es la resonancia magnética nuclear?",
+        "options": [
+            "Absorción de energía por núcleos",
+            "Emisión de electrones",
+            "Absorción de luz",
+            "Emisión de luz"
+        ],
+        "answer": "Absorción de energía por núcleos"
+    },
+    {
+        "question": "¿Cuál es la hibridación del carbono en el benceno?",
+        "options": [
+            "sp2",
+            "sp3",
+            "sp",
+            "sp3d"
+        ],
+        "answer": "sp2"
+    },
+    {
+        "question": "¿Qué es la constante de equilibrio Kc?",
+        "options": [
+            "Relación de concentraciones",
+            "Relación de presiones",
+            "Relación de masas",
+            "Relación de volúmenes"
+        ],
+        "answer": "Relación de concentraciones"
+    },
+    {
+        "question": "¿Cuál es el nombre del compuesto CH≡CH?",
+        "options": [
+            "Etino",
+            "Eteno",
+            "Etano",
+            "Etanal"
+        ],
+        "answer": "Etino"
+    },
+    {
+        "question": "¿Qué es la ley de Raoult?",
+        "options": [
+            "Presión de vapor de soluciones",
+            "Punto de ebullición",
+            "Punto de fusión",
+            "Presión osmótica"
+        ],
+        "answer": "Presión de vapor de soluciones"
+    },
+    {
+        "question": "¿Cuál es la configuración electrónica del Zn2+?",
+        "options": [
+            "[Ar]3d10",
+            "[Ar]3d9",
+            "[Ar]3d8",
+            "[Ar]3d11"
+        ],
+        "answer": "[Ar]3d10"
+    },
+    {
+        "question": "¿Qué es un grupo auxocromo?",
+        "options": [
+            "Intensifica color del cromóforo",
+            "Emite luz",
+            "Absorbe luz",
+            "Refleja luz"
+        ],
+        "answer": "Intensifica color del cromóforo"
+    },
+    {
+        "question": "¿Cuál es la geometría del ion amonio (NH4+)?",
+        "options": [
+            "Tetraédrica",
+            "Trigonal plana",
+            "Piramidal",
+            "Angular"
+        ],
+        "answer": "Tetraédrica"
+    },
+    {
+        "question": "¿Qué es la entalpía de formación?",
+        "options": [
+            "Calor de formación desde elementos",
+            "Calor de combustión",
+            "Calor de fusión",
+            "Calor de vaporización"
+        ],
+        "answer": "Calor de formación desde elementos"
+    },
+    {
+        "question": "¿Cuál es el nombre del compuesto CH3-O-CH3?",
+        "options": [
+            "Dimetil éter",
+            "Etanol",
+            "Metanol",
+            "Etanal"
+        ],
+        "answer": "Dimetil éter"
+    },
+    {
+        "question": "¿Qué es un proceso adiabático?",
+        "options": [
+            "Sin intercambio de calor",
+            "Sin cambio de presión",
+            "Sin cambio de volumen",
+            "Sin cambio de temperatura"
+        ],
+        "answer": "Sin intercambio de calor"
+    },
+    {
+        "question": "¿Cuál es la ley de Hess?",
+        "options": [
+            "Cambio de entalpía es independiente de la ruta",
+            "Energía se conserva",
+            "Entropía aumenta",
+            "Presión es constante"
+        ],
+        "answer": "Cambio de entalpía es independiente de la ruta"
+    },
+    {
+        "question": "¿Qué es un catalizador heterogéneo?",
+        "options": [
+            "En fase diferente al reactivo",
+            "En misma fase que reactivo",
+            "Inhibidor",
+            "Acelerador"
+        ],
+        "answer": "En fase diferente al reactivo"
+    },
+    {
+        "question": "¿Cuál es el nombre del ion H3O+?",
+        "options": [
+            "Hidronio",
+            "Hidróxido",
+            "Hidruro",
+            "Hidroxonio"
+        ],
+        "answer": "Hidronio"
+    },
+    {
+        "question": "¿Qué es la regla de Markovnikov?",
+        "options": [
+            "H+ se une al C más sustituido",
+            "H+ se une al C menos sustituido",
+            "Eliminación de H2O",
+            "Adición de H2O"
+        ],
+        "answer": "H+ se une al C más sustituido"
+    },
+    {
+        "question": "¿Cuál es el orden de reacción total si k tiene unidades de L/mol·s?",
+        "options": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "¿Qué es un estado basal?",
+        "options": [
+            "Estado de menor energía",
+            "Estado excitado",
+            "Estado de transición",
+            "Estado activado"
+        ],
+        "answer": "Estado de menor energía"
+    },
+    {
+        "question": "¿Cuál es la geometría del SO3?",
+        "options": [
+            "Trigonal plana",
+            "Piramidal",
+            "Tetraédrica",
+            "Angular"
+        ],
+        "answer": "Trigonal plana"
+    },
+    {
+        "question": "¿Qué es la quiralidad?",
+        "options": [
+            "No superponible con su imagen especular",
+            "Igual a su imagen especular",
+            "Simetría molecular",
+            "Asimetría planar"
+        ],
+        "answer": "No superponible con su imagen especular"
+    },
+    {
+        "question": "¿Cuál es el número de oxidación del cloro en el HClO4?",
+        "options": [
+            "+7",
+            "+5",
+            "+3",
+            "+1"
+        ],
+        "answer": "+7"
+    },
+    {
+        "question": "¿Qué es un orbital antienlazante σ*?",
+        "options": [
+            "Orbital molecular de alta energía",
+            "Orbital atómico",
+            "Orbital híbrido",
+            "Orbital enlazante"
+        ],
+        "answer": "Orbital molecular de alta energía"
+    }
+]

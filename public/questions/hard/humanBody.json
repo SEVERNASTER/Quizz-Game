@@ -1,0 +1,1052 @@
+[
+    {
+        "question": "¿Qué neurotransmisor está principalmente implicado en la fisiopatología de la esquizofrenia?",
+        "options": [
+            "Dopamina",
+            "Serotonina",
+            "Noradrenalina",
+            "GABA"
+        ],
+        "answer": "Dopamina"
+    },
+    {
+        "question": "¿Cuál es el nombre del factor transcripcional que regula la diferenciación de osteoblastos?",
+        "options": [
+            "RUNX2",
+            "SOX9",
+            "MyoD",
+            "PAX6"
+        ],
+        "answer": "RUNX2"
+    },
+    {
+        "question": "¿Qué proteína transmembrana está mutada en la fibrosis quística?",
+        "options": [
+            "CFTR",
+            "EGFR",
+            "VEGFR",
+            "TNF-R"
+        ],
+        "answer": "CFTR"
+    },
+    {
+        "question": "¿Cuál es el origen embriológico de las células de la cresta neural?",
+        "options": [
+            "Ectodermo",
+            "Mesodermo",
+            "Endodermo",
+            "Mesénquima"
+        ],
+        "answer": "Ectodermo"
+    },
+    {
+        "question": "¿Qué tipo de colágeno es predominante en el cartílago hialino?",
+        "options": [
+            "Tipo II",
+            "Tipo I",
+            "Tipo III",
+            "Tipo IV"
+        ],
+        "answer": "Tipo II"
+    },
+    {
+        "question": "¿Cuál es la vida media de la protrombina en la sangre?",
+        "options": [
+            "60-72 horas",
+            "24-48 horas",
+            "12-24 horas",
+            "96-120 horas"
+        ],
+        "answer": "60-72 horas"
+    },
+    {
+        "question": "¿Qué proteína G está asociada con los receptores beta-adrenérgicos?",
+        "options": [
+            "Gs",
+            "Gi",
+            "Gq",
+            "Go"
+        ],
+        "answer": "Gs"
+    },
+    {
+        "question": "¿Cuál es el principal transportador de sodio en el túbulo proximal renal?",
+        "options": [
+            "Na+/K+-ATPasa",
+            "NKCC2",
+            "NHE3",
+            "ENaC"
+        ],
+        "answer": "Na+/K+-ATPasa"
+    },
+    {
+        "question": "¿Qué factor de transcripción es esencial para el desarrollo pancreático?",
+        "options": [
+            "PDX1",
+            "NKX2.1",
+            "GATA4",
+            "PAX2"
+        ],
+        "answer": "PDX1"
+    },
+    {
+        "question": "¿Cuál es el nombre del plexo nervioso que inerva el intestino delgado?",
+        "options": [
+            "Plexo de Meissner",
+            "Plexo de Auerbach",
+            "Plexo celíaco",
+            "Plexo mientérico"
+        ],
+        "answer": "Plexo de Meissner"
+    },
+    {
+        "question": "¿Qué enzima convierte el angiotensinógeno en angiotensina I?",
+        "options": [
+            "Renina",
+            "ECA",
+            "Quimasa",
+            "Catepsina"
+        ],
+        "answer": "Renina"
+    },
+    {
+        "question": "¿Cuál es el receptor de membrana para la vitamina D?",
+        "options": [
+            "VDR",
+            "RXR",
+            "THR",
+            "RAR"
+        ],
+        "answer": "VDR"
+    },
+    {
+        "question": "¿Qué proteína es responsable del transporte de colesterol desde los tejidos periféricos al hígado?",
+        "options": [
+            "ABCA1",
+            "LDLR",
+            "PCSK9",
+            "SREBP"
+        ],
+        "answer": "ABCA1"
+    },
+    {
+        "question": "¿Cuál es el principal regulador del ritmo circadiano en humanos?",
+        "options": [
+            "Núcleo supraquiasmático",
+            "Glándula pineal",
+            "Hipotálamo",
+            "Tálamo"
+        ],
+        "answer": "Núcleo supraquiasmático"
+    },
+    {
+        "question": "¿Qué molécula de adhesión es crítica en la extravasación leucocitaria?",
+        "options": [
+            "ICAM-1",
+            "N-CAM",
+            "E-cadherina",
+            "Integrina β1"
+        ],
+        "answer": "ICAM-1"
+    },
+    {
+        "question": "¿Cuál es el potencial de membrana en reposo de una neurona típica?",
+        "options": [
+            "-70 mV",
+            "-55 mV",
+            "-85 mV",
+            "-40 mV"
+        ],
+        "answer": "-70 mV"
+    },
+    {
+        "question": "¿Qué factor de crecimiento es crucial en la angiogénesis?",
+        "options": [
+            "VEGF",
+            "EGF",
+            "FGF",
+            "PDGF"
+        ],
+        "answer": "VEGF"
+    },
+    {
+        "question": "¿Cuál es el nombre del espaciador que separa los filamentos de actina en el sarcómero?",
+        "options": [
+            "Titina",
+            "Nebulina",
+            "Tropomiosina",
+            "α-actinina"
+        ],
+        "answer": "Titina"
+    },
+    {
+        "question": "¿Qué hormona antagoniza los efectos de la PTH en el metabolismo del calcio?",
+        "options": [
+            "Calcitonina",
+            "Vitamina D",
+            "Cortisol",
+            "Aldosterona"
+        ],
+        "answer": "Calcitonina"
+    },
+    {
+        "question": "¿Cuál es el principal transportador de glucosa en el músculo esquelético?",
+        "options": [
+            "GLUT4",
+            "GLUT1",
+            "GLUT2",
+            "GLUT3"
+        ],
+        "answer": "GLUT4"
+    },
+    {
+        "question": "¿Qué citoquina es la principal mediadora de la respuesta de fase aguda?",
+        "options": [
+            "IL-6",
+            "TNF-α",
+            "IL-1β",
+            "IFN-γ"
+        ],
+        "answer": "IL-6"
+    },
+    {
+        "question": "¿Cuál es el nombre del factor que inicia la cascada extrínseca de la coagulación?",
+        "options": [
+            "Factor tisular",
+            "Factor VIII",
+            "Factor V",
+            "Trombina"
+        ],
+        "answer": "Factor tisular"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de uniones gap?",
+        "options": [
+            "Conexina",
+            "Ocludina",
+            "Claudina",
+            "Caderina"
+        ],
+        "answer": "Conexina"
+    },
+    {
+        "question": "¿Cuál es el principal neurotransmisor inhibitorio en la médula espinal?",
+        "options": [
+            "Glicina",
+            "GABA",
+            "Serotonina",
+            "Acetilcolina"
+        ],
+        "answer": "Glicina"
+    },
+    {
+        "question": "¿Qué enzima es deficiente en la enfermedad de Gaucher?",
+        "options": [
+            "β-glucocerebrosidasa",
+            "α-galactosidasa",
+            "Hexosaminidasa",
+            "Esfingomielinasa"
+        ],
+        "answer": "β-glucocerebrosidasa"
+    },
+    {
+        "question": "¿Cuál es el nombre del factor que estimula la eritropoyesis?",
+        "options": [
+            "EPO",
+            "TPO",
+            "G-CSF",
+            "GM-CSF"
+        ],
+        "answer": "EPO"
+    },
+    {
+        "question": "¿Qué proteína es el principal componente de los microfilamentos?",
+        "options": [
+            "Actina G",
+            "Miosina",
+            "Tubulina",
+            "Queratina"
+        ],
+        "answer": "Actina G"
+    },
+    {
+        "question": "¿Cuál es el nombre del canal de calcio predominante en el músculo cardíaco?",
+        "options": [
+            "Cav1.2",
+            "Nav1.5",
+            "Kv4.3",
+            "HCN4"
+        ],
+        "answer": "Cav1.2"
+    },
+    {
+        "question": "¿Qué molécula es el segundo mensajero en la vía de señalización de la fosfolipasa C?",
+        "options": [
+            "IP3",
+            "cAMP",
+            "cGMP",
+            "DAG"
+        ],
+        "answer": "IP3"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la apoptosis mitocondrial?",
+        "options": [
+            "BCL-2",
+            "p53",
+            "Caspasa-8",
+            "FADD"
+        ],
+        "answer": "BCL-2"
+    },
+    {
+        "question": "¿Qué proteína es responsable del transporte de hierro en la sangre?",
+        "options": [
+            "Transferrina",
+            "Ferritina",
+            "Hemosiderina",
+            "Ceruloplasmina"
+        ],
+        "answer": "Transferrina"
+    },
+    {
+        "question": "¿Cuál es el principal mediador de la respuesta al estrés oxidativo?",
+        "options": [
+            "Nrf2",
+            "HIF-1α",
+            "NF-κB",
+            "AP-1"
+        ],
+        "answer": "Nrf2"
+    },
+    {
+        "question": "¿Qué enzima es clave en la síntesis de óxido nítrico?",
+        "options": [
+            "NOS",
+            "COX",
+            "LOX",
+            "MAO"
+        ],
+        "answer": "NOS"
+    },
+    {
+        "question": "¿Cuál es el receptor principal de la insulina?",
+        "options": [
+            "IR-A",
+            "EGFR",
+            "IGFR",
+            "PDGFR"
+        ],
+        "answer": "IR-A"
+    },
+    {
+        "question": "¿Qué factor de transcripción regula la diferenciación de células T helper?",
+        "options": [
+            "T-bet",
+            "GATA3",
+            "RORγt",
+            "Foxp3"
+        ],
+        "answer": "T-bet"
+    },
+    {
+        "question": "¿Cuál es el principal transportador de ácidos grasos en la sangre?",
+        "options": [
+            "Albúmina",
+            "Globulina",
+            "Fibrinógeno",
+            "Prealbúmina"
+        ],
+        "answer": "Albúmina"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación del complejo sinaptonémico?",
+        "options": [
+            "SCP3",
+            "RAD51",
+            "DMC1",
+            "MLH1"
+        ],
+        "answer": "SCP3"
+    },
+    {
+        "question": "¿Cuál es el nombre del factor que inicia la diferenciación de osteoclastos?",
+        "options": [
+            "RANKL",
+            "OPG",
+            "PTH",
+            "Calcitonina"
+        ],
+        "answer": "RANKL"
+    },
+    {
+        "question": "¿Qué proteína es el principal componente de los filamentos intermedios neuronales?",
+        "options": [
+            "Neurofilamentos",
+            "Vimentina",
+            "Desmina",
+            "Queratina"
+        ],
+        "answer": "Neurofilamentos"
+    },
+    {
+        "question": "¿Cuál es el principal regulador del ciclo celular en la fase G1?",
+        "options": [
+            "Ciclina D",
+            "Ciclina E",
+            "Ciclina A",
+            "Ciclina B"
+        ],
+        "answer": "Ciclina D"
+    },
+    {
+        "question": "¿Qué enzima es clave en la síntesis de prostaglandinas?",
+        "options": [
+            "Ciclooxigenasa",
+            "Lipoxigenasa",
+            "Fosfolipasa",
+            "Esfingomielinasa"
+        ],
+        "answer": "Ciclooxigenasa"
+    },
+    {
+        "question": "¿Cuál es el principal neurotransmisor de las neuronas simpáticas posganglionares?",
+        "options": [
+            "Noradrenalina",
+            "Acetilcolina",
+            "Adrenalina",
+            "Dopamina"
+        ],
+        "answer": "Noradrenalina"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de caveolas?",
+        "options": [
+            "Caveolina-1",
+            "Clatrina",
+            "Dinamina",
+            "Adaptina"
+        ],
+        "answer": "Caveolina-1"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la autofagia?",
+        "options": [
+            "mTOR",
+            "AMPK",
+            "PI3K",
+            "AKT"
+        ],
+        "answer": "mTOR"
+    },
+    {
+        "question": "¿Qué factor de transcripción es esencial para la diferenciación de células B?",
+        "options": [
+            "PAX5",
+            "BCL6",
+            "BLIMP1",
+            "XBP1"
+        ],
+        "answer": "PAX5"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la gluconeogénesis hepática?",
+        "options": [
+            "PEPCK",
+            "G6Pasa",
+            "FBPasa",
+            "PFK"
+        ],
+        "answer": "PEPCK"
+    },
+    {
+        "question": "¿Qué proteína es el principal componente de los desmosomas?",
+        "options": [
+            "Desmogleína",
+            "Conexina",
+            "Ocludina",
+            "Integrina"
+        ],
+        "answer": "Desmogleína"
+    },
+    {
+        "question": "¿Cuál es el nombre del factor que regula la diferenciación de células dendríticas?",
+        "options": [
+            "Flt3L",
+            "GM-CSF",
+            "M-CSF",
+            "G-CSF"
+        ],
+        "answer": "Flt3L"
+    },
+    {
+        "question": "¿Qué enzima es clave en la síntesis de catecolaminas?",
+        "options": [
+            "Tirosina hidroxilasa",
+            "DOPA decarboxilasa",
+            "MAO",
+            "COMT"
+        ],
+        "answer": "Tirosina hidroxilasa"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la absorción de hierro intestinal?",
+        "options": [
+            "Hepcidina",
+            "Ferroportina",
+            "DMT1",
+            "TfR1"
+        ],
+        "answer": "Hepcidina"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación del complejo de ataque a membrana?",
+        "options": [
+            "C9",
+            "C3b",
+            "C5a",
+            "C1q"
+        ],
+        "answer": "C9"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células NK?",
+        "options": [
+            "IL-15",
+            "IL-2",
+            "IL-7",
+            "IL-12"
+        ],
+        "answer": "IL-15"
+    },
+    {
+        "question": "¿Qué tipo de colágeno es predominante en la membrana basal?",
+        "options": [
+            "Tipo IV",
+            "Tipo I",
+            "Tipo II",
+            "Tipo III"
+        ],
+        "answer": "Tipo IV"
+    },
+    {
+        "question": "¿Cuál es el nombre del factor que regula la diferenciación de megacariocitos?",
+        "options": [
+            "Trombopoyetina",
+            "Eritropoyetina",
+            "IL-3",
+            "GM-CSF"
+        ],
+        "answer": "Trombopoyetina"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de cilios primarios?",
+        "options": [
+            "IFT88",
+            "Dineína",
+            "Kinesina",
+            "Tubulina"
+        ],
+        "answer": "IFT88"
+    },
+    {
+        "question": "¿Cuál es el principal regulador del metabolismo del hierro celular?",
+        "options": [
+            "IRP1/2",
+            "DMT1",
+            "Ferroportina",
+            "Transferrina"
+        ],
+        "answer": "IRP1/2"
+    },
+    {
+        "question": "¿Qué enzima es clave en la síntesis de ceramidas?",
+        "options": [
+            "Serina palmitoiltransferasa",
+            "Esfingomielinasa",
+            "Ceramidasa",
+            "Glucosilceramida sintasa"
+        ],
+        "answer": "Serina palmitoiltransferasa"
+    },
+    {
+        "question": "¿Cuál es el principal transportador de zinc en células intestinales?",
+        "options": [
+            "ZIP4",
+            "DMT1",
+            "CFTR",
+            "NBC1"
+        ],
+        "answer": "ZIP4"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de uniones estrechas?",
+        "options": [
+            "Ocludina",
+            "Conexina",
+            "Caderina",
+            "Selectina"
+        ],
+        "answer": "Ocludina"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células plasmáticas?",
+        "options": [
+            "BLIMP1",
+            "PAX5",
+            "BCL6",
+            "IRF4"
+        ],
+        "answer": "BLIMP1"
+    },
+    {
+        "question": "¿Qué factor de transcripción regula la diferenciación de adipocitos marrones?",
+        "options": [
+            "PRDM16",
+            "PPARγ",
+            "C/EBPα",
+            "SREBP1"
+        ],
+        "answer": "PRDM16"
+    },
+    {
+        "question": "¿Cuál es el principal mediador de la señalización Hedgehog?",
+        "options": [
+            "Smoothened",
+            "Patched",
+            "Gli1",
+            "Sufu"
+        ],
+        "answer": "Smoothened"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de podosomas?",
+        "options": [
+            "Cortactina",
+            "Vinculina",
+            "Talina",
+            "Paxilina"
+        ],
+        "answer": "Cortactina"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células Th17?",
+        "options": [
+            "RORγt",
+            "T-bet",
+            "GATA3",
+            "Foxp3"
+        ],
+        "answer": "RORγt"
+    },
+    {
+        "question": "¿Qué enzima es clave en la síntesis de ácidos biliares?",
+        "options": [
+            "CYP7A1",
+            "HMG-CoA reductasa",
+            "ACAT",
+            "LCAT"
+        ],
+        "answer": "CYP7A1"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la autofagia en condiciones de ayuno?",
+        "options": [
+            "AMPK",
+            "mTOR",
+            "ULK1",
+            "Beclin-1"
+        ],
+        "answer": "AMPK"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de placas de adhesión focal?",
+        "options": [
+            "FAK",
+            "Src",
+            "Pyk2",
+            "ILK"
+        ],
+        "answer": "FAK"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células foliculares tiroideas?",
+        "options": [
+            "PAX8",
+            "TTF1",
+            "TTF2",
+            "NKX2.1"
+        ],
+        "answer": "PAX8"
+    },
+    {
+        "question": "¿Qué factor de transcripción regula la expresión de proteínas de choque térmico?",
+        "options": [
+            "HSF1",
+            "NRF2",
+            "HIF1α",
+            "XBP1"
+        ],
+        "answer": "HSF1"
+    },
+    {
+        "question": "¿Cuál es el principal transportador de cobre en células intestinales?",
+        "options": [
+            "CTR1",
+            "ATP7A",
+            "ATP7B",
+            "DMT1"
+        ],
+        "answer": "CTR1"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de vesículas COPII?",
+        "options": [
+            "Sar1",
+            "Arf1",
+            "Rab1",
+            "Sec23"
+        ],
+        "answer": "Sar1"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células de Sertoli?",
+        "options": [
+            "SOX9",
+            "SF1",
+            "WT1",
+            "GATA4"
+        ],
+        "answer": "SOX9"
+    },
+    {
+        "question": "¿Qué enzima es clave en la síntesis de melanina?",
+        "options": [
+            "Tirosinasa",
+            "TRP1",
+            "TRP2",
+            "MITF"
+        ],
+        "answer": "Tirosinasa"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células β pancreáticas?",
+        "options": [
+            "NGN3",
+            "PDX1",
+            "NKX6.1",
+            "PAX4"
+        ],
+        "answer": "NGN3"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de autofagosomas?",
+        "options": [
+            "LC3",
+            "p62",
+            "Atg5",
+            "Beclin-1"
+        ],
+        "answer": "LC3"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de osteoblastos?",
+        "options": [
+            "Osterix",
+            "RUNX2",
+            "BMP2",
+            "Wnt"
+        ],
+        "answer": "Osterix"
+    },
+    {
+        "question": "¿Qué factor de transcripción regula la expresión de interferones tipo I?",
+        "options": [
+            "IRF3",
+            "NF-κB",
+            "STAT1",
+            "AP-1"
+        ],
+        "answer": "IRF3"
+    },
+    {
+        "question": "¿Cuál es el principal transportador de fosfato en células renales?",
+        "options": [
+            "NaPi-2a",
+            "NKCC2",
+            "NHE3",
+            "NBC1"
+        ],
+        "answer": "NaPi-2a"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de fibras de estrés?",
+        "options": [
+            "RhoA",
+            "Rac1",
+            "Cdc42",
+            "Rap1"
+        ],
+        "answer": "RhoA"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células musculares lisas?",
+        "options": [
+            "SRF",
+            "MyoD",
+            "Myf5",
+            "MEF2"
+        ],
+        "answer": "SRF"
+    },
+    {
+        "question": "¿Qué enzima es clave en la síntesis de cardiolipina?",
+        "options": [
+            "Cardiolipina sintasa",
+            "Fosfolipasa D",
+            "Esfingomielinasa",
+            "Ceramidasa"
+        ],
+        "answer": "Cardiolipina sintasa"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células de Leydig?",
+        "options": [
+            "INSL3",
+            "LH",
+            "FSH",
+            "Testosterona"
+        ],
+        "answer": "INSL3"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de hemidesmosomas?",
+        "options": [
+            "Integrina α6β4",
+            "Desmoplaquina",
+            "Plectina",
+            "BP230"
+        ],
+        "answer": "Integrina α6β4"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células de la granulosa?",
+        "options": [
+            "FOXL2",
+            "SF1",
+            "DAX1",
+            "WT1"
+        ],
+        "answer": "FOXL2"
+    },
+    {
+        "question": "¿Qué factor de transcripción regula la expresión de metalotioneínas?",
+        "options": [
+            "MTF1",
+            "NRF2",
+            "HIF1α",
+            "p53"
+        ],
+        "answer": "MTF1"
+    },
+    {
+        "question": "¿Cuál es el principal transportador de aminoácidos neutros en células intestinales?",
+        "options": [
+            "B0AT1",
+            "LAT1",
+            "ASCT2",
+            "PAT1"
+        ],
+        "answer": "B0AT1"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de uniones adherentes?",
+        "options": [
+            "E-cadherina",
+            "Claudina",
+            "Ocludina",
+            "Conexina"
+        ],
+        "answer": "E-cadherina"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células de Paneth?",
+        "options": [
+            "SOX9",
+            "LGR5",
+            "TCF4",
+            "MATH1"
+        ],
+        "answer": "SOX9"
+    },
+    {
+        "question": "¿Qué enzima es clave en la síntesis de esfingomielina?",
+        "options": [
+            "Esfingomielina sintasa",
+            "Ceramidasa",
+            "Esfingosina kinasa",
+            "Glucosilceramida sintasa"
+        ],
+        "answer": "Esfingomielina sintasa"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células ciliadas del oído interno?",
+        "options": [
+            "ATOH1",
+            "PAX2",
+            "SOX2",
+            "NEUROD1"
+        ],
+        "answer": "ATOH1"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de uniones comunicantes?",
+        "options": [
+            "Conexina 43",
+            "Ocludina",
+            "Claudina",
+            "ZO-1"
+        ],
+        "answer": "Conexina 43"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de oligodendrocitos?",
+        "options": [
+            "OLIG2",
+            "SOX10",
+            "NKX2.2",
+            "MYRF"
+        ],
+        "answer": "OLIG2"
+    },
+    {
+        "question": "¿Qué factor de transcripción regula la expresión de proteínas de fase aguda?",
+        "options": [
+            "C/EBPβ",
+            "NF-κB",
+            "AP-1",
+            "STAT3"
+        ],
+        "answer": "C/EBPβ"
+    },
+    {
+        "question": "¿Cuál es el principal transportador de ácidos biliares en hepatocitos?",
+        "options": [
+            "NTCP",
+            "BSEP",
+            "MDR3",
+            "MRP2"
+        ],
+        "answer": "NTCP"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de microtúbulos?",
+        "options": [
+            "γ-tubulina",
+            "α-tubulina",
+            "β-tubulina",
+            "δ-tubulina"
+        ],
+        "answer": "γ-tubulina"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células caliciformes?",
+        "options": [
+            "SPDEF",
+            "KLF4",
+            "ATOH1",
+            "HES1"
+        ],
+        "answer": "SPDEF"
+    },
+    {
+        "question": "¿Qué enzima es clave en la síntesis de fosfolípidos?",
+        "options": [
+            "GPAT",
+            "DGAT",
+            "ACAT",
+            "LCAT"
+        ],
+        "answer": "GPAT"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células de Schwann?",
+        "options": [
+            "SOX10",
+            "OCT6",
+            "EGR2",
+            "PAX3"
+        ],
+        "answer": "SOX10"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación del complejo de pre-replicación?",
+        "options": [
+            "ORC1",
+            "CDC6",
+            "MCM2",
+            "CDT1"
+        ],
+        "answer": "ORC1"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células parietales gástricas?",
+        "options": [
+            "FOXQ1",
+            "PDX1",
+            "SOX2",
+            "GATA4"
+        ],
+        "answer": "FOXQ1"
+    },
+    {
+        "question": "¿Qué factor de transcripción regula la expresión de proteínas de choque frío?",
+        "options": [
+            "YB-1",
+            "HSF1",
+            "NRF2",
+            "HIF1α"
+        ],
+        "answer": "YB-1"
+    },
+    {
+        "question": "¿Cuál es el principal transportador de glucosa en células β pancreáticas?",
+        "options": [
+            "GLUT2",
+            "GLUT1",
+            "GLUT3",
+            "GLUT4"
+        ],
+        "answer": "GLUT2"
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de nucleolos?",
+        "options": [
+            "Nucleolina",
+            "Fibrilarina",
+            "B23",
+            "UBF"
+        ],
+        "answer": "Nucleolina"
+    },
+    {
+        "question": "¿Cuál es el principal regulador de la diferenciación de células estrelladas hepáticas?",
+        "options": [
+            "LRX1",
+            "PPAR-γ",
+            "VDR",
+            "FXR"
+        ],
+        "answer": "LRX1"
+    },
+    {
+        "question": "¿Qué enzima es clave en la síntesis de glucógeno?",
+        "options": [
+            "Glucógeno sintasa",
+            "Fosforilasa",
+            "Mutasa",
+            "Ramificante"
+        ],
+        "answer": "Glucógeno sintasa"
+    }
+]

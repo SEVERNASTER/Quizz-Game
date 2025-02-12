@@ -1,0 +1,1042 @@
+[
+    {
+        "question": "¿Qué país está situado en la intersección de los meridianos 0° y el ecuador?",
+        "options": [
+            "Santo Tomé y Príncipe",
+            "Ghana",
+            "Gabón",
+            "Guinea Ecuatorial"
+        ],
+        "answer": "Santo Tomé y Príncipe"
+    },
+    {
+        "question": "¿Cuál es el único país que limita con Gibraltar?",
+        "options": [
+            "España",
+            "Portugal",
+            "Marruecos",
+            "Francia"
+        ],
+        "answer": "España"
+    },
+    {
+        "question": "¿Qué país está dividido en 26 cantones?",
+        "options": [
+            "Suiza",
+            "Bélgica",
+            "Austria",
+            "Luxemburgo"
+        ],
+        "answer": "Suiza"
+    },
+    {
+        "question": "¿Cuál es el punto más bajo de la Tierra que no está cubierto por agua?",
+        "options": [
+            "Mar Muerto",
+            "Valle de la Muerte",
+            "Depresión de Qattara",
+            "Depresión del Turpan"
+        ],
+        "answer": "Mar Muerto"
+    },
+    {
+        "question": "¿Qué país está compuesto por más de 17,000 islas?",
+        "options": [
+            "Indonesia",
+            "Filipinas",
+            "Japón",
+            "Maldivas"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Cuál es el único país que limita con Nepal y Bután?",
+        "options": [
+            "India",
+            "China",
+            "Bangladesh",
+            "Myanmar"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "¿Qué mar separa Europa de África?",
+        "options": [
+            "Mar Mediterráneo",
+            "Mar Negro",
+            "Mar Rojo",
+            "Mar de Alborán"
+        ],
+        "answer": "Mar Mediterráneo"
+    },
+    {
+        "question": "¿Cuál es la capital administrativa de Sudáfrica?",
+        "options": [
+            "Pretoria",
+            "Ciudad del Cabo",
+            "Bloemfontein",
+            "Johannesburgo"
+        ],
+        "answer": "Pretoria"
+    },
+    {
+        "question": "¿Qué país está dividido por la Línea Wallace?",
+        "options": [
+            "Indonesia",
+            "Malasia",
+            "Filipinas",
+            "Australia"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Cuál es el punto más profundo del océano Atlántico?",
+        "options": [
+            "Fosa de Puerto Rico",
+            "Fosa de las Sandwich del Sur",
+            "Fosa de Romanche",
+            "Fosa de las Caimán"
+        ],
+        "answer": "Fosa de Puerto Rico"
+    },
+    {
+        "question": "¿Qué país europeo tiene costa tanto en el Mar Mediterráneo como en el Océano Atlántico?",
+        "options": [
+            "Francia",
+            "España",
+            "Italia",
+            "Grecia"
+        ],
+        "answer": "Francia"
+    },
+    {
+        "question": "¿Cuál es el lago más grande de América del Sur?",
+        "options": [
+            "Lago Maracaibo",
+            "Lago Titicaca",
+            "Lago Poopó",
+            "Lago Buenos Aires"
+        ],
+        "answer": "Lago Maracaibo"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de fronteras internacionales?",
+        "options": [
+            "China",
+            "Rusia",
+            "Brasil",
+            "Francia"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "¿Cuál es el punto más alto de la Antártida?",
+        "options": [
+            "Monte Vinson",
+            "Monte Erebus",
+            "Monte Terror",
+            "Pico Gardner"
+        ],
+        "answer": "Monte Vinson"
+    },
+    {
+        "question": "¿Qué país está dividido por el Trópico de Capricornio?",
+        "options": [
+            "Brasil",
+            "Argentina",
+            "Chile",
+            "Todos los anteriores"
+        ],
+        "answer": "Todos los anteriores"
+    },
+    {
+        "question": "¿Cuál es el país más densamente poblado del mundo (excluyendo microestados)?",
+        "options": [
+            "Bangladesh",
+            "Taiwán",
+            "Corea del Sur",
+            "Líbano"
+        ],
+        "answer": "Bangladesh"
+    },
+    {
+        "question": "¿Qué cordillera separa Asia de Europa?",
+        "options": [
+            "Montes Urales",
+            "Cáucaso",
+            "Himalaya",
+            "Alpes"
+        ],
+        "answer": "Montes Urales"
+    },
+    {
+        "question": "¿Cuál es el país más antiguo de Asia?",
+        "options": [
+            "Japón",
+            "China",
+            "Vietnam",
+            "Corea"
+        ],
+        "answer": "Japón"
+    },
+    {
+        "question": "¿Qué país tiene la línea costera más larga del mundo?",
+        "options": [
+            "Canadá",
+            "Indonesia",
+            "Noruega",
+            "Rusia"
+        ],
+        "answer": "Canadá"
+    },
+    {
+        "question": "¿Cuál es el único país que limita con Dinamarca?",
+        "options": [
+            "Alemania",
+            "Suecia",
+            "Noruega",
+            "Polonia"
+        ],
+        "answer": "Alemania"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de lagos del mundo?",
+        "options": [
+            "Canadá",
+            "Rusia",
+            "Estados Unidos",
+            "Finlandia"
+        ],
+        "answer": "Canadá"
+    },
+    {
+        "question": "¿Cuál es el estado más grande de Estados Unidos por área total (incluyendo agua)?",
+        "options": [
+            "Alaska",
+            "Texas",
+            "California",
+            "Montana"
+        ],
+        "answer": "Alaska"
+    },
+    {
+        "question": "¿Qué país tiene el punto más bajo de África?",
+        "options": [
+            "Yibuti",
+            "Egipto",
+            "Etiopía",
+            "Tanzania"
+        ],
+        "answer": "Yibuti"
+    },
+    {
+        "question": "¿Cuál es el único país que limita con Mónaco?",
+        "options": [
+            "Francia",
+            "Italia",
+            "España",
+            "Suiza"
+        ],
+        "answer": "Francia"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de islas en el mundo?",
+        "options": [
+            "Suecia",
+            "Noruega",
+            "Finlandia",
+            "Indonesia"
+        ],
+        "answer": "Suecia"
+    },
+    {
+        "question": "¿Cuál es el único país que comparte frontera con Portugal?",
+        "options": [
+            "España",
+            "Francia",
+            "Andorra",
+            "Marruecos"
+        ],
+        "answer": "España"
+    },
+    {
+        "question": "¿Qué país tiene territorios en tres continentes?",
+        "options": [
+            "Rusia",
+            "Francia",
+            "Estados Unidos",
+            "Reino Unido"
+        ],
+        "answer": "Francia"
+    },
+    {
+        "question": "¿Cuál es el país más al norte de África?",
+        "options": [
+            "Túnez",
+            "Marruecos",
+            "Argelia",
+            "Libia"
+        ],
+        "answer": "Túnez"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de glaciares en Europa?",
+        "options": [
+            "Noruega",
+            "Islandia",
+            "Suiza",
+            "Austria"
+        ],
+        "answer": "Islandia"
+    },
+    {
+        "question": "¿Cuál es el único país que limita con San Marino?",
+        "options": [
+            "Italia",
+            "Francia",
+            "Suiza",
+            "Austria"
+        ],
+        "answer": "Italia"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de volcanes activos?",
+        "options": [
+            "Indonesia",
+            "Japón",
+            "Estados Unidos",
+            "Chile"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Cuál es el segundo país más grande de África?",
+        "options": [
+            "República Democrática del Congo",
+            "Argelia",
+            "Sudán",
+            "Libia"
+        ],
+        "answer": "República Democrática del Congo"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de sitios Patrimonio de la Humanidad?",
+        "options": [
+            "Italia",
+            "China",
+            "España",
+            "Francia"
+        ],
+        "answer": "Italia"
+    },
+    {
+        "question": "¿Cuál es el país más al sur de América Central?",
+        "options": [
+            "Panamá",
+            "Costa Rica",
+            "Nicaragua",
+            "Honduras"
+        ],
+        "answer": "Panamá"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de zonas horarias?",
+        "options": [
+            "Francia",
+            "Rusia",
+            "Estados Unidos",
+            "Reino Unido"
+        ],
+        "answer": "Francia"
+    },
+    {
+        "question": "¿Cuál es el único país que limita con Liechtenstein?",
+        "options": [
+            "Suiza y Austria",
+            "Suiza y Alemania",
+            "Austria y Alemania",
+            "Italia y Suiza"
+        ],
+        "answer": "Suiza y Austria"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de ríos navegables?",
+        "options": [
+            "Brasil",
+            "China",
+            "Estados Unidos",
+            "Rusia"
+        ],
+        "answer": "Brasil"
+    },
+    {
+        "question": "¿Cuál es el punto más alto de Oceanía?",
+        "options": [
+            "Puncak Jaya",
+            "Monte Cook",
+            "Monte Wilhelm",
+            "Monte Kosciuszko"
+        ],
+        "answer": "Puncak Jaya"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de fronteras con otros países en África?",
+        "options": [
+            "República Democrática del Congo",
+            "Sudán",
+            "Zambia",
+            "República Centroafricana"
+        ],
+        "answer": "República Democrática del Congo"
+    },
+    {
+        "question": "¿Cuál es el único país que limita con Andorra?",
+        "options": [
+            "España y Francia",
+            "España y Portugal",
+            "Francia y Italia",
+            "España e Italia"
+        ],
+        "answer": "España y Francia"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de islas habitadas?",
+        "options": [
+            "Indonesia",
+            "Filipinas",
+            "Japón",
+            "Grecia"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Cuál es el país más occidental de América del Sur?",
+        "options": [
+            "Chile",
+            "Perú",
+            "Ecuador",
+            "Colombia"
+        ],
+        "answer": "Chile"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de sitios naturales Patrimonio de la Humanidad?",
+        "options": [
+            "China",
+            "Australia",
+            "Estados Unidos",
+            "Brasil"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "¿Cuál es el único país que limita con Bután?",
+        "options": [
+            "India y China",
+            "India y Nepal",
+            "China y Nepal",
+            "India y Bangladesh"
+        ],
+        "answer": "India y China"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de islas deshabitadas?",
+        "options": [
+            "Noruega",
+            "Canadá",
+            "Rusia",
+            "Australia"
+        ],
+        "answer": "Noruega"
+    },
+    {
+        "question": "¿Cuál es el punto más alto de la Unión Europea?",
+        "options": [
+            "Mont Blanc",
+            "Monte Rosa",
+            "Mulhacén",
+            "Monte Etna"
+        ],
+        "answer": "Mont Blanc"
+    },
+    {
+        "question": "¿Qué país tiene más kilometraje de ríos?",
+        "options": [
+            "Rusia",
+            "China",
+            "Brasil",
+            "Estados Unidos"
+        ],
+        "answer": "Rusia"
+    },
+    {
+        "question": "¿Cuál es el país con más fronteras en Europa?",
+        "options": [
+            "Alemania",
+            "Francia",
+            "Rusia",
+            "Austria"
+        ],
+        "answer": "Alemania"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de parques nacionales?",
+        "options": [
+            "Estados Unidos",
+            "Australia",
+            "Brasil",
+            "China"
+        ],
+        "answer": "Estados Unidos"
+    },
+    {
+        "question": "¿Cuál es el lago más profundo de América?",
+        "options": [
+            "Gran Lago del Oso",
+            "Lago Superior",
+            "Lago Michigan",
+            "Lago Great Slave"
+        ],
+        "answer": "Gran Lago del Oso"
+    },
+    {
+        "question": "¿Qué país tiene la mayor diversidad de climas?",
+        "options": [
+            "Brasil",
+            "China",
+            "Estados Unidos",
+            "Rusia"
+        ],
+        "answer": "Brasil"
+    },
+    {
+        "question": "¿Cuál es la meseta más alta del mundo?",
+        "options": [
+            "Meseta del Tíbet",
+            "Meseta del Altiplano",
+            "Meseta del Decán",
+            "Meseta de Anatolia"
+        ],
+        "answer": "Meseta del Tíbet"
+    },
+    {
+        "question": "¿Qué mar separa Turquía de Grecia?",
+        "options": [
+            "Mar Egeo",
+            "Mar Jónico",
+            "Mar de Mármara",
+            "Mar Negro"
+        ],
+        "answer": "Mar Egeo"
+    },
+    {
+        "question": "¿Cuál es el delta más grande del mundo?",
+        "options": [
+            "Delta del Ganges-Brahmaputra",
+            "Delta del Nilo",
+            "Delta del Mississippi",
+            "Delta del Amazonas"
+        ],
+        "answer": "Delta del Ganges-Brahmaputra"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de terremotos al año?",
+        "options": [
+            "Indonesia",
+            "Japón",
+            "Chile",
+            "Filipinas"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Cuál es el volcán activo más alto de Europa?",
+        "options": [
+            "Monte Etna",
+            "Vesubio",
+            "Stromboli",
+            "Monte Blanco"
+        ],
+        "answer": "Monte Etna"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de geiseres?",
+        "options": [
+            "Estados Unidos",
+            "Islandia",
+            "Nueva Zelanda",
+            "Rusia"
+        ],
+        "answer": "Estados Unidos"
+    },
+    {
+        "question": "¿Cuál es la mayor isla del Mediterráneo?",
+        "options": [
+            "Sicilia",
+            "Cerdeña",
+            "Creta",
+            "Chipre"
+        ],
+        "answer": "Sicilia"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de fiordos?",
+        "options": [
+            "Noruega",
+            "Nueva Zelanda",
+            "Chile",
+            "Canadá"
+        ],
+        "answer": "Noruega"
+    },
+    {
+        "question": "¿Cuál es el desierto más frío del mundo?",
+        "options": [
+            "Desierto de Gobi",
+            "Desierto de Atacama",
+            "Desierto del Sahara",
+            "Desierto de Mojave"
+        ],
+        "answer": "Desierto de Gobi"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de lagos salados?",
+        "options": [
+            "Argentina",
+            "Bolivia",
+            "Chile",
+            "Estados Unidos"
+        ],
+        "answer": "Argentina"
+    },
+    {
+        "question": "¿Cuál es la falla geológica más larga del mundo?",
+        "options": [
+            "Falla de San Andrés",
+            "Falla Alpina",
+            "Falla del Himalaya",
+            "Falla de Anatolia"
+        ],
+        "answer": "Falla de San Andrés"
+    },
+    {
+        "question": "¿Qué país tiene la mayor extensión de manglares?",
+        "options": [
+            "Indonesia",
+            "Brasil",
+            "Australia",
+            "India"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Cuál es el cañón más profundo de Europa?",
+        "options": [
+            "Cañón del Tara",
+            "Garganta del Verdon",
+            "Cañón de Vikos",
+            "Cañón de Ordesa"
+        ],
+        "answer": "Cañón del Tara"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de islas artificiales?",
+        "options": [
+            "Emiratos Árabes Unidos",
+            "China",
+            "Japón",
+            "Países Bajos"
+        ],
+        "answer": "Emiratos Árabes Unidos"
+    },
+    {
+        "question": "¿Cuál es la cordillera submarina más larga?",
+        "options": [
+            "Dorsal Mesoatlántica",
+            "Dorsal del Pacífico Oriental",
+            "Dorsal India",
+            "Dorsal de Reykjanes"
+        ],
+        "answer": "Dorsal Mesoatlántica"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de glaciares tropicales?",
+        "options": [
+            "Perú",
+            "Ecuador",
+            "Bolivia",
+            "Colombia"
+        ],
+        "answer": "Perú"
+    },
+    {
+        "question": "¿Cuál es el bosque tropical más grande fuera del Amazonas?",
+        "options": [
+            "Cuenca del Congo",
+            "Selva de Daintree",
+            "Bosque de Sumatra",
+            "Selva Maya"
+        ],
+        "answer": "Cuenca del Congo"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de arrecifes de coral?",
+        "options": [
+            "Indonesia",
+            "Australia",
+            "Filipinas",
+            "Maldivas"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Cuál es el lago más alto navegable del mundo?",
+        "options": [
+            "Lago Titicaca",
+            "Lago Pangong",
+            "Lago Nam",
+            "Lago Manasarovar"
+        ],
+        "answer": "Lago Titicaca"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de ríos subterráneos?",
+        "options": [
+            "México",
+            "Vietnam",
+            "Filipinas",
+            "Brasil"
+        ],
+        "answer": "México"
+    },
+    {
+        "question": "¿Cuál es el delta más antiguo del mundo?",
+        "options": [
+            "Delta del Nilo",
+            "Delta del Yangtsé",
+            "Delta del Mekong",
+            "Delta del Ganges"
+        ],
+        "answer": "Delta del Nilo"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de cenotes?",
+        "options": [
+            "México",
+            "Guatemala",
+            "Belice",
+            "Cuba"
+        ],
+        "answer": "México"
+    },
+    {
+        "question": "¿Cuál es el lago salado más grande de Europa?",
+        "options": [
+            "Lago Elton",
+            "Mar Caspio",
+            "Mar Muerto",
+            "Lago Van"
+        ],
+        "answer": "Lago Elton"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de cascadas?",
+        "options": [
+            "Noruega",
+            "Nueva Zelanda",
+            "Islandia",
+            "Canadá"
+        ],
+        "answer": "Noruega"
+    },
+    {
+        "question": "¿Cuál es la isla más grande del Caribe?",
+        "options": [
+            "Cuba",
+            "Jamaica",
+            "Puerto Rico",
+            "Haití"
+        ],
+        "answer": "Cuba"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de géiseres?",
+        "options": [
+            "Estados Unidos",
+            "Islandia",
+            "Nueva Zelanda",
+            "Rusia"
+        ],
+        "answer": "Estados Unidos"
+    },
+    {
+        "question": "¿Cuál es el río más contaminado del mundo?",
+        "options": [
+            "Río Citarum",
+            "Río Ganges",
+            "Río Amarillo",
+            "Río Marilao"
+        ],
+        "answer": "Río Citarum"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de lagos volcánicos?",
+        "options": [
+            "Filipinas",
+            "Indonesia",
+            "Japón",
+            "Nueva Zelanda"
+        ],
+        "answer": "Filipinas"
+    },
+    {
+        "question": "¿Cuál es el desierto más alto del mundo?",
+        "options": [
+            "Desierto de Atacama",
+            "Desierto del Tíbet",
+            "Desierto de Mojave",
+            "Desierto de Gobi"
+        ],
+        "answer": "Desierto del Tíbet"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de cuevas de hielo?",
+        "options": [
+            "Austria",
+            "Suiza",
+            "Noruega",
+            "Islandia"
+        ],
+        "answer": "Austria"
+    },
+    {
+        "question": "¿Cuál es la península más grande de Europa?",
+        "options": [
+            "Península Escandinava",
+            "Península Ibérica",
+            "Península Itálica",
+            "Península Balcánica"
+        ],
+        "answer": "Península Escandinava"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de cráteres de impacto?",
+        "options": [
+            "Canadá",
+            "Australia",
+            "Rusia",
+            "Estados Unidos"
+        ],
+        "answer": "Canadá"
+    },
+    {
+        "question": "¿Cuál es el archipiélago más grande de Europa?",
+        "options": [
+            "Svalbard",
+            "Azores",
+            "Cícladas",
+            "Islas Feroe"
+        ],
+        "answer": "Svalbard"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de cataratas?",
+        "options": [
+            "Venezuela",
+            "Brasil",
+            "Argentina",
+            "Colombia"
+        ],
+        "answer": "Venezuela"
+    },
+    {
+        "question": "¿Cuál es el pantanal más grande del mundo?",
+        "options": [
+            "Pantanal Brasileño",
+            "Everglades",
+            "Delta del Okavango",
+            "Sundarbans"
+        ],
+        "answer": "Pantanal Brasileño"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de montañas sobre 8000 metros?",
+        "options": [
+            "Nepal",
+            "China",
+            "Pakistán",
+            "India"
+        ],
+        "answer": "Nepal"
+    },
+    {
+        "question": "¿Cuál es el río más ancho del mundo?",
+        "options": [
+            "Río de la Plata",
+            "Río Amazonas",
+            "Río Congo",
+            "Río Yangtsé"
+        ],
+        "answer": "Río de la Plata"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de salares?",
+        "options": [
+            "Bolivia",
+            "Chile",
+            "Argentina",
+            "Perú"
+        ],
+        "answer": "Bolivia"
+    },
+    {
+        "question": "¿Cuál es la selva más grande de Centroamérica?",
+        "options": [
+            "Maya",
+            "Darién",
+            "Mosquitia",
+            "Lacandona"
+        ],
+        "answer": "Maya"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de volcanes submarinos?",
+        "options": [
+            "Indonesia",
+            "Japón",
+            "Nueva Zelanda",
+            "Estados Unidos"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Cuál es el canal más largo del mundo?",
+        "options": [
+            "Gran Canal de China",
+            "Canal de Suez",
+            "Canal de Panamá",
+            "Canal de Kiel"
+        ],
+        "answer": "Gran Canal de China"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de bosques petrificados?",
+        "options": [
+            "Argentina",
+            "Estados Unidos",
+            "Egipto",
+            "Australia"
+        ],
+        "answer": "Argentina"
+    },
+    {
+        "question": "¿Cuál es el sistema de cuevas más largo de Asia?",
+        "options": [
+            "Son Doong",
+            "Clearwater Cave",
+            "Tham Luang",
+            "Shuanghe"
+        ],
+        "answer": "Shuanghe"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de aguas termales?",
+        "options": [
+            "Japón",
+            "Islandia",
+            "Nueva Zelanda",
+            "Hungría"
+        ],
+        "answer": "Japón"
+    },
+    {
+        "question": "¿Cuál es el lago más profundo de Europa?",
+        "options": [
+            "Lago Hornindalsvatnet",
+            "Lago Como",
+            "Lago Maggiore",
+            "Lago Ness"
+        ],
+        "answer": "Lago Hornindalsvatnet"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de dunas de arena?",
+        "options": [
+            "Namibia",
+            "Arabia Saudita",
+            "Egipto",
+            "Argelia"
+        ],
+        "answer": "Namibia"
+    },
+    {
+        "question": "¿Cuál es el arrecife de coral más grande del Atlántico?",
+        "options": [
+            "Arrecife Mesoamericano",
+            "Arrecife de Florida",
+            "Arrecife de Abrolhos",
+            "Arrecife de Bermudas"
+        ],
+        "answer": "Arrecife Mesoamericano"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de islas volcánicas?",
+        "options": [
+            "Indonesia",
+            "Japón",
+            "Filipinas",
+            "Nueva Zelanda"
+        ],
+        "answer": "Indonesia"
+    },
+    {
+        "question": "¿Cuál es el valle glaciar más largo del mundo?",
+        "options": [
+            "Valle de Baltoro",
+            "Valle de Yosemite",
+            "Valle de Nubra",
+            "Valle de Chamonix"
+        ],
+        "answer": "Valle de Baltoro"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de lagos cratéricos?",
+        "options": [
+            "Etiopía",
+            "Indonesia",
+            "Camerún",
+            "Nicaragua"
+        ],
+        "answer": "Etiopía"
+    },
+    {
+        "question": "¿Cuál es el delta más joven del mundo?",
+        "options": [
+            "Delta del Po",
+            "Delta del Misisipi",
+            "Delta del Ebro",
+            "Delta del Danubio"
+        ],
+        "answer": "Delta del Po"
+    },
+    {
+        "question": "¿Qué país tiene la mayor cantidad de glaciares rocosos?",
+        "options": [
+            "Chile",
+            "Argentina",
+            "Perú",
+            "Bolivia"
+        ],
+        "answer": "Chile"
+    },
+    {
+        "question": "¿Cuál es la fosa oceánica más profunda del Océano Índico?",
+        "options": [
+            "Fosa de Java",
+            "Fosa de Diamantina",
+            "Fosa de Sunda",
+            "Fosa de Diamantina"
+        ],
+        "answer": "Fosa de Java"
+    }
+]
