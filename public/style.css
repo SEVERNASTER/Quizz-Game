@@ -279,7 +279,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
 .categories {
     height: 100%;
     width: 100%;
-    transform: rotateY(0deg);/*cambiar esto*/
+    transform: rotateY(180deg);/*cambiar esto*/
     border: solid #fff;
     display: grid;
     grid-template-rows: 20% 80%;
@@ -378,7 +378,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     --diff-width: 100%;
     width: var(--diff-width);
     height: 100%;
-    transform: rotateY(0deg);
+    transform: rotateY(180deg);
     background-color: #000;
     display: grid;
     grid-template-rows: 20% 80%;
