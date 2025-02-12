@@ -562,13 +562,14 @@ function restartFinalScreen() {
 }
 
 function restartGameVariables() {
-    remainingQuestions = 3;
+    remainingQuestions = totalQuestions;
     time = 10;
     currentCard = null;
     currentDimensions = null;
     intervalID = null;
     assertedQuestions = 0;
     counter.innerHTML = '1';
+    finalPhrase.textContent = '';
 }
 
 
