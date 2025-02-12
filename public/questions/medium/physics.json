@@ -1,0 +1,472 @@
+[
+    {
+        "question": "¿Qué establece la segunda ley de Newton?",
+        "options": [
+            "La fuerza es igual a la masa por la aceleración",
+            "Todo cuerpo en reposo permanece en reposo",
+            "A toda acción corresponde una reacción",
+            "La energía no se crea ni se destruye"
+        ],
+        "answer": "La fuerza es igual a la masa por la aceleración"
+    },
+    {
+        "question": "¿Qué sucede con la energía mecánica de un objeto en caída libre sin resistencia del aire?",
+        "options": [
+            "Se conserva",
+            "Aumenta indefinidamente",
+            "Se convierte completamente en calor",
+            "Disminuye hasta desaparecer"
+        ],
+        "answer": "Se conserva"
+    },
+    {
+        "question": "¿Cuál es la unidad de medida del trabajo en el Sistema Internacional?",
+        "options": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Pascal"
+        ],
+        "answer": "Joule"
+    },
+    {
+        "question": "¿Cuál es la ecuación del movimiento rectilíneo uniformemente acelerado?",
+        "options": [
+            "x = x0 + v0t + ½ at²",
+            "F = ma",
+            "P = mv",
+            "W = Fd"
+        ],
+        "answer": "x = x0 + v0t + ½ at²"
+    },
+    {
+        "question": "¿Cuál de las siguientes magnitudes es un vector?",
+        "options": [
+            "Velocidad",
+            "Masa",
+            "Energía",
+            "Temperatura"
+        ],
+        "answer": "Velocidad"
+    },
+    {
+        "question": "¿Qué sucede cuando un objeto sumergido en un fluido tiene una densidad menor que el fluido?",
+        "options": [
+            "Flota",
+            "Se hunde",
+            "Permanece en equilibrio",
+            "Depende de su forma"
+        ],
+        "answer": "Flota"
+    },
+    {
+        "question": "¿Qué establece el principio de conservación del momento lineal?",
+        "options": [
+            "El momento lineal total de un sistema aislado se mantiene constante",
+            "La energía no se crea ni se destruye",
+            "El momento lineal siempre aumenta",
+            "El momento lineal depende de la temperatura"
+        ],
+        "answer": "El momento lineal total de un sistema aislado se mantiene constante"
+    },
+    {
+        "question": "¿Cómo se define el trabajo en términos de fuerza y desplazamiento?",
+        "options": [
+            "Es el producto escalar entre la fuerza y el desplazamiento",
+            "Es la fuerza aplicada por el tiempo",
+            "Es la variación de la aceleración en un intervalo de tiempo",
+            "Es la fuerza perpendicular al desplazamiento"
+        ],
+        "answer": "Es el producto escalar entre la fuerza y el desplazamiento"
+    },
+    {
+        "question": "¿Cuál es el valor de la aceleración de la gravedad en la Tierra?",
+        "options": [
+            "9.8 m/s²",
+            "10 m/s²",
+            "1.62 m/s²",
+            "3.7 m/s²"
+        ],
+        "answer": "9.8 m/s²"
+    },
+    {
+        "question": "Si un objeto se mueve con velocidad constante en línea recta, ¿qué se puede decir de la fuerza neta sobre él?",
+        "options": [
+            "Es cero",
+            "Es mayor que cero",
+            "Es negativa",
+            "Depende de su peso"
+        ],
+        "answer": "Es cero"
+    },
+    {
+        "question": "¿Qué tipo de energía tiene un objeto en movimiento?",
+        "options": [
+            "Energía cinética",
+            "Energía potencial",
+            "Energía térmica",
+            "Energía eléctrica"
+        ],
+        "answer": "Energía cinética"
+    },
+    {
+        "question": "¿Qué principio establece la ley de Hooke?",
+        "options": [
+            "La fuerza elástica es proporcional a la deformación",
+            "La energía no se crea ni se destruye",
+            "La presión es constante en un fluido",
+            "El trabajo realizado es igual a la fuerza por el desplazamiento"
+        ],
+        "answer": "La fuerza elástica es proporcional a la deformación"
+    },
+    {
+        "question": "¿Qué es el trabajo en física?",
+        "options": [
+            "La cantidad de movimiento de un objeto",
+            "La transferencia de energía mediante una fuerza",
+            "El cambio de temperatura de un objeto",
+            "La velocidad de un objeto"
+        ],
+        "answer": "La transferencia de energía mediante una fuerza"
+    },
+    {
+        "question": "¿Qué es la ley de conservación de la energía?",
+        "options": [
+            "La energía no se puede crear ni destruir, solo se puede transformar",
+            "La energía de un sistema siempre aumenta",
+            "La energía de un sistema siempre disminuye",
+            "La energía se crea en todo proceso"
+        ],
+        "answer": "La energía no se puede crear ni destruir, solo se puede transformar"
+    },
+    {
+        "question": "¿Qué es el principio de Pascal?",
+        "options": [
+            "La presión aplicada sobre un fluido se transmite por igual en todas direcciones",
+            "El volumen de un gas es directamente proporcional a su temperatura",
+            "La energía interna de un sistema se conserva",
+            "El trabajo es la fuerza por el tiempo"
+        ],
+        "answer": "La presión aplicada sobre un fluido se transmite por igual en todas direcciones"
+    },
+    {
+        "question": "¿Qué es la velocidad de escape?",
+        "options": [
+            "La velocidad mínima para que un objeto escape de la atracción gravitatoria de un planeta",
+            "La velocidad máxima a la que puede viajar un objeto",
+            "La velocidad de un objeto en caída libre",
+            "La velocidad de un objeto en movimiento rectilíneo"
+        ],
+        "answer": "La velocidad mínima para que un objeto escape de la atracción gravitatoria de un planeta"
+    },
+    {
+        "question": "¿Cuál es la ley de Coulomb?",
+        "options": [
+            "La fuerza eléctrica es directamente proporcional al producto de las cargas e inversamente proporcional al cuadrado de la distancia",
+            "La fuerza magnética es directamente proporcional a la carga",
+            "La energía potencial de un cuerpo es proporcional a su masa",
+            "La gravedad es directamente proporcional a la masa de los objetos"
+        ],
+        "answer": "La fuerza eléctrica es directamente proporcional al producto de las cargas e inversamente proporcional al cuadrado de la distancia"
+    },
+    {
+        "question": "¿Cómo se llama la energía que está almacenada en los cuerpos debido a su posición?",
+        "options": [
+            "Energía potencial",
+            "Energía cinética",
+            "Energía térmica",
+            "Energía eléctrica"
+        ],
+        "answer": "Energía potencial"
+    },
+    {
+        "question": "¿Qué se entiende por la ley de la inercia?",
+        "options": [
+            "Todo cuerpo permanece en reposo o en movimiento uniforme, a menos que una fuerza externa actúe sobre él",
+            "La aceleración es proporcional a la fuerza",
+            "La energía se conserva en todo proceso",
+            "El momento es constante"
+        ],
+        "answer": "Todo cuerpo permanece en reposo o en movimiento uniforme, a menos que una fuerza externa actúe sobre él"
+    },
+    {
+        "question": "¿Qué es la energía térmica?",
+        "options": [
+            "La energía asociada al movimiento de las partículas de un cuerpo",
+            "La energía asociada a la velocidad de un objeto",
+            "La energía almacenada en un cuerpo por su forma",
+            "La energía que se transfiere a través de un trabajo mecánico"
+        ],
+        "answer": "La energía asociada al movimiento de las partículas de un cuerpo"
+    },
+    {
+        "question": "¿Qué tipo de onda es la luz?",
+        "options": [
+            "Onda electromagnética",
+            "Onda longitudinal",
+            "Onda transversal",
+            "Onda mecánica"
+        ],
+        "answer": "Onda electromagnética"
+    },
+    {
+        "question": "¿Cómo se define el momento de una fuerza?",
+        "options": [
+            "El producto de la fuerza por la distancia perpendicular desde el punto de aplicación hasta el eje de rotación",
+            "La variación de la velocidad con respecto al tiempo",
+            "El producto de la masa por la aceleración",
+            "El cambio en la energía de un sistema"
+        ],
+        "answer": "El producto de la fuerza por la distancia perpendicular desde el punto de aplicación hasta el eje de rotación"
+    },
+    {
+        "question": "¿Qué es la ley de los gases ideales?",
+        "options": [
+            "El volumen de un gas es directamente proporcional a su temperatura y inversamente proporcional a su presión",
+            "La presión de un gas es directamente proporcional a su temperatura",
+            "La cantidad de gas es directamente proporcional a su volumen",
+            "La temperatura y presión de un gas son inversamente proporcionales"
+        ],
+        "answer": "El volumen de un gas es directamente proporcional a su temperatura y inversamente proporcional a su presión"
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre la energía potencial y la cinética?",
+        "options": [
+            "La energía potencial depende de la posición de un objeto, mientras que la cinética depende de su movimiento",
+            "La energía cinética es más potente que la energía potencial",
+            "La energía potencial se usa en procesos químicos, y la cinética no",
+            "La energía cinética se conserva, pero la potencial no"
+        ],
+        "answer": "La energía potencial depende de la posición de un objeto, mientras que la cinética depende de su movimiento"
+    },
+    {
+        "question": "¿Qué ocurre cuando un objeto se mueve a la velocidad de la luz?",
+        "options": [
+            "Su masa se vuelve infinita",
+            "Su energía se vuelve nula",
+            "Su tiempo se acelera",
+            "Su volumen disminuye"
+        ],
+        "answer": "Su masa se vuelve infinita"
+    },
+    {
+        "question": "¿Cuál es el principio de Arquímedes?",
+        "options": [
+            "Un objeto sumergido en un fluido experimenta una fuerza hacia arriba igual al peso del fluido desplazado",
+            "La velocidad de un objeto es constante si no hay fuerzas actuando sobre él",
+            "La temperatura es directamente proporcional al volumen de un gas",
+            "La presión es inversamente proporcional al volumen de un gas"
+        ],
+        "answer": "Un objeto sumergido en un fluido experimenta una fuerza hacia arriba igual al peso del fluido desplazado"
+    },
+    {
+        "question": "¿Cómo se llama la unidad de medida de la potencia?",
+        "options": [
+            "Watt",
+            "Joule",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Watt"
+    },
+    {
+        "question": "¿Qué es la ley de conservación de la carga eléctrica?",
+        "options": [
+            "La carga total de un sistema aislado se mantiene constante",
+            "La carga eléctrica se convierte completamente en energía",
+            "Las cargas se atraen o se repelen según su magnitud",
+            "Las cargas negativas siempre se disipan en el tiempo"
+        ],
+        "answer": "La carga total de un sistema aislado se mantiene constante"
+    },
+    {
+        "question": "¿Cuál es la fórmula para calcular la energía cinética?",
+        "options": [
+            "E = ½ mv²",
+            "E = mv",
+            "E = mgh",
+            "E = ½ kx²"
+        ],
+        "answer": "E = ½ mv²"
+    },
+    {
+        "question": "¿Qué es la ley de Ohm?",
+        "options": [
+            "La corriente es directamente proporcional a la tensión e inversamente proporcional a la resistencia",
+            "La resistencia es directamente proporcional a la corriente",
+            "La potencia es inversamente proporcional al voltaje",
+            "La corriente es inversamente proporcional a la resistencia"
+        ],
+        "answer": "La corriente es directamente proporcional a la tensión e inversamente proporcional a la resistencia"
+    },
+    {
+        "question": "¿Qué es el campo gravitacional?",
+        "options": [
+            "La región del espacio donde un objeto experimenta una fuerza debido a la gravedad",
+            "La región donde los objetos se repelen debido a su masa",
+            "La región donde los campos magnéticos se cancelan",
+            "La región donde no hay fuerzas de atracción"
+        ],
+        "answer": "La región del espacio donde un objeto experimenta una fuerza debido a la gravedad"
+    },
+    {
+        "question": "¿Qué es la presión?",
+        "options": [
+            "La fuerza ejercida por unidad de área",
+            "La cantidad de energía por unidad de volumen",
+            "La cantidad de energía por unidad de tiempo",
+            "La cantidad de calor por unidad de masa"
+        ],
+        "answer": "La fuerza ejercida por unidad de área"
+    },
+    {
+        "question": "¿Qué es el ciclo termodinámico?",
+        "options": [
+            "Un proceso que ocurre en una máquina térmica donde la energía se convierte de una forma a otra",
+            "La transferencia de calor entre dos cuerpos",
+            "El proceso de expansión y contracción de un gas",
+            "El proceso donde el volumen de un gas es constante"
+        ],
+        "answer": "Un proceso que ocurre en una máquina térmica donde la energía se convierte de una forma a otra"
+    },
+    {
+        "question": "¿Qué es la ley de la gravitación universal?",
+        "options": [
+            "Cada cuerpo en el universo atrae a los demás con una fuerza proporcional al producto de sus masas e inversamente proporcional al cuadrado de la distancia entre ellos",
+            "La gravedad es constante en todo el universo",
+            "La fuerza gravitacional depende del volumen de los cuerpos",
+            "Los cuerpos más grandes tienen una atracción más débil"
+        ],
+        "answer": "Cada cuerpo en el universo atrae a los demás con una fuerza proporcional al producto de sus masas e inversamente proporcional al cuadrado de la distancia entre ellos"
+    },
+    {
+        "question": "¿Qué es la ley de Lenz?",
+        "options": [
+            "La corriente inducida en un circuito siempre se opone al cambio que la produce",
+            "La corriente inducida en un circuito siempre es positiva",
+            "El campo magnético siempre es perpendicular a la corriente",
+            "La energía se conserva en todo proceso de inducción"
+        ],
+        "answer": "La corriente inducida en un circuito siempre se opone al cambio que la produce"
+    },
+    {
+        "question": "¿Qué es un campo magnético?",
+        "options": [
+            "Una región del espacio donde se experimentan fuerzas magnéticas",
+            "Una región del espacio donde no existen fuerzas eléctricas",
+            "Una fuerza que actúa solo sobre cargas negativas",
+            "Una forma de energía que no requiere un medio para propagarse"
+        ],
+        "answer": "Una región del espacio donde se experimentan fuerzas magnéticas"
+    },
+    {
+        "question": "¿Cómo se define la energía potencial gravitatoria?",
+        "options": [
+            "La energía almacenada en un objeto debido a su posición en un campo gravitacional",
+            "La energía que tiene un cuerpo debido a su velocidad",
+            "La energía contenida en un resorte comprimido",
+            "La energía almacenada debido al calor"
+        ],
+        "answer": "La energía almacenada en un objeto debido a su posición en un campo gravitacional"
+    },
+    {
+        "question": "¿Qué es la resistencia eléctrica?",
+        "options": [
+            "La oposición al paso de la corriente en un conductor",
+            "La fuerza que atrae a los electrones",
+            "La capacidad de un material para almacenar energía",
+            "La cantidad de electricidad almacenada en un condensador"
+        ],
+        "answer": "La oposición al paso de la corriente en un conductor"
+    },
+    {
+        "question": "¿Qué es la velocidad de la luz en el vacío?",
+        "options": [
+            "300,000 km/s",
+            "150,000 km/s",
+            "600,000 km/s",
+            "1,000,000 km/s"
+        ],
+        "answer": "300,000 km/s"
+    },
+    {
+        "question": "¿Cómo se llama el proceso por el cual un gas se convierte en líquido?",
+        "options": [
+            "Condensación",
+            "Evaporación",
+            "Fusión",
+            "Sublimación"
+        ],
+        "answer": "Condensación"
+    },
+    {
+        "question": "¿Qué es la ley de la conservación del momento angular?",
+        "options": [
+            "El momento angular total de un sistema aislado permanece constante",
+            "El momento angular aumenta con el tiempo",
+            "El momento angular depende de la masa del objeto",
+            "El momento angular es igual al producto de la masa por la velocidad"
+        ],
+        "answer": "El momento angular total de un sistema aislado permanece constante"
+    },
+    {
+        "question": "¿Qué es la ecuación de estado de los gases ideales?",
+        "options": [
+            "PV = nRT",
+            "F = ma",
+            "W = Fd",
+            "E = mc²"
+        ],
+        "answer": "PV = nRT"
+    },
+    {
+        "question": "¿Qué es un calorímetro?",
+        "options": [
+            "Un dispositivo utilizado para medir el calor",
+            "Un dispositivo que mide la temperatura",
+            "Un aparato que mide la masa de un objeto",
+            "Un dispositivo que mide el voltaje"
+        ],
+        "answer": "Un dispositivo utilizado para medir el calor"
+    },
+    {
+        "question": "¿Qué ocurre con la temperatura de un gas cuando se comprime a volumen constante?",
+        "options": [
+            "Aumenta",
+            "Disminuye",
+            "Permanece constante",
+            "Depende del gas"
+        ],
+        "answer": "Aumenta"
+    },
+    {
+        "question": "¿Qué se entiende por un sistema termodinámico cerrado?",
+        "options": [
+            "Un sistema que no intercambia masa con el entorno pero sí energía",
+            "Un sistema que intercambia energía y masa con el entorno",
+            "Un sistema que no intercambia ni masa ni energía",
+            "Un sistema que solo intercambia energía"
+        ],
+        "answer": "Un sistema que no intercambia masa con el entorno pero sí energía"
+    },
+    {
+        "question": "¿Qué sucede cuando un material se calienta?",
+        "options": [
+            "Las partículas del material se mueven más rápido",
+            "Las partículas del material se mueven más lentamente",
+            "El material se vuelve más denso",
+            "El material pierde su energía interna"
+        ],
+        "answer": "Las partículas del material se mueven más rápido"
+    },
+    {
+        "question": "¿Cuál es la unidad de medida de la temperatura en el Sistema Internacional?",
+        "options": [
+            "Kelvin",
+            "Celsius",
+            "Fahrenheit",
+            "Joule"
+        ],
+        "answer": "Kelvin"
+    }
+]

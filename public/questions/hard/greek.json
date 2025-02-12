@@ -1,0 +1,1042 @@
+[
+    {
+        "question": "¿Qué le ocurrió a Glauco después de comer la hierba mágica?",
+        "options": [
+            "Se convirtió en dios marino",
+            "Murió envenenado",
+            "Ganó inmortalidad",
+            "Se volvió loco"
+        ],
+        "answer": "Se convirtió en dios marino"
+    },
+    {
+        "question": "¿Cuál era el nombre de la ninfa que fue transformada en un manantial por Artemisa para escapar de Alfeo?",
+        "options": [
+            "Aretusa",
+            "Dafne",
+            "Eco",
+            "Siringe"
+        ],
+        "answer": "Aretusa"
+    },
+    {
+        "question": "¿Qué héroe fue criado por el centauro Quirón y la ninfa Filira?",
+        "options": [
+            "Aquiles",
+            "Jasón",
+            "Asclepio",
+            "Aristeo"
+        ],
+        "answer": "Aristeo"
+    },
+    {
+        "question": "¿Quién era Briareo?",
+        "options": [
+            "Un hecatónquiro de cien brazos",
+            "Un cíclope",
+            "Un titán",
+            "Un gigante"
+        ],
+        "answer": "Un hecatónquiro de cien brazos"
+    },
+    {
+        "question": "¿Qué don especial tenía Casandra?",
+        "options": [
+            "Profecía verdadera pero nadie le creería",
+            "Podía hablar con los muertos",
+            "Control sobre los elementos",
+            "Inmortalidad"
+        ],
+        "answer": "Profecía verdadera pero nadie le creería"
+    },
+    {
+        "question": "¿Quién era el padre de las Moiras?",
+        "options": [
+            "Érebo",
+            "Zeus",
+            "Cronos",
+            "Caos"
+        ],
+        "answer": "Érebo"
+    },
+    {
+        "question": "¿Qué criatura mítica nació de la sangre de Medusa al ser decapitada?",
+        "options": [
+            "Pegaso y Crisaor",
+            "La Hidra",
+            "El Minotauro",
+            "Cerbero"
+        ],
+        "answer": "Pegaso y Crisaor"
+    },
+    {
+        "question": "¿Cuál era el verdadero nombre de Tiresias antes de su transformación?",
+        "options": [
+            "No se conoce",
+            "Tersites",
+            "Teiresias",
+            "Télefo"
+        ],
+        "answer": "No se conoce"
+    },
+    {
+        "question": "¿Qué dios ayudó a Alcestis a regresar del inframundo?",
+        "options": [
+            "Heracles",
+            "Hermes",
+            "Dioniso",
+            "Apolo"
+        ],
+        "answer": "Heracles"
+    },
+    {
+        "question": "¿Cuál fue el castigo de Sísifo en el Tártaro?",
+        "options": [
+            "Empujar eternamente una roca cuesta arriba",
+            "Ser devorado por buitres",
+            "Morir de sed rodeado de agua",
+            "Girar eternamente en una rueda"
+        ],
+        "answer": "Empujar eternamente una roca cuesta arriba"
+    },
+    {
+        "question": "¿Quién era la madre de Escila antes de su transformación en monstruo?",
+        "options": [
+            "Crateis",
+            "Equidna",
+            "Lamia",
+            "Hécate"
+        ],
+        "answer": "Crateis"
+    },
+    {
+        "question": "¿Qué regalo recibió Midas de Sileno que resultó ser una maldición?",
+        "options": [
+            "El toque de oro",
+            "La inmortalidad",
+            "Orejas de asno",
+            "El don de la profecía"
+        ],
+        "answer": "El toque de oro"
+    },
+    {
+        "question": "¿Cuál era el nombre de la esposa de Orfeo?",
+        "options": [
+            "Eurídice",
+            "Calíope",
+            "Dafne",
+            "Perséfone"
+        ],
+        "answer": "Eurídice"
+    },
+    {
+        "question": "¿Qué héroe fue conocido como 'El que sufre'?",
+        "options": [
+            "Filoctetes",
+            "Prometeo",
+            "Sísifo",
+            "Tántalo"
+        ],
+        "answer": "Filoctetes"
+    },
+    {
+        "question": "¿Quién era el guardián del jardín de las Hespérides?",
+        "options": [
+            "Ladón",
+            "Cerbero",
+            "Hidra",
+            "Pitón"
+        ],
+        "answer": "Ladón"
+    },
+    {
+        "question": "¿Qué héroe mató a las Górgonas?",
+        "options": [
+            "Perseo",
+            "Teseo",
+            "Heracles",
+            "Belerofonte"
+        ],
+        "answer": "Perseo"
+    },
+    {
+        "question": "¿Cuál era el nombre del barquero del inframundo?",
+        "options": [
+            "Caronte",
+            "Flegas",
+            "Tánatos",
+            "Minos"
+        ],
+        "answer": "Caronte"
+    },
+    {
+        "question": "¿Quién era la madre de Helena de Troya?",
+        "options": [
+            "Leda",
+            "Alcmena",
+            "Hécuba",
+            "Clitemnestra"
+        ],
+        "answer": "Leda"
+    },
+    {
+        "question": "¿Qué dios era conocido como 'El que sacude la tierra'?",
+        "options": [
+            "Poseidón",
+            "Zeus",
+            "Hefesto",
+            "Hades"
+        ],
+        "answer": "Poseidón"
+    },
+    {
+        "question": "¿Cuál era el nombre de la esposa de Hefesto?",
+        "options": [
+            "Afrodita",
+            "Atenea",
+            "Hera",
+            "Artemisa"
+        ],
+        "answer": "Afrodita"
+    },
+    {
+        "question": "¿Quién mató a la Quimera?",
+        "options": [
+            "Belerofonte",
+            "Perseo",
+            "Heracles",
+            "Jasón"
+        ],
+        "answer": "Belerofonte"
+    },
+    {
+        "question": "¿Cuál era el nombre del río del olvido en el inframundo?",
+        "options": [
+            "Lete",
+            "Estigia",
+            "Aqueronte",
+            "Cocito"
+        ],
+        "answer": "Lete"
+    },
+    {
+        "question": "¿Quién era el padre de las Grayas?",
+        "options": [
+            "Forcis",
+            "Tifón",
+            "Océano",
+            "Nereo"
+        ],
+        "answer": "Forcis"
+    },
+    {
+        "question": "¿Qué héroe fue conocido como 'El de los pies ligeros'?",
+        "options": [
+            "Aquiles",
+            "Hermes",
+            "Atalanta",
+            "Perseo"
+        ],
+        "answer": "Aquiles"
+    },
+    {
+        "question": "¿Cuál era el nombre de la madre de las Musas?",
+        "options": [
+            "Mnemósine",
+            "Calíope",
+            "Urania",
+            "Terpsícore"
+        ],
+        "answer": "Mnemósine"
+    },
+    {
+        "question": "¿Quién era el dios del viento del norte?",
+        "options": [
+            "Bóreas",
+            "Céfiro",
+            "Euro",
+            "Noto"
+        ],
+        "answer": "Bóreas"
+    },
+    {
+        "question": "¿Qué héroe mató al Minotauro?",
+        "options": [
+            "Teseo",
+            "Perseo",
+            "Heracles",
+            "Jasón"
+        ],
+        "answer": "Teseo"
+    },
+    {
+        "question": "¿Cuál era el nombre de la esposa de Orfeo?",
+        "options": [
+            "Eurídice",
+            "Calíope",
+            "Dafne",
+            "Perséfone"
+        ],
+        "answer": "Eurídice"
+    },
+    {
+        "question": "¿Quién era la madre de Asclepio?",
+        "options": [
+            "Coronis",
+            "Leto",
+            "Maya",
+            "Sémele"
+        ],
+        "answer": "Coronis"
+    },
+    {
+        "question": "¿Qué criatura guardaba el vellocino de oro?",
+        "options": [
+            "Un dragón insomne",
+            "La hidra",
+            "El león de Nemea",
+            "La quimera"
+        ],
+        "answer": "Un dragón insomne"
+    },
+    {
+        "question": "¿Cuál era el nombre del perro de Orión?",
+        "options": [
+            "Sirio",
+            "Argos",
+            "Cerbero",
+            "Ortro"
+        ],
+        "answer": "Sirio"
+    },
+    {
+        "question": "¿Quién era la madre de Perseo?",
+        "options": [
+            "Dánae",
+            "Alcmena",
+            "Leda",
+            "Europa"
+        ],
+        "answer": "Dánae"
+    },
+    {
+        "question": "¿Qué dios era conocido como 'El que lleva la égida'?",
+        "options": [
+            "Zeus",
+            "Ares",
+            "Apolo",
+            "Hefesto"
+        ],
+        "answer": "Zeus"
+    },
+    {
+        "question": "¿Cuál era el nombre de la esposa de Príamo?",
+        "options": [
+            "Hécuba",
+            "Helena",
+            "Andrómaca",
+            "Casandra"
+        ],
+        "answer": "Hécuba"
+    },
+    {
+        "question": "¿Quién mató a la Hidra?",
+        "options": [
+            "Heracles",
+            "Teseo",
+            "Perseo",
+            "Jasón"
+        ],
+        "answer": "Heracles"
+    },
+    {
+        "question": "¿Cuál era el nombre del río del odio en el inframundo?",
+        "options": [
+            "Estigia",
+            "Lete",
+            "Aqueronte",
+            "Cocito"
+        ],
+        "answer": "Estigia"
+    },
+    {
+        "question": "¿Quién era el padre de las Sirenas?",
+        "options": [
+            "Aqueloo",
+            "Poseidón",
+            "Forcis",
+            "Nereo"
+        ],
+        "answer": "Aqueloo"
+    },
+    {
+        "question": "¿Qué héroe fue conocido como 'El de la mirada brillante'?",
+        "options": [
+            "Apolo",
+            "Helios",
+            "Ares",
+            "Hermes"
+        ],
+        "answer": "Apolo"
+    },
+    {
+        "question": "¿Cuál era el nombre de la madre de Pan?",
+        "options": [
+            "Penélope",
+            "Calisto",
+            "Driope",
+            "Oinoe"
+        ],
+        "answer": "Penélope"
+    },
+    {
+        "question": "¿Quién era el dios del viento del oeste?",
+        "options": [
+            "Céfiro",
+            "Bóreas",
+            "Euro",
+            "Noto"
+        ],
+        "answer": "Céfiro"
+    },
+    {
+        "question": "¿Qué héroe mató a la Esfinge?",
+        "options": [
+            "Edipo",
+            "Teseo",
+            "Perseo",
+            "Belerofonte"
+        ],
+        "answer": "Edipo"
+    },
+    {
+        "question": "¿Cuál era el nombre del río del lamento en el inframundo?",
+        "options": [
+            "Cocito",
+            "Lete",
+            "Aqueronte",
+            "Flegetonte"
+        ],
+        "answer": "Cocito"
+    },
+    {
+        "question": "¿Quién era la madre de Orfeo?",
+        "options": [
+            "Calíope",
+            "Clío",
+            "Erato",
+            "Melpómene"
+        ],
+        "answer": "Calíope"
+    },
+    {
+        "question": "¿Qué criatura guardaba el jardín de las Hespérides?",
+        "options": [
+            "Ladón",
+            "Cerbero",
+            "Pitón",
+            "Hidra"
+        ],
+        "answer": "Ladón"
+    },
+    {
+        "question": "¿Cuál era el nombre del perro de Icario?",
+        "options": [
+            "Mera",
+            "Argos",
+            "Ortro",
+            "Lelaps"
+        ],
+        "answer": "Mera"
+    },
+    {
+        "question": "¿Quién era la madre de Tiresias?",
+        "options": [
+            "Cariclo",
+            "Manto",
+            "Ocírroe",
+            "Casandra"
+        ],
+        "answer": "Cariclo"
+    },
+    {
+        "question": "¿Qué dios era conocido como 'El de las sandalias doradas'?",
+        "options": [
+            "Hermes",
+            "Apolo",
+            "Ares",
+            "Dioniso"
+        ],
+        "answer": "Hermes"
+    },
+    {
+        "question": "¿Quién mató al león de Nemea?",
+        "options": [
+            "Heracles",
+            "Teseo",
+            "Perseo",
+            "Jasón"
+        ],
+        "answer": "Heracles"
+    },
+    {
+        "question": "¿Cuál era el nombre del río del fuego en el inframundo?",
+        "options": [
+            "Flegetonte",
+            "Lete",
+            "Aqueronte",
+            "Cocito"
+        ],
+        "answer": "Flegetonte"
+    },
+    {
+        "question": "¿Quién era el padre de Triptólemo?",
+        "options": [
+            "Celeo",
+            "Eumolpo",
+            "Trofonio",
+            "Icario"
+        ],
+        "answer": "Celeo"
+    },
+    {
+        "question": "¿Qué criatura nació de la unión de Pasífae y el toro blanco?",
+        "options": [
+            "El Minotauro",
+            "El Centauro",
+            "La Quimera",
+            "El Grifo"
+        ],
+        "answer": "El Minotauro"
+    },
+    {
+        "question": "¿Cuál era el nombre de la hermana de Procne?",
+        "options": [
+            "Filomela",
+            "Aracne",
+            "Níobe",
+            "Medusa"
+        ],
+        "answer": "Filomela"
+    },
+    {
+        "question": "¿Quién era el dios del viento del este?",
+        "options": [
+            "Euro",
+            "Bóreas",
+            "Céfiro",
+            "Noto"
+        ],
+        "answer": "Euro"
+    },
+    {
+        "question": "¿Cuál era el nombre de la ninfa que fue transformada en laurel?",
+        "options": [
+            "Dafne",
+            "Siringe",
+            "Eco",
+            "Aretusa"
+        ],
+        "answer": "Dafne"
+    },
+    {
+        "question": "¿Quién construyó el laberinto del Minotauro?",
+        "options": [
+            "Dédalo",
+            "Hefesto",
+            "Ícaro",
+            "Epimeteo"
+        ],
+        "answer": "Dédalo"
+    },
+    {
+        "question": "¿Quién era la madre de los Hecatónquiros?",
+        "options": [
+            "Gea",
+            "Rea",
+            "Temis",
+            "Tetis"
+        ],
+        "answer": "Gea"
+    },
+    {
+        "question": "¿Qué profetisa recibió el don de la profecía lamiendo los oídos de serpientes?",
+        "options": [
+            "Melampus",
+            "Casandra",
+            "Calcas",
+            "Manto"
+        ],
+        "answer": "Melampus"
+    },
+    {
+        "question": "¿Cuál era el nombre de la esposa de Protesilao, que convenció a los dioses de dejarlo volver del Hades por un día?",
+        "options": [
+            "Laodamía",
+            "Eurídice",
+            "Alcestis",
+            "Penélope"
+        ],
+        "answer": "Laodamía"
+    },
+    {
+        "question": "¿Qué rey fue castigado a morir de hambre por servir a su propio hijo como comida a los dioses?",
+        "options": [
+            "Licaón",
+            "Tántalo",
+            "Sísifo",
+            "Ixión"
+        ],
+        "answer": "Licaón"
+    },
+    {
+        "question": "¿Quién era la madre de Orfeo?",
+        "options": [
+            "Calíope",
+            "Clío",
+            "Urania",
+            "Terpsícore"
+        ],
+        "answer": "Calíope"
+    },
+    {
+        "question": "¿Qué héroe mató a los pájaros del lago Estínfalo?",
+        "options": [
+            "Heracles",
+            "Perseo",
+            "Belerofonte",
+            "Teseo"
+        ],
+        "answer": "Heracles"
+    },
+    {
+        "question": "¿Cuál era el nombre del único centauro inmortal?",
+        "options": [
+            "Quirón",
+            "Neso",
+            "Folo",
+            "Euritión"
+        ],
+        "answer": "Quirón"
+    },
+    {
+        "question": "¿Qué diosa transformó a Ascálafo en búho?",
+        "options": [
+            "Deméter",
+            "Hera",
+            "Atenea",
+            "Perséfone"
+        ],
+        "answer": "Deméter"
+    },
+    {
+        "question": "¿Quién era el padre de las Gorgonas?",
+        "options": [
+            "Forcis",
+            "Tifón",
+            "Nereo",
+            "Océano"
+        ],
+        "answer": "Forcis"
+    },
+    {
+        "question": "¿Qué criatura mitológica tenía la capacidad de regenerar dos cabezas por cada una que perdía?",
+        "options": [
+            "La Hidra de Lerna",
+            "El León de Nemea",
+            "La Quimera",
+            "Cerbero"
+        ],
+        "answer": "La Hidra de Lerna"
+    },
+    {
+        "question": "¿Cuál era el nombre del perro de caza de Acteón?",
+        "options": [
+            "Melanquetes",
+            "Argos",
+            "Lelaps",
+            "Ortro"
+        ],
+        "answer": "Melanquetes"
+    },
+    {
+        "question": "¿Quién era la madre de Polifemo?",
+        "options": [
+            "Toosa",
+            "Calipso",
+            "Circe",
+            "Escila"
+        ],
+        "answer": "Toosa"
+    },
+    {
+        "question": "¿Qué rey fue convertido en pájaro carpintero por romper su promesa a Circe?",
+        "options": [
+            "Pico",
+            "Tereo",
+            "Níso",
+            "Ceneo"
+        ],
+        "answer": "Pico"
+    },
+    {
+        "question": "¿Cuál era el nombre de la esposa de Proteo?",
+        "options": [
+            "Psamate",
+            "Tetis",
+            "Doris",
+            "Galatea"
+        ],
+        "answer": "Psamate"
+    },
+    {
+        "question": "¿Quién mató a las Harpías?",
+        "options": [
+            "Los Boréadas",
+            "Heracles",
+            "Perseo",
+            "Jasón"
+        ],
+        "answer": "Los Boréadas"
+    },
+    {
+        "question": "¿Qué héroe recibió sandalias aladas de Hermes?",
+        "options": [
+            "Perseo",
+            "Teseo",
+            "Jasón",
+            "Belerofonte"
+        ],
+        "answer": "Perseo"
+    },
+    {
+        "question": "¿Cuál era el nombre del arquitecto que construyó el templo de Apolo en Delfos?",
+        "options": [
+            "Trofonio",
+            "Dédalo",
+            "Epimeteo",
+            "Agamedes"
+        ],
+        "answer": "Trofonio"
+    },
+    {
+        "question": "¿Qué ninfa fue transformada en fuente por Zeus para escapar de Apolo?",
+        "options": [
+            "Castalia",
+            "Dafne",
+            "Siringe",
+            "Eco"
+        ],
+        "answer": "Castalia"
+    },
+    {
+        "question": "¿Quién era el padre de Anfión y Zeto?",
+        "options": [
+            "Zeus",
+            "Apolo",
+            "Poseidón",
+            "Hermes"
+        ],
+        "answer": "Zeus"
+    },
+    {
+        "question": "¿Cuál era el nombre de la esposa de Áyax el Grande?",
+        "options": [
+            "Tecmesa",
+            "Hesíone",
+            "Casandra",
+            "Andrómaca"
+        ],
+        "answer": "Tecmesa"
+    },
+    {
+        "question": "¿Qué héroe mató al gigante Alcioneo?",
+        "options": [
+            "Heracles",
+            "Perseo",
+            "Teseo",
+            "Belerofonte"
+        ],
+        "answer": "Heracles"
+    },
+    {
+        "question": "¿Quién era la madre de Ticio?",
+        "options": [
+            "Elara",
+            "Leto",
+            "Alcmena",
+            "Dánae"
+        ],
+        "answer": "Elara"
+    },
+    {
+        "question": "¿Cuál era el nombre del caballo alado de Belerofonte?",
+        "options": [
+            "Pegaso",
+            "Arión",
+            "Janto",
+            "Balio"
+        ],
+        "answer": "Pegaso"
+    },
+    {
+        "question": "¿Qué rey fue transformado en lobo por Zeus?",
+        "options": [
+            "Licaón",
+            "Midas",
+            "Sísifo",
+            "Tántalo"
+        ],
+        "answer": "Licaón"
+    },
+    {
+        "question": "¿Quién era la madre de los vientos?",
+        "options": [
+            "Eos",
+            "Nix",
+            "Gea",
+            "Tetis"
+        ],
+        "answer": "Eos"
+    },
+    {
+        "question": "¿Cuál era el nombre de la ninfa que ayudó a Teseo en el laberinto?",
+        "options": [
+            "Ariadna",
+            "Fedra",
+            "Medea",
+            "Pasífae"
+        ],
+        "answer": "Ariadna"
+    },
+    {
+        "question": "¿Qué héroe mató a los Centauros?",
+        "options": [
+            "Teseo",
+            "Heracles",
+            "Perseo",
+            "Jasón"
+        ],
+        "answer": "Teseo"
+    },
+    {
+        "question": "¿Cuál era el nombre del río que rodeaba el mundo según los griegos?",
+        "options": [
+            "Océano",
+            "Aqueronte",
+            "Estigia",
+            "Flegetonte"
+        ],
+        "answer": "Océano"
+    },
+    {
+        "question": "¿Quién era el padre de las Gracias?",
+        "options": [
+            "Zeus",
+            "Apolo",
+            "Dioniso",
+            "Hermes"
+        ],
+        "answer": "Zeus"
+    },
+    {
+        "question": "¿Qué héroe fue conocido como 'El de los pies rápidos'?",
+        "options": [
+            "Aquiles",
+            "Perseo",
+            "Teseo",
+            "Atalanta"
+        ],
+        "answer": "Aquiles"
+    },
+    {
+        "question": "¿Cuál era el nombre de la madre de Tiresias?",
+        "options": [
+            "Cariclo",
+            "Manto",
+            "Casandra",
+            "Dafne"
+        ],
+        "answer": "Cariclo"
+    },
+    {
+        "question": "¿Quién era el dios del sueño?",
+        "options": [
+            "Hipnos",
+            "Morfeo",
+            "Tánatos",
+            "Fobos"
+        ],
+        "answer": "Hipnos"
+    },
+    {
+        "question": "¿Qué héroe mató a las Amazonas?",
+        "options": [
+            "Aquiles",
+            "Heracles",
+            "Teseo",
+            "Belerofonte"
+        ],
+        "answer": "Aquiles"
+    },
+    {
+        "question": "¿Cuál era el nombre del barco de Jasón?",
+        "options": [
+            "Argo",
+            "Argo II",
+            "Argos",
+            "Argonauta"
+        ],
+        "answer": "Argo"
+    },
+    {
+        "question": "¿Quién era la madre de los Titanes?",
+        "options": [
+            "Gea",
+            "Rea",
+            "Temis",
+            "Tetis"
+        ],
+        "answer": "Gea"
+    },
+    {
+        "question": "¿Qué héroe mató a la Medusa?",
+        "options": [
+            "Perseo",
+            "Teseo",
+            "Heracles",
+            "Belerofonte"
+        ],
+        "answer": "Perseo"
+    },
+    {
+        "question": "¿Cuál era el nombre del primer mortal creado por los dioses?",
+        "options": [
+            "Prometeo",
+            "Pandora",
+            "Epimeteo",
+            "Deucalión"
+        ],
+        "answer": "Pandora"
+    },
+    {
+        "question": "¿Quién era el padre de las Musas?",
+        "options": [
+            "Zeus",
+            "Apolo",
+            "Hermes",
+            "Dioniso"
+        ],
+        "answer": "Zeus"
+    },
+    {
+        "question": "¿Qué héroe mató al Minotauro?",
+        "options": [
+            "Teseo",
+            "Perseo",
+            "Heracles",
+            "Jasón"
+        ],
+        "answer": "Teseo"
+    },
+    {
+        "question": "¿Cuál era el nombre de la esposa de Orfeo?",
+        "options": [
+            "Eurídice",
+            "Calíope",
+            "Dafne",
+            "Perséfone"
+        ],
+        "answer": "Eurídice"
+    },
+    {
+        "question": "¿Quién era la madre de Asclepio?",
+        "options": [
+            "Coronis",
+            "Leto",
+            "Maya",
+            "Sémele"
+        ],
+        "answer": "Coronis"
+    },
+    {
+        "question": "¿Qué criatura guardaba el vellocino de oro?",
+        "options": [
+            "Un dragón insomne",
+            "La hidra",
+            "El león de Nemea",
+            "La quimera"
+        ],
+        "answer": "Un dragón insomne"
+    },
+    {
+        "question": "¿Cuál era el nombre de la esposa de Peleo?",
+        "options": [
+            "Tetis",
+            "Anfitrite",
+            "Galatea",
+            "Doris"
+        ],
+        "answer": "Tetis"
+    },
+    {
+        "question": "¿Quién era el padre de las Furias?",
+        "options": [
+            "Urano",
+            "Cronos",
+            "Zeus",
+            "Hades"
+        ],
+        "answer": "Urano"
+    },
+    {
+        "question": "¿Cuál era el nombre del perro de Orión?",
+        "options": [
+            "Sirio",
+            "Argos",
+            "Ortro",
+            "Lelaps"
+        ],
+        "answer": "Sirio"
+    },
+    {
+        "question": "¿Quién era la madre de los Cíclopes?",
+        "options": [
+            "Gea",
+            "Rea",
+            "Temis",
+            "Tetis"
+        ],
+        "answer": "Gea"
+    },
+    {
+        "question": "¿Qué héroe mató a la Esfinge?",
+        "options": [
+            "Edipo",
+            "Teseo",
+            "Perseo",
+            "Belerofonte"
+        ],
+        "answer": "Edipo"
+    },
+    {
+        "question": "¿Cuál era el nombre del río del olvido?",
+        "options": [
+            "Lete",
+            "Estigia",
+            "Aqueronte",
+            "Cocito"
+        ],
+        "answer": "Lete"
+    },
+    {
+        "question": "¿Quién era la madre de Pan?",
+        "options": [
+            "Penélope",
+            "Calisto",
+            "Driope",
+            "Oinoe"
+        ],
+        "answer": "Penélope"
+    }
+]

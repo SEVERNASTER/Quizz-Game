@@ -1,0 +1,1042 @@
+[
+    {
+        "question": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+        "options": [
+            "206",
+            "186",
+            "216",
+            "196"
+        ],
+        "answer": "206"
+    },
+    {
+        "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "options": [
+            "La piel",
+            "El hígado",
+            "Los intestinos",
+            "Los pulmones"
+        ],
+        "answer": "La piel"
+    },
+    {
+        "question": "¿Cuántos dientes tiene un adulto normalmente?",
+        "options": [
+            "32",
+            "28",
+            "30",
+            "34"
+        ],
+        "answer": "32"
+    },
+    {
+        "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+        "options": [
+            "El fémur",
+            "La tibia",
+            "El húmero",
+            "La columna vertebral"
+        ],
+        "answer": "El fémur"
+    },
+    {
+        "question": "¿Cuál es el órgano que bombea la sangre en nuestro cuerpo?",
+        "options": [
+            "El corazón",
+            "Los pulmones",
+            "El cerebro",
+            "El hígado"
+        ],
+        "answer": "El corazón"
+    },
+    {
+        "question": "¿Cuántos pulmones tiene el ser humano?",
+        "options": [
+            "2",
+            "1",
+            "3",
+            "4"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "¿Qué órgano del cuerpo humano produce la insulina?",
+        "options": [
+            "El páncreas",
+            "El hígado",
+            "El riñón",
+            "El estómago"
+        ],
+        "answer": "El páncreas"
+    },
+    {
+        "question": "¿Cuál es el músculo más grande del cuerpo?",
+        "options": [
+            "El glúteo mayor",
+            "El bíceps",
+            "El cuádriceps",
+            "El pectoral"
+        ],
+        "answer": "El glúteo mayor"
+    },
+    {
+        "question": "¿Cuántos dedos tiene una mano humana?",
+        "options": [
+            "5",
+            "4",
+            "6",
+            "3"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "¿Qué órgano filtra la sangre en nuestro cuerpo?",
+        "options": [
+            "Los riñones",
+            "El hígado",
+            "El páncreas",
+            "El bazo"
+        ],
+        "answer": "Los riñones"
+    },
+    {
+        "question": "¿En qué parte del cuerpo se encuentra el cerebro?",
+        "options": [
+            "En el cráneo",
+            "En el cuello",
+            "En la columna vertebral",
+            "En el pecho"
+        ],
+        "answer": "En el cráneo"
+    },
+    {
+        "question": "¿Cuál es el sentido que nos permite ver?",
+        "options": [
+            "La vista",
+            "El oído",
+            "El tacto",
+            "El olfato"
+        ],
+        "answer": "La vista"
+    },
+    {
+        "question": "¿Qué órgano nos permite respirar?",
+        "options": [
+            "Los pulmones",
+            "El corazón",
+            "El estómago",
+            "El hígado"
+        ],
+        "answer": "Los pulmones"
+    },
+    {
+        "question": "¿Cuántos ojos tiene un ser humano?",
+        "options": [
+            "2",
+            "1",
+            "3",
+            "4"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "¿Qué órgano produce la bilis?",
+        "options": [
+            "El hígado",
+            "El estómago",
+            "El páncreas",
+            "El intestino"
+        ],
+        "answer": "El hígado"
+    },
+    {
+        "question": "¿Cuál es el hueso más pequeño del cuerpo humano?",
+        "options": [
+            "El estribo",
+            "El martillo",
+            "La falange",
+            "El yunque"
+        ],
+        "answer": "El estribo"
+    },
+    {
+        "question": "¿Cuántas costillas tiene normalmente un ser humano?",
+        "options": [
+            "24",
+            "20",
+            "22",
+            "26"
+        ],
+        "answer": "24"
+    },
+    {
+        "question": "¿Qué órgano digiere los alimentos?",
+        "options": [
+            "El estómago",
+            "El hígado",
+            "El páncreas",
+            "Los riñones"
+        ],
+        "answer": "El estómago"
+    },
+    {
+        "question": "¿Cuál es el líquido que circula por nuestras venas?",
+        "options": [
+            "La sangre",
+            "El agua",
+            "La linfa",
+            "La bilis"
+        ],
+        "answer": "La sangre"
+    },
+    {
+        "question": "¿Qué parte del cuerpo produce la saliva?",
+        "options": [
+            "Las glándulas salivales",
+            "La lengua",
+            "Los dientes",
+            "La garganta"
+        ],
+        "answer": "Las glándulas salivales"
+    },
+    {
+        "question": "¿Cuántas vértebras tiene la columna vertebral?",
+        "options": [
+            "33",
+            "30",
+            "35",
+            "28"
+        ],
+        "answer": "33"
+    },
+    {
+        "question": "¿Qué órgano nos permite oír?",
+        "options": [
+            "Los oídos",
+            "La nariz",
+            "Los ojos",
+            "La boca"
+        ],
+        "answer": "Los oídos"
+    },
+    {
+        "question": "¿Cuál es el músculo más importante del corazón?",
+        "options": [
+            "El miocardio",
+            "El bíceps",
+            "El tríceps",
+            "El diafragma"
+        ],
+        "answer": "El miocardio"
+    },
+    {
+        "question": "¿Qué nos permite mover el cuerpo?",
+        "options": [
+            "Los músculos",
+            "Los huesos",
+            "La piel",
+            "Los tendones"
+        ],
+        "answer": "Los músculos"
+    },
+    {
+        "question": "¿Cuántas cámaras tiene el corazón?",
+        "options": [
+            "4",
+            "2",
+            "3",
+            "5"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "¿Qué órgano produce las lágrimas?",
+        "options": [
+            "Las glándulas lacrimales",
+            "Los ojos",
+            "La nariz",
+            "El cerebro"
+        ],
+        "answer": "Las glándulas lacrimales"
+    },
+    {
+        "question": "¿Cuál es el órgano más importante del sistema nervioso?",
+        "options": [
+            "El cerebro",
+            "La médula espinal",
+            "Los nervios",
+            "El cerebelo"
+        ],
+        "answer": "El cerebro"
+    },
+    {
+        "question": "¿Qué nos permite saborear los alimentos?",
+        "options": [
+            "La lengua",
+            "Los dientes",
+            "La saliva",
+            "La garganta"
+        ],
+        "answer": "La lengua"
+    },
+    {
+        "question": "¿Cuántos huesos tiene el cráneo?",
+        "options": [
+            "22",
+            "20",
+            "24",
+            "18"
+        ],
+        "answer": "22"
+    },
+    {
+        "question": "¿Qué órgano nos permite oler?",
+        "options": [
+            "La nariz",
+            "La boca",
+            "Los ojos",
+            "Los oídos"
+        ],
+        "answer": "La nariz"
+    },
+    {
+        "question": "¿Cuál es la función principal de los glóbulos rojos?",
+        "options": [
+            "Transportar oxígeno",
+            "Combatir infecciones",
+            "Coagular la sangre",
+            "Producir hormonas"
+        ],
+        "answer": "Transportar oxígeno"
+    },
+    {
+        "question": "¿Cuántos tipos de dientes tenemos?",
+        "options": [
+            "4",
+            "3",
+            "5",
+            "2"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "¿Qué huesos forman la caja torácica?",
+        "options": [
+            "Las costillas",
+            "Las vértebras",
+            "El esternón",
+            "El húmero"
+        ],
+        "answer": "Las costillas"
+    },
+    {
+        "question": "¿Cuál es la función principal del estómago?",
+        "options": [
+            "Digerir alimentos",
+            "Producir sangre",
+            "Filtrar toxinas",
+            "Almacenar grasa"
+        ],
+        "answer": "Digerir alimentos"
+    },
+    {
+        "question": "¿Qué parte del ojo nos permite ver los colores?",
+        "options": [
+            "La retina",
+            "El iris",
+            "La córnea",
+            "El cristalino"
+        ],
+        "answer": "La retina"
+    },
+    {
+        "question": "¿Cuántos músculos tiene aproximadamente el cuerpo humano?",
+        "options": [
+            "650",
+            "500",
+            "700",
+            "550"
+        ],
+        "answer": "650"
+    },
+    {
+        "question": "¿Qué hueso protege al cerebro?",
+        "options": [
+            "El cráneo",
+            "La mandíbula",
+            "Las vértebras",
+            "El cuello"
+        ],
+        "answer": "El cráneo"
+    },
+    {
+        "question": "¿Cuál es la articulación más grande del cuerpo?",
+        "options": [
+            "La rodilla",
+            "El codo",
+            "La cadera",
+            "El hombro"
+        ],
+        "answer": "La rodilla"
+    },
+    {
+        "question": "¿Qué órgano produce la voz?",
+        "options": [
+            "La laringe",
+            "Los pulmones",
+            "La lengua",
+            "La garganta"
+        ],
+        "answer": "La laringe"
+    },
+    {
+        "question": "¿Cuántas muelas tiene un adulto?",
+        "options": [
+            "12",
+            "8",
+            "10",
+            "14"
+        ],
+        "answer": "12"
+    },
+    {
+        "question": "¿Qué parte del cuerpo produce el sudor?",
+        "options": [
+            "Las glándulas sudoríparas",
+            "Los poros",
+            "La piel",
+            "Los músculos"
+        ],
+        "answer": "Las glándulas sudoríparas"
+    },
+    {
+        "question": "¿Cuál es el músculo que separa el tórax del abdomen?",
+        "options": [
+            "El diafragma",
+            "El pectoral",
+            "El abdomen",
+            "El intercostal"
+        ],
+        "answer": "El diafragma"
+    },
+    {
+        "question": "¿Qué huesos forman los dedos de las manos?",
+        "options": [
+            "Las falanges",
+            "Los metacarpianos",
+            "Los carpos",
+            "Los tarsos"
+        ],
+        "answer": "Las falanges"
+    },
+    {
+        "question": "¿Cuál es la función principal de los glóbulos blancos?",
+        "options": [
+            "Defender el cuerpo",
+            "Transportar oxígeno",
+            "Coagular la sangre",
+            "Producir energía"
+        ],
+        "answer": "Defender el cuerpo"
+    },
+    {
+        "question": "¿Qué órgano almacena la bilis?",
+        "options": [
+            "La vesícula biliar",
+            "El hígado",
+            "El páncreas",
+            "El estómago"
+        ],
+        "answer": "La vesícula biliar"
+    },
+    {
+        "question": "¿Cuántos tipos de articulaciones hay en el cuerpo humano?",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "¿Qué parte del ojo determina su color?",
+        "options": [
+            "El iris",
+            "La pupila",
+            "La córnea",
+            "El cristalino"
+        ],
+        "answer": "El iris"
+    },
+    {
+        "question": "¿Cuál es el órgano más pesado del cuerpo humano?",
+        "options": [
+            "El hígado",
+            "El cerebro",
+            "Los pulmones",
+            "El corazón"
+        ],
+        "answer": "El hígado"
+    },
+    {
+        "question": "¿Qué huesos forman la pelvis?",
+        "options": [
+            "Los huesos ilíacos",
+            "El fémur",
+            "El sacro",
+            "Las costillas"
+        ],
+        "answer": "Los huesos ilíacos"
+    },
+    {
+        "question": "¿Cuántas capas tiene la piel?",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "¿Qué dientes son los primeros en aparecer en los bebés?",
+        "options": [
+            "Los incisivos centrales",
+            "Los caninos",
+            "Los molares",
+            "Los premolares"
+        ],
+        "answer": "Los incisivos centrales"
+    },
+    {
+        "question": "¿Cuál es el hueso más duro del cuerpo humano?",
+        "options": [
+            "La mandíbula",
+            "El cráneo",
+            "El fémur",
+            "La tibia"
+        ],
+        "answer": "La mandíbula"
+    },
+    {
+        "question": "¿Qué sentido nos permite distinguir si algo está caliente o frío?",
+        "options": [
+            "El tacto",
+            "El gusto",
+            "La vista",
+            "El oído"
+        ],
+        "answer": "El tacto"
+    },
+    {
+        "question": "¿Cuál es el órgano que produce la bilis?",
+        "options": [
+            "El hígado",
+            "El páncreas",
+            "El estómago",
+            "Los riñones"
+        ],
+        "answer": "El hígado"
+    },
+    {
+        "question": "¿Qué células transportan el oxígeno en la sangre?",
+        "options": [
+            "Glóbulos rojos",
+            "Glóbulos blancos",
+            "Plaquetas",
+            "Neuronas"
+        ],
+        "answer": "Glóbulos rojos"
+    },
+    {
+        "question": "¿Dónde se produce la saliva?",
+        "options": [
+            "Glándulas salivales",
+            "Lengua",
+            "Garganta",
+            "Esófago"
+        ],
+        "answer": "Glándulas salivales"
+    },
+    {
+        "question": "¿Cuántas articulaciones principales tiene el brazo?",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "¿Qué parte del ojo es sensible a la luz?",
+        "options": [
+            "La retina",
+            "La córnea",
+            "El iris",
+            "El cristalino"
+        ],
+        "answer": "La retina"
+    },
+    {
+        "question": "¿Cuál es el nombre del hueso de la parte superior del brazo?",
+        "options": [
+            "Húmero",
+            "Radio",
+            "Cúbito",
+            "Fémur"
+        ],
+        "answer": "Húmero"
+    },
+    {
+        "question": "¿Qué órgano produce la hormona del crecimiento?",
+        "options": [
+            "La hipófisis",
+            "El páncreas",
+            "La tiroides",
+            "Las suprarrenales"
+        ],
+        "answer": "La hipófisis"
+    },
+    {
+        "question": "¿Cuántas veces late aproximadamente el corazón por minuto en reposo?",
+        "options": [
+            "60-100",
+            "40-60",
+            "100-120",
+            "120-140"
+        ],
+        "answer": "60-100"
+    },
+    {
+        "question": "¿Qué órgano produce la melanina?",
+        "options": [
+            "La piel",
+            "El hígado",
+            "Los riñones",
+            "El cerebro"
+        ],
+        "answer": "La piel"
+    },
+    {
+        "question": "¿Cuántas uñas tiene el cuerpo humano en total?",
+        "options": [
+            "20",
+            "18",
+            "22",
+            "24"
+        ],
+        "answer": "20"
+    },
+    {
+        "question": "¿Qué parte del cerebro controla el equilibrio?",
+        "options": [
+            "El cerebelo",
+            "El tálamo",
+            "El hipotálamo",
+            "La médula"
+        ],
+        "answer": "El cerebelo"
+    },
+    {
+        "question": "¿Cuál es el nombre de los huesos de la muñeca?",
+        "options": [
+            "Carpos",
+            "Tarsos",
+            "Falanges",
+            "Metacarpos"
+        ],
+        "answer": "Carpos"
+    },
+    {
+        "question": "¿Qué vitamina produce la piel cuando toma el sol?",
+        "options": [
+            "Vitamina D",
+            "Vitamina C",
+            "Vitamina A",
+            "Vitamina E"
+        ],
+        "answer": "Vitamina D"
+    },
+    {
+        "question": "¿Cuántos litros de sangre tiene aproximadamente un adulto?",
+        "options": [
+            "5-6",
+            "3-4",
+            "7-8",
+            "9-10"
+        ],
+        "answer": "5-6"
+    },
+    {
+        "question": "¿Qué huesos forman el antebrazo?",
+        "options": [
+            "Radio y cúbito",
+            "Húmero y radio",
+            "Tibia y peroné",
+            "Fémur y tibia"
+        ],
+        "answer": "Radio y cúbito"
+    },
+    {
+        "question": "¿Cuál es la función principal de las pestañas?",
+        "options": [
+            "Proteger los ojos",
+            "Mejorar la visión",
+            "Decorar el rostro",
+            "Producir lágrimas"
+        ],
+        "answer": "Proteger los ojos"
+    },
+    {
+        "question": "¿Qué músculo permite sonreír?",
+        "options": [
+            "Cigomático mayor",
+            "Orbicular",
+            "Temporal",
+            "Masetero"
+        ],
+        "answer": "Cigomático mayor"
+    },
+    {
+        "question": "¿Cuántos músculos se necesitan para sonreír?",
+        "options": [
+            "17",
+            "10",
+            "25",
+            "30"
+        ],
+        "answer": "17"
+    },
+    {
+        "question": "¿Qué huesos forman el tobillo?",
+        "options": [
+            "Tarsos",
+            "Carpos",
+            "Falanges",
+            "Metatarsos"
+        ],
+        "answer": "Tarsos"
+    },
+    {
+        "question": "¿Cuál es la arteria más grande del cuerpo?",
+        "options": [
+            "Aorta",
+            "Carótida",
+            "Femoral",
+            "Pulmonar"
+        ],
+        "answer": "Aorta"
+    },
+    {
+        "question": "¿Qué parte del oído nos ayuda a mantener el equilibrio?",
+        "options": [
+            "El vestíbulo",
+            "El tímpano",
+            "La cóclea",
+            "El martillo"
+        ],
+        "answer": "El vestíbulo"
+    },
+    {
+        "question": "¿Cuántos músculos hay en cada ojo?",
+        "options": [
+            "6",
+            "4",
+            "8",
+            "10"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "¿Qué órgano produce la tiroxina?",
+        "options": [
+            "La tiroides",
+            "El páncreas",
+            "Las suprarrenales",
+            "La hipófisis"
+        ],
+        "answer": "La tiroides"
+    },
+    {
+        "question": "¿Cuántos huesos tiene cada pie?",
+        "options": [
+            "26",
+            "24",
+            "28",
+            "30"
+        ],
+        "answer": "26"
+    },
+    {
+        "question": "¿Qué nervio controla el movimiento del rostro?",
+        "options": [
+            "Facial",
+            "Trigémino",
+            "Óptico",
+            "Auditivo"
+        ],
+        "answer": "Facial"
+    },
+    {
+        "question": "¿Cuántos dientes de leche tiene un niño?",
+        "options": [
+            "20",
+            "24",
+            "28",
+            "32"
+        ],
+        "answer": "20"
+    },
+    {
+        "question": "¿Qué hueso protege al corazón?",
+        "options": [
+            "El esternón",
+            "Las costillas",
+            "La clavícula",
+            "Las vértebras"
+        ],
+        "answer": "El esternón"
+    },
+    {
+        "question": "¿Cuál es el nombre del hueso de la rodilla?",
+        "options": [
+            "Rótula",
+            "Tibia",
+            "Peroné",
+            "Fémur"
+        ],
+        "answer": "Rótula"
+    },
+    {
+        "question": "¿Qué glándula produce la adrenalina?",
+        "options": [
+            "Las suprarrenales",
+            "La tiroides",
+            "El páncreas",
+            "La hipófisis"
+        ],
+        "answer": "Las suprarrenales"
+    },
+    {
+        "question": "¿Cuántos tipos de músculos hay en el cuerpo?",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "5"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "¿Qué huesos forman la cadera?",
+        "options": [
+            "Ilion, isquion y pubis",
+            "Sacro y coxis",
+            "Fémur y tibia",
+            "Costillas y vértebras"
+        ],
+        "answer": "Ilion, isquion y pubis"
+    },
+    {
+        "question": "¿Cuál es la función principal del cartílago?",
+        "options": [
+            "Amortiguar los huesos",
+            "Producir sangre",
+            "Filtrar toxinas",
+            "Transportar oxígeno"
+        ],
+        "answer": "Amortiguar los huesos"
+    },
+    {
+        "question": "¿Qué tipo de articulación es el codo?",
+        "options": [
+            "Bisagra",
+            "Bola y socket",
+            "Pivote",
+            "Plana"
+        ],
+        "answer": "Bisagra"
+    },
+    {
+        "question": "¿Cuántas cuerdas vocales tiene una persona?",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "¿Qué parte del cerebro controla las emociones?",
+        "options": [
+            "Sistema límbico",
+            "Cerebelo",
+            "Tronco encefálico",
+            "Corteza cerebral"
+        ],
+        "answer": "Sistema límbico"
+    },
+    {
+        "question": "¿Cuál es el hueso más pequeño del pie?",
+        "options": [
+            "Falange distal",
+            "Metatarso",
+            "Calcáneo",
+            "Astrágalo"
+        ],
+        "answer": "Falange distal"
+    },
+    {
+        "question": "¿Qué órgano produce la bilirrubina?",
+        "options": [
+            "El hígado",
+            "El bazo",
+            "Los riñones",
+            "El páncreas"
+        ],
+        "answer": "El hígado"
+    },
+    {
+        "question": "¿Cuántas válvulas tiene el corazón?",
+        "options": [
+            "4",
+            "2",
+            "3",
+            "5"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "¿Qué hueso conecta el brazo con el tronco?",
+        "options": [
+            "La clavícula",
+            "El húmero",
+            "El omóplato",
+            "Las costillas"
+        ],
+        "answer": "La clavícula"
+    },
+    {
+        "question": "¿Cuál es la función principal de las cejas?",
+        "options": [
+            "Proteger los ojos del sudor",
+            "Mejorar la visión",
+            "Regular la temperatura",
+            "Producir grasa"
+        ],
+        "answer": "Proteger los ojos del sudor"
+    },
+    {
+        "question": "¿Qué parte del oído transmite el sonido al cerebro?",
+        "options": [
+            "El nervio auditivo",
+            "El tímpano",
+            "Los huesecillos",
+            "El canal auditivo"
+        ],
+        "answer": "El nervio auditivo"
+    },
+    {
+        "question": "¿Cuántos huesos tiene la columna vertebral?",
+        "options": [
+            "33",
+            "30",
+            "35",
+            "28"
+        ],
+        "answer": "33"
+    },
+    {
+        "question": "¿Qué función tienen las amígdalas?",
+        "options": [
+            "Defender contra infecciones",
+            "Producir saliva",
+            "Ayudar a tragar",
+            "Filtrar el aire"
+        ],
+        "answer": "Defender contra infecciones"
+    },
+    {
+        "question": "¿Cuál es el nombre del hueso de la parte superior de la pierna?",
+        "options": [
+            "Fémur",
+            "Tibia",
+            "Peroné",
+            "Rótula"
+        ],
+        "answer": "Fémur"
+    },
+    {
+        "question": "¿Qué célula transmite los impulsos nerviosos?",
+        "options": [
+            "Neurona",
+            "Glóbulo rojo",
+            "Glóbulo blanco",
+            "Plaqueta"
+        ],
+        "answer": "Neurona"
+    },
+    {
+        "question": "¿Cuántos pares de nervios craneales hay?",
+        "options": [
+            "12",
+            "10",
+            "14",
+            "16"
+        ],
+        "answer": "12"
+    },
+    {
+        "question": "¿Qué músculo separa la cavidad torácica del abdomen?",
+        "options": [
+            "Diafragma",
+            "Pectoral",
+            "Abdominales",
+            "Intercostales"
+        ],
+        "answer": "Diafragma"
+    },
+    {
+        "question": "¿Cuál es la parte más externa del ojo?",
+        "options": [
+            "La córnea",
+            "El iris",
+            "La retina",
+            "El cristalino"
+        ],
+        "answer": "La córnea"
+    },
+    {
+        "question": "¿Qué glándula produce la hormona del sueño?",
+        "options": [
+            "La pineal",
+            "La hipófisis",
+            "La tiroides",
+            "Las suprarrenales"
+        ],
+        "answer": "La pineal"
+    },
+    {
+        "question": "¿Cuántas costillas flotantes tiene el ser humano?",
+        "options": [
+            "4",
+            "2",
+            "6",
+            "8"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "¿Qué parte del cerebro controla las funciones básicas como respirar?",
+        "options": [
+            "Tronco encefálico",
+            "Cerebelo",
+            "Corteza cerebral",
+            "Hipotálamo"
+        ],
+        "answer": "Tronco encefálico"
+    }
+]

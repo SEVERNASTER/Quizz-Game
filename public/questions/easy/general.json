@@ -1,0 +1,1242 @@
+[
+    {
+        "question": "¿Cuál es la capital de Francia?",
+        "options": [
+            "Madrid",
+            "Roma",
+            "París",
+            "Berlín"
+        ],
+        "answer": "París"
+    },
+    {
+        "question": "¿Quién pintó la Mona Lisa?",
+        "options": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Claude Monet"
+        ],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "¿Cuál es el río más largo del mundo?",
+        "options": [
+            "Nilo",
+            "Amazonas",
+            "Misisipi",
+            "Yangtsé"
+        ],
+        "answer": "Amazonas"
+    },
+    {
+        "question": "¿En qué país se encuentra la Torre Eiffel?",
+        "options": [
+            "Italia",
+            "Francia",
+            "España",
+            "Alemania"
+        ],
+        "answer": "Francia"
+    },
+    {
+        "question": "¿Cuál es el océano más grande del mundo?",
+        "options": [
+            "Atlántico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "answer": "Pacífico"
+    },
+    {
+        "question": "¿Quién escribió 'Cien años de soledad'?",
+        "options": [
+            "Gabriel García Márquez",
+            "Pablo Neruda",
+            "Julio Cortázar",
+            "Mario Vargas Llosa"
+        ],
+        "answer": "Gabriel García Márquez"
+    },
+    {
+        "question": "¿Cuál es el país más grande del mundo?",
+        "options": [
+            "China",
+            "Estados Unidos",
+            "Rusia",
+            "Canadá"
+        ],
+        "answer": "Rusia"
+    },
+    {
+        "question": "¿Quién fue el primer hombre en pisar la Luna?",
+        "options": [
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "Michael Collins"
+        ],
+        "answer": "Neil Armstrong"
+    },
+    {
+        "question": "¿Cuál es la capital de Italia?",
+        "options": [
+            "Milán",
+            "Roma",
+            "Venecia",
+            "Florencia"
+        ],
+        "answer": "Roma"
+    },
+    {
+        "question": "¿Qué instrumento musical tiene cuerdas y se toca con arco?",
+        "options": [
+            "Guitarra",
+            "Violín",
+            "Piano",
+            "Flauta"
+        ],
+        "answer": "Violín"
+    },
+    {
+        "question": "¿Cuál es el idioma oficial de Brasil?",
+        "options": [
+            "Español",
+            "Portugués",
+            "Inglés",
+            "Francés"
+        ],
+        "answer": "Portugués"
+    },
+    {
+        "question": "¿Quién escribió 'Don Quijote de la Mancha'?",
+        "options": [
+            "Miguel de Cervantes",
+            "Federico García Lorca",
+            "Pablo Neruda",
+            "Gabriel García Márquez"
+        ],
+        "answer": "Miguel de Cervantes"
+    },
+    {
+        "question": "¿Cuál es la capital de España?",
+        "options": [
+            "Barcelona",
+            "Madrid",
+            "Valencia",
+            "Sevilla"
+        ],
+        "answer": "Madrid"
+    },
+    {
+        "question": "¿Qué planeta es conocido como el 'planeta rojo'?",
+        "options": [
+            "Venus",
+            "Marte",
+            "Júpiter",
+            "Saturno"
+        ],
+        "answer": "Marte"
+    },
+    {
+        "question": "¿Quién fue el primer presidente de Estados Unidos?",
+        "options": [
+            "Thomas Jefferson",
+            "George Washington",
+            "Abraham Lincoln",
+            "John Adams"
+        ],
+        "answer": "George Washington"
+    },
+    {
+        "question": "¿Cuál es el metal más caro del mundo?",
+        "options": [
+            "Oro",
+            "Plata",
+            "Platino",
+            "Rodio"
+        ],
+        "answer": "Rodio"
+    },
+    {
+        "question": "¿En qué continente se encuentra Egipto?",
+        "options": [
+            "Asia",
+            "África",
+            "Europa",
+            "América"
+        ],
+        "answer": "África"
+    },
+    {
+        "question": "¿Quién escribió 'Romeo y Julieta'?",
+        "options": [
+            "William Shakespeare",
+            "Charles Dickens",
+            "Jane Austen",
+            "Mark Twain"
+        ],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "¿Cuál es la capital de México?",
+        "options": [
+            "Guadalajara",
+            "Monterrey",
+            "Ciudad de México",
+            "Cancún"
+        ],
+        "answer": "Ciudad de México"
+    },
+    {
+        "question": "¿Qué animal es el símbolo de la sabiduría?",
+        "options": [
+            "León",
+            "Águila",
+            "Búho",
+            "Delfín"
+        ],
+        "answer": "Búho"
+    },
+    {
+        "question": "¿Cuál es el país más poblado del mundo?",
+        "options": [
+            "India",
+            "Estados Unidos",
+            "China",
+            "Brasil"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "¿Quién pintó 'La noche estrellada'?",
+        "options": [
+            "Pablo Picasso",
+            "Vincent van Gogh",
+            "Claude Monet",
+            "Salvador Dalí"
+        ],
+        "answer": "Vincent van Gogh"
+    },
+    {
+        "question": "¿Cuál es la capital de Argentina?",
+        "options": [
+            "Buenos Aires",
+            "Córdoba",
+            "Rosario",
+            "Mendoza"
+        ],
+        "answer": "Buenos Aires"
+    },
+    {
+        "question": "¿Qué planeta es el más cercano al Sol?",
+        "options": [
+            "Tierra",
+            "Venus",
+            "Mercurio",
+            "Marte"
+        ],
+        "answer": "Mercurio"
+    },
+    {
+        "question": "¿Quién escribió '1984'?",
+        "options": [
+            "George Orwell",
+            "Aldous Huxley",
+            "Ray Bradbury",
+            "J.R.R. Tolkien"
+        ],
+        "answer": "George Orwell"
+    },
+    {
+        "question": "¿Cuál es la capital de Japón?",
+        "options": [
+            "Osaka",
+            "Kioto",
+            "Tokio",
+            "Hiroshima"
+        ],
+        "answer": "Tokio"
+    },
+    {
+        "question": "¿Qué deporte se juega en Wimbledon?",
+        "options": [
+            "Fútbol",
+            "Tenis",
+            "Golf",
+            "Rugby"
+        ],
+        "answer": "Tenis"
+    },
+    {
+        "question": "¿Quién fue el líder de la Revolución Cubana?",
+        "options": [
+            "Che Guevara",
+            "Fidel Castro",
+            "Simón Bolívar",
+            "Ernesto Guevara"
+        ],
+        "answer": "Fidel Castro"
+    },
+    {
+        "question": "¿Cuál es la capital de Australia?",
+        "options": [
+            "Sídney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "answer": "Canberra"
+    },
+    {
+        "question": "¿Qué país es famoso por su tulipanes?",
+        "options": [
+            "Francia",
+            "Holanda",
+            "Italia",
+            "Alemania"
+        ],
+        "answer": "Holanda"
+    },
+    {
+        "question": "¿Quién escribió 'El principito'?",
+        "options": [
+            "Antoine de Saint-Exupéry",
+            "Jules Verne",
+            "Victor Hugo",
+            "Albert Camus"
+        ],
+        "answer": "Antoine de Saint-Exupéry"
+    },
+    {
+        "question": "¿Cuál es la capital de Canadá?",
+        "options": [
+            "Toronto",
+            "Montreal",
+            "Ottawa",
+            "Vancouver"
+        ],
+        "answer": "Ottawa"
+    },
+    {
+        "question": "¿Qué país es el origen del sushi?",
+        "options": [
+            "China",
+            "Japón",
+            "Corea del Sur",
+            "Tailandia"
+        ],
+        "answer": "Japón"
+    },
+    {
+        "question": "¿Quién fue el primer ser humano en viajar al espacio?",
+        "options": [
+            "Neil Armstrong",
+            "Yuri Gagarin",
+            "Buzz Aldrin",
+            "Alan Shepard"
+        ],
+        "answer": "Yuri Gagarin"
+    },
+    {
+        "question": "¿Cuál es la capital de Alemania?",
+        "options": [
+            "Múnich",
+            "Berlín",
+            "Hamburgo",
+            "Fráncfort"
+        ],
+        "answer": "Berlín"
+    },
+    {
+        "question": "¿Qué país es famoso por las pirámides de Giza?",
+        "options": [
+            "México",
+            "Egipto",
+            "Grecia",
+            "India"
+        ],
+        "answer": "Egipto"
+    },
+    {
+        "question": "¿Quién escribió 'La Odisea'?",
+        "options": [
+            "Homero",
+            "Virgilio",
+            "Sófocles",
+            "Platón"
+        ],
+        "answer": "Homero"
+    },
+    {
+        "question": "¿Cuál es la capital de Rusia?",
+        "options": [
+            "San Petersburgo",
+            "Moscú",
+            "Kiev",
+            "Vladivostok"
+        ],
+        "answer": "Moscú"
+    },
+    {
+        "question": "¿Qué país es el mayor productor de café en el mundo?",
+        "options": [
+            "Colombia",
+            "Brasil",
+            "Vietnam",
+            "Etiopía"
+        ],
+        "answer": "Brasil"
+    },
+    {
+        "question": "¿Quién pintó 'El grito'?",
+        "options": [
+            "Vincent van Gogh",
+            "Edvard Munch",
+            "Pablo Picasso",
+            "Salvador Dalí"
+        ],
+        "answer": "Edvard Munch"
+    },
+    {
+        "question": "¿Cuál es la capital de China?",
+        "options": [
+            "Shanghái",
+            "Pekín",
+            "Hong Kong",
+            "Cantón"
+        ],
+        "answer": "Pekín"
+    },
+    {
+        "question": "¿Qué país es el origen del fútbol?",
+        "options": [
+            "Brasil",
+            "Inglaterra",
+            "Argentina",
+            "España"
+        ],
+        "answer": "Inglaterra"
+    },
+    {
+        "question": "¿Quién escribió 'Crimen y castigo'?",
+        "options": [
+            "Fiódor Dostoyevski",
+            "León Tolstói",
+            "Antón Chéjov",
+            "Nikolái Gógol"
+        ],
+        "answer": "Fiódor Dostoyevski"
+    },
+    {
+        "question": "¿Cuál es la capital de India?",
+        "options": [
+            "Bombay",
+            "Nueva Delhi",
+            "Bangalore",
+            "Calcuta"
+        ],
+        "answer": "Nueva Delhi"
+    },
+    {
+        "question": "¿Qué país es famoso por el Taj Mahal?",
+        "options": [
+            "Pakistán",
+            "India",
+            "Bangladés",
+            "Nepal"
+        ],
+        "answer": "India"
+    },
+    {
+        "question": "¿Quién escribió 'Hamlet'?",
+        "options": [
+            "William Shakespeare",
+            "Charles Dickens",
+            "Jane Austen",
+            "Mark Twain"
+        ],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "¿Cuál es la capital de Sudáfrica?",
+        "options": [
+            "Ciudad del Cabo",
+            "Pretoria",
+            "Johannesburgo",
+            "Durban"
+        ],
+        "answer": "Pretoria"
+    },
+    {
+        "question": "¿Qué país es el origen del té?",
+        "options": [
+            "India",
+            "China",
+            "Japón",
+            "Sri Lanka"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "¿Quién escribió 'Los miserables'?",
+        "options": [
+            "Victor Hugo",
+            "Charles Dickens",
+            "Fiódor Dostoyevski",
+            "Jane Austen"
+        ],
+        "answer": "Victor Hugo"
+    },
+    {
+        "question": "¿Cuál es la capital de Egipto?",
+        "options": [
+            "Alejandría",
+            "El Cairo",
+            "Luxor",
+            "Giza"
+        ],
+        "answer": "El Cairo"
+    },
+    {
+        "question": "¿Qué país es famoso por los fiordos?",
+        "options": [
+            "Suecia",
+            "Noruega",
+            "Finlandia",
+            "Dinamarca"
+        ],
+        "answer": "Noruega"
+    },
+    {
+        "question": "¿Quién escribió 'Orgullo y prejuicio'?",
+        "options": [
+            "Jane Austen",
+            "Charlotte Brontë",
+            "Emily Brontë",
+            "Virginia Woolf"
+        ],
+        "answer": "Jane Austen"
+    },
+    {
+        "question": "¿Cuál es la capital de Grecia?",
+        "options": [
+            "Atenas",
+            "Esparta",
+            "Tesalónica",
+            "Corinto"
+        ],
+        "answer": "Atenas"
+    },
+    {
+        "question": "¿Qué país es el origen del chocolate?",
+        "options": [
+            "Suiza",
+            "Bélgica",
+            "México",
+            "Francia"
+        ],
+        "answer": "México"
+    },
+    {
+        "question": "¿Quién escribió 'El viejo y el mar'?",
+        "options": [
+            "Ernest Hemingway",
+            "Mark Twain",
+            "John Steinbeck",
+            "F. Scott Fitzgerald"
+        ],
+        "answer": "Ernest Hemingway"
+    },
+    {
+        "question": "¿Cuál es la capital de Turquía?",
+        "options": [
+            "Estambul",
+            "Ankara",
+            "Esmirna",
+            "Bursa"
+        ],
+        "answer": "Ankara"
+    },
+    {
+        "question": "¿Qué país es famoso por el Carnaval de Río?",
+        "options": [
+            "Argentina",
+            "Brasil",
+            "México",
+            "Colombia"
+        ],
+        "answer": "Brasil"
+    },
+    {
+        "question": "¿Quién escribió 'Drácula'?",
+        "options": [
+            "Mary Shelley",
+            "Bram Stoker",
+            "Edgar Allan Poe",
+            "H.P. Lovecraft"
+        ],
+        "answer": "Bram Stoker"
+    },
+    {
+        "question": "¿Cuál es la capital de Corea del Sur?",
+        "options": [
+            "Busan",
+            "Seúl",
+            "Incheon",
+            "Daegu"
+        ],
+        "answer": "Seúl"
+    },
+    {
+        "question": "¿Qué país es el origen del vodka?",
+        "options": [
+            "Polonia",
+            "Rusia",
+            "Ucrania",
+            "Finlandia"
+        ],
+        "answer": "Rusia"
+    },
+    {
+        "question": "¿Quién escribió 'Las aventuras de Tom Sawyer'?",
+        "options": [
+            "Mark Twain",
+            "Charles Dickens",
+            "Herman Melville",
+            "Jack London"
+        ],
+        "answer": "Mark Twain"
+    },
+    {
+        "question": "¿Cuál es la capital de Tailandia?",
+        "options": [
+            "Chiang Mai",
+            "Bangkok",
+            "Phuket",
+            "Pattaya"
+        ],
+        "answer": "Bangkok"
+    },
+    {
+        "question": "¿Qué país es famoso por los tulipanes?",
+        "options": [
+            "Francia",
+            "Holanda",
+            "Bélgica",
+            "Alemania"
+        ],
+        "answer": "Holanda"
+    },
+    {
+        "question": "¿Quién escribió 'El gran Gatsby'?",
+        "options": [
+            "F. Scott Fitzgerald",
+            "Ernest Hemingway",
+            "John Steinbeck",
+            "William Faulkner"
+        ],
+        "answer": "F. Scott Fitzgerald"
+    },
+    {
+        "question": "¿Cuál es la capital de Vietnam?",
+        "options": [
+            "Ho Chi Minh",
+            "Hanói",
+            "Da Nang",
+            "Hai Phong"
+        ],
+        "answer": "Hanói"
+    },
+    {
+        "question": "¿Qué país es el origen del kimchi?",
+        "options": [
+            "Japón",
+            "Corea del Sur",
+            "China",
+            "Tailandia"
+        ],
+        "answer": "Corea del Sur"
+    },
+    {
+        "question": "¿Quién escribió 'Matar a un ruiseñor'?",
+        "options": [
+            "Harper Lee",
+            "Truman Capote",
+            "John Steinbeck",
+            "Ernest Hemingway"
+        ],
+        "answer": "Harper Lee"
+    },
+    {
+        "question": "¿Cuál es la capital de Nueva Zelanda?",
+        "options": [
+            "Auckland",
+            "Wellington",
+            "Christchurch",
+            "Queenstown"
+        ],
+        "answer": "Wellington"
+    },
+    {
+        "question": "¿Qué país es famoso por los vikingos?",
+        "options": [
+            "Suecia",
+            "Noruega",
+            "Dinamarca",
+            "Finlandia"
+        ],
+        "answer": "Noruega"
+    },
+    {
+        "question": "¿Quién escribió 'La metamorfosis'?",
+        "options": [
+            "Franz Kafka",
+            "Fiódor Dostoyevski",
+            "Albert Camus",
+            "Jean-Paul Sartre"
+        ],
+        "answer": "Franz Kafka"
+    },
+    {
+        "question": "¿Cuál es la capital de Perú?",
+        "options": [
+            "Cusco",
+            "Lima",
+            "Arequipa",
+            "Trujillo"
+        ],
+        "answer": "Lima"
+    },
+    {
+        "question": "¿Qué país es el origen del tango?",
+        "options": [
+            "Argentina",
+            "Uruguay",
+            "Brasil",
+            "Chile"
+        ],
+        "answer": "Argentina"
+    },
+    {
+        "question": "¿Quién escribió 'El retrato de Dorian Gray'?",
+        "options": [
+            "Oscar Wilde",
+            "Charles Dickens",
+            "Jane Austen",
+            "Virginia Woolf"
+        ],
+        "answer": "Oscar Wilde"
+    },
+    {
+        "question": "¿Cuál es la capital de Colombia?",
+        "options": [
+            "Medellín",
+            "Cali",
+            "Bogotá",
+            "Barranquilla"
+        ],
+        "answer": "Bogotá"
+    },
+    {
+        "question": "¿Qué país es famoso por los moáis de la Isla de Pascua?",
+        "options": [
+            "Chile",
+            "Perú",
+            "Ecuador",
+            "Argentina"
+        ],
+        "answer": "Chile"
+    },
+    {
+        "question": "¿Quién escribió 'El hobbit'?",
+        "options": [
+            "J.R.R. Tolkien",
+            "C.S. Lewis",
+            "George R.R. Martin",
+            "J.K. Rowling"
+        ],
+        "answer": "J.R.R. Tolkien"
+    },
+    {
+        "question": "¿Cuál es la capital de Chile?",
+        "options": [
+            "Santiago",
+            "Valparaíso",
+            "Concepción",
+            "Viña del Mar"
+        ],
+        "answer": "Santiago"
+    },
+    {
+        "question": "¿Qué país es el origen del reggae?",
+        "options": [
+            "Cuba",
+            "Jamaica",
+            "Trinidad y Tobago",
+            "Barbados"
+        ],
+        "answer": "Jamaica"
+    },
+    {
+        "question": "¿Quién escribió 'La divina comedia'?",
+        "options": [
+            "Dante Alighieri",
+            "Giovanni Boccaccio",
+            "Francesco Petrarca",
+            "Niccolò Machiavelli"
+        ],
+        "answer": "Dante Alighieri"
+    },
+    {
+        "question": "¿Cuál es la capital de Venezuela?",
+        "options": [
+            "Caracas",
+            "Maracaibo",
+            "Valencia",
+            "Barquisimeto"
+        ],
+        "answer": "Caracas"
+    },
+    {
+        "question": "¿Qué país es famoso por los castillos medievales?",
+        "options": [
+            "Francia",
+            "Alemania",
+            "Inglaterra",
+            "España"
+        ],
+        "answer": "Alemania"
+    },
+    {
+        "question": "¿Quién escribió 'El nombre de la rosa'?",
+        "options": [
+            "Umberto Eco",
+            "Italo Calvino",
+            "Gabriel García Márquez",
+            "Jorge Luis Borges"
+        ],
+        "answer": "Umberto Eco"
+    },
+    {
+        "question": "¿Cuál es la capital de Ecuador?",
+        "options": [
+            "Guayaquil",
+            "Quito",
+            "Cuenca",
+            "Manta"
+        ],
+        "answer": "Quito"
+    },
+    {
+        "question": "¿Qué país es el origen del cava?",
+        "options": [
+            "Francia",
+            "Italia",
+            "España",
+            "Portugal"
+        ],
+        "answer": "España"
+    },
+    {
+        "question": "¿Quién escribió 'La isla del tesoro'?",
+        "options": [
+            "Robert Louis Stevenson",
+            "Mark Twain",
+            "Jules Verne",
+            "H.G. Wells"
+        ],
+        "answer": "Robert Louis Stevenson"
+    },
+    {
+        "question": "¿Cuál es la capital de Uruguay?",
+        "options": [
+            "Montevideo",
+            "Punta del Este",
+            "Salto",
+            "Colonia del Sacramento"
+        ],
+        "answer": "Montevideo"
+    },
+    {
+        "question": "¿Qué país es famoso por los tulipanes?",
+        "options": [
+            "Francia",
+            "Holanda",
+            "Bélgica",
+            "Alemania"
+        ],
+        "answer": "Holanda"
+    },
+    {
+        "question": "¿Quién escribió 'El guardián entre el centeno'?",
+        "options": [
+            "J.D. Salinger",
+            "Ernest Hemingway",
+            "F. Scott Fitzgerald",
+            "John Steinbeck"
+        ],
+        "answer": "J.D. Salinger"
+    },
+    {
+        "question": "¿Cuál es la capital de Paraguay?",
+        "options": [
+            "Asunción",
+            "Ciudad del Este",
+            "Encarnación",
+            "Luque"
+        ],
+        "answer": "Asunción"
+    },
+    {
+        "question": "¿Qué país es el origen del pisco?",
+        "options": [
+            "Perú",
+            "Chile",
+            "Argentina",
+            "Bolivia"
+        ],
+        "answer": "Perú"
+    },
+    {
+        "question": "¿Quién escribió 'El señor de los anillos'?",
+        "options": [
+            "J.R.R. Tolkien",
+            "C.S. Lewis",
+            "George R.R. Martin",
+            "J.K. Rowling"
+        ],
+        "answer": "J.R.R. Tolkien"
+    },
+    {
+        "question": "¿Cuál es la capital de Bolivia?",
+        "options": [
+            "La Paz",
+            "Sucre",
+            "Santa Cruz",
+            "Cochabamba"
+        ],
+        "answer": "Sucre"
+    },
+    {
+        "question": "¿Qué país es famoso por los gauchos?",
+        "options": [
+            "Argentina",
+            "Uruguay",
+            "Brasil",
+            "Chile"
+        ],
+        "answer": "Argentina"
+    },
+    {
+        "question": "¿Quién escribió 'La naranja mecánica'?",
+        "options": [
+            "Anthony Burgess",
+            "George Orwell",
+            "Aldous Huxley",
+            "Ray Bradbury"
+        ],
+        "answer": "Anthony Burgess"
+    },
+    {
+        "question": "¿Cuál es la capital de Costa Rica?",
+        "options": [
+            "San José",
+            "Limón",
+            "Heredia",
+            "Alajuela"
+        ],
+        "answer": "San José"
+    },
+    {
+        "question": "¿Qué país es el origen del tequila?",
+        "options": [
+            "México",
+            "España",
+            "Cuba",
+            "Colombia"
+        ],
+        "answer": "México"
+    },
+    {
+        "question": "¿Quién escribió 'El código Da Vinci'?",
+        "options": [
+            "Dan Brown",
+            "John Grisham",
+            "Stephen King",
+            "Michael Crichton"
+        ],
+        "answer": "Dan Brown"
+    },
+    {
+        "question": "¿Cuál es la capital de Panamá?",
+        "options": [
+            "Ciudad de Panamá",
+            "Colón",
+            "David",
+            "Santiago"
+        ],
+        "answer": "Ciudad de Panamá"
+    },
+    {
+        "question": "¿Qué país es famoso por los volcanes?",
+        "options": [
+            "Costa Rica",
+            "Ecuador",
+            "Chile",
+            "Islandia"
+        ],
+        "answer": "Costa Rica"
+    },
+    {
+        "question": "¿Quién escribió 'El alquimista'?",
+        "options": [
+            "Paulo Coelho",
+            "Gabriel García Márquez",
+            "Isabel Allende",
+            "Jorge Luis Borges"
+        ],
+        "answer": "Paulo Coelho"
+    },
+    {
+        "question": "¿Cuál es la capital de Cuba?",
+        "options": [
+            "La Habana",
+            "Santiago de Cuba",
+            "Camagüey",
+            "Trinidad"
+        ],
+        "answer": "La Habana"
+    },
+    {
+        "question": "¿Qué país es el origen del merengue?",
+        "options": [
+            "República Dominicana",
+            "Cuba",
+            "Puerto Rico",
+            "Colombia"
+        ],
+        "answer": "República Dominicana"
+    },
+    {
+        "question": "¿Quién escribió 'El perfume'?",
+        "options": [
+            "Patrick Süskind",
+            "Umberto Eco",
+            "Gabriel García Márquez",
+            "Milan Kundera"
+        ],
+        "answer": "Patrick Süskind"
+    },
+    {
+        "question": "¿Cuál es la capital de Puerto Rico?",
+        "options": [
+            "San Juan",
+            "Ponce",
+            "Mayagüez",
+            "Arecibo"
+        ],
+        "answer": "San Juan"
+    },
+    {
+        "question": "¿Qué país es famoso por los fiordos?",
+        "options": [
+            "Suecia",
+            "Noruega",
+            "Finlandia",
+            "Dinamarca"
+        ],
+        "answer": "Noruega"
+    },
+    {
+        "question": "¿Quién escribió 'El amor en los tiempos del cólera'?",
+        "options": [
+            "Gabriel García Márquez",
+            "Isabel Allende",
+            "Mario Vargas Llosa",
+            "Julio Cortázar"
+        ],
+        "answer": "Gabriel García Márquez"
+    },
+    {
+        "question": "¿Cuál es la capital de República Dominicana?",
+        "options": [
+            "Santo Domingo",
+            "Santiago",
+            "La Vega",
+            "San Pedro de Macorís"
+        ],
+        "answer": "Santo Domingo"
+    },
+    {
+        "question": "¿Qué país es el origen del café?",
+        "options": [
+            "Colombia",
+            "Brasil",
+            "Etiopía",
+            "Vietnam"
+        ],
+        "answer": "Etiopía"
+    },
+    {
+        "question": "¿Quién escribió 'La sombra del viento'?",
+        "options": [
+            "Carlos Ruiz Zafón",
+            "Arturo Pérez-Reverte",
+            "Javier Marías",
+            "Antonio Muñoz Molina"
+        ],
+        "answer": "Carlos Ruiz Zafón"
+    },
+    {
+        "question": "¿Cuál es la capital de Honduras?",
+        "options": [
+            "Tegucigalpa",
+            "San Pedro Sula",
+            "La Ceiba",
+            "Comayagua"
+        ],
+        "answer": "Tegucigalpa"
+    },
+    {
+        "question": "¿Qué país es famoso por los mayas?",
+        "options": [
+            "México",
+            "Guatemala",
+            "Belice",
+            "Honduras"
+        ],
+        "answer": "México"
+    },
+    {
+        "question": "¿Quién escribió 'La casa de los espíritus'?",
+        "options": [
+            "Isabel Allende",
+            "Gabriel García Márquez",
+            "Mario Vargas Llosa",
+            "Julio Cortázar"
+        ],
+        "answer": "Isabel Allende"
+    },
+    {
+        "question": "¿Cuál es la capital de Nicaragua?",
+        "options": [
+            "Managua",
+            "León",
+            "Granada",
+            "Masaya"
+        ],
+        "answer": "Managua"
+    },
+    {
+        "question": "¿Qué país es el origen del ron?",
+        "options": [
+            "Cuba",
+            "República Dominicana",
+            "Puerto Rico",
+            "Jamaica"
+        ],
+        "answer": "Cuba"
+    },
+    {
+        "question": "¿Quién escribió 'La ciudad y los perros'?",
+        "options": [
+            "Mario Vargas Llosa",
+            "Gabriel García Márquez",
+            "Julio Cortázar",
+            "Carlos Fuentes"
+        ],
+        "answer": "Mario Vargas Llosa"
+    },
+    {
+        "question": "¿Cuál es la capital de El Salvador?",
+        "options": [
+            "San Salvador",
+            "Santa Ana",
+            "San Miguel",
+            "La Libertad"
+        ],
+        "answer": "San Salvador"
+    },
+    {
+        "question": "¿Qué país es famoso por los moáis de la Isla de Pascua?",
+        "options": [
+            "Chile",
+            "Perú",
+            "Ecuador",
+            "Argentina"
+        ],
+        "answer": "Chile"
+    },
+    {
+        "question": "¿Quién escribió 'Rayuela'?",
+        "options": [
+            "Julio Cortázar",
+            "Gabriel García Márquez",
+            "Mario Vargas Llosa",
+            "Jorge Luis Borges"
+        ],
+        "answer": "Julio Cortázar"
+    },
+    {
+        "question": "¿Cuál es la capital de Guatemala?",
+        "options": [
+            "Ciudad de Guatemala",
+            "Antigua Guatemala",
+            "Quetzaltenango",
+            "Escuintla"
+        ],
+        "answer": "Ciudad de Guatemala"
+    },
+    {
+        "question": "¿Qué país es el origen del ceviche?",
+        "options": [
+            "Perú",
+            "Ecuador",
+            "Colombia",
+            "México"
+        ],
+        "answer": "Perú"
+    },
+    {
+        "question": "¿Quién escribió 'Ficciones'?",
+        "options": [
+            "Jorge Luis Borges",
+            "Julio Cortázar",
+            "Gabriel García Márquez",
+            "Mario Vargas Llosa"
+        ],
+        "answer": "Jorge Luis Borges"
+    },
+    {
+        "question": "¿Cuál es la capital de Belice?",
+        "options": [
+            "Belmopán",
+            "Ciudad de Belice",
+            "San Ignacio",
+            "Orange Walk"
+        ],
+        "answer": "Belmopán"
+    },
+    {
+        "question": "¿Qué país es famoso por los volcanes?",
+        "options": [
+            "Costa Rica",
+            "Ecuador",
+            "Chile",
+            "Islandia"
+        ],
+        "answer": "Costa Rica"
+    },
+    {
+        "question": "¿Quién escribió 'Cien años de soledad'?",
+        "options": [
+            "Gabriel García Márquez",
+            "Julio Cortázar",
+            "Mario Vargas Llosa",
+            "Jorge Luis Borges"
+        ],
+        "answer": "Gabriel García Márquez"
+    }
+]

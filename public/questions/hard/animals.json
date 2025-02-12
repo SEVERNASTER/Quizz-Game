@@ -1,0 +1,542 @@
+[
+    {
+        "question": "¿A qué velocidad puede mover un colibrí sus alas?",
+        "options": [
+            "80 veces/segundo",
+            "60 veces/segundo",
+            "70 veces/segundo",
+            "90 veces/segundo"
+        ],
+        "answer": "80 veces/segundo"
+    },
+    {
+        "question": "¿Cuál es el promedio de vida de un cóndor andino en libertad?",
+        "options": [
+            "50 años",
+            "40 años",
+            "60 años",
+            "45 años"
+        ],
+        "answer": "50 años"
+    },
+    {
+        "question": "¿Qué especie de medusa es considerada biológicamente inmortal?",
+        "options": [
+            "Turritopsis dohrnii",
+            "Aurelia aurita",
+            "Chrysaora hysoscella",
+            "Pelagia noctiluca"
+        ],
+        "answer": "Turritopsis dohrnii"
+    },
+    {
+        "question": "¿Cuál es la profundidad máxima a la que se ha registrado un cachalote?",
+        "options": [
+            "2,992 metros",
+            "2,200 metros",
+            "3,200 metros",
+            "1,800 metros"
+        ],
+        "answer": "2,992 metros"
+    },
+    {
+        "question": "¿Qué animal tiene el veneno más potente del mundo?",
+        "options": [
+            "Caracol cono geógrafo",
+            "Cobra real",
+            "Araña de embudo",
+            "Medusa caja"
+        ],
+        "answer": "Caracol cono geógrafo"
+    },
+    {
+        "question": "¿Cuál es la temperatura corporal promedio de un pingüino emperador?",
+        "options": [
+            "39°C",
+            "37°C",
+            "35°C",
+            "41°C"
+        ],
+        "answer": "39°C"
+    },
+    {
+        "question": "¿Qué especie de ave puede volar hacia atrás?",
+        "options": [
+            "Colibrí",
+            "Águila",
+            "Halcón",
+            "Búho"
+        ],
+        "answer": "Colibrí"
+    },
+    {
+        "question": "¿Cuántos corazones tiene un pulpo?",
+        "options": [
+            "3",
+            "2",
+            "4",
+            "1"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "¿Qué animal puede sobrevivir siendo congelado hasta el 65% de su cuerpo?",
+        "options": [
+            "Rana de la madera",
+            "Salamandra",
+            "Lagarto cornudo",
+            "Tritón"
+        ],
+        "answer": "Rana de la madera"
+    },
+    {
+        "question": "¿Cuál es el único mamífero que no puede saltar?",
+        "options": [
+            "Elefante",
+            "Rinoceronte",
+            "Hipopótamo",
+            "Jirafa"
+        ],
+        "answer": "Elefante"
+    },
+    {
+        "question": "¿Qué especie de tiburón vive más tiempo?",
+        "options": [
+            "Tiburón de Groenlandia",
+            "Tiburón blanco",
+            "Tiburón ballena",
+            "Tiburón tigre"
+        ],
+        "answer": "Tiburón de Groenlandia"
+    },
+    {
+        "question": "¿Cuál es la velocidad máxima del guepardo en una carrera corta?",
+        "options": [
+            "120 km/h",
+            "100 km/h",
+            "110 km/h",
+            "130 km/h"
+        ],
+        "answer": "120 km/h"
+    },
+    {
+        "question": "¿Qué animal tiene el cerebro más grande en relación a su tamaño corporal?",
+        "options": [
+            "Hormiga",
+            "Delfín",
+            "Humano",
+            "Chimpancé"
+        ],
+        "answer": "Hormiga"
+    },
+    {
+        "question": "¿Cuántos años puede vivir una tortuga de las Galápagos?",
+        "options": [
+            "Más de 100 años",
+            "80 años",
+            "90 años",
+            "70 años"
+        ],
+        "answer": "Más de 100 años"
+    },
+    {
+        "question": "¿Qué animal puede regenerar su cerebro?",
+        "options": [
+            "Axolote",
+            "Lagartija",
+            "Estrella de mar",
+            "Cangrejo"
+        ],
+        "answer": "Axolote"
+    },
+    {
+        "question": "¿Cuál es el único mamífero que no puede mover la mandíbula hacia los lados?",
+        "options": [
+            "Vaca",
+            "Caballo",
+            "Cerdo",
+            "Oveja"
+        ],
+        "answer": "Vaca"
+    },
+    {
+        "question": "¿Qué animal tiene la mordida más fuerte del mundo?",
+        "options": [
+            "Cocodrilo de agua salada",
+            "Hipopótamo",
+            "Tiburón blanco",
+            "Orca"
+        ],
+        "answer": "Cocodrilo de agua salada"
+    },
+    {
+        "question": "¿Cuánto tiempo puede aguantar sin respirar una ballena boreal?",
+        "options": [
+            "85 minutos",
+            "60 minutos",
+            "70 minutos",
+            "95 minutos"
+        ],
+        "answer": "85 minutos"
+    },
+    {
+        "question": "¿Qué animal tiene la lengua más larga en relación a su cuerpo?",
+        "options": [
+            "Camaleón",
+            "Oso hormiguero",
+            "Jirafa",
+            "Serpiente"
+        ],
+        "answer": "Camaleón"
+    },
+    {
+        "question": "¿Cuál es el único mamífero que no tiene cuerdas vocales?",
+        "options": [
+            "Jirafa",
+            "Koala",
+            "Tortuga",
+            "Armadillo"
+        ],
+        "answer": "Jirafa"
+    },
+    {
+        "question": "¿Qué animal puede cambiar su sexo biológico naturalmente?",
+        "options": [
+            "Pez payaso",
+            "Caballito de mar",
+            "Tortuga marina",
+            "Rana"
+        ],
+        "answer": "Pez payaso"
+    },
+    {
+        "question": "¿Cuántos dientes tiene un caracol?",
+        "options": [
+            "14,000",
+            "10,000",
+            "12,000",
+            "16,000"
+        ],
+        "answer": "14,000"
+    },
+    {
+        "question": "¿Qué animal puede dormir hasta 22 horas al día?",
+        "options": [
+            "Koala",
+            "Perezoso",
+            "Panda",
+            "Armadillo"
+        ],
+        "answer": "Koala"
+    },
+    {
+        "question": "¿Cuál es el único mamífero que puede volar?",
+        "options": [
+            "Murciélago",
+            "Ardilla voladora",
+            "Lémur volador",
+            "Petauro del azúcar"
+        ],
+        "answer": "Murciélago"
+    },
+    {
+        "question": "¿Qué animal tiene la mayor presión sanguínea?",
+        "options": [
+            "Jirafa",
+            "Elefante",
+            "Ballena azul",
+            "Hipopótamo"
+        ],
+        "answer": "Jirafa"
+    },
+    {
+        "question": "¿Cuántos estómagos tiene una vaca?",
+        "options": [
+            "4",
+            "3",
+            "2",
+            "5"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "¿Qué animal puede sobrevivir sin cerebro hasta 9 días?",
+        "options": [
+            "Cucaracha",
+            "Lombriz",
+            "Araña",
+            "Hormiga"
+        ],
+        "answer": "Cucaracha"
+    },
+    {
+        "question": "¿Cuál es el animal más venenoso del mundo?",
+        "options": [
+            "Avispa de mar",
+            "Serpiente taipán",
+            "Rana dorada",
+            "Araña brasileña"
+        ],
+        "answer": "Avispa de mar"
+    },
+    {
+        "question": "¿Qué animal puede ver en todas direcciones al mismo tiempo?",
+        "options": [
+            "Camaleón",
+            "Búho",
+            "Águila",
+            "Halcón"
+        ],
+        "answer": "Camaleón"
+    },
+    {
+        "question": "¿Cuántos huesos tiene un tiburón?",
+        "options": [
+            "0",
+            "206",
+            "150",
+            "300"
+        ],
+        "answer": "0"
+    },
+    {
+        "question": "¿Qué animal tiene la mayor esperanza de vida?",
+        "options": [
+            "Esponja de cristal antártica",
+            "Tortuga gigante",
+            "Ballena boreal",
+            "Tiburón de Groenlandia"
+        ],
+        "answer": "Esponja de cristal antártica"
+    },
+    {
+        "question": "¿Cuál es el único mamífero que pone huevos?",
+        "options": [
+            "Ornitorrinco",
+            "Equidna",
+            "Ambos",
+            "Ninguno"
+        ],
+        "answer": "Ambos"
+    },
+    {
+        "question": "¿Qué animal tiene el corazón más grande en proporción a su cuerpo?",
+        "options": [
+            "Colibrí",
+            "Ballena azul",
+            "Ratón",
+            "Elefante"
+        ],
+        "answer": "Colibrí"
+    },
+    {
+        "question": "¿Cuántos músculos tiene la trompa de un elefante?",
+        "options": [
+            "40,000",
+            "30,000",
+            "50,000",
+            "60,000"
+        ],
+        "answer": "40,000"
+    },
+    {
+        "question": "¿Qué animal puede reconocerse a sí mismo en un espejo?",
+        "options": [
+            "Delfín",
+            "Perro",
+            "Gato",
+            "Caballo"
+        ],
+        "answer": "Delfín"
+    },
+    {
+        "question": "¿Cuál es el único animal que no puede contraer rabia?",
+        "options": [
+            "Zarigüeya",
+            "Mapache",
+            "Murciélago",
+            "Zorro"
+        ],
+        "answer": "Zarigüeya"
+    },
+    {
+        "question": "¿Qué animal tiene la mayor cantidad de neuronas?",
+        "options": [
+            "Elefante africano",
+            "Humano",
+            "Delfín",
+            "Gorila"
+        ],
+        "answer": "Elefante africano"
+    },
+    {
+        "question": "¿Cuál es la velocidad máxima de un halcón peregrino en picada?",
+        "options": [
+            "389 km/h",
+            "320 km/h",
+            "350 km/h",
+            "400 km/h"
+        ],
+        "answer": "389 km/h"
+    },
+    {
+        "question": "¿Qué animal puede vivir sin comida durante más tiempo?",
+        "options": [
+            "Tardigrado",
+            "Camello",
+            "Serpiente",
+            "Oso polar"
+        ],
+        "answer": "Tardigrado"
+    },
+    {
+        "question": "¿Cuántos años puede vivir una langosta?",
+        "options": [
+            "100 años",
+            "80 años",
+            "120 años",
+            "90 años"
+        ],
+        "answer": "100 años"
+    },
+    {
+        "question": "¿Qué animal tiene el mejor sentido del olfato?",
+        "options": [
+            "Oso polar",
+            "Perro",
+            "Elefante",
+            "Tiburón"
+        ],
+        "answer": "Oso polar"
+    },
+    {
+        "question": "¿Cuál es el único animal que no puede saltar ni nadar?",
+        "options": [
+            "Gorila",
+            "Elefante",
+            "Jirafa",
+            "Hipopótamo"
+        ],
+        "answer": "Gorila"
+    },
+    {
+        "question": "¿Qué animal tiene los ojos más grandes del mundo?",
+        "options": [
+            "Calamar gigante",
+            "Ballena azul",
+            "Elefante",
+            "Tiburón ballena"
+        ],
+        "answer": "Calamar gigante"
+    },
+    {
+        "question": "¿Cuántos años puede vivir un erizo de mar rojo?",
+        "options": [
+            "200 años",
+            "150 años",
+            "180 años",
+            "220 años"
+        ],
+        "answer": "200 años"
+    },
+    {
+        "question": "¿Qué animal tiene la mayor cantidad de dientes?",
+        "options": [
+            "Caracol de jardín",
+            "Tiburón",
+            "Delfín",
+            "Cocodrilo"
+        ],
+        "answer": "Caracol de jardín"
+    },
+    {
+        "question": "¿Cuál es el único mamífero que no puede pestañear?",
+        "options": [
+            "Ballena",
+            "Delfín",
+            "Foca",
+            "Morsa"
+        ],
+        "answer": "Ballena"
+    },
+    {
+        "question": "¿Qué animal puede regenerar su corazón?",
+        "options": [
+            "Pez cebra",
+            "Salamandra",
+            "Estrella de mar",
+            "Lagartija"
+        ],
+        "answer": "Pez cebra"
+    },
+    {
+        "question": "¿Cuántos brazos tiene un pulpo gigante del Pacífico?",
+        "options": [
+            "8",
+            "6",
+            "10",
+            "12"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "¿Qué animal puede cambiar el color de su sangre?",
+        "options": [
+            "Lagarto cornudo",
+            "Camaleón",
+            "Rana venenosa",
+            "Salamandra"
+        ],
+        "answer": "Lagarto cornudo"
+    },
+    {
+        "question": "¿Cuál es el único pájaro que puede volar hacia atrás y de lado?",
+        "options": [
+            "Colibrí",
+            "Golondrina",
+            "Águila",
+            "Halcón"
+        ],
+        "answer": "Colibrí"
+    },
+    {
+        "question": "¿Qué porcentaje de su vida pasa durmiendo un león?",
+        "options": [
+            "20 horas al día",
+            "16 horas al día",
+            "18 horas al día",
+            "14 horas al día"
+        ],
+        "answer": "20 horas al día"
+    },
+    {
+        "question": "¿Cuál es la única especie de oso que es completamente herbívora?",
+        "options": [
+            "Panda gigante",
+            "Oso negro",
+            "Oso polar",
+            "Oso pardo"
+        ],
+        "answer": "Panda gigante"
+    },
+    {
+        "question": "¿Qué animal tiene el periodo de gestación más largo?",
+        "options": [
+            "Elefante africano",
+            "Ballena azul",
+            "Jirafa",
+            "Rinoceronte"
+        ],
+        "answer": "Elefante africano"
+    },
+    {
+        "question": "¿Cuál es la temperatura corporal más alta registrada en un animal?",
+        "options": [
+            "Picaflor",
+            "Colibrí",
+            "Águila",
+            "Halcón"
+        ],
+        "answer": "Picaflor"
+    }
+]

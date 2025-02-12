@@ -1,0 +1,442 @@
+[
+    {
+        "question": "¿Qué es la teoría de cuerdas?",
+        "options": [
+            "Una teoría que describe las partículas fundamentales como cuerdas vibrantes",
+            "Una teoría que postula que el espacio-tiempo es curvado por la gravedad",
+            "Una teoría que intenta unificar todas las fuerzas fundamentales mediante partículas mediadoras",
+            "Una teoría que establece que el espacio-tiempo es estático"
+        ],
+        "answer": "Una teoría que describe las partículas fundamentales como cuerdas vibrantes"
+    },
+    {
+        "question": "¿Qué es un agujero negro?",
+        "options": [
+            "Una región en el espacio donde la gravedad es tan intensa que nada, ni la luz, puede escapar",
+            "Una región donde la materia se disipa a gran velocidad",
+            "Un objeto extremadamente denso que tiene una temperatura muy baja",
+            "Un agujero en el espacio-tiempo que no afecta a los objetos cercanos"
+        ],
+        "answer": "Una región en el espacio donde la gravedad es tan intensa que nada, ni la luz, puede escapar"
+    },
+    {
+        "question": "¿Qué es la constante cosmológica?",
+        "options": [
+            "Un término en las ecuaciones de la relatividad general que describe la densidad de energía del vacío",
+            "La constante que determina la aceleración de los cuerpos en caída libre",
+            "La constante que mide la expansión de un agujero negro",
+            "La constante que determina la velocidad de la luz"
+        ],
+        "answer": "Un término en las ecuaciones de la relatividad general que describe la densidad de energía del vacío"
+    },
+    {
+        "question": "¿Qué predice la teoría de la relatividad general de Einstein?",
+        "options": [
+            "Que la gravedad es el resultado de la curvatura del espacio-tiempo",
+            "Que los agujeros negros no existen",
+            "Que el tiempo es constante en todo el universo",
+            "Que la velocidad de la luz es variable"
+        ],
+        "answer": "Que la gravedad es el resultado de la curvatura del espacio-tiempo"
+    },
+    {
+        "question": "¿Qué es la paradoja de los gemelos en la teoría de la relatividad especial?",
+        "options": [
+            "Dos gemelos se mueven a velocidades cercanas a la luz y experimentan el paso del tiempo de forma diferente",
+            "Un gemelo envejece más rápido debido a la aceleración",
+            "El gemelo en movimiento siempre envejece más lento",
+            "Un gemelo experimenta la relatividad general mientras que el otro la especial"
+        ],
+        "answer": "Dos gemelos se mueven a velocidades cercanas a la luz y experimentan el paso del tiempo de forma diferente"
+    },
+    {
+        "question": "¿Qué es el entrelazamiento cuántico?",
+        "options": [
+            "Un fenómeno en el que las partículas están correlacionadas de manera tal que el estado de una influye instantáneamente en la otra",
+            "Un fenómeno en el que las partículas se separan en diferentes dimensiones",
+            "Un fenómeno donde las partículas permanecen separadas pero influyen una sobre la otra",
+            "Una forma de interacción gravitacional entre partículas"
+        ],
+        "answer": "Un fenómeno en el que las partículas están correlacionadas de manera tal que el estado de una influye instantáneamente en la otra"
+    },
+    {
+        "question": "¿Qué es la cuantización de la energía en la mecánica cuántica?",
+        "options": [
+            "Que la energía solo puede tomar valores discretos en lugar de continuos",
+            "Que la energía siempre es constante en un sistema cerrado",
+            "Que la energía de un sistema está determinada únicamente por su temperatura",
+            "Que la energía se distribuye uniformemente en todo el sistema"
+        ],
+        "answer": "Que la energía solo puede tomar valores discretos en lugar de continuos"
+    },
+    {
+        "question": "¿Qué es el principio de incertidumbre de Heisenberg?",
+        "options": [
+            "Es imposible conocer simultáneamente la posición y la velocidad exactas de una partícula",
+            "La posición de una partícula se encuentra determinada por su velocidad",
+            "La energía de un sistema es constante",
+            "No se puede medir la temperatura de una partícula con precisión"
+        ],
+        "answer": "Es imposible conocer simultáneamente la posición y la velocidad exactas de una partícula"
+    },
+    {
+        "question": "¿Qué es la antimateria?",
+        "options": [
+            "Un tipo de materia compuesta por partículas que tienen carga opuesta a la de las partículas normales",
+            "Una forma de materia que solo existe en agujeros negros",
+            "Una forma de materia que nunca ha sido observada",
+            "Un tipo de energía que no interactúa con la materia normal"
+        ],
+        "answer": "Un tipo de materia compuesta por partículas que tienen carga opuesta a la de las partículas normales"
+    },
+    {
+        "question": "¿Qué es la teoría cuántica de campos?",
+        "options": [
+            "Es una formulación que describe partículas como excitaciones de campos fundamentales",
+            "Es una teoría que postula que las partículas no existen en el espacio-tiempo",
+            "Es una teoría que intenta unificar la mecánica cuántica con la relatividad general",
+            "Es una descripción clásica de la materia a nivel microscópico"
+        ],
+        "answer": "Es una formulación que describe partículas como excitaciones de campos fundamentales"
+    },
+    {
+        "question": "¿Qué describe el efecto Casimir?",
+        "options": [
+            "La fuerza atractiva entre dos placas conductoras en el vacío debido a la fluctuación del campo cuántico",
+            "La atracción entre objetos con masa en el espacio-tiempo curvado",
+            "El intercambio de energía entre átomos a través de ondas electromagnéticas",
+            "La compresión de ondas electromagnéticas a bajas frecuencias"
+        ],
+        "answer": "La fuerza atractiva entre dos placas conductoras en el vacío debido a la fluctuación del campo cuántico"
+    },
+    {
+        "question": "¿Qué es la energía de vacío?",
+        "options": [
+            "La energía contenida en el vacío debido a las fluctuaciones cuánticas",
+            "La energía necesaria para crear un agujero negro",
+            "La energía asociada con el campo gravitacional de un planeta",
+            "La energía debida a las interacciones electromagnéticas"
+        ],
+        "answer": "La energía contenida en el vacío debido a las fluctuaciones cuánticas"
+    },
+    {
+        "question": "¿Qué es la relatividad general?",
+        "options": [
+            "La teoría que describe la gravedad como la curvatura del espacio-tiempo causada por la masa y energía",
+            "La teoría que explica el comportamiento de las partículas a velocidades cercanas a la luz",
+            "La teoría que describe cómo las partículas subatómicas interactúan",
+            "La teoría que describe la interacción electromagnética entre cargas"
+        ],
+        "answer": "La teoría que describe la gravedad como la curvatura del espacio-tiempo causada por la masa y energía"
+    },
+    {
+        "question": "¿Qué es la ecuación de Schrödinger?",
+        "options": [
+            "Una ecuación que describe cómo evoluciona el estado cuántico de un sistema",
+            "Una ecuación que predice el comportamiento de las partículas a alta velocidad",
+            "Una ecuación que describe la relación entre materia y energía",
+            "Una ecuación que describe el campo gravitacional en el espacio-tiempo"
+        ],
+        "answer": "Una ecuación que describe cómo evoluciona el estado cuántico de un sistema"
+    },
+    {
+        "question": "¿Qué es el modelo estándar de la física de partículas?",
+        "options": [
+            "Es la teoría que describe las partículas elementales y sus interacciones fundamentales",
+            "Es una teoría sobre las fuerzas gravitacionales en el universo",
+            "Es un modelo que describe la energía nuclear",
+            "Es un modelo que predice el comportamiento de los agujeros negros"
+        ],
+        "answer": "Es la teoría que describe las partículas elementales y sus interacciones fundamentales"
+    },
+    {
+        "question": "¿Qué es la energía oscura?",
+        "options": [
+            "Una forma de energía que impulsa la expansión acelerada del universo",
+            "Una forma de energía que se encuentra en el interior de los agujeros negros",
+            "Una forma de energía almacenada en las partículas elementales",
+            "Una forma de energía que está relacionada con la materia oscura"
+        ],
+        "answer": "Una forma de energía que impulsa la expansión acelerada del universo"
+    },
+    {
+        "question": "¿Qué son las partículas virtuales en la mecánica cuántica?",
+        "options": [
+            "Partículas que existen solo durante un breve momento en las interacciones",
+            "Partículas que pueden moverse a la velocidad de la luz",
+            "Partículas que son invisibles y no interactúan con otras partículas",
+            "Partículas que siempre se encuentran en un estado de reposo"
+        ],
+        "answer": "Partículas que existen solo durante un breve momento en las interacciones"
+    },
+    {
+        "question": "¿Qué es el principio de superposición cuántica?",
+        "options": [
+            "Que una partícula puede existir en múltiples estados a la vez hasta ser observada",
+            "Que los estados de las partículas no pueden ser observados simultáneamente",
+            "Que los sistemas cuánticos se comportan igual que los sistemas clásicos",
+            "Que las partículas interactúan solo bajo condiciones específicas"
+        ],
+        "answer": "Que una partícula puede existir en múltiples estados a la vez hasta ser observada"
+    },
+    {
+        "question": "¿Qué es un cuásar?",
+        "options": [
+            "Un objeto astronómico extremadamente luminoso asociado con un agujero negro supermasivo",
+            "Una estrella que explota como una supernova",
+            "Un planeta que emite radiación electromagnética",
+            "Una nube de gas ionizado que emite luz en frecuencias muy altas"
+        ],
+        "answer": "Un objeto astronómico extremadamente luminoso asociado con un agujero negro supermasivo"
+    },
+    {
+        "question": "¿Qué es el principio de exclusión de Pauli?",
+        "options": [
+            "No puede haber dos partículas fermiónicas idénticas ocupando el mismo estado cuántico",
+            "Las partículas siempre se distribuyen uniformemente en un sistema",
+            "Las partículas se excluyen mutuamente en un campo magnético",
+            "No puede existir una partícula sin spin"
+        ],
+        "answer": "No puede haber dos partículas fermiónicas idénticas ocupando el mismo estado cuántico"
+    },
+    {
+        "question": "¿Qué describe la ecuación de Einstein E = mc²?",
+        "options": [
+            "La equivalencia entre la energía y la masa",
+            "La relación entre la velocidad de la luz y el espacio-tiempo",
+            "La energía que produce un agujero negro",
+            "La energía de una partícula en movimiento"
+        ],
+        "answer": "La equivalencia entre la energía y la masa"
+    },
+    {
+        "question": "¿Qué es el bosón de Higgs?",
+        "options": [
+            "Una partícula elemental que otorga masa a otras partículas",
+            "Una partícula mediadora de la interacción gravitacional",
+            "Una partícula responsable de la radiación electromagnética",
+            "Una partícula que no interactúa con el campo electromagnético"
+        ],
+        "answer": "Una partícula elemental que otorga masa a otras partículas"
+    },
+    {
+        "question": "¿Qué son las ondas gravitacionales?",
+        "options": [
+            "Ondas que transportan energía en el espacio-tiempo y son causadas por aceleraciones masivas",
+            "Ondas producidas por la interacción de partículas elementales",
+            "Ondas que transportan la radiación electromagnética",
+            "Ondas de alta frecuencia causadas por el movimiento de las partículas subatómicas"
+        ],
+        "answer": "Ondas que transportan energía en el espacio-tiempo y son causadas por aceleraciones masivas"
+    },
+    {
+        "question": "¿Qué es la paradoja de Schödinger?",
+        "options": [
+            "Una paradoja que describe cómo una partícula puede estar en múltiples estados a la vez",
+            "Una paradoja que describe la interacción entre partículas de antimateria",
+            "Una paradoja que describe el comportamiento de un electrón en un campo magnético",
+            "Una paradoja que predice la existencia de un universo paralelo"
+        ],
+        "answer": "Una paradoja que describe cómo una partícula puede estar en múltiples estados a la vez"
+    },
+    {
+        "question": "¿Qué son los fermiones?",
+        "options": [
+            "Partículas con espín semientero que obedecen el principio de exclusión de Pauli",
+            "Partículas sin espín que se comportan como ondas",
+            "Partículas con espín entero que transmiten las interacciones fundamentales",
+            "Partículas que viajan a la velocidad de la luz"
+        ],
+        "answer": "Partículas con espín semientero que obedecen el principio de exclusión de Pauli"
+    },
+    {
+        "question": "¿Qué es un bosón?",
+        "options": [
+            "Una partícula con espín entero que puede ocupar el mismo estado cuántico",
+            "Una partícula con espín semientero que no puede compartir el mismo estado cuántico",
+            "Una partícula que nunca interactúa con la materia",
+            "Una partícula que está fuera del Modelo Estándar"
+        ],
+        "answer": "Una partícula con espín entero que puede ocupar el mismo estado cuántico"
+    },
+    {
+        "question": "¿Qué es la singularidad gravitacional?",
+        "options": [
+            "Un punto en el que la densidad y la gravedad son infinitas, como en un agujero negro",
+            "Una singularidad en el espacio-tiempo donde la luz no puede escapar",
+            "Un fenómeno relacionado con la aceleración de las partículas subatómicas",
+            "Una región del espacio donde las leyes de la física dejan de ser aplicables"
+        ],
+        "answer": "Un punto en el que la densidad y la gravedad son infinitas, como en un agujero negro"
+    },
+    {
+        "question": "¿Qué es la teoría de la gravedad cuántica?",
+        "options": [
+            "Una teoría que intenta unificar la mecánica cuántica con la relatividad general",
+            "Una teoría que predice la existencia de dimensiones adicionales",
+            "Una teoría que describe la fuerza de la gravedad a nivel atómico",
+            "Una teoría que explica los fenómenos electromagnéticos"
+        ],
+        "answer": "Una teoría que intenta unificar la mecánica cuántica con la relatividad general"
+    },
+    {
+        "question": "¿Qué es el principio de mínima acción en física?",
+        "options": [
+            "El principio que afirma que el sistema sigue el camino de menor acción posible",
+            "El principio que describe cómo se puede maximizar la energía de un sistema",
+            "El principio que establece que la masa siempre se conserva en un sistema",
+            "El principio que describe cómo se mantiene constante la velocidad en un sistema"
+        ],
+        "answer": "El principio que afirma que el sistema sigue el camino de menor acción posible"
+    },
+    {
+        "question": "¿Qué es la energía cinética relativista?",
+        "options": [
+            "La energía de un objeto en movimiento que toma en cuenta los efectos relativistas",
+            "La energía de un objeto estacionario en un campo gravitacional",
+            "La energía almacenada en el espacio vacío",
+            "La energía de un objeto en movimiento en un sistema no relativista"
+        ],
+        "answer": "La energía de un objeto en movimiento que toma en cuenta los efectos relativistas"
+    },
+    {
+        "question": "¿Qué es un neutrón?",
+        "options": [
+            "Una partícula subatómica sin carga eléctrica y con una masa similar a la del protón",
+            "Una partícula subatómica cargada positivamente",
+            "Una partícula con una carga negativa muy débil",
+            "Una partícula que interactúa únicamente con la gravedad"
+        ],
+        "answer": "Una partícula subatómica sin carga eléctrica y con una masa similar a la del protón"
+    },
+    {
+        "question": "¿Qué es la materia oscura?",
+        "options": [
+            "Una forma de materia invisible que interactúa gravitacionalmente pero no electromagnéticamente",
+            "Una forma de energía que se encuentra en los agujeros negros",
+            "Una forma de materia que emite luz en longitudes de onda muy largas",
+            "Una forma de materia que se puede detectar con tecnología de rayos X"
+        ],
+        "answer": "Una forma de materia invisible que interactúa gravitacionalmente pero no electromagnéticamente"
+    },
+    {
+        "question": "¿Qué es el bosón W?",
+        "options": [
+            "Una partícula mediadora de la interacción débil",
+            "Una partícula mediadora de la interacción electromagnética",
+            "Una partícula que describe la gravedad",
+            "Una partícula subatómica estable"
+        ],
+        "answer": "Una partícula mediadora de la interacción débil"
+    },
+    {
+        "question": "¿Qué predice la teoría de la inflación cósmica?",
+        "options": [
+            "Que el universo experimentó una expansión exponencial extremadamente rápida en los primeros instantes",
+            "Que el universo es estático y no cambia con el tiempo",
+            "Que las galaxias están en reposo con respecto al espacio-tiempo",
+            "Que la materia oscura controla la expansión del universo"
+        ],
+        "answer": "Que el universo experimentó una expansión exponencial extremadamente rápida en los primeros instantes"
+    },
+    {
+        "question": "¿Qué es la radiación de Hawking?",
+        "options": [
+            "Radiación emitida por un agujero negro debido a efectos cuánticos cerca de su horizonte de eventos",
+            "Radiación emitida por una estrella en el proceso de fusión nuclear",
+            "Radiación emitida por la desintegración de partículas subatómicas",
+            "Radiación electromagnética producida por una explosión estelar"
+        ],
+        "answer": "Radiación emitida por un agujero negro debido a efectos cuánticos cerca de su horizonte de eventos"
+    },
+    {
+        "question": "¿Qué es la entropía en termodinámica?",
+        "options": [
+            "Una medida de la dispersión de la energía en un sistema",
+            "Una medida de la cantidad de trabajo realizado por un sistema",
+            "Una medida de la temperatura de un sistema",
+            "Una medida de la velocidad de las partículas en un sistema"
+        ],
+        "answer": "Una medida de la dispersión de la energía en un sistema"
+    },
+    {
+        "question": "¿Qué es un cuántico en el contexto de la mecánica cuántica?",
+        "options": [
+            "La unidad mínima de una cantidad física que se puede intercambiar",
+            "Una partícula que transmite la fuerza gravitacional",
+            "Una constante que define la velocidad de la luz",
+            "La velocidad máxima alcanzable por una partícula"
+        ],
+        "answer": "La unidad mínima de una cantidad física que se puede intercambiar"
+    },
+    {
+        "question": "¿Qué es la paradoja de Olbers?",
+        "options": [
+            "La paradoja que explica por qué el cielo nocturno es oscuro a pesar de la gran cantidad de estrellas",
+            "La paradoja que describe la existencia de agujeros negros",
+            "La paradoja que predice que el universo es infinito y estático",
+            "La paradoja que describe las fluctuaciones cuánticas en el vacío"
+        ],
+        "answer": "La paradoja que explica por qué el cielo nocturno es oscuro a pesar de la gran cantidad de estrellas"
+    },
+    {
+        "question": "¿Qué es la constante de Planck?",
+        "options": [
+            "Una constante fundamental que describe la cuantización de la energía",
+            "Una constante que mide la velocidad de la luz en el vacío",
+            "Una constante que determina la expansión del universo",
+            "Una constante que describe la fuerza gravitacional"
+        ],
+        "answer": "Una constante fundamental que describe la cuantización de la energía"
+    },
+    {
+        "question": "¿Qué es la geometría no euclidiana?",
+        "options": [
+            "Una geometría en la que no se cumplen las reglas tradicionales de Euclides sobre líneas paralelas",
+            "Una geometría que describe las trayectorias de los planetas",
+            "Una geometría usada para describir el espacio-tiempo plano",
+            "Una geometría que describe el espacio euclidiano en 4 dimensiones"
+        ],
+        "answer": "Una geometría en la que no se cumplen las reglas tradicionales de Euclides sobre líneas paralelas"
+    },
+    {
+        "question": "¿Qué es la expansión acelerada del universo?",
+        "options": [
+            "El fenómeno en el que el universo se está expandiendo a un ritmo creciente",
+            "El fenómeno en el que el universo se está contrayendo debido a la gravedad",
+            "El fenómeno en el que la materia se distribuye uniformemente en todo el universo",
+            "El fenómeno en el que los agujeros negros absorben más materia"
+        ],
+        "answer": "El fenómeno en el que el universo se está expandiendo a un ritmo creciente"
+    },
+    {
+        "question": "¿Qué es el teorema de Bell?",
+        "options": [
+            "Un teorema que muestra que las predicciones de la mecánica cuántica no pueden ser explicadas por teorías locales y deterministas",
+            "Un teorema que predice el comportamiento de las partículas subatómicas en un campo electromagnético",
+            "Un teorema que describe la interacción entre partículas a altas energías",
+            "Un teorema que predice el comportamiento de los agujeros negros"
+        ],
+        "answer": "Un teorema que muestra que las predicciones de la mecánica cuántica no pueden ser explicadas por teorías locales y deterministas"
+    },
+    {
+        "question": "¿Qué es un agujero negro?",
+        "options": [
+            "Una región del espacio donde la gravedad es tan fuerte que nada puede escapar, ni siquiera la luz",
+            "Una estrella que ha agotado su energía y se ha convertido en una enana blanca",
+            "Un agujero en el espacio-tiempo que permite viajar a través de dimensiones paralelas",
+            "Una región del espacio donde se acumula la materia oscura"
+        ],
+        "answer": "Una región del espacio donde la gravedad es tan fuerte que nada puede escapar, ni siquiera la luz"
+    },
+    {
+        "question": "¿Qué es la teoría de cuerdas?",
+        "options": [
+            "Una teoría que propone que las partículas subatómicas son en realidad cuerdas vibrantes en múltiples dimensiones",
+            "Una teoría que describe la interacción entre el espacio-tiempo y la materia oscura",
+            "Una teoría que explica la expansión del universo",
+            "Una teoría que describe la naturaleza de la gravedad en términos de partículas"
+        ],
+        "answer": "Una teoría que propone que las partículas subatómicas son en realidad cuerdas vibrantes en múltiples dimensiones"
+    }
+]

@@ -1,0 +1,532 @@
+[
+    {
+        "question": "¿Qué significa OOP?",
+        "options": [
+            "Object Oriented Programming",
+            "Object Oriented Protocol",
+            "Object Oriented Process",
+            "Object Oriented Package"
+        ],
+        "answer": "Object Oriented Programming"
+    },
+    {
+        "question": "¿Cuál es la palabra clave para crear una clase en Java?",
+        "options": [
+            "class",
+            "struct",
+            "object",
+            "program"
+        ],
+        "answer": "class"
+    },
+    {
+        "question": "¿Qué es un constructor en Java?",
+        "options": [
+            "Un método especial para inicializar objetos",
+            "Una variable de clase",
+            "Un tipo de dato",
+            "Una interfaz"
+        ],
+        "answer": "Un método especial para inicializar objetos"
+    },
+    {
+        "question": "¿Cuál es el modificador de acceso más restrictivo en Java?",
+        "options": [
+            "private",
+            "public",
+            "protected",
+            "default"
+        ],
+        "answer": "private"
+    },
+    {
+        "question": "¿Qué palabra clave se usa para heredar de una clase?",
+        "options": [
+            "extends",
+            "implements",
+            "inherits",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "question": "¿Cuál es el tipo de dato para números enteros más común en Java?",
+        "options": [
+            "int",
+            "long",
+            "byte",
+            "short"
+        ],
+        "answer": "int"
+    },
+    {
+        "question": "¿Qué palabra clave se usa para crear una instancia de una clase?",
+        "options": [
+            "new",
+            "create",
+            "instance",
+            "init"
+        ],
+        "answer": "new"
+    },
+    {
+        "question": "¿Cuál es el valor por defecto de un atributo boolean?",
+        "options": [
+            "false",
+            "true",
+            "null",
+            "0"
+        ],
+        "answer": "false"
+    },
+    {
+        "question": "¿Qué es un método getter?",
+        "options": [
+            "Un método para obtener el valor de un atributo",
+            "Un método para establecer el valor de un atributo",
+            "Un método constructor",
+            "Un método estático"
+        ],
+        "answer": "Un método para obtener el valor de un atributo"
+    },
+    {
+        "question": "¿Qué es un método setter?",
+        "options": [
+            "Un método para establecer el valor de un atributo",
+            "Un método para obtener el valor de un atributo",
+            "Un método constructor",
+            "Un método estático"
+        ],
+        "answer": "Un método para establecer el valor de un atributo"
+    },
+    {
+        "question": "¿Cuál es la palabra clave para definir una constante en Java?",
+        "options": [
+            "final",
+            "const",
+            "static",
+            "constant"
+        ],
+        "answer": "final"
+    },
+    {
+        "question": "¿Qué es el encapsulamiento?",
+        "options": [
+            "Ocultar los detalles de implementación de una clase",
+            "Crear múltiples objetos",
+            "Heredar de una clase",
+            "Implementar una interfaz"
+        ],
+        "answer": "Ocultar los detalles de implementación de una clase"
+    },
+    {
+        "question": "¿Cuál es el operador de asignación en Java?",
+        "options": [
+            "=",
+            "==",
+            ":=",
+            "==="
+        ],
+        "answer": "="
+    },
+    {
+        "question": "¿Qué tipo de dato se usa para texto en Java?",
+        "options": [
+            "String",
+            "Text",
+            "char",
+            "word"
+        ],
+        "answer": "String"
+    },
+    {
+        "question": "¿Qué palabra clave se usa para implementar una interfaz?",
+        "options": [
+            "implements",
+            "extends",
+            "interface",
+            "using"
+        ],
+        "answer": "implements"
+    },
+    {
+        "question": "¿Cuál es el método principal en una aplicación Java?",
+        "options": [
+            "main",
+            "start",
+            "run",
+            "init"
+        ],
+        "answer": "main"
+    },
+    {
+        "question": "¿Qué es la sobrecarga de métodos?",
+        "options": [
+            "Tener múltiples métodos con el mismo nombre pero diferentes parámetros",
+            "Tener múltiples constructores",
+            "Heredar métodos de una clase padre",
+            "Implementar métodos de una interfaz"
+        ],
+        "answer": "Tener múltiples métodos con el mismo nombre pero diferentes parámetros"
+    },
+    {
+        "question": "¿Qué es un objeto en Java?",
+        "options": [
+            "Una instancia de una clase",
+            "Un método",
+            "Una variable",
+            "Un tipo de dato primitivo"
+        ],
+        "answer": "Una instancia de una clase"
+    },
+    {
+        "question": "¿Cuál es el operador de comparación de igualdad en Java?",
+        "options": [
+            "==",
+            "=",
+            "===",
+            "equals"
+        ],
+        "answer": "=="
+    },
+    {
+        "question": "¿Qué palabra clave se usa para referirse a la instancia actual de una clase?",
+        "options": [
+            "this",
+            "self",
+            "current",
+            "me"
+        ],
+        "answer": "this"
+    },
+    {
+        "question": "¿Qué es una clase abstracta?",
+        "options": [
+            "Una clase que no puede ser instanciada",
+            "Una clase sin métodos",
+            "Una clase sin atributos",
+            "Una clase final"
+        ],
+        "answer": "Una clase que no puede ser instanciada"
+    },
+    {
+        "question": "¿Cuál es el tipo de dato para números decimales en Java?",
+        "options": [
+            "double",
+            "decimal",
+            "float",
+            "real"
+        ],
+        "answer": "double"
+    },
+    {
+        "question": "¿Qué es una interfaz en Java?",
+        "options": [
+            "Un contrato que define métodos que una clase debe implementar",
+            "Una clase abstracta",
+            "Un tipo de variable",
+            "Un método especial"
+        ],
+        "answer": "Un contrato que define métodos que una clase debe implementar"
+    },
+    {
+        "question": "¿Cuál es el valor por defecto de un atributo int?",
+        "options": [
+            "0",
+            "1",
+            "null",
+            "-1"
+        ],
+        "answer": "0"
+    },
+    {
+        "question": "¿Qué es el polimorfismo?",
+        "options": [
+            "La capacidad de un objeto de tomar múltiples formas",
+            "La creación de múltiples objetos",
+            "La herencia múltiple",
+            "El encapsulamiento de datos"
+        ],
+        "answer": "La capacidad de un objeto de tomar múltiples formas"
+    },
+    {
+        "question": "¿Qué palabra clave se usa para crear un método que no retorna valor?",
+        "options": [
+            "void",
+            "null",
+            "empty",
+            "none"
+        ],
+        "answer": "void"
+    },
+    {
+        "question": "¿Qué es una excepción en Java?",
+        "options": [
+            "Un error que ocurre durante la ejecución del programa",
+            "Un tipo de variable",
+            "Un método especial",
+            "Una clase abstracta"
+        ],
+        "answer": "Un error que ocurre durante la ejecución del programa"
+    },
+    {
+        "question": "¿Cuál es el operador de incremento en Java?",
+        "options": [
+            "++",
+            "+",
+            "+=",
+            "inc"
+        ],
+        "answer": "++"
+    },
+    {
+        "question": "¿Qué palabra clave se usa para definir un método que no puede ser sobrescrito?",
+        "options": [
+            "final",
+            "static",
+            "private",
+            "sealed"
+        ],
+        "answer": "final"
+    },
+    {
+        "question": "¿Qué es la herencia en Java?",
+        "options": [
+            "El mecanismo para crear una clase basada en otra clase",
+            "La creación de objetos",
+            "La implementación de interfaces",
+            "El encapsulamiento de datos"
+        ],
+        "answer": "El mecanismo para crear una clase basada en otra clase"
+    },
+    {
+        "question": "¿Cuál es el modificador de acceso por defecto en Java?",
+        "options": [
+            "default (package-private)",
+            "public",
+            "private",
+            "protected"
+        ],
+        "answer": "default (package-private)"
+    },
+    {
+        "question": "¿Qué es un paquete en Java?",
+        "options": [
+            "Un contenedor de clases relacionadas",
+            "Una clase especial",
+            "Un tipo de variable",
+            "Un método estático"
+        ],
+        "answer": "Un contenedor de clases relacionadas"
+    },
+    {
+        "question": "¿Cuál es la palabra clave para importar una clase en Java?",
+        "options": [
+            "import",
+            "include",
+            "using",
+            "require"
+        ],
+        "answer": "import"
+    },
+    {
+        "question": "¿Qué es una clase en Java?",
+        "options": [
+            "Una plantilla para crear objetos",
+            "Un objeto",
+            "Un método",
+            "Una variable"
+        ],
+        "answer": "Una plantilla para crear objetos"
+    },
+    {
+        "question": "¿Qué es el método toString()?",
+        "options": [
+            "Un método para convertir un objeto a String",
+            "Un método constructor",
+            "Un método getter",
+            "Un método setter"
+        ],
+        "answer": "Un método para convertir un objeto a String"
+    },
+    {
+        "question": "¿Qué es una variable de instancia?",
+        "options": [
+            "Una variable declarada dentro de una clase pero fuera de cualquier método",
+            "Una variable local",
+            "Una constante",
+            "Una variable estática"
+        ],
+        "answer": "Una variable declarada dentro de una clase pero fuera de cualquier método"
+    },
+    {
+        "question": "¿Qué es un método estático?",
+        "options": [
+            "Un método que pertenece a la clase y no a las instancias",
+            "Un método privado",
+            "Un método final",
+            "Un método abstracto"
+        ],
+        "answer": "Un método que pertenece a la clase y no a las instancias"
+    },
+    {
+        "question": "¿Cuál es la palabra clave para crear una variable que puede ser null?",
+        "options": [
+            "Object",
+            "null",
+            "void",
+            "nullable"
+        ],
+        "answer": "Object"
+    },
+    {
+        "question": "¿Qué es el garbage collector en Java?",
+        "options": [
+            "Un proceso que libera memoria de objetos no utilizados",
+            "Un tipo de variable",
+            "Un método especial",
+            "Una clase del sistema"
+        ],
+        "answer": "Un proceso que libera memoria de objetos no utilizados"
+    },
+    {
+        "question": "¿Qué es una variable local?",
+        "options": [
+            "Una variable declarada dentro de un método",
+            "Una variable de clase",
+            "Una constante",
+            "Una variable estática"
+        ],
+        "answer": "Una variable declarada dentro de un método"
+    },
+    {
+        "question": "¿Qué es el método equals()?",
+        "options": [
+            "Un método para comparar objetos",
+            "Un método para convertir a String",
+            "Un método constructor",
+            "Un método getter"
+        ],
+        "answer": "Un método para comparar objetos"
+    },
+    {
+        "question": "¿Qué es una clase final?",
+        "options": [
+            "Una clase que no puede ser heredada",
+            "Una clase abstracta",
+            "Una interfaz",
+            "Una clase estática"
+        ],
+        "answer": "Una clase que no puede ser heredada"
+    },
+    {
+        "question": "¿Qué es un método abstracto?",
+        "options": [
+            "Un método sin implementación que debe ser implementado por las subclases",
+            "Un método final",
+            "Un método estático",
+            "Un método privado"
+        ],
+        "answer": "Un método sin implementación que debe ser implementado por las subclases"
+    },
+    {
+        "question": "¿Cuál es el propósito del modificador static?",
+        "options": [
+            "Hacer que un miembro pertenezca a la clase en lugar de a las instancias",
+            "Hacer un miembro privado",
+            "Hacer un miembro público",
+            "Hacer un miembro final"
+        ],
+        "answer": "Hacer que un miembro pertenezca a la clase en lugar de a las instancias"
+    },
+    {
+        "question": "¿Qué es la sobrescritura de métodos?",
+        "options": [
+            "Proporcionar una implementación diferente para un método heredado",
+            "Crear múltiples métodos con el mismo nombre",
+            "Crear un método estático",
+            "Crear un método final"
+        ],
+        "answer": "Proporcionar una implementación diferente para un método heredado"
+    },
+    {
+        "question": "¿Qué es un constructor por defecto?",
+        "options": [
+            "Un constructor sin parámetros que Java crea automáticamente",
+            "Un constructor con parámetros",
+            "Un método estático",
+            "Un método final"
+        ],
+        "answer": "Un constructor sin parámetros que Java crea automáticamente"
+    },
+    {
+        "question": "¿Qué es una clase interna?",
+        "options": [
+            "Una clase definida dentro de otra clase",
+            "Una clase abstracta",
+            "Una interfaz",
+            "Una clase final"
+        ],
+        "answer": "Una clase definida dentro de otra clase"
+    },
+    {
+        "question": "¿Qué es el bloque static?",
+        "options": [
+            "Un bloque de código que se ejecuta cuando la clase es cargada",
+            "Un constructor",
+            "Un método",
+            "Una variable"
+        ],
+        "answer": "Un bloque de código que se ejecuta cuando la clase es cargada"
+    },
+    {
+        "question": "¿Qué es una clase anidada estática?",
+        "options": [
+            "Una clase definida dentro de otra clase que puede existir sin una instancia de la clase contenedora",
+            "Una clase que solo tiene métodos estáticos",
+            "Una clase que no puede ser instanciada",
+            "Una clase que no puede ser heredada"
+        ],
+        "answer": "Una clase definida dentro de otra clase que puede existir sin una instancia de la clase contenedora"
+    },
+    {
+        "question": "¿Qué es el método hashCode()?",
+        "options": [
+            "Un método que genera un código numérico único para un objeto",
+            "Un método para encriptar datos",
+            "Un método para comparar objetos",
+            "Un método para convertir a String"
+        ],
+        "answer": "Un método que genera un código numérico único para un objeto"
+    },
+    {
+        "question": "¿Qué es una clase inmutable?",
+        "options": [
+            "Una clase cuyos objetos no pueden ser modificados después de su creación",
+            "Una clase que no puede ser heredada",
+            "Una clase sin constructores",
+            "Una clase sin métodos"
+        ],
+        "answer": "Una clase cuyos objetos no pueden ser modificados después de su creación"
+    },
+    {
+        "question": "¿Qué es la palabra clave super?",
+        "options": [
+            "Una referencia a la clase padre",
+            "Una referencia a la clase actual",
+            "Una referencia a una interfaz",
+            "Una referencia a un método estático"
+        ],
+        "answer": "Una referencia a la clase padre"
+    },
+    {
+        "question": "¿Qué es una clase singleton?",
+        "options": [
+            "Una clase que solo puede tener una instancia",
+            "Una clase con un solo método",
+            "Una clase con una sola variable",
+            "Una clase que no puede ser heredada"
+        ],
+        "answer": "Una clase que solo puede tener una instancia"
+    }
+]

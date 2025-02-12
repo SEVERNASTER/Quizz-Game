@@ -1,0 +1,1062 @@
+[
+    {
+        "question": "¿Quién es el dios del trueno y rey de los dioses en la mitología griega?",
+        "options": [
+            "Zeus",
+            "Poseidón",
+            "Hades",
+            "Ares"
+        ],
+        "answer": "Zeus"
+    },
+    {
+        "question": "¿Qué diosa es conocida como la diosa del amor y la belleza?",
+        "options": [
+            "Afrodita",
+            "Atenea",
+            "Hera",
+            "Artemisa"
+        ],
+        "answer": "Afrodita"
+    },
+    {
+        "question": "¿Cuál es el nombre del mensajero de los dioses?",
+        "options": [
+            "Hermes",
+            "Apolo",
+            "Dionisio",
+            "Hefesto"
+        ],
+        "answer": "Hermes"
+    },
+    {
+        "question": "¿Quién es el dios del mar?",
+        "options": [
+            "Poseidón",
+            "Zeus",
+            "Hades",
+            "Ares"
+        ],
+        "answer": "Poseidón"
+    },
+    {
+        "question": "¿Qué héroe es famoso por sus doce trabajos?",
+        "options": [
+            "Hércules",
+            "Perseo",
+            "Teseo",
+            "Aquiles"
+        ],
+        "answer": "Hércules"
+    },
+    {
+        "question": "¿Quién es la diosa de la sabiduría y la guerra estratégica?",
+        "options": [
+            "Atenea",
+            "Artemisa",
+            "Hera",
+            "Deméter"
+        ],
+        "answer": "Atenea"
+    },
+    {
+        "question": "¿Qué criatura mitológica tiene cabeza de león, cuerpo de cabra y cola de serpiente?",
+        "options": [
+            "Quimera",
+            "Minotauro",
+            "Hidra",
+            "Cerbero"
+        ],
+        "answer": "Quimera"
+    },
+    {
+        "question": "¿Quién es el dios del inframundo?",
+        "options": [
+            "Hades",
+            "Zeus",
+            "Poseidón",
+            "Ares"
+        ],
+        "answer": "Hades"
+    },
+    {
+        "question": "¿Cómo se llama el caballo alado de la mitología griega?",
+        "options": [
+            "Pegaso",
+            "Quirón",
+            "Cerbero",
+            "Medusa"
+        ],
+        "answer": "Pegaso"
+    },
+    {
+        "question": "¿Quién mató a Medusa?",
+        "options": [
+            "Perseo",
+            "Teseo",
+            "Hércules",
+            "Aquiles"
+        ],
+        "answer": "Perseo"
+    },
+    {
+        "question": "¿Qué dios es conocido como el dios del vino y las fiestas?",
+        "options": [
+            "Dionisio",
+            "Apolo",
+            "Hermes",
+            "Ares"
+        ],
+        "answer": "Dionisio"
+    },
+    {
+        "question": "¿Cuál es el nombre de la diosa de la caza y la luna?",
+        "options": [
+            "Artemisa",
+            "Atenea",
+            "Hera",
+            "Afrodita"
+        ],
+        "answer": "Artemisa"
+    },
+    {
+        "question": "¿Qué criatura mitológica es mitad hombre y mitad toro?",
+        "options": [
+            "Minotauro",
+            "Centauro",
+            "Sátiro",
+            "Grifo"
+        ],
+        "answer": "Minotauro"
+    },
+    {
+        "question": "¿Quién es la esposa de Zeus?",
+        "options": [
+            "Hera",
+            "Afrodita",
+            "Atenea",
+            "Artemisa"
+        ],
+        "answer": "Hera"
+    },
+    {
+        "question": "¿Qué dios es conocido como el dios de la guerra?",
+        "options": [
+            "Ares",
+            "Zeus",
+            "Poseidón",
+            "Hades"
+        ],
+        "answer": "Ares"
+    },
+    {
+        "question": "¿Cuál es el nombre del río del inframundo que hace olvidar todo a las almas?",
+        "options": [
+            "Leteo",
+            "Estigia",
+            "Aqueronte",
+            "Cocito"
+        ],
+        "answer": "Leteo"
+    },
+    {
+        "question": "¿Quién es el dios de la música y la poesía?",
+        "options": [
+            "Apolo",
+            "Hermes",
+            "Dionisio",
+            "Hefesto"
+        ],
+        "answer": "Apolo"
+    },
+    {
+        "question": "¿Qué criatura tiene nueve cabezas que se regeneran?",
+        "options": [
+            "Hidra",
+            "Quimera",
+            "Cerbero",
+            "Medusa"
+        ],
+        "answer": "Hidra"
+    },
+    {
+        "question": "¿Quién es el guardián de la entrada al inframundo?",
+        "options": [
+            "Cerbero",
+            "Minotauro",
+            "Quimera",
+            "Hidra"
+        ],
+        "answer": "Cerbero"
+    },
+    {
+        "question": "¿Cuál es el nombre de la diosa de la agricultura?",
+        "options": [
+            "Deméter",
+            "Hera",
+            "Artemisa",
+            "Atenea"
+        ],
+        "answer": "Deméter"
+    },
+    {
+        "question": "¿Qué héroe es conocido por matar al Minotauro?",
+        "options": [
+            "Teseo",
+            "Perseo",
+            "Hércules",
+            "Aquiles"
+        ],
+        "answer": "Teseo"
+    },
+    {
+        "question": "¿Quién es el dios del fuego y la metalurgia?",
+        "options": [
+            "Hefesto",
+            "Ares",
+            "Hermes",
+            "Dionisio"
+        ],
+        "answer": "Hefesto"
+    },
+    {
+        "question": "¿Qué criatura mitológica es mitad hombre y mitad caballo?",
+        "options": [
+            "Centauro",
+            "Minotauro",
+            "Sátiro",
+            "Grifo"
+        ],
+        "answer": "Centauro"
+    },
+    {
+        "question": "¿Cuál es el nombre del barquero que transporta las almas al inframundo?",
+        "options": [
+            "Caronte",
+            "Cerbero",
+            "Tártaro",
+            "Leteo"
+        ],
+        "answer": "Caronte"
+    },
+    {
+        "question": "¿Quién robó el fuego de los dioses para dárselo a los humanos?",
+        "options": [
+            "Prometeo",
+            "Atlas",
+            "Sísifo",
+            "Tántalo"
+        ],
+        "answer": "Prometeo"
+    },
+    {
+        "question": "¿Qué criatura tiene cuerpo de león y cabeza y alas de águila?",
+        "options": [
+            "Grifo",
+            "Quimera",
+            "Pegaso",
+            "Hidra"
+        ],
+        "answer": "Grifo"
+    },
+    {
+        "question": "¿Cómo se llama la caja que contenía todos los males del mundo?",
+        "options": [
+            "Caja de Pandora",
+            "Arca de Zeus",
+            "Cofre de Hera",
+            "Urna de Atenea"
+        ],
+        "answer": "Caja de Pandora"
+    },
+    {
+        "question": "¿Quién fue el primer hombre creado por los dioses según la mitología griega?",
+        "options": [
+            "Prometeo",
+            "Epimeteo",
+            "Atlas",
+            "Deucalión"
+        ],
+        "answer": "Prometeo"
+    },
+    {
+        "question": "¿Qué titán fue condenado a sostener el cielo sobre sus hombros?",
+        "options": [
+            "Atlas",
+            "Prometeo",
+            "Cronos",
+            "Océano"
+        ],
+        "answer": "Atlas"
+    },
+    {
+        "question": "¿Cuál es el nombre del río que rodea el inframundo?",
+        "options": [
+            "Estigia",
+            "Leteo",
+            "Aqueronte",
+            "Cocito"
+        ],
+        "answer": "Estigia"
+    },
+    {
+        "question": "¿Quién es la diosa del hogar y el fuego sagrado?",
+        "options": [
+            "Hestia",
+            "Hera",
+            "Deméter",
+            "Afrodita"
+        ],
+        "answer": "Hestia"
+    },
+    {
+        "question": "¿Qué héroe es conocido por su talón vulnerable?",
+        "options": [
+            "Aquiles",
+            "Héctor",
+            "Paris",
+            "Odiseo"
+        ],
+        "answer": "Aquiles"
+    },
+    {
+        "question": "¿Cuál es el nombre de la serpiente que custodiaba el vellocino de oro?",
+        "options": [
+            "Ladón",
+            "Pitón",
+            "Hidra",
+            "Cerbero"
+        ],
+        "answer": "Ladón"
+    },
+    {
+        "question": "¿Quién es la musa de la historia?",
+        "options": [
+            "Clío",
+            "Calíope",
+            "Erato",
+            "Urania"
+        ],
+        "answer": "Clío"
+    },
+    {
+        "question": "¿Qué criatura mitológica es mitad mujer y mitad pájaro?",
+        "options": [
+            "Sirena",
+            "Arpía",
+            "Quimera",
+            "Esfinge"
+        ],
+        "answer": "Sirena"
+    },
+    {
+        "question": "¿Cuál es el nombre del río del dolor en el inframundo?",
+        "options": [
+            "Aqueronte",
+            "Leteo",
+            "Estigia",
+            "Cocito"
+        ],
+        "answer": "Aqueronte"
+    },
+    {
+        "question": "¿Quién es la diosa de la juventud?",
+        "options": [
+            "Hebe",
+            "Iris",
+            "Nike",
+            "Eris"
+        ],
+        "answer": "Hebe"
+    },
+    {
+        "question": "¿Qué criatura tiene cuerpo de león y cabeza de mujer?",
+        "options": [
+            "Esfinge",
+            "Quimera",
+            "Arpía",
+            "Sirena"
+        ],
+        "answer": "Esfinge"
+    },
+    {
+        "question": "¿Cuál es el nombre del dios del sueño?",
+        "options": [
+            "Hipnos",
+            "Morfeo",
+            "Tánatos",
+            "Érebo"
+        ],
+        "answer": "Hipnos"
+    },
+    {
+        "question": "¿Quién es la diosa de la victoria?",
+        "options": [
+            "Nike",
+            "Iris",
+            "Eris",
+            "Hebe"
+        ],
+        "answer": "Nike"
+    },
+    {
+        "question": "¿Qué héroe construyó el laberinto del Minotauro?",
+        "options": [
+            "Dédalo",
+            "Ícaro",
+            "Teseo",
+            "Perseo"
+        ],
+        "answer": "Dédalo"
+    },
+    {
+        "question": "¿Cuál es el nombre del gigante de cien brazos?",
+        "options": [
+            "Briareo",
+            "Tifón",
+            "Polifemo",
+            "Anteo"
+        ],
+        "answer": "Briareo"
+    },
+    {
+        "question": "¿Quién es la diosa del arco iris?",
+        "options": [
+            "Iris",
+            "Nike",
+            "Hebe",
+            "Eris"
+        ],
+        "answer": "Iris"
+    },
+    {
+        "question": "¿Qué criatura mitológica tiene un solo ojo en la frente?",
+        "options": [
+            "Cíclope",
+            "Minotauro",
+            "Centauro",
+            "Grifo"
+        ],
+        "answer": "Cíclope"
+    },
+    {
+        "question": "¿Cuál es el nombre del dios de la muerte?",
+        "options": [
+            "Tánatos",
+            "Hipnos",
+            "Morfeo",
+            "Érebo"
+        ],
+        "answer": "Tánatos"
+    },
+    {
+        "question": "¿Quién es la diosa de la discordia?",
+        "options": [
+            "Eris",
+            "Nike",
+            "Iris",
+            "Hebe"
+        ],
+        "answer": "Eris"
+    },
+    {
+        "question": "¿Qué héroe voló demasiado cerca del sol?",
+        "options": [
+            "Ícaro",
+            "Dédalo",
+            "Perseo",
+            "Teseo"
+        ],
+        "answer": "Ícaro"
+    },
+    {
+        "question": "¿Cuál es el nombre del titán del tiempo?",
+        "options": [
+            "Cronos",
+            "Atlas",
+            "Prometeo",
+            "Océano"
+        ],
+        "answer": "Cronos"
+    },
+    {
+        "question": "¿Quién es la musa de la astronomía?",
+        "options": [
+            "Urania",
+            "Clío",
+            "Calíope",
+            "Erato"
+        ],
+        "answer": "Urania"
+    },
+    {
+        "question": "¿Qué criatura mitológica tiene cabeza de águila y cuerpo de león?",
+        "options": [
+            "Grifo",
+            "Quimera",
+            "Pegaso",
+            "Hidra"
+        ],
+        "answer": "Grifo"
+    },
+    {
+        "question": "¿Cuál es el nombre del río de fuego en el inframundo?",
+        "options": [
+            "Flegetonte",
+            "Leteo",
+            "Estigia",
+            "Aqueronte"
+        ],
+        "answer": "Flegetonte"
+    },
+    {
+        "question": "¿Quién es el dios del viento del oeste?",
+        "options": [
+            "Céfiro",
+            "Bóreas",
+            "Euro",
+            "Noto"
+        ],
+        "answer": "Céfiro"
+    },
+    {
+        "question": "¿Qué héroe logró salir del laberinto usando un hilo?",
+        "options": [
+            "Teseo",
+            "Perseo",
+            "Hércules",
+            "Ícaro"
+        ],
+        "answer": "Teseo"
+    },
+    {
+        "question": "¿Qué diosa era conocida por convertir a los hombres en cerdos?",
+        "options": [
+            "Circe",
+            "Medea",
+            "Calipso",
+            "Pasífae"
+        ],
+        "answer": "Circe"
+    },
+    {
+        "question": "¿Cuál era el nombre de la serpiente que Apolo mató en Delfos?",
+        "options": [
+            "Pitón",
+            "Ladón",
+            "Equidna",
+            "Tifón"
+        ],
+        "answer": "Pitón"
+    },
+    {
+        "question": "¿Quién era el centauro que educó a muchos héroes griegos?",
+        "options": [
+            "Quirón",
+            "Neso",
+            "Folo",
+            "Euritión"
+        ],
+        "answer": "Quirón"
+    },
+    {
+        "question": "¿Qué rey fue condenado a nunca poder comer ni beber en el inframundo?",
+        "options": [
+            "Tántalo",
+            "Sísifo",
+            "Ixión",
+            "Midas"
+        ],
+        "answer": "Tántalo"
+    },
+    {
+        "question": "¿Cuál era el nombre de la esposa de Orfeo?",
+        "options": [
+            "Eurídice",
+            "Perséfone",
+            "Ariadna",
+            "Andrómeda"
+        ],
+        "answer": "Eurídice"
+    },
+    {
+        "question": "¿Qué rey fue condenado a empujar eternamente una roca?",
+        "options": [
+            "Sísifo",
+            "Tántalo",
+            "Ixión",
+            "Prometeo"
+        ],
+        "answer": "Sísifo"
+    },
+    {
+        "question": "¿Quién era la madre de Perseo?",
+        "options": [
+            "Dánae",
+            "Alcmena",
+            "Leda",
+            "Europa"
+        ],
+        "answer": "Dánae"
+    },
+    {
+        "question": "¿Qué criatura guardaba el jardín de las Hespérides?",
+        "options": [
+            "Ladón",
+            "Cerbero",
+            "Hidra",
+            "Quimera"
+        ],
+        "answer": "Ladón"
+    },
+    {
+        "question": "¿Cuál era el nombre de la esposa de Hades?",
+        "options": [
+            "Perséfone",
+            "Eurídice",
+            "Ariadna",
+            "Medea"
+        ],
+        "answer": "Perséfone"
+    },
+    {
+        "question": "¿Quién era la musa de la poesía lírica?",
+        "options": [
+            "Erato",
+            "Calíope",
+            "Terpsícore",
+            "Melpómene"
+        ],
+        "answer": "Erato"
+    },
+    {
+        "question": "¿Qué mortal fue convertida en araña por desafiar a Atenea?",
+        "options": [
+            "Aracne",
+            "Medusa",
+            "Escila",
+            "Caribdis"
+        ],
+        "answer": "Aracne"
+    },
+    {
+        "question": "¿Cuál era el nombre del perro de Orión?",
+        "options": [
+            "Sirio",
+            "Argos",
+            "Cerbero",
+            "Ortro"
+        ],
+        "answer": "Sirio"
+    },
+    {
+        "question": "¿Quién era el dios del matrimonio?",
+        "options": [
+            "Himeneo",
+            "Eros",
+            "Anteros",
+            "Pothos"
+        ],
+        "answer": "Himeneo"
+    },
+    {
+        "question": "¿Qué ninfa fue convertida en laurel?",
+        "options": [
+            "Dafne",
+            "Eco",
+            "Siringe",
+            "Clitia"
+        ],
+        "answer": "Dafne"
+    },
+    {
+        "question": "¿Cuál era el nombre de la madre de las Musas?",
+        "options": [
+            "Mnemósine",
+            "Temis",
+            "Metis",
+            "Leto"
+        ],
+        "answer": "Mnemósine"
+    },
+    {
+        "question": "¿Quién era el piloto del Argo?",
+        "options": [
+            "Tifis",
+            "Jasón",
+            "Orfeo",
+            "Heracles"
+        ],
+        "answer": "Tifis"
+    },
+    {
+        "question": "¿Qué rey podía convertir todo en oro con su toque?",
+        "options": [
+            "Midas",
+            "Creso",
+            "Agamenón",
+            "Príamo"
+        ],
+        "answer": "Midas"
+    },
+    {
+        "question": "¿Cuál era el nombre de la ninfa que solo podía repetir palabras?",
+        "options": [
+            "Eco",
+            "Dafne",
+            "Siringe",
+            "Clitia"
+        ],
+        "answer": "Eco"
+    },
+    {
+        "question": "¿Quién era la diosa de la fertilidad?",
+        "options": [
+            "Gea",
+            "Rea",
+            "Temis",
+            "Metis"
+        ],
+        "answer": "Gea"
+    },
+    {
+        "question": "¿Qué héroe mató al león de Nemea?",
+        "options": [
+            "Heracles",
+            "Teseo",
+            "Perseo",
+            "Jasón"
+        ],
+        "answer": "Heracles"
+    },
+    {
+        "question": "¿Cuál era el nombre del barco de Jasón?",
+        "options": [
+            "Argo",
+            "Argos",
+            "Ícaro",
+            "Pegaso"
+        ],
+        "answer": "Argo"
+    },
+    {
+        "question": "¿Quién era la musa de la tragedia?",
+        "options": [
+            "Melpómene",
+            "Talía",
+            "Calíope",
+            "Erato"
+        ],
+        "answer": "Melpómene"
+    },
+    {
+        "question": "¿Qué ninfa fue convertida en caña?",
+        "options": [
+            "Siringe",
+            "Eco",
+            "Dafne",
+            "Clitia"
+        ],
+        "answer": "Siringe"
+    },
+    {
+        "question": "¿Cuál era el nombre del gigante de bronce que protegía Creta?",
+        "options": [
+            "Talos",
+            "Atlas",
+            "Tifón",
+            "Argos"
+        ],
+        "answer": "Talos"
+    },
+    {
+        "question": "¿Quién era la musa de la comedia?",
+        "options": [
+            "Talía",
+            "Melpómene",
+            "Terpsícore",
+            "Erato"
+        ],
+        "answer": "Talía"
+    },
+    {
+        "question": "¿Qué mortal fue convertido en ciervo por Artemisa?",
+        "options": [
+            "Acteón",
+            "Orión",
+            "Narciso",
+            "Adonis"
+        ],
+        "answer": "Acteón"
+    },
+    {
+        "question": "¿Cuál era el nombre del caballo de Alejandro Magno?",
+        "options": [
+            "Bucéfalo",
+            "Pegaso",
+            "Arión",
+            "Janto"
+        ],
+        "answer": "Bucéfalo"
+    },
+    {
+        "question": "¿Quién era la diosa de la paz?",
+        "options": [
+            "Eirene",
+            "Nike",
+            "Temis",
+            "Némesis"
+        ],
+        "answer": "Eirene"
+    },
+    {
+        "question": "¿Qué mortal se enamoró de su propio reflejo?",
+        "options": [
+            "Narciso",
+            "Adonis",
+            "Endimión",
+            "Ganímedes"
+        ],
+        "answer": "Narciso"
+    },
+    {
+        "question": "¿Cuál era el nombre de la mujer de Odiseo?",
+        "options": [
+            "Penélope",
+            "Helena",
+            "Clitemnestra",
+            "Andrómaca"
+        ],
+        "answer": "Penélope"
+    },
+    {
+        "question": "¿Quién era la diosa de la justicia?",
+        "options": [
+            "Temis",
+            "Némesis",
+            "Dice",
+            "Eirene"
+        ],
+        "answer": "Temis"
+    },
+    {
+        "question": "¿Qué héroe mató al jabalí de Erimanto?",
+        "options": [
+            "Heracles",
+            "Teseo",
+            "Meleagro",
+            "Atalanta"
+        ],
+        "answer": "Heracles"
+    },
+    {
+        "question": "¿Cuál era el nombre del perro de Odiseo?",
+        "options": [
+            "Argos",
+            "Sirio",
+            "Ortro",
+            "Lélape"
+        ],
+        "answer": "Argos"
+    },
+    {
+        "question": "¿Quién era la musa de la danza?",
+        "options": [
+            "Terpsícore",
+            "Erato",
+            "Talía",
+            "Urania"
+        ],
+        "answer": "Terpsícore"
+    },
+    {
+        "question": "¿Qué rey fue convertido en pájaro carpintero?",
+        "options": [
+            "Pico",
+            "Tereo",
+            "Céix",
+            "Minos"
+        ],
+        "answer": "Pico"
+    },
+    {
+        "question": "¿Cuál era el nombre de la esposa de Orfeo?",
+        "options": [
+            "Eurídice",
+            "Perséfone",
+            "Ariadna",
+            "Medea"
+        ],
+        "answer": "Eurídice"
+    },
+    {
+        "question": "¿Quién era el dios del amor sexual?",
+        "options": [
+            "Eros",
+            "Himeneo",
+            "Anteros",
+            "Pothos"
+        ],
+        "answer": "Eros"
+    },
+    {
+        "question": "¿Qué héroe capturó al toro de Creta?",
+        "options": [
+            "Heracles",
+            "Teseo",
+            "Jasón",
+            "Perseo"
+        ],
+        "answer": "Heracles"
+    },
+    {
+        "question": "¿Cuál era el nombre de la madre de Aquiles?",
+        "options": [
+            "Tetis",
+            "Metis",
+            "Temis",
+            "Leto"
+        ],
+        "answer": "Tetis"
+    },
+    {
+        "question": "¿Quién era la diosa de la venganza?",
+        "options": [
+            "Némesis",
+            "Eris",
+            "Ate",
+            "Dice"
+        ],
+        "answer": "Némesis"
+    },
+    {
+        "question": "¿Qué mortal construyó el primer laberinto?",
+        "options": [
+            "Dédalo",
+            "Ícaro",
+            "Teseo",
+            "Minos"
+        ],
+        "answer": "Dédalo"
+    },
+    {
+        "question": "¿Cuál era el nombre del río que hacía invulnerable?",
+        "options": [
+            "Estigia",
+            "Leteo",
+            "Aqueronte",
+            "Cocito"
+        ],
+        "answer": "Estigia"
+    },
+    {
+        "question": "¿Quién era la musa de la poesía épica?",
+        "options": [
+            "Calíope",
+            "Erato",
+            "Clío",
+            "Urania"
+        ],
+        "answer": "Calíope"
+    },
+    {
+        "question": "¿Qué héroe mató a la hidra de Lerna?",
+        "options": [
+            "Heracles",
+            "Perseo",
+            "Teseo",
+            "Jasón"
+        ],
+        "answer": "Heracles"
+    },
+    {
+        "question": "¿Cuál era el nombre del gigante de cien ojos?",
+        "options": [
+            "Argos Panoptes",
+            "Briareo",
+            "Tifón",
+            "Polifemo"
+        ],
+        "answer": "Argos Panoptes"
+    },
+    {
+        "question": "¿Quién era el dios del amor correspondido?",
+        "options": [
+            "Anteros",
+            "Eros",
+            "Himeneo",
+            "Pothos"
+        ],
+        "answer": "Anteros"
+    },
+    {
+        "question": "¿Qué mortal fue convertida en oso?",
+        "options": [
+            "Calisto",
+            "Io",
+            "Europa",
+            "Dafne"
+        ],
+        "answer": "Calisto"
+    },
+    {
+        "question": "¿Cuál era el nombre del barquero del inframundo?",
+        "options": [
+            "Caronte",
+            "Tifis",
+            "Flegia",
+            "Palinuro"
+        ],
+        "answer": "Caronte"
+    },
+    {
+        "question": "¿Quién era la diosa de las estaciones?",
+        "options": [
+            "Horas",
+            "Moiras",
+            "Gracias",
+            "Musas"
+        ],
+        "answer": "Horas"
+    },
+    {
+        "question": "¿Qué héroe mató a los pájaros del lago Estínfalo?",
+        "options": [
+            "Heracles",
+            "Teseo",
+            "Perseo",
+            "Belerofonte"
+        ],
+        "answer": "Heracles"
+    },
+    {
+        "question": "¿Cuál era el nombre del ciclope que Odiseo cegó?",
+        "options": [
+            "Polifemo",
+            "Brontes",
+            "Estéropes",
+            "Arges"
+        ],
+        "answer": "Polifemo"
+    },
+    {
+        "question": "¿Quién era la diosa del destino?",
+        "options": [
+            "Moiras",
+            "Horas",
+            "Gracias",
+            "Erinias"
+        ],
+        "answer": "Moiras"
+    },
+    {
+        "question": "¿Qué héroe limpió los establos de Augías?",
+        "options": [
+            "Heracles",
+            "Perseo",
+            "Teseo",
+            "Jasón"
+        ],
+        "answer": "Heracles"
+    }
+]

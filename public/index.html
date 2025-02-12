@@ -38,8 +38,8 @@
                 <div class="start-menu-buttons-wrapper">
                     <div class="buttons-container">
                         <button id="play">Jugar</button>
-                        <button id="play2">Categoria</button>
-                        <button>Dificultad</button>
+                        <button id="category">Categoria</button>
+                        <button id="difficulty">Dificultad</button>
                         <button>Modo de Juego</button>
                     </div>
                 </div>
@@ -49,13 +49,99 @@
                 <div class="categories-title">
                     <h2>Elige una categoria</h2>
                 </div>
-                <div class="options-categorie-container">
-                    <button>Ciencia</button>
-                    <button>Historia</button>
-                    <button>Deportes</button>
-                    <button>Arte</button>
+
+                <div class="options-categories-container">
+
+                    <div class="category-item">
+                        <div class="ci-title">
+                            <h3>Cultura General</h3>
+                        </div>
+                        <div class="ci-img-container">
+                            <img src="img/cat-general-knowledge.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="category-item">
+                        <div class="ci-title">
+                            <h3>Fisica</h3>
+                        </div>
+                        <div class="ci-img-container">
+                            <img src="img/cat-physics.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="category-item">
+                        <div class="ci-title">
+                            <h3>Geografia</h3>
+                        </div>
+                        <div class="ci-img-container">
+                            <img src="img/cat-geography.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="category-item">
+                        <div class="ci-title">
+                            <h3>Reino Animal</h3>
+                        </div>
+                        <div class="ci-img-container">
+                            <img src="img/cat-animals.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="category-item">
+                        <div class="ci-title">
+                            <h3>Programacion</h3>
+                        </div>
+                        <div class="ci-img-container">
+                            <img src="img/cat-programming.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="category-item">
+                        <div class="ci-title">
+                            <h3>Mitologia Griega</h3>
+                        </div>
+                        <div class="ci-img-container">
+                            <img src="img/cat-greek.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="category-item">
+                        <div class="ci-title">
+                            <h3>Cuerpo Humano</h3>
+                        </div>
+                        <div class="ci-img-container">
+                            <img src="img/cat-huma-body.png" alt="">
+                        </div>
+                    </div>
+
+                    <div class="category-item">
+                        <div class="ci-title">
+                            <h3>Quimica</h3>
+                        </div>
+                        <div class="ci-img-container">
+                            <img src="img/cat-chemical.png" alt="">
+                        </div>
+                    </div>
+
                 </div>
             </div>
+
+
+            <!-- para dificultad -->
+            <div class="difficulty">
+                <div class="diff-title">
+                    <h3>Elige la Dificultad</h3>
+                </div>
+                <div class="diff-buttons-container">
+                    <span class="messg1">Preguntas simples</span>
+                    <span class="messg2">sin limite de tiempo estricto</span>
+                    <button class="diff-button">Facil</button>
+                    <button class="diff-button">Normal</button>
+                    <button class="diff-button">Dificil</button>
+                </div>
+            </div>
+
         </div>
     </section>
 
@@ -71,7 +157,8 @@
                     <div class="fs-main-content">
                         <div class="conic-graphic-container">
                             <div class="conic-graphic">
-                                <h3 class="conic-graphic-label"><span id="fsAssertedQuestions"></span>/<span id="fsTotalQuestions"></span></h3>
+                                <h3 class="conic-graphic-label"><span id="fsAssertedQuestions"></span>/<span
+                                        id="fsTotalQuestions"></span></h3>
                             </div>
                         </div>
                         <p class="final-phrase"></p>

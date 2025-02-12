@@ -6,10 +6,13 @@ let totalQuestionsLabel = document.getElementById('gameTotalQuestions');
 const loadingBarContainer = document.getElementById('loadingBarContainer');
 const loadingBar = document.getElementById('loadingBar');
 const playBtn = document.getElementById('play');
-const playBtn2 = document.getElementById('play2');
+const categoryBtn = document.getElementById('category');
+const difficultyBtn = document.getElementById('difficulty');
 const startMenuContainer = document.querySelector('.start-menu-container');
 const startMenu = document.querySelector('.start-menu');
 const smFlipContainer = document.querySelector('.start-menu-flip-container');
+const catOptionItems = document.querySelectorAll('.category-item');
+const diffButtons = document.querySelectorAll('.diff-button');
 const body = document.querySelector('body');
 const fsTitle = document.querySelector('.fs-title-container');
 const conicGraphic = document.querySelector('.conic-graphic');
@@ -24,6 +27,8 @@ const fsButtons = document.querySelectorAll('.fs-button');
 const againBtn = document.getElementById('againBtn');
 const fsMenuBtn = document.getElementById('fsMenuBtn');
 let questions = [];
+let categoryName = 'Cultura General';
+let currentLevel = 'Facil';
 const optionsLetters = ['a) ', 'b) ', 'c) ', 'd) '];
 const wrongColor = '#ee4b4b';
 const rightColor = '#10A37F';
@@ -32,13 +37,58 @@ let currentDimensions = null;
 let intervalID = null;
 let time = 10;// en segundos
 const totalQuestions = 10;
-let remainingQuestions = 3;
+let remainingQuestions = totalQuestions;
 let assertedQuestions = 0;
 
 getQuestions();
 
 async function getQuestions() {
-    await fetch('./questions.json')
+    let jsonFileName = '';
+    let level = '';
+    switch (categoryName) {
+        case 'Cultura General':
+            jsonFileName = 'general';
+            break;
+        case 'Fisica':
+            jsonFileName = 'physics';
+            break;
+        case 'Geografia':
+            jsonFileName = 'geography';
+            break;
+        case 'Reino Animal':
+            jsonFileName = 'animals';
+            break;
+        case 'Programacion':
+            jsonFileName = 'programming';
+            break;
+        case 'Mitologia Griega':
+            jsonFileName = 'greek';
+            break;
+        case 'Cuerpo Humano':
+            jsonFileName = 'humanBody';
+            break;
+        default:
+            console.log(`The category ${jsonFileName} doesn't exist`);
+            break;
+    }
+
+    switch (currentLevel) {
+        case 'Facil':
+            level = 'easy';
+            break;
+        case 'Normal':
+            level = 'medium';
+            break;
+        case 'Dificil':
+            level = 'hard';
+            break;
+        default:
+            console.log(`The level ${level} doesn't exist`);
+            break;
+    }
+    console.log(level + " " + jsonFileName);
+
+    await fetch(`./questions/${level}/${jsonFileName}.json`)
         .then(response => response.json())
         .then(response => questions = response);
 }
@@ -410,11 +460,33 @@ function animateFSButtons() {
 }
 
 
+//add event to the category options
 
-playBtn2.addEventListener('click', async function () {
-    smFlipContainer.classList.add('flip');
+categoryBtn.addEventListener('click', async function () {
+    smFlipContainer.classList.add('flip-categories');
 });
 
+catOptionItems.forEach(item => {
+    item.addEventListener('click', () => {
+        smFlipContainer.classList.remove('flip-categories');
+        categoryName = item.querySelector('h3').textContent;
+        getQuestions();
+    })
+});
+
+difficultyBtn.addEventListener('click', () => {
+    smFlipContainer.classList.add('flip-diff');
+})
+
+// add event to the difficulty buttons
+
+diffButtons.forEach(button => {
+    button.addEventListener('click', () => {
+        smFlipContainer.classList.remove('flip-diff');
+        currentLevel = button.textContent;
+        getQuestions();
+    })
+});
 
 
 // Again button code
@@ -469,7 +541,7 @@ fsMenuBtn.addEventListener('click', () => {
     restartGameVariables();
 });
 
-function restartFinalScreen(){
+function restartFinalScreen() {
     finalScreenWrapper.style.transform = 'translateY(-100%)';
     setTimeout(() => {
         finalScreenWrapper.style.transition = 'none';

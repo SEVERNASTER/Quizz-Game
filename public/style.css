@@ -26,12 +26,24 @@ body {
     display: flex;
     justify-content: center;
     overflow: hidden;
+    /* background-size: cover;
+    background-repeat: no-repeat; */
     /* background-image: url(img/background.jpg); */
-    background-size: cover;
-    background-repeat: no-repeat;
     /* background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192' viewBox='0 0 192 192'%3E%3Cpath fill='%23fc611a' fill-opacity='0.4' d='M192 15v2a11 11 0 0 0-11 11c0 1.94 1.16 4.75 2.53 6.11l2.36 2.36a6.93 6.93 0 0 1 1.22 7.56l-.43.84a8.08 8.08 0 0 1-6.66 4.13H145v35.02a6.1 6.1 0 0 0 3.03 4.87l.84.43c1.58.79 4 .4 5.24-.85l2.36-2.36a12.04 12.04 0 0 1 7.51-3.11 13 13 0 1 1 .02 26 12 12 0 0 1-7.53-3.11l-2.36-2.36a4.93 4.93 0 0 0-5.24-.85l-.84.43a6.1 6.1 0 0 0-3.03 4.87V143h35.02a8.08 8.08 0 0 1 6.66 4.13l.43.84a6.91 6.91 0 0 1-1.22 7.56l-2.36 2.36A10.06 10.06 0 0 0 181 164a11 11 0 0 0 11 11v2a13 13 0 0 1-13-13 12 12 0 0 1 3.11-7.53l2.36-2.36a4.93 4.93 0 0 0 .85-5.24l-.43-.84a6.1 6.1 0 0 0-4.87-3.03H145v35.02a8.08 8.08 0 0 1-4.13 6.66l-.84.43a6.91 6.91 0 0 1-7.56-1.22l-2.36-2.36A10.06 10.06 0 0 0 124 181a11 11 0 0 0-11 11h-2a13 13 0 0 1 13-13c2.47 0 5.79 1.37 7.53 3.11l2.36 2.36a4.94 4.94 0 0 0 5.24.85l.84-.43a6.1 6.1 0 0 0 3.03-4.87V145h-35.02a8.08 8.08 0 0 1-6.66-4.13l-.43-.84a6.91 6.91 0 0 1 1.22-7.56l2.36-2.36A10.06 10.06 0 0 0 107 124a11 11 0 0 0-22 0c0 1.94 1.16 4.75 2.53 6.11l2.36 2.36a6.93 6.93 0 0 1 1.22 7.56l-.43.84a8.08 8.08 0 0 1-6.66 4.13H49v35.02a6.1 6.1 0 0 0 3.03 4.87l.84.43c1.58.79 4 .4 5.24-.85l2.36-2.36a12.04 12.04 0 0 1 7.51-3.11A13 13 0 0 1 81 192h-2a11 11 0 0 0-11-11c-1.94 0-4.75 1.16-6.11 2.53l-2.36 2.36a6.93 6.93 0 0 1-7.56 1.22l-.84-.43a8.08 8.08 0 0 1-4.13-6.66V145H11.98a6.1 6.1 0 0 0-4.87 3.03l-.43.84c-.79 1.58-.4 4 .85 5.24l2.36 2.36a12.04 12.04 0 0 1 3.11 7.51A13 13 0 0 1 0 177v-2a11 11 0 0 0 11-11c0-1.94-1.16-4.75-2.53-6.11l-2.36-2.36a6.93 6.93 0 0 1-1.22-7.56l.43-.84a8.08 8.08 0 0 1 6.66-4.13H47v-35.02a6.1 6.1 0 0 0-3.03-4.87l-.84-.43c-1.59-.8-4-.4-5.24.85l-2.36 2.36A12 12 0 0 1 28 109a13 13 0 1 1 0-26c2.47 0 5.79 1.37 7.53 3.11l2.36 2.36a4.94 4.94 0 0 0 5.24.85l.84-.43A6.1 6.1 0 0 0 47 84.02V49H11.98a8.08 8.08 0 0 1-6.66-4.13l-.43-.84a6.91 6.91 0 0 1 1.22-7.56l2.36-2.36A10.06 10.06 0 0 0 11 28 11 11 0 0 0 0 17v-2a13 13 0 0 1 13 13c0 2.47-1.37 5.79-3.11 7.53l-2.36 2.36a4.94 4.94 0 0 0-.85 5.24l.43.84A6.1 6.1 0 0 0 11.98 47H47V11.98a8.08 8.08 0 0 1 4.13-6.66l.84-.43a6.91 6.91 0 0 1 7.56 1.22l2.36 2.36A10.06 10.06 0 0 0 68 11 11 11 0 0 0 79 0h2a13 13 0 0 1-13 13 12 12 0 0 1-7.53-3.11l-2.36-2.36a4.93 4.93 0 0 0-5.24-.85l-.84.43A6.1 6.1 0 0 0 49 11.98V47h35.02a8.08 8.08 0 0 1 6.66 4.13l.43.84a6.91 6.91 0 0 1-1.22 7.56l-2.36 2.36A10.06 10.06 0 0 0 85 68a11 11 0 0 0 22 0c0-1.94-1.16-4.75-2.53-6.11l-2.36-2.36a6.93 6.93 0 0 1-1.22-7.56l.43-.84a8.08 8.08 0 0 1 6.66-4.13H143V11.98a6.1 6.1 0 0 0-3.03-4.87l-.84-.43c-1.59-.8-4-.4-5.24.85l-2.36 2.36A12 12 0 0 1 124 13a13 13 0 0 1-13-13h2a11 11 0 0 0 11 11c1.94 0 4.75-1.16 6.11-2.53l2.36-2.36a6.93 6.93 0 0 1 7.56-1.22l.84.43a8.08 8.08 0 0 1 4.13 6.66V47h35.02a6.1 6.1 0 0 0 4.87-3.03l.43-.84c.8-1.59.4-4-.85-5.24l-2.36-2.36A12 12 0 0 1 179 28a13 13 0 0 1 13-13zM84.02 143a6.1 6.1 0 0 0 4.87-3.03l.43-.84c.8-1.59.4-4-.85-5.24l-2.36-2.36A12 12 0 0 1 83 124a13 13 0 1 1 26 0c0 2.47-1.37 5.79-3.11 7.53l-2.36 2.36a4.94 4.94 0 0 0-.85 5.24l.43.84a6.1 6.1 0 0 0 4.87 3.03H143v-35.02a8.08 8.08 0 0 1 4.13-6.66l.84-.43a6.91 6.91 0 0 1 7.56 1.22l2.36 2.36A10.06 10.06 0 0 0 164 107a11 11 0 0 0 0-22c-1.94 0-4.75 1.16-6.11 2.53l-2.36 2.36a6.93 6.93 0 0 1-7.56 1.22l-.84-.43a8.08 8.08 0 0 1-4.13-6.66V49h-35.02a6.1 6.1 0 0 0-4.87 3.03l-.43.84c-.79 1.58-.4 4 .85 5.24l2.36 2.36a12.04 12.04 0 0 1 3.11 7.51A13 13 0 1 1 83 68a12 12 0 0 1 3.11-7.53l2.36-2.36a4.93 4.93 0 0 0 .85-5.24l-.43-.84A6.1 6.1 0 0 0 84.02 49H49v35.02a8.08 8.08 0 0 1-4.13 6.66l-.84.43a6.91 6.91 0 0 1-7.56-1.22l-2.36-2.36A10.06 10.06 0 0 0 28 85a11 11 0 0 0 0 22c1.94 0 4.75-1.16 6.11-2.53l2.36-2.36a6.93 6.93 0 0 1 7.56-1.22l.84.43a8.08 8.08 0 0 1 4.13 6.66V143h35.02z'%3E%3C/path%3E%3C/svg%3E"); */
     /* background-color: #ffd43b;
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='192' height='192' viewBox='0 0 192 192'%3E%3Cpath fill='%23183153' fill-opacity='0.4' d='M192 15v2a11 11 0 0 0-11 11c0 1.94 1.16 4.75 2.53 6.11l2.36 2.36a6.93 6.93 0 0 1 1.22 7.56l-.43.84a8.08 8.08 0 0 1-6.66 4.13H145v35.02a6.1 6.1 0 0 0 3.03 4.87l.84.43c1.58.79 4 .4 5.24-.85l2.36-2.36a12.04 12.04 0 0 1 7.51-3.11 13 13 0 1 1 .02 26 12 12 0 0 1-7.53-3.11l-2.36-2.36a4.93 4.93 0 0 0-5.24-.85l-.84.43a6.1 6.1 0 0 0-3.03 4.87V143h35.02a8.08 8.08 0 0 1 6.66 4.13l.43.84a6.91 6.91 0 0 1-1.22 7.56l-2.36 2.36A10.06 10.06 0 0 0 181 164a11 11 0 0 0 11 11v2a13 13 0 0 1-13-13 12 12 0 0 1 3.11-7.53l2.36-2.36a4.93 4.93 0 0 0 .85-5.24l-.43-.84a6.1 6.1 0 0 0-4.87-3.03H145v35.02a8.08 8.08 0 0 1-4.13 6.66l-.84.43a6.91 6.91 0 0 1-7.56-1.22l-2.36-2.36A10.06 10.06 0 0 0 124 181a11 11 0 0 0-11 11h-2a13 13 0 0 1 13-13c2.47 0 5.79 1.37 7.53 3.11l2.36 2.36a4.94 4.94 0 0 0 5.24.85l.84-.43a6.1 6.1 0 0 0 3.03-4.87V145h-35.02a8.08 8.08 0 0 1-6.66-4.13l-.43-.84a6.91 6.91 0 0 1 1.22-7.56l2.36-2.36A10.06 10.06 0 0 0 107 124a11 11 0 0 0-22 0c0 1.94 1.16 4.75 2.53 6.11l2.36 2.36a6.93 6.93 0 0 1 1.22 7.56l-.43.84a8.08 8.08 0 0 1-6.66 4.13H49v35.02a6.1 6.1 0 0 0 3.03 4.87l.84.43c1.58.79 4 .4 5.24-.85l2.36-2.36a12.04 12.04 0 0 1 7.51-3.11A13 13 0 0 1 81 192h-2a11 11 0 0 0-11-11c-1.94 0-4.75 1.16-6.11 2.53l-2.36 2.36a6.93 6.93 0 0 1-7.56 1.22l-.84-.43a8.08 8.08 0 0 1-4.13-6.66V145H11.98a6.1 6.1 0 0 0-4.87 3.03l-.43.84c-.79 1.58-.4 4 .85 5.24l2.36 2.36a12.04 12.04 0 0 1 3.11 7.51A13 13 0 0 1 0 177v-2a11 11 0 0 0 11-11c0-1.94-1.16-4.75-2.53-6.11l-2.36-2.36a6.93 6.93 0 0 1-1.22-7.56l.43-.84a8.08 8.08 0 0 1 6.66-4.13H47v-35.02a6.1 6.1 0 0 0-3.03-4.87l-.84-.43c-1.59-.8-4-.4-5.24.85l-2.36 2.36A12 12 0 0 1 28 109a13 13 0 1 1 0-26c2.47 0 5.79 1.37 7.53 3.11l2.36 2.36a4.94 4.94 0 0 0 5.24.85l.84-.43A6.1 6.1 0 0 0 47 84.02V49H11.98a8.08 8.08 0 0 1-6.66-4.13l-.43-.84a6.91 6.91 0 0 1 1.22-7.56l2.36-2.36A10.06 10.06 0 0 0 11 28 11 11 0 0 0 0 17v-2a13 13 0 0 1 13 13c0 2.47-1.37 5.79-3.11 7.53l-2.36 2.36a4.94 4.94 0 0 0-.85 5.24l.43.84A6.1 6.1 0 0 0 11.98 47H47V11.98a8.08 8.08 0 0 1 4.13-6.66l.84-.43a6.91 6.91 0 0 1 7.56 1.22l2.36 2.36A10.06 10.06 0 0 0 68 11 11 11 0 0 0 79 0h2a13 13 0 0 1-13 13 12 12 0 0 1-7.53-3.11l-2.36-2.36a4.93 4.93 0 0 0-5.24-.85l-.84.43A6.1 6.1 0 0 0 49 11.98V47h35.02a8.08 8.08 0 0 1 6.66 4.13l.43.84a6.91 6.91 0 0 1-1.22 7.56l-2.36 2.36A10.06 10.06 0 0 0 85 68a11 11 0 0 0 22 0c0-1.94-1.16-4.75-2.53-6.11l-2.36-2.36a6.93 6.93 0 0 1-1.22-7.56l.43-.84a8.08 8.08 0 0 1 6.66-4.13H143V11.98a6.1 6.1 0 0 0-3.03-4.87l-.84-.43c-1.59-.8-4-.4-5.24.85l-2.36 2.36A12 12 0 0 1 124 13a13 13 0 0 1-13-13h2a11 11 0 0 0 11 11c1.94 0 4.75-1.16 6.11-2.53l2.36-2.36a6.93 6.93 0 0 1 7.56-1.22l.84.43a8.08 8.08 0 0 1 4.13 6.66V47h35.02a6.1 6.1 0 0 0 4.87-3.03l.43-.84c.8-1.59.4-4-.85-5.24l-2.36-2.36A12 12 0 0 1 179 28a13 13 0 0 1 13-13zM84.02 143a6.1 6.1 0 0 0 4.87-3.03l.43-.84c.8-1.59.4-4-.85-5.24l-2.36-2.36A12 12 0 0 1 83 124a13 13 0 1 1 26 0c0 2.47-1.37 5.79-3.11 7.53l-2.36 2.36a4.94 4.94 0 0 0-.85 5.24l.43.84a6.1 6.1 0 0 0 4.87 3.03H143v-35.02a8.08 8.08 0 0 1 4.13-6.66l.84-.43a6.91 6.91 0 0 1 7.56 1.22l2.36 2.36A10.06 10.06 0 0 0 164 107a11 11 0 0 0 0-22c-1.94 0-4.75 1.16-6.11 2.53l-2.36 2.36a6.93 6.93 0 0 1-7.56 1.22l-.84-.43a8.08 8.08 0 0 1-4.13-6.66V49h-35.02a6.1 6.1 0 0 0-4.87 3.03l-.43.84c-.79 1.58-.4 4 .85 5.24l2.36 2.36a12.04 12.04 0 0 1 3.11 7.51A13 13 0 1 1 83 68a12 12 0 0 1 3.11-7.53l2.36-2.36a4.93 4.93 0 0 0 .85-5.24l-.43-.84A6.1 6.1 0 0 0 84.02 49H49v35.02a8.08 8.08 0 0 1-4.13 6.66l-.84.43a6.91 6.91 0 0 1-7.56-1.22l-2.36-2.36A10.06 10.06 0 0 0 28 85a11 11 0 0 0 0 22c1.94 0 4.75-1.16 6.11-2.53l2.36-2.36a6.93 6.93 0 0 1 7.56-1.22l.84.43a8.08 8.08 0 0 1 4.13 6.66V143h35.02z'%3E%3C/path%3E%3C/svg%3E"); */
+    
+    
+    /* background-color: #060846;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' viewBox='0 0 40 40'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%239f037b' fill-opacity='0.93'%3E%3Cpath d='M0 38.59l2.83-2.83 1.41 1.41L1.41 40H0v-1.41zM0 1.4l2.83 2.83 1.41-1.41L1.41 0H0v1.41zM38.59 40l-2.83-2.83 1.41-1.41L40 38.59V40h-1.41zM40 1.41l-2.83 2.83-1.41-1.41L38.59 0H40v1.41zM20 18.6l2.83-2.83 1.41 1.41L21.41 20l2.83 2.83-1.41 1.41L20 21.41l-2.83 2.83-1.41-1.41L18.59 20l-2.83-2.83 1.41-1.41L20 18.59z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); */
+
+    /* background-color: #00053e;
+background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox='0 0 80 80' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ff00aa' fill-opacity='1'%3E%3Cpath d='M50 50c0-5.523 4.477-10 10-10s10 4.477 10 10-4.477 10-10 10c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10zM10 10c0-5.523 4.477-10 10-10s10 4.477 10 10-4.477 10-10 10c0 5.523-4.477 10-10 10S0 25.523 0 20s4.477-10 10-10zm10 8c4.418 0 8-3.582 8-8s-3.582-8-8-8-8 3.582-8 8 3.582 8 8 8zm40 40c4.418 0 8-3.582 8-8s-3.582-8-8-8-8 3.582-8 8 3.582 8 8 8z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); */
+
+    background: linear-gradient(-45deg, #F79E13, #BD086D);
+
+
+
 }
 
 .interrogation-mark {
@@ -150,6 +162,7 @@ body {
     align-items: center;
     transition: 3s ease;
     /* border: solid red; */
+    
 }
 
 /* .start-menu-container:hover {
@@ -162,25 +175,35 @@ body {
 
 .start-menu-flip-container {
     position: relative;
-    height: 60%;
+    height: 65%;
     width: 100%;
     /* border: solid #fff; */
     perspective: 1000px;
-    transform-style: preserve-3d
+    transform-style: preserve-3d;
 }
 
-.start-menu, .categories {
+.start-menu, .categories, .difficulty {
     position: absolute;
     backface-visibility: hidden;
     transition: 1s ease-in-out;
 }
 
-.start-menu-flip-container.flip .start-menu {
+.start-menu-flip-container.flip-categories .start-menu {
     transform: rotateY(-180deg);
 }
 
-.start-menu-flip-container.flip .categories {
+.start-menu-flip-container.flip-categories .categories {
     transform: rotateY(0deg);
+    opacity: 1;
+}
+
+.start-menu-flip-container.flip-diff .start-menu {
+    transform: rotateY(-180deg);
+}
+
+.start-menu-flip-container.flip-diff .difficulty {
+    transform: rotateY(0deg);
+    opacity: 1;
 }
 
 .start-menu {
@@ -190,7 +213,9 @@ body {
     height: 100%;
     width: 100%;
     transition: 2s;
-    transform: rotateY(0deg);
+    transform: rotateY(180deg);/*cambiar esto*/
+    background-color: #000;
+
 }
 
 .start-menu-title {
@@ -199,6 +224,11 @@ body {
     /* color: #183153; */
     color: #fff;
     text-align: left;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .start-menu-title h2 {
@@ -234,7 +264,7 @@ body {
 
 .buttons-container button:hover {
     transform: translateX(-5px) translateY(-5px);
-    box-shadow: 5px 5px 0 #183153;
+    box-shadow: 5px 5px 0 #fff;
 }
 
 .buttons-container button:active {
@@ -246,9 +276,299 @@ body {
 .categories {
     height: 100%;
     width: 100%;
-    transform: rotateY(180deg);
-    /* border: solid #ff0000; */
+    transform: rotateY(180deg);/*cambiar esto*/
+    border: solid #fff;
+    display: grid;
+    grid-template-rows: 20% 80%;
+    background-color: #000;
+    border-radius: 10px;
+    opacity: 0;
 }
+
+.categories-title {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+
+.options-categories-container {
+    display: flex;
+    flex-wrap: wrap; /* Permite que los elementos bajen de línea cuando no caben */
+    gap: 10px; /*Espacio entre los elementos*/
+    justify-content: center; /* Centrar los elementos si no llenan toda la fila */
+    padding: 10px 10px 0 10px;
+    margin: 0 0 10px 0;
+    overflow-y: auto;
+    /* border: solid; */
+}
+
+.options-categories-container .category-item {
+    flex: 1 1 calc(25% - 10px); /* 25% del ancho menos el gap, pero puede reducirse */
+    min-width: 175px; /* Evita que se encojan demasiado */
+    max-width: 175px;
+    height: 175px;
+    /* padding: 15px; */
+    text-align: center;
+    /* background: linear-gradient(-45deg, #E76EE9, #250842); */
+    background-color: #000;
+    border-radius: 5px;
+    font-weight: bold;
+    display: grid;
+    grid-template-rows: 20% 80%;
+    transition: .2s;
+}
+
+.options-categories-container .category-item:hover {
+    border: solid 2px #fff;
+    /* background: linear-gradient(-45deg, #F79E13, #BD086D); */
+    background-color: rgba(255, 255, 255, .2);
+    
+}
+
+.options-categories-container .category-item:active {
+    background: #fff;
+    color: #000;
+    scale: .9;
+}
+
+.ci-title {
+    color: #fff;
+}
+
+.ci-img-container {
+    width: 100%;
+    height: 100%;
+}
+
+.ci-img-container img {
+    height: 100%;
+    height: 100%;
+    scale: .8;
+}
+
+
+
+/* Ajuste para pantallas más pequeñas */
+@media (max-width: 800px) {
+    .options-categories-container div {
+        flex: 1 1 calc(50% - 10px); /* En pantallas más pequeñas, 2 elementos por fila */
+    }
+}
+
+@media (max-width: 500px) {
+    .options-categories-container div {
+        flex: 1 1 100%; /* En pantallas muy pequeñas, un elemento por fila */
+    }
+}
+
+
+
+/* para la dificultad */
+
+.difficulty {
+    border: solid 3px #fff;
+    width: 100%;
+    height: 100%;
+    transform: rotateY(0deg);
+    background-color: #000;
+    display: grid;
+    grid-template-rows: 20% 80%;
+    border-radius: 10px;
+}
+
+.diff-title {
+    color: #fff;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+}
+
+.diff-buttons-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.diff-button {
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(45deg, #FF0A98, #2A24A1);
+    color: #fff;
+    border-radius: 15px;
+    transition: 0.3s;
+    width: 50%;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    margin: auto;
+    z-index: 0;
+}
+
+.diff-button::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background-color: #D90A0A ;
+    background: linear-gradient(#f91d1d, #7b0101);
+    transition: width 0.5s ease-in-out; 
+    z-index: -1;
+}
+
+.diff-button:hover::before {
+    width: 100%; 
+}
+
+.diff-button:hover{
+    box-shadow: 0 0 10px #f91d1d,
+                0 0 20px #f91d1d,
+                0 0 30px #f91d1d,
+                0 0 40px #f91d1d;
+    border: solid 2px #f91d1d;
+}
+
+/* para el primer boton */
+.diff-button:nth-child(1):hover {
+    color: #71ECA5;
+    box-shadow: 0 0 10px #71ECA5,
+                0 0 20px #71ECA5,
+                0 0 30px #71ECA5,
+                0 0 40px #71ECA5;
+    border: solid 2px #71ECA5;
+
+}
+
+
+
+.diff-button:hover:nth-child(1):before {
+    width: 25%; 
+    background: linear-gradient(#6CEEA7, #BCD27D);
+}
+
+.diff-button:nth-child(1)::before {
+    background: linear-gradient(#6CEEA7, #BCD27D);
+}
+
+/* para el medio */
+
+.diff-button:nth-child(2):hover {
+    color: #fff;
+    box-shadow: 0 0 10px #FE5927,
+                0 0 20px #FE5927,
+                0 0 30px #FE5927,
+                0 0 40px #FE5927; 
+    border: solid 2px #FE5927;
+
+}
+
+.diff-button:hover:nth-child(2):before {
+    width: 25%; 
+    background: linear-gradient(#FFBE55, #FE5927);
+}
+
+.diff-button:nth-child(2)::before {
+    background: linear-gradient(#FFBE55, #FE5927);
+    
+}
+
+
+.diff-button:hover:nth-child(2):before {
+    width: 50%; 
+}
+
+/* para los span */
+
+.difficulty span {
+    position: absolute;
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+    z-index: -1;
+}
+
+/* mensaje para el primero */
+.messg1 {
+    transform: translateX(225px) translateY(-150px);
+    transition: transform 0.5s ease;
+    color: #71ECA5 !important;
+}
+
+.messg2 {
+    transform: translateX(180px) translateY(-150px);
+    transition: transform 0.5s ease .3s;
+    color: #71ECA5 !important;
+}
+
+.diff-button:nth-child(1):hover ~ .messg1 {
+    transform: translateX(100px) translateY(-200px);
+}
+
+.diff-button:nth-child(1):hover ~ .messg2 {
+    transform: translateX(300px) translateY(-200px);
+}
+
+/* mensaje para el segundo boton */
+
+.messg3 {
+    transform: translateX(225px) translateY(0px);
+    transition: transform 0.5s ease;
+    color: #FFBE55 !important;
+}
+
+.messg4 {
+    transform: translateX(180px) translateY(0px);
+    transition: transform 0.5s ease .3s;
+    color: #FFBE55 !important;
+}
+
+.diff-button:nth-child(2):hover ~ .messg3 {
+    transform: translateX(100px) translateY(-60px);
+}
+
+.diff-button:nth-child(2):hover ~ .messg4 {
+    transform: translateX(300px) translateY(-60px);
+}
+
+/* mensaje para el tercer boton */
+
+.messg5 {
+    transform: translateX(225px) translateY(150px);
+    transition: transform 0.5s ease;
+    color: #f91d1d !important;
+}
+
+.messg6 {
+    transform: translateX(150px) translateY(150px);
+    transition: transform 0.5s ease .3s;
+    color: #fb4848 !important;
+}
+
+.diff-button:nth-child(3):hover ~ .messg5 {
+    transform: translateX(100px) translateY(70px);
+}
+
+.diff-button:nth-child(3):hover ~ .messg6 {
+    transform: translateX(340px) translateY(70px);
+}
+
+
+
+
+
+
+
 
 
 
