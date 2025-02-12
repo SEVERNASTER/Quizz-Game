@@ -2,19 +2,19 @@
     {
         "question": "¿Qué animal es conocido como el rey de la selva?",
         "options": [
-            "León",
             "Tigre",
-            "Pantera",
-            "Guepardo"
+            "Guepardo",
+            "León",
+            "Pantera"
         ],
         "answer": "León"
     },
     {
         "question": "¿Qué animal tiene la trompa más larga?",
         "options": [
+            "Tapir",
             "Elefante",
             "Oso hormiguero",
-            "Tapir",
             "Cocodrilo"
         ],
         "answer": "Elefante"

@@ -67,6 +67,9 @@ async function getQuestions() {
         case 'Cuerpo Humano':
             jsonFileName = 'humanBody';
             break;
+        case 'Quimica':
+            jsonFileName = 'chemical';
+            break;
         default:
             console.log(`The category ${jsonFileName} doesn't exist`);
             break;
@@ -166,7 +169,7 @@ function createQuestionCard() {
     newQuestion.className = 'question-container';
     newQuestion.innerHTML = `
         <div class="question-card">
-        <div class="question-card-title">
+            <div class="question-card-title">
                 <h2>${question.question}</h2>
             </div>
             <div class="question-options-wrapper">
@@ -198,11 +201,12 @@ function createQuestionCard() {
 function addOptionsToCard(optionsContainer, question) {
     let newButton;
     let span;
+    const randomPos = generateShuffledArray();
     for (let i = 0; i < question.options.length; i++) {
         newButton = document.createElement('button');
         newButton.className = 'question-option';
         span = document.createElement('span');
-        span.innerText = question.options[i];
+        span.innerText = question.options[randomPos[i]];
         newButton.innerHTML = `
             ${optionsLetters[i]}
         `;
@@ -210,6 +214,18 @@ function addOptionsToCard(optionsContainer, question) {
         // console.log(span.innerText);
         optionsContainer.appendChild(newButton);
     }
+}
+
+function generateShuffledArray() {
+    let numbers = [0, 1, 2, 3];
+
+    // Algoritmo de Fisher-Yates para mezclar el arreglo
+    for (let i = numbers.length - 1; i > 0; i--) {
+        let j = Math.floor(Math.random() * (i + 1));
+        [numbers[i], numbers[j]] = [numbers[j], numbers[i]];
+    }
+
+    return numbers;
 }
 
 function checkAnswer(optionsButtons, rightAnswer, currentQuestion) {
