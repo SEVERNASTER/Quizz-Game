@@ -275,6 +275,7 @@ function transitionToNextCard(currentQuestion) {//crea la siguiente carta de pre
         counterContainer.classList.remove('change-counter');
     } else {
         clearInterval(intervalID);
+        finalPhrase.textContent = '';
         generateFinalPhrase();
         hideLoadingBar();
         showFinalScreen();
@@ -569,7 +570,6 @@ function restartGameVariables() {
     intervalID = null;
     assertedQuestions = 0;
     counter.innerHTML = '1';
-    finalPhrase.textContent = '';
 }
 
 
