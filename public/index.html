@@ -15,6 +15,7 @@
     <!-- <link href="https://cdn.yesicon.io/v1.0.0/yesicon.css" rel="stylesheet"> -->
     <!-- script -->
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <script src="https://kit.fontawesome.com/79295292b4.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -26,6 +27,7 @@
         <div class="loading-bar" id="loadingBar"></div>
     </div>
     <!-- <svg class="clock" xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 24 24"><path fill="#ffffff" d="M12,1A11,11,0,1,0,23,12,11,11,0,0,0,12,1Zm0,20a9,9,0,1,1,9-9A9,9,0,0,1,12,21Z"/><rect width="2" height="7" x="11" y="6" fill="#ffffff" rx="1"><animateTransform attributeName="transform" dur="9s" repeatCount="indefinite" type="rotate" values="0 12 12;360 12 12"/></rect><rect width="2" height="9" x="11" y="11" fill="#ffffff" rx="1"><animateTransform attributeName="transform" dur="0.75s" repeatCount="indefinite" type="rotate" values="0 12 12;360 12 12"/></rect></svg> -->
+
 
 
     <!-- menu de inicio -->
@@ -173,8 +175,18 @@
                     </div>
 
                     <div class="fs-buttons-container">
-                        <button class="fs-button" id="againBtn">Otra vez</button>
-                        <button class="fs-button" id="fsMenuBtn">Menu</button>
+                        <button class="fs-button" id="againBtn">
+                            <div class="icon">
+                                <i class="fa-solid fa-rotate-right"></i>
+                            </div>
+                            <span>Otra vez</span>
+                        </button>
+                        <button class="fs-button" id="fsMenuBtn">
+                            <div class="icon">
+                                <i class="fa-solid fa-house"></i>
+                            </div>
+                            <span>Menu</span>
+                        </button>
                     </div>
                 </div>
             </div>

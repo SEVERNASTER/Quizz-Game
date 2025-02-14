@@ -100,7 +100,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     height: 100%;
     width: 100%;
     border-radius: 25px;
-    background-color: #c48900;
+    background-color: #09001D;
     /* transition: 2s; */
     z-index: 10;
     border: solid 4px #000;
@@ -301,9 +301,9 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
 
 .options-categories-container {
     display: flex;
-    flex-wrap: wrap; /* Permite que los elementos bajen de línea cuando no caben */
-    gap: 10px; /*Espacio entre los elementos*/
-    justify-content: center; /* Centrar los elementos si no llenan toda la fila */
+    flex-wrap: wrap; 
+    gap: 10px; 
+    justify-content: center; 
     padding: 10px 10px 0 10px;
     margin: 0 0 10px 0;
     overflow-y: auto;
@@ -311,8 +311,8 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
 }
 
 .options-categories-container .category-item {
-    flex: 1 1 calc(25% - 10px); /* 25% del ancho menos el gap, pero puede reducirse */
-    min-width: 175px; /* Evita que se encojan demasiado */
+    flex: 1 1 calc(25% - 10px); 
+    min-width: 175px; 
     max-width: 175px;
     height: 175px;
     /* padding: 15px; */
@@ -602,10 +602,11 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     transition: 3s;
     /*tiempo al reves que del menu*/
     scale: .3;
-    background-color: #460854;
+    background-color: #09001D;
     border-radius: 25px;
     margin-top: 50px;
     overflow: hidden;
+    
 }
 
 .question-card::before {
@@ -633,6 +634,8 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
 }
 
 .question-card-title {
+    width: 90%;
+    margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -643,16 +646,17 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
 .question-options-wrapper {
     display: flex;
     justify-content: center;
-
 }
 
 .question-options-container {
     /* border: solid; */
     height: 100%;
-    width: 60%;
+    width: 70%;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+    align-items: center;
+    overflow: auto;
 }
 
 
@@ -677,33 +681,35 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
 
 
 .question-option {
-    height: 50px;
-    width: 100%;
-    background-color: #8854C0;
+    min-height: 50px;
+    width: 90%;
+    background: linear-gradient(45deg, #B91A73, #F6400F);
     color: #fff;
     font-size: 18px;
-    border: solid 3px #272D2D;
+    /* border: solid 3px #272D2D; */
     border-radius: 20px;
     transition: .3s;
 }
 
 .question-option:hover {
-    color: #191c31;
+    color: #fff;
     background-color: #FAB005;
-    border-color: #191c31;
+    border: solid 3px #fff;
     transform: translateY(-5px);
-    box-shadow: 0 5px 10px #191c31;
+    /* box-shadow: 0px 5px 0px #fff; */
 }
 
 .question-option.wrong-answer-animation {
-    background-color: #ee4b4b;
-    border: solid 3px #000;
+    /* background: #ee4b4b; */
+    border: dashed 3px #fff;
     animation: shake ease .2s 2;
+    opacity: .7;
+    scale: .8;
 }
 
 .question-option.right-answer-animation {
-    background-color: #10A37F;
-    border: solid 3px #000;
+    background: #10A37F;
+    border: solid 3px #fff;
     animation: vitoryJump .5s linear 1;
 
 }
@@ -788,7 +794,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     justify-content: center;
     /* background-color: #09001D; */
     background-color: #09001d;
-    transform: translateY(100%);
+    transform: translateY(100%);/*cambiar estoooooooooooooooo a 100%*/
     transition: 1s ease-in-out;
     z-index: 1;
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='28' height='49' viewBox='0 0 28 49'%3E%3Cg fill-rule='evenodd'%3E%3Cg id='hexagons' fill='%23ff33a0' fill-opacity='0.4' fill-rule='nonzero'%3E%3Cpath d='M13.99 9.25l13 7.5v15l-13 7.5L1 31.75v-15l12.99-7.5zM3 17.9v12.7l10.99 6.34 11-6.35V17.9l-11-6.34L3 17.9zM0 15l12.98-7.5V0h-2v6.35L0 12.69v2.3zm0 18.5L12.98 41v8h-2v-6.85L0 35.81v-2.3zM15 0v7.5L27.99 15H28v-2.31h-.01L17 6.35V0h-2zm0 49v-8l12.99-7.5H28v2.31h-.01L17 42.15V49h-2z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
@@ -811,8 +817,8 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     align-items: center;
     z-index: 0;
     border-radius: 10px;
-    opacity: 0;
-    scale: .5;
+    opacity: 0;/*estooooooooooooooooo a 0*/
+    scale: 1;/*estooooooooo a 1*/ 
     transition: .5s;
 }
 
@@ -965,41 +971,58 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 30px;
+    gap: 40px;
 }
 
 .fs-button {
-    height: 45px;
-    width: 135px;
-    font-size: 15px;
-    border-radius: 10px;
-    scale: 0;
+    height: 60px;
+    width: 60px;
+    font-size: 20px;
+    border-radius: 20px;
+    scale: 0;/*estooooooooooooooo a 0*/
     cursor: pointer;
+    background-color: #B2167F;
+    border: solid #fff;
+    color: #fff;
+    background: linear-gradient(45deg, #B2167F, #FF4500);
+    overflow: hidden;
+    transition: .5s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
+
+.fs-button:hover {
+    width: 150px;
+}
+
+
+.icon {
+    height: 60px;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fs-button span {
+    opacity: 0.5;
+    text-align: left;
+}
+
+.fs-button:hover span {
+    opacity: 1;
+}
+
+
 
 .fs-button.active-fs-button-animation {
     animation: appearButton 1s linear 1;
 }
 
-.fs-button:first-child {
-    background-color: #B2167F;
-    border: solid #fff;
-    color: #fff;
-    background: linear-gradient(45deg, #B2167F, #FF4500);
-    /* background: linear-gradient(45deg, #B2167F, #E05A9C, #FFD700); */
-
-}
-
 .fs-button:last-child {
-    background-color: #09001D;
-    border: solid #B2167F;
-    color: #B2167F;
     animation-delay: .5s;
-}
-
-.fs-button:last-child:hover {
-    background-color: #B2167F;
-    color: #fff;
 }
 
 @keyframes appearButton {
@@ -1008,4 +1031,25 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     }100%{
         scale: 1;
     }
+}
+
+
+/* para el scroll bar */
+::-webkit-scrollbar {
+    width: 10px; 
+    height: 10px; 
+}
+
+::-webkit-scrollbar-track {
+    background: #1e1e1e; 
+    border-radius: 10px; 
+}
+
+::-webkit-scrollbar-thumb {
+    background: #b2167f; 
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #ff4500;
 }

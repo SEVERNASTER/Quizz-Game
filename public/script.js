@@ -163,8 +163,8 @@ function activeTransition(outtingElementContainer, outtingElement, incomingEleme
 }
 
 function createQuestionCard() {
-    const question = questions.splice(Math.floor(Math.random() * questions.length), 1)[0];
-    // const question = questions[1];
+    // const question = questions.splice(Math.floor(Math.random() * questions.length), 1)[0];
+    const question = questions[1];
     let newQuestion = document.createElement('div');
     newQuestion.className = 'question-container';
     newQuestion.innerHTML = `
@@ -292,6 +292,7 @@ function transitionToNextCard(currentQuestion) {//crea la siguiente carta de pre
     } else {
         clearInterval(intervalID);
         finalPhrase.textContent = '';
+        finalPhrase.style.opacity = '0';
         generateFinalPhrase();
         hideLoadingBar();
         showFinalScreen();
@@ -310,9 +311,14 @@ function hideLoadingBar() {
 function paintAllButtonsExcept(targetButton, buttons, rightAnswer) {
     buttons.forEach(button => {
         if (button != targetButton) {
-            button.style.backgroundColor = button.querySelector('span').innerText === rightAnswer ?
-                rightColor : wrongColor;
-            button.style.border = 'solid 3px #000'
+            button.style.opacity = button.querySelector('span').innerText === rightAnswer ?
+                '1' : '.5';
+            button.style.border = button.querySelector('span').innerText === rightAnswer ?
+                'solid 3px #fff' : 'dashed 3px #fff';
+            button.style.background = button.querySelector('span').innerText === rightAnswer ?
+                rightColor : 'linear-gradient(45deg, #B91A73, #F6400F)';
+            button.style.scale = button.querySelector('span').innerText === rightAnswer ?
+                '1' : '.8';
         }
     });
 }
