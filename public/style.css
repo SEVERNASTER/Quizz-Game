@@ -606,7 +606,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     border-radius: 25px;
     margin-top: 50px;
     overflow: hidden;
-    
+    border: solid 3px #fff;
 }
 
 .question-card::before {
@@ -688,7 +688,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     font-size: 18px;
     /* border: solid 3px #272D2D; */
     border-radius: 20px;
-    transition: .3s;
+    transition: all .3s ease, scale .8s ease;
 }
 
 .question-option:hover {

@@ -163,8 +163,8 @@ function activeTransition(outtingElementContainer, outtingElement, incomingEleme
 }
 
 function createQuestionCard() {
-    // const question = questions.splice(Math.floor(Math.random() * questions.length), 1)[0];
-    const question = questions[1];
+    const question = questions.splice(Math.floor(Math.random() * questions.length), 1)[0];
+    // const question = questions[1];
     let newQuestion = document.createElement('div');
     newQuestion.className = 'question-container';
     newQuestion.innerHTML = `
