@@ -1094,95 +1094,16 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
         width: 60%;
     }
 
-    @keyframes easy-diff {
-        0% {
-            width: 0;
-        }
-
-        100% {
-            width: 25%;
-            background: linear-gradient(#6CEEA7, #BCD27D);
-        }
-    }
-
-    @keyframes easy-shadow {
-        100% {
-            box-shadow: 0 0 10px #71ECA5,
-                0 0 20px #71ECA5,
-                0 0 30px #71ECA5,
-                0 0 40px #71ECA5;
-            border: solid 2px #71ECA5;
-        }
-    }
-
-    @keyframes medium-diff {
-        0% {
-            width: 0;
-        }
-
-        100% {
-            width: 50%;
-            background: linear-gradient(#FFBE55, #FE5927);
-        }
-    }
-
-    @keyframes medium-shadow {
-        100% {
-            box-shadow: 0 0 10px #FE5927,
-                0 0 20px #FE5927,
-                0 0 30px #FE5927,
-                0 0 40px #FE5927;
-            border: solid 2px #FE5927;
-        }
-    }
-
-    @keyframes hard-diff {
-        0% {
-            width: 0;
-        }
-
-        100% {
-            width: 100%;
-            background: linear-gradient(#f91d1d, #7b0101);
-        }
-    }
-
-    @keyframes hard-shadow {
-        100% {
-            box-shadow: 0 0 10px #f91d1d,
-                0 0 20px #f91d1d,
-                0 0 30px #f91d1d,
-                0 0 40px #f91d1d;
-            border: solid 2px #f91d1d;
-        }
-    }
-
-    .diff-button:nth-child(1)::before {
-        animation: easy-diff linear 2s infinite alternate;
-    }
-
     .diff-button:nth-child(1) {
-        animation: easy-shadow ease-in 1s infinite alternate;
-    }
-
-    .diff-button:nth-child(2)::before {
-        animation: medium-diff linear 2s infinite alternate;
-        /* animation-delay: 2s; */
+        background: linear-gradient(#6CEEA7, #BCD27D);
     }
 
     .diff-button:nth-child(2) {
-        animation: medium-shadow ease-out 1s infinite alternate;
-        animation-delay: 2s;
-    }
-
-    .diff-button:nth-child(3)::before {
-        animation: hard-diff linear 2s infinite alternate;
-        /* animation-delay: 4s; */
+        background: linear-gradient(#FFBE55, #FE5927);
     }
 
     .diff-button:nth-child(3) {
-        animation: hard-shadow 1s ease-in-out infinite alternate;
-        animation-delay: 4s;
+        background: linear-gradient(#f91d1d, #7b0101);
     }
 
     .difficulty span {
@@ -1199,8 +1120,16 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
         height: 50%;
     }
 
+    .question-card-title {
+        font-size: 15px;
+    }
+
     .question-options-container {
         width: 80%;
+    }
+
+    .question-option {
+        font-size: 15px;
     }
 
     .loading-bar-container {
@@ -1241,5 +1170,17 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     
     .fs-main-content {
         grid-template-rows: 60% 40%;
+    }
+
+    .fs-button {
+        width: 120px;
+        font-size: 15px;
+        height: 40px;
+        flex-wrap: nowrap;
+    }
+
+    .icon {
+        width: 40px;
+        height: 40px;
     }
 }
