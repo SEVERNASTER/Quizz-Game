@@ -1161,7 +1161,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     }
 
     .conic-graphic {
-        width: 70%;
+        width: 65%;
         height: 90%;
     }
     .final-screen {
@@ -1177,6 +1177,10 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
         font-size: 15px;
         height: 40px;
         flex-wrap: nowrap;
+    }
+
+    .fs-button span {
+        opacity: 1;
     }
 
     .icon {
