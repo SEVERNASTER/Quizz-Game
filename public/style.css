@@ -7,6 +7,7 @@
 
 :root {
     --animation-duration: 5s;
+    --question-time: 10s;
 }
 
 html,
@@ -113,7 +114,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     width: 100%;
     background-color: #FAB005;
     border-radius: 25px;
-    transition: 10s linear;
+    transition: var(--question-time) linear;
 }
 
 
@@ -131,7 +132,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     top: 8px;
     z-index: 20;
     scale: 2;
-    transition: 10s linear;
+    transition: var(--question-time) linear;
 }
 
 
@@ -221,7 +222,21 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     transform: rotateY(0deg);
     /*cambiar esto*/
     background-color: #000;
+    overflow: hidden;
+}
 
+.start-menu::before {
+    content: '';
+    position: absolute;
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    transform: translateX(-100%);
+}
+
+.start-menu.show-invisible-mask::before {
+    transform: translateX(0);
+    z-index: 10;
 }
 
 .start-menu-title {

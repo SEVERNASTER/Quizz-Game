@@ -1,0 +1,1012 @@
+[
+    {
+        "question": "Si 5 gatos cazan 5 ratones en 5 minutos, ¿cuántos gatos se necesitan para cazar 100 ratones en 100 minutos?",
+        "options": [
+            "5 gatos",
+            "20 gatos",
+            "100 gatos",
+            "1 gato"
+        ],
+        "answer": "5 gatos"
+    },
+    {
+        "question": "¿Qué número sigue en la secuencia? 2, 4, 8, 16, ...",
+        "options": [
+            "24",
+            "32",
+            "20",
+            "28"
+        ],
+        "answer": "32"
+    },
+    {
+        "question": "Un reloj se atrasa 5 minutos cada hora. Si lo pones en hora correcta a las 8:00 am, ¿qué hora marcará a las 2:00 pm del mismo día?",
+        "options": [
+            "1:00 pm",
+            "12:30 pm",
+            "11:30 am",
+            "12:00 pm"
+        ],
+        "answer": "11:30 am"
+    },
+    {
+        "question": "¿Cuántos lados tiene un heptágono?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "Si tengo 3 manzanas y 4 naranjas, ¿qué fracción de mis frutas son manzanas?",
+        "options": [
+            "3/7",
+            "4/7",
+            "3/4",
+            "4/3"
+        ],
+        "answer": "3/7"
+    },
+    {
+        "question": "¿Qué letra sigue en esta secuencia? A, E, I, M, ...",
+        "options": [
+            "Q",
+            "S",
+            "P",
+            "O"
+        ],
+        "answer": "Q"
+    },
+    {
+        "question": "Tengo la mitad de la edad que tendré dentro de 20 años. ¿Cuántos años tengo ahora?",
+        "options": [
+            "10",
+            "20",
+            "30",
+            "40"
+        ],
+        "answer": "20"
+    },
+    {
+        "question": "Si un ladrillo pesa 3 kg más medio ladrillo, ¿cuánto pesa un ladrillo?",
+        "options": [
+            "4 kg",
+            "6 kg",
+            "3 kg",
+            "9 kg"
+        ],
+        "answer": "6 kg"
+    },
+    {
+        "question": "¿Cuántos minutos hay en 2.5 horas?",
+        "options": [
+            "150 minutos",
+            "120 minutos",
+            "180 minutos",
+            "250 minutos"
+        ],
+        "answer": "150 minutos"
+    },
+    {
+        "question": "Si hoy es lunes, ¿qué día será 100 días después?",
+        "options": [
+            "Miércoles",
+            "Martes",
+            "Jueves",
+            "Viernes"
+        ],
+        "answer": "Miércoles"
+    },
+    {
+        "question": "¿Cuál es el resultado de 25% de 80?",
+        "options": [
+            "20",
+            "15",
+            "25",
+            "40"
+        ],
+        "answer": "20"
+    },
+    {
+        "question": "Si Juan tiene 5 manzanas y Pedro tiene el doble, ¿cuántas manzanas tienen entre los dos?",
+        "options": [
+            "10",
+            "15",
+            "20",
+            "25"
+        ],
+        "answer": "15"
+    },
+    {
+        "question": "¿Qué número es mayor: 0.75 o 3/4?",
+        "options": [
+            "0.75",
+            "3/4",
+            "Son iguales",
+            "No se puede determinar"
+        ],
+        "answer": "Son iguales"
+    },
+    {
+        "question": "Un coche viaja a 60 km/h. ¿Cuántos metros recorre en un minuto?",
+        "options": [
+            "1000 metros",
+            "6000 metros",
+            "100 metros",
+            "600 metros"
+        ],
+        "answer": "1000 metros"
+    },
+    {
+        "question": "¿Cuál es el resultado de 7 × 8 ÷ 4 + 3?",
+        "options": [
+            "17",
+            "14",
+            "18",
+            "20"
+        ],
+        "answer": "17"
+    },
+    {
+        "question": "Si hay 12 meses en un año, ¿cuántos meses hay en 6 años y medio?",
+        "options": [
+            "66",
+            "72",
+            "78",
+            "84"
+        ],
+        "answer": "78"
+    },
+    {
+        "question": "¿Qué número multiplicado por sí mismo da 144?",
+        "options": [
+            "12",
+            "14",
+            "16",
+            "18"
+        ],
+        "answer": "12"
+    },
+    {
+        "question": "Si A = 1, B = 2, C = 3... ¿cuánto suma la palabra 'DADO'?",
+        "options": [
+            "10",
+            "15",
+            "20",
+            "25"
+        ],
+        "answer": "10"
+    },
+    {
+        "question": "¿Cuántos cuadrados hay en un tablero de ajedrez?",
+        "options": [
+            "64",
+            "32",
+            "128",
+            "204"
+        ],
+        "answer": "64"
+    },
+    {
+        "question": "Si tienes 15 caramelos y das 2/5 a tu amigo, ¿cuántos te quedan?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": "9"
+    },
+    {
+        "question": "¿Qué número sigue en la serie? 1, 4, 9, 16, 25, ...",
+        "options": [
+            "30",
+            "36",
+            "49",
+            "64"
+        ],
+        "answer": "36"
+    },
+    {
+        "question": "Si un tren viaja a 80 km/h, ¿cuánto tiempo tardará en recorrer 200 km?",
+        "options": [
+            "2 horas",
+            "2.5 horas",
+            "3 horas",
+            "3.5 horas"
+        ],
+        "answer": "2.5 horas"
+    },
+    {
+        "question": "¿Cuál es el único número que es el doble de la suma de sus dígitos?",
+        "options": [
+            "9",
+            "12",
+            "18",
+            "24"
+        ],
+        "answer": "18"
+    },
+    {
+        "question": "Si necesitas 8 tazas de harina para hacer 4 pasteles, ¿cuántas tazas necesitarás para 7 pasteles?",
+        "options": [
+            "14 tazas",
+            "12 tazas",
+            "16 tazas",
+            "18 tazas"
+        ],
+        "answer": "14 tazas"
+    },
+    {
+        "question": "¿Cuál es el ángulo que forman las manecillas del reloj a las 3:15?",
+        "options": [
+            "45 grados",
+            "90 grados",
+            "7.5 grados",
+            "180 grados"
+        ],
+        "answer": "7.5 grados"
+    },
+    {
+        "question": "Si cada lado de un cubo mide 4 cm, ¿cuál es su volumen?",
+        "options": [
+            "16 cm³",
+            "32 cm³",
+            "48 cm³",
+            "64 cm³"
+        ],
+        "answer": "64 cm³"
+    },
+    {
+        "question": "Juan tiene 3 años más que Pedro. Hace 5 años, Juan tenía el doble de edad que Pedro. ¿Cuántos años tiene Juan ahora?",
+        "options": [
+            "8 años",
+            "11 años",
+            "13 años",
+            "15 años"
+        ],
+        "answer": "13 años"
+    },
+    {
+        "question": "¿Cuántos divisores tiene el número 12?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "Si lanzas un dado normal, ¿cuál es la probabilidad de obtener un número par?",
+        "options": [
+            "1/2",
+            "1/3",
+            "2/3",
+            "1/6"
+        ],
+        "answer": "1/2"
+    },
+    {
+        "question": "¿Qué hora será 125 horas después de las 9:00 am del lunes?",
+        "options": [
+            "2:00 pm del viernes",
+            "2:00 pm del sábado",
+            "2:00 pm del jueves",
+            "2:00 pm del domingo"
+        ],
+        "answer": "2:00 pm del sábado"
+    },
+    {
+        "question": "El producto de dos números es 24 y su suma es 10. ¿Cuáles son esos números?",
+        "options": [
+            "4 y 6",
+            "3 y 8",
+            "2 y 12",
+            "1 y 24"
+        ],
+        "answer": "4 y 6"
+    },
+    {
+        "question": "Si un triángulo tiene ángulos de 30° y 60°, ¿cuál es el tercer ángulo?",
+        "options": [
+            "60°",
+            "90°",
+            "120°",
+            "45°"
+        ],
+        "answer": "90°"
+    },
+    {
+        "question": "¿Cuál es el mínimo común múltiplo de 6 y 8?",
+        "options": [
+            "12",
+            "24",
+            "48",
+            "16"
+        ],
+        "answer": "24"
+    },
+    {
+        "question": "En una fiesta, cada persona saludó a todas las demás con un apretón de manos. Si hubo 45 apretones en total, ¿cuántas personas había?",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "answer": "10"
+    },
+    {
+        "question": "Si 3 pintores pintan 3 habitaciones en 3 horas, ¿cuántos pintores se necesitan para pintar 6 habitaciones en 6 horas?",
+        "options": [
+            "3 pintores",
+            "6 pintores",
+            "9 pintores",
+            "12 pintores"
+        ],
+        "answer": "3 pintores"
+    },
+    {
+        "question": "¿Cuál es el resultado de (2³)²?",
+        "options": [
+            "32",
+            "64",
+            "16",
+            "128"
+        ],
+        "answer": "64"
+    },
+    {
+        "question": "Un recipiente contiene 3 litros de agua. Si se evapora 1/3 del contenido, ¿cuántos litros quedan?",
+        "options": [
+            "1 litro",
+            "2 litros",
+            "2.5 litros",
+            "0.5 litros"
+        ],
+        "answer": "2 litros"
+    },
+    {
+        "question": "Si 8 hombres construyen una casa en 10 días, ¿cuánto tardarían 4 hombres?",
+        "options": [
+            "15 días",
+            "20 días",
+            "25 días",
+            "5 días"
+        ],
+        "answer": "20 días"
+    },
+    {
+        "question": "¿Cuál es el valor de x en la ecuación 2x + 5 = 15?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "Si una rifa tiene 100 boletos y compro 5, ¿cuál es la probabilidad de que gane?",
+        "options": [
+            "5%",
+            "20%",
+            "1/20",
+            "1/5"
+        ],
+        "answer": "5%"
+    },
+    {
+        "question": "¿Cuál es el área de un cuadrado cuyos lados miden 7 cm?",
+        "options": [
+            "14 cm²",
+            "28 cm²",
+            "49 cm²",
+            "63 cm²"
+        ],
+        "answer": "49 cm²"
+    },
+    {
+        "question": "Si a - b = 5 y a × b = 6, ¿cuánto vale a + b?",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "11"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "Si un libro tiene 300 páginas y he leído 2/5 del total, ¿cuántas páginas me faltan por leer?",
+        "options": [
+            "120 páginas",
+            "150 páginas",
+            "180 páginas",
+            "200 páginas"
+        ],
+        "answer": "180 páginas"
+    },
+    {
+        "question": "Completa la serie: 1, 3, 6, 10, 15, ...",
+        "options": [
+            "18",
+            "20",
+            "21",
+            "25"
+        ],
+        "answer": "21"
+    },
+    {
+        "question": "Si A es hijo de B, pero B no es padre de A, ¿qué es B de A?",
+        "options": [
+            "Tío",
+            "Abuelo",
+            "Madre",
+            "Hermano"
+        ],
+        "answer": "Madre"
+    },
+    {
+        "question": "A una reunión asisten 15 personas y cada una saluda a todas las demás con un apretón de manos. ¿Cuántos apretones de manos hay en total?",
+        "options": [
+            "105",
+            "120",
+            "210",
+            "225"
+        ],
+        "answer": "105"
+    },
+    {
+        "question": "Si 5 máquinas producen 5 artículos en 5 minutos, ¿cuánto tardarán 100 máquinas en producir 100 artículos?",
+        "options": [
+            "1 minuto",
+            "5 minutos",
+            "20 minutos",
+            "100 minutos"
+        ],
+        "answer": "5 minutos"
+    },
+    {
+        "question": "Un médico receta 3 pastillas con la instrucción de tomar una cada media hora. ¿Cuánto tiempo pasará desde que tomas la primera hasta que terminas la última?",
+        "options": [
+            "30 minutos",
+            "60 minutos",
+            "90 minutos",
+            "120 minutos"
+        ],
+        "answer": "60 minutos"
+    },
+    {
+        "question": "En una carrera, María adelantó a la corredora que iba en segundo lugar. ¿En qué posición quedó María?",
+        "options": [
+            "Primera",
+            "Segunda",
+            "Tercera",
+            "No se puede determinar"
+        ],
+        "answer": "Segunda"
+    },
+    {
+        "question": "Si un rectángulo tiene un perímetro de 30 cm y su largo mide 8 cm, ¿cuál es su ancho?",
+        "options": [
+            "7 cm",
+            "7.5 cm",
+            "8 cm",
+            "14 cm"
+        ],
+        "answer": "7 cm"
+    },
+    {
+        "question": "Un granjero tiene 17 ovejas. Todas menos 9 mueren. ¿Cuántas ovejas le quedan?",
+        "options": [
+            "8",
+            "9",
+            "17",
+            "0"
+        ],
+        "answer": "9"
+    },
+    {
+        "question": "¿Qué número elevado a la potencia 3 da 27?",
+        "options": [
+            "3",
+            "9",
+            "3.3",
+            "4"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Si divides 30 entre 1/2 y sumas 10, ¿qué resultado obtienes?",
+        "options": [
+            "25",
+            "60",
+            "70",
+            "40"
+        ],
+        "answer": "70"
+    },
+    {
+        "question": "¿Cuál es el siguiente número en la serie? 3, 6, 12, 24, ...",
+        "options": [
+            "36",
+            "48",
+            "30",
+            "42"
+        ],
+        "answer": "48"
+    },
+    {
+        "question": "¿Qué edad tenía una persona en el año 2000 si nació en 1975?",
+        "options": [
+            "15 años",
+            "20 años",
+            "25 años",
+            "30 años"
+        ],
+        "answer": "25 años"
+    },
+    {
+        "question": "Si tienes un cubo de hielo de 3 cm por lado y lo divides en cubos de 1 cm por lado, ¿cuántos cubos pequeños obtendrás?",
+        "options": [
+            "9",
+            "27",
+            "6",
+            "18"
+        ],
+        "answer": "27"
+    },
+    {
+        "question": "Si hoy es martes, ¿qué día será 59 días después?",
+        "options": [
+            "Lunes",
+            "Martes",
+            "Miércoles",
+            "Jueves"
+        ],
+        "answer": "Miércoles"
+    },
+    {
+        "question": "En un examen de 20 preguntas, cada respuesta correcta vale 5 puntos y cada incorrecta resta 2 puntos. Si Juan respondió todas y obtuvo 76 puntos, ¿cuántas respuestas correctas tuvo?",
+        "options": [
+            "16",
+            "17",
+            "18",
+            "19"
+        ],
+        "answer": "17"
+    },
+    {
+        "question": "¿Cuál es el 25% del 40% de 200?",
+        "options": [
+            "10",
+            "20",
+            "25",
+            "50"
+        ],
+        "answer": "20"
+    },
+    {
+        "question": "Si la suma de dos números es 15 y su producto es 56, ¿cuáles son estos números?",
+        "options": [
+            "5 y 10",
+            "6 y 9",
+            "7 y 8",
+            "4 y 11"
+        ],
+        "answer": "7 y 8"
+    },
+    {
+        "question": "¿Cuántos números de tres cifras se pueden formar con los dígitos 1, 2 y 3 sin repetir dígitos?",
+        "options": [
+            "3",
+            "6",
+            "9",
+            "27"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "Si dos pintores tardan 6 días en pintar una casa, ¿cuántos días tardarán tres pintores?",
+        "options": [
+            "2 días",
+            "3 días",
+            "4 días",
+            "9 días"
+        ],
+        "answer": "4 días"
+    },
+    {
+        "question": "¿Qué número decimal equivale a 3/8?",
+        "options": [
+            "0.375",
+            "0.325",
+            "0.75",
+            "0.275"
+        ],
+        "answer": "0.375"
+    },
+    {
+        "question": "¿Cuál es el perímetro de un rectángulo de 5 cm de ancho y 8 cm de largo?",
+        "options": [
+            "13 cm",
+            "26 cm",
+            "40 cm",
+            "10 cm"
+        ],
+        "answer": "26 cm"
+    },
+    {
+        "question": "Si compro un artículo por $80 y lo vendo por $100, ¿cuál es mi porcentaje de ganancia?",
+        "options": [
+            "20%",
+            "25%",
+            "80%",
+            "100%"
+        ],
+        "answer": "25%"
+    },
+    {
+        "question": "¿Cuál es el máximo común divisor de 18 y 24?",
+        "options": [
+            "2",
+            "3",
+            "6",
+            "12"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "Si un tren recorre 240 km en 3 horas, ¿cuánto tiempo tardará en recorrer 400 km?",
+        "options": [
+            "4 horas",
+            "5 horas",
+            "6 horas",
+            "7 horas"
+        ],
+        "answer": "5 horas"
+    },
+    {
+        "question": "¿Cuántos grados suman los ángulos internos de un pentágono?",
+        "options": [
+            "360°",
+            "450°",
+            "540°",
+            "720°"
+        ],
+        "answer": "540°"
+    },
+    {
+        "question": "Si 3x + 5 = 17, ¿cuánto vale x?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Estás participando en una carrera. Adelantas al segundo lugar. ¿En qué posición estás ahora?",
+        "options": [
+            "Primero",
+            "Segundo",
+            "Tercero",
+            "Depende del número de corredores"
+        ],
+        "answer": "Segundo"
+    },
+    {
+        "question": "¿Cuántas veces aparece el dígito 7 entre los números del 1 al 100?",
+        "options": [
+            "10",
+            "19",
+            "20",
+            "21"
+        ],
+        "answer": "20"
+    },
+    {
+        "question": "Si un caracol sube 3 metros durante el día y baja 2 metros durante la noche, ¿cuántos días tardará en subir un pozo de 10 metros?",
+        "options": [
+            "5 días",
+            "8 días",
+            "10 días",
+            "12 días"
+        ],
+        "answer": "8 días"
+    },
+    {
+        "question": "¿Cuál es la raíz cuadrada de 121?",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "answer": "11"
+    },
+    {
+        "question": "Un reloj marca las 2:30. ¿Qué ángulo forman las manecillas?",
+        "options": [
+            "75°",
+            "90°",
+            "105°",
+            "120°"
+        ],
+        "answer": "105°"
+    },
+    {
+        "question": "Si tengo 24 manzanas y doy 1/3 a María y 1/4 a Juan, ¿cuántas manzanas me quedan?",
+        "options": [
+            "8",
+            "10",
+            "12",
+            "14"
+        ],
+        "answer": "10"
+    },
+    {
+        "question": "¿Qué número falta en la siguiente ecuación? 5 + 7 × ? = 40",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "4"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "Si 5 personas pueden construir 5 barcos en 5 días, ¿cuántas personas se necesitan para construir 10 barcos en 10 días?",
+        "options": [
+            "5 personas",
+            "10 personas",
+            "15 personas",
+            "20 personas"
+        ],
+        "answer": "5 personas"
+    },
+    {
+        "question": "¿Cuál es la diferencia entre el número más grande y el más pequeño que se pueden formar con los dígitos 2, 5 y 7?",
+        "options": [
+            "520",
+            "547",
+            "552",
+            "555"
+        ],
+        "answer": "552"
+    },
+    {
+        "question": "Si al doble de un número le restas 7, obtienes 15. ¿Cuál es ese número?",
+        "options": [
+            "8",
+            "11",
+            "15",
+            "22"
+        ],
+        "answer": "11"
+    },
+    {
+        "question": "¿Cuántos cuadrados hay en un tablero de damas de 8×8?",
+        "options": [
+            "64",
+            "120",
+            "144",
+            "204"
+        ],
+        "answer": "204"
+    },
+    {
+        "question": "¿Qué fracción es equivalente a 0.4?",
+        "options": [
+            "2/4",
+            "2/5",
+            "4/5",
+            "4/10"
+        ],
+        "answer": "2/5"
+    },
+    {
+        "question": "Si lanzo dos dados, ¿cuál es la probabilidad de obtener suma 7?",
+        "options": [
+            "1/6",
+            "1/8",
+            "1/9",
+            "1/12"
+        ],
+        "answer": "1/6"
+    },
+    {
+        "question": "¿Cuántos minutos hay en una semana?",
+        "options": [
+            "7,200",
+            "8,640",
+            "10,080",
+            "11,520"
+        ],
+        "answer": "10,080"
+    },
+    {
+        "question": "Si 3 gatos cazan 3 ratones en 3 horas, ¿cuántos gatos cazarán 9 ratones en 9 horas?",
+        "options": [
+            "1 gato",
+            "3 gatos",
+            "9 gatos",
+            "27 gatos"
+        ],
+        "answer": "3 gatos"
+    },
+    {
+        "question": "Un comerciante compra un producto a $120 y quiere ganar el 25%. ¿A qué precio debe venderlo?",
+        "options": [
+            "$145",
+            "$150",
+            "$160",
+            "$180"
+        ],
+        "answer": "$150"
+    },
+    {
+        "question": "¿Qué número continúa en la secuencia? 0, 1, 1, 2, 3, 5, 8, ...",
+        "options": [
+            "9",
+            "11",
+            "13",
+            "15"
+        ],
+        "answer": "13"
+    },
+    {
+        "question": "Si tengo una cuerda de 12 metros y quiero cortarla en trozos de 1.5 metros, ¿cuántos trozos obtendré?",
+        "options": [
+            "6",
+            "8",
+            "10",
+            "12"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "Si tengo $100 y gasto un 30%, ¿cuánto dinero me queda?",
+        "options": [
+            "$30",
+            "$60",
+            "$70",
+            "$80"
+        ],
+        "answer": "$70"
+    },
+    {
+        "question": "¿Cuál es el resultado de (3² + 4²)½?",
+        "options": [
+            "5",
+            "7",
+            "9",
+            "25"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "Un año tiene aproximadamente 365.25 días. ¿Aproximadamente cuántos segundos tiene un año?",
+        "options": [
+            "31,536,000",
+            "31,000,000",
+            "30,000,000",
+            "32,000,000"
+        ],
+        "answer": "31,536,000"
+    },
+    {
+        "question": "Si a una sucesión de números le aplico la regla \"multiplica por 2 y resta 1\", y obtengo 5, 11, 23, ¿cuál es el siguiente número?",
+        "options": [
+            "35",
+            "45",
+            "46",
+            "47"
+        ],
+        "answer": "47"
+    },
+    {
+        "question": "Pedro es 4 años mayor que Juan. Dentro de 6 años, Pedro tendrá el doble de la edad que Juan tenía hace 2 años. ¿Qué edad tiene Pedro ahora?",
+        "options": [
+            "10 años",
+            "12 años",
+            "14 años",
+            "16 años"
+        ],
+        "answer": "16 años"
+    },
+    {
+        "question": "¿Cuántos números de dos cifras son divisibles por 7?",
+        "options": [
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "answer": "13"
+    },
+    {
+        "question": "Si un reloj se adelanta 5 minutos cada hora, ¿cuántos minutos se habrá adelantado después de 6 horas?",
+        "options": [
+            "25 minutos",
+            "30 minutos",
+            "35 minutos",
+            "60 minutos"
+        ],
+        "answer": "30 minutos"
+    },
+    {
+        "question": "¿Cuántos triángulos hay en la siguiente figura? *\n        *\n   *         *\n*  *  *  *  *",
+        "options": [
+            "6",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "Si en una sala hay 7 mesas y 20 sillas, ¿cuántas sillas debo añadir para tener exactamente 5 sillas por mesa?",
+        "options": [
+            "5",
+            "10",
+            "15",
+            "35"
+        ],
+        "answer": "15"
+    },
+    {
+        "question": "La edad de Ana es el doble de la de su hermano menor. Si Ana tiene 16 años, ¿qué edad tendrá su hermano dentro de 4 años?",
+        "options": [
+            "8 años",
+            "10 años",
+            "12 años",
+            "16 años"
+        ],
+        "answer": "12 años"
+    },
+    {
+        "question": "Si necesito 3/4 de taza de azúcar para 2 docenas de galletas, ¿cuánto azúcar necesito para 3 docenas?",
+        "options": [
+            "1 taza",
+            "1 1/8 tazas",
+            "1 1/4 tazas",
+            "1 1/2 tazas"
+        ],
+        "answer": "1 1/8 tazas"
+    },
+    {
+        "question": "Si un rectángulo tiene área de 48 cm² y su largo es el doble de su ancho, ¿cuáles son sus dimensiones?",
+        "options": [
+            "4 cm × 12 cm",
+            "6 cm × 8 cm",
+            "3 cm × 16 cm",
+            "2 cm × 24 cm"
+        ],
+        "answer": "4 cm × 12 cm"
+    },
+    {
+        "question": "Un grifo llena un tanque en 8 horas y otro lo llena en 12 horas. Si ambos funcionan juntos, ¿cuánto tardarán en llenar el tanque?",
+        "options": [
+            "4 horas y 48 minutos",
+            "10 horas",
+            "5 horas",
+            "6 horas"
+        ],
+        "answer": "4 horas y 48 minutos"
+    },
+    {
+        "question": "Completa la secuencia: 2, 6, 12, 20, 30, ...",
+        "options": [
+            "36",
+            "40",
+            "42",
+            "48"
+        ],
+        "answer": "42"
+    }
+]

@@ -35,7 +35,8 @@ const rightColor = '#10A37F';
 let currentCard = null;
 let currentDimensions = null;
 let intervalID = null;
-let time = 10;// en segundos
+let questionTime = 10;
+let time = questionTime;// en segundos
 const totalQuestions = 10;
 let remainingQuestions = totalQuestions;
 let assertedQuestions = 0;
@@ -70,6 +71,9 @@ async function getQuestions() {
         case 'Quimica':
             jsonFileName = 'chemical';
             break;
+        case 'Razonamiento':
+            jsonFileName = 'thinking';
+            break;
         default:
             console.log(`The category ${jsonFileName} doesn't exist`);
             break;
@@ -78,17 +82,25 @@ async function getQuestions() {
     switch (currentLevel) {
         case 'Facil':
             level = 'easy';
+            questionTime = 10;
             break;
         case 'Normal':
             level = 'medium';
+            questionTime = 8;
             break;
         case 'Dificil':
             level = 'hard';
+            questionTime = 6;
             break;
         default:
             console.log(`The level ${level} doesn't exist`);
             break;
     }
+
+    time = questionTime;
+    document.documentElement.style.setProperty('--question-time', `${questionTime}s`);
+    console.log(time);
+    
     console.log(level + " " + jsonFileName);
 
     await fetch(`./questions/${level}/${jsonFileName}.json`)
@@ -97,6 +109,7 @@ async function getQuestions() {
 }
 
 playBtn.addEventListener('click', () => {
+    showInvisibleStartMenuMask();
     setCounterAndLoadingBar();
     restartLoadingBar();
     const questionContainer = createQuestionCard();
@@ -104,8 +117,17 @@ playBtn.addEventListener('click', () => {
     activeTransition(startMenuContainer, startMenu, questionContainer, questionCard);
     setTimeout(() => {
         activeCountDown();
+        hideInvisibleStartMenuMask();
     }, 3000);
 });
+
+function showInvisibleStartMenuMask(){
+    startMenu.classList.add('show-invisible-mask');
+}
+
+function hideInvisibleStartMenuMask(){
+    startMenu.classList.remove('show-invisible-mask');
+}
 
 
 function setCounterAndLoadingBar() {
@@ -129,7 +151,11 @@ function activeCountDown() {
                 transitionToNextCard(currentCard);
                 restartLoadingBar();
                 if (remainingQuestions > 0) {
-                    time = 10;
+                    console.log(time);
+                    
+                    time = questionTime;
+                    console.log(time);
+                    
                     setTimeout(() => {
                         activeCountDown();
                     }, 3000);
@@ -252,7 +278,7 @@ function checkAnswer(optionsButtons, rightAnswer, currentQuestion) {
             // }, 3000);
 
             clearInterval(intervalID);
-            time = 10;
+            time = questionTime;
             if (remainingQuestions > 0) {
                 setTimeout(() => {
                     activeCountDown();
@@ -586,7 +612,8 @@ function restartFinalScreen() {
 
 function restartGameVariables() {
     remainingQuestions = totalQuestions;
-    time = 10;
+    questionTime = 12;
+    time = questionTime;
     currentCard = null;
     currentDimensions = null;
     intervalID = null;
