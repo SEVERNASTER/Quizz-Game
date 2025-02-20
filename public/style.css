@@ -26,6 +26,7 @@ body {
     /* min-height: 100vh; */
     display: flex;
     justify-content: center;
+    align-items: center;
     overflow: hidden;
     /* background-size: cover;
     background-repeat: no-repeat; */
@@ -45,6 +46,12 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
 
 
 
+}
+
+.particles-js {
+    width: 100%;
+    height: 100%;
+    position: absolute;
 }
 
 .interrogation-mark {
@@ -156,7 +163,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
 .start-menu-container {
     position: absolute;
     /* display: none !important; */
-    height: 100vh;
+    height: 65vh;
     width: 40%;
     display: flex;
     justify-content: center;
@@ -176,7 +183,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
 
 .start-menu-flip-container {
     position: relative;
-    height: 65%;
+    height: 100%;
     width: 100%;
     /* border: solid #fff; */
     perspective: 1000px;
@@ -608,7 +615,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     /* border: solid; */
     /* display: flex; */
     align-items: center;
-    height: 100vh;
+    height: 60vh;
     width: 40%;
     transition: 2s;
     /*tiempo al reves*/
@@ -617,7 +624,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
 
 .question-card {
     /* border: solid #191c31; */
-    height: 60%;
+    height: 100%;
     width: 100%;
     display: grid;
     grid-template-rows: 20% 80%;
@@ -679,6 +686,7 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     justify-content: space-evenly;
     align-items: center;
     overflow: auto;
+    gap: .5rem;
 }
 
 
@@ -1090,11 +1098,11 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
 
     .start-menu-container {
         width: 80%;
-
+        height: 50vh;
     }
 
     .start-menu-flip-container {
-        height: 50%;
+        height: 100%;
     }
 
     .buttons-container {
@@ -1129,10 +1137,11 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
 
     .question-container {
         width: 80%;
+        height: 50vh;
     }
 
     .question-card {
-        height: 50%;
+        height: 100%;
     }
 
     .question-card-title {
@@ -1150,14 +1159,6 @@ background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox=
     .loading-bar-container {
         width: 80%;
     }
-
-    /* .loading-bar::before {
-        transition: 5s linear;
-    }
-
-    .loading-bar::after {
-        transition: 5s linear;
-    } */
 
     .loading-bar.active-loading-bar::before {
         transform: translateX(-89%);

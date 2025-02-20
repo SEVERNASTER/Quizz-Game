@@ -100,7 +100,7 @@ async function getQuestions() {
     time = questionTime;
     document.documentElement.style.setProperty('--question-time', `${questionTime}s`);
     console.log(time);
-    
+
     console.log(level + " " + jsonFileName);
 
     await fetch(`./questions/${level}/${jsonFileName}.json`)
@@ -109,6 +109,7 @@ async function getQuestions() {
 }
 
 playBtn.addEventListener('click', () => {
+
     showInvisibleStartMenuMask();
     setCounterAndLoadingBar();
     restartLoadingBar();
@@ -121,11 +122,11 @@ playBtn.addEventListener('click', () => {
     }, 3000);
 });
 
-function showInvisibleStartMenuMask(){
+function showInvisibleStartMenuMask() {
     startMenu.classList.add('show-invisible-mask');
 }
 
-function hideInvisibleStartMenuMask(){
+function hideInvisibleStartMenuMask() {
     startMenu.classList.remove('show-invisible-mask');
 }
 
@@ -152,10 +153,10 @@ function activeCountDown() {
                 restartLoadingBar();
                 if (remainingQuestions > 0) {
                     console.log(time);
-                    
+
                     time = questionTime;
                     console.log(time);
-                    
+
                     setTimeout(() => {
                         activeCountDown();
                     }, 3000);
@@ -190,7 +191,7 @@ function activeTransition(outtingElementContainer, outtingElement, incomingEleme
 
 function createQuestionCard() {
     const question = questions.splice(Math.floor(Math.random() * questions.length), 1)[0];
-    // const question = questions[1];
+    // const question = questions[0];
     let newQuestion = document.createElement('div');
     newQuestion.className = 'question-container';
     newQuestion.innerHTML = `
@@ -254,6 +255,28 @@ function generateShuffledArray() {
     return numbers;
 }
 
+// le tenemos que pasar el id, hasta este momento ningun contenedor tiene ese id
+particlesJS("start-menu", {
+    particles: {
+        number: { value: 100 }, // Cantidad de partículas
+        size: { value: 4 }, // Tamaño de las partículas
+        move: { speed: 3 }, // Velocidad de movimiento
+        color: { value: "#fff" }, // Color de las partículas
+        line_linked: {
+            enable: true, // Activa las líneas
+            distance: 150, // Distancia máxima para conectar partículas
+            color: "#ffffff", // Color de las líneas
+            opacity: 0.8, // Opacidad de las líneas
+            width: 2 // Aumenta el grosor de las líneas
+        }
+    },
+    interactivity: {
+        events: { onhover: { enable: true, mode: "grab" } } // Efecto al pasar el mouse
+    }
+});
+
+
+
 function checkAnswer(optionsButtons, rightAnswer, currentQuestion) {
     optionsButtons.forEach(button => {
         button.addEventListener('click', () => {
@@ -262,7 +285,10 @@ function checkAnswer(optionsButtons, rightAnswer, currentQuestion) {
                 'wrong-answer-animation';
             button.classList.add(className);
             if (className === 'right-answer-animation') {
-                confetti();
+                confetti({
+                    particleCount: 150,
+                    spread: 70
+                });
                 assertedQuestions++;
             }
             paintAllButtonsExcept(button, optionsButtons, rightAnswer);

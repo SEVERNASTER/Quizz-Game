@@ -1,0 +1,1012 @@
+[
+    {
+        "question": "En una progresión geométrica, el primer término es 3 y el cuarto es 24. ¿Cuál es la razón de la progresión?",
+        "options": [
+            "1.5",
+            "2",
+            "1.75",
+            "1.6"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Si lanzas 3 dados, ¿cuál es la probabilidad de que la suma sea un número primo?",
+        "options": [
+            "5/18",
+            "7/18",
+            "11/36",
+            "13/36"
+        ],
+        "answer": "5/18"
+    },
+    {
+        "question": "En un grupo de 30 personas, 18 hablan inglés, 15 hablan francés y 12 hablan alemán. Si 10 hablan inglés y francés, 8 hablan francés y alemán, y 6 hablan inglés y alemán, ¿cuántas personas hablan los tres idiomas?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "Un depósito se llena con tres grifos. El primero lo llena en 6 horas, el segundo en 8 horas y el tercero en 12 horas. Si se abren todos a la vez, ¿en cuántas horas se llenará?",
+        "options": [
+            "2.4",
+            "2.6",
+            "2.8",
+            "3.0"
+        ],
+        "answer": "2.4"
+    },
+    {
+        "question": "¿Cuál es el último dígito de 7^100?",
+        "options": [
+            "1",
+            "3",
+            "7",
+            "9"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Si tienes 8 puntos en un plano y no hay tres puntos colineales, ¿cuántos triángulos diferentes puedes formar?",
+        "options": [
+            "46",
+            "52",
+            "56",
+            "58"
+        ],
+        "answer": "56"
+    },
+    {
+        "question": "En un torneo de ajedrez, cada jugador juega exactamente una vez contra cada uno de los demás. Si se jugaron 45 partidas en total, ¿cuántos jugadores participaron?",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "answer": "10"
+    },
+    {
+        "question": "¿Cuántos números de cuatro dígitos son divisibles por 7 y tienen todos sus dígitos diferentes?",
+        "options": [
+            "960",
+            "972",
+            "984",
+            "996"
+        ],
+        "answer": "972"
+    },
+    {
+        "question": "Si a² + b² = 25 y ab = 12, ¿cuánto vale (a + b)²?",
+        "options": [
+            "45",
+            "47",
+            "49",
+            "51"
+        ],
+        "answer": "49"
+    },
+    {
+        "question": "Un reloj se adelanta 2 minutos cada hora. Si lo pongo en hora a las 12:00, ¿qué hora marcará realmente cuando el reloj indique las 18:00?",
+        "options": [
+            "16:48",
+            "17:00",
+            "17:12",
+            "17:24"
+        ],
+        "answer": "17:00"
+    },
+    {
+        "question": "En una urna hay bolas rojas y azules. Si saco dos bolas, la probabilidad de que ambas sean rojas es 1/2, y la de que ambas sean azules es 1/6. ¿Cuántas bolas hay en total?",
+        "options": [
+            "6",
+            "8",
+            "10",
+            "12"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "¿Cuál es el menor número que al dividirlo entre 2, 3, 4, 5 y 6 da siempre resto 1?",
+        "options": [
+            "61",
+            "121",
+            "301",
+            "601"
+        ],
+        "answer": "61"
+    },
+    {
+        "question": "Si tienes un cubo de 4x4x4 pintado por fuera, ¿cuántos cubitos tienen exactamente dos caras pintadas?",
+        "options": [
+            "24",
+            "28",
+            "32",
+            "36"
+        ],
+        "answer": "24"
+    },
+    {
+        "question": "¿Cuál es la suma de todos los números de tres dígitos que son múltiplos de 7 y tienen todos sus dígitos impares?",
+        "options": [
+            "11753",
+            "11837",
+            "11921",
+            "12005"
+        ],
+        "answer": "11837"
+    },
+    {
+        "question": "En un triángulo rectángulo, uno de sus ángulos mide 30°. Si la hipotenusa mide 8, ¿cuánto mide el cateto mayor?",
+        "options": [
+            "4√3",
+            "6",
+            "4",
+            "8√3/2"
+        ],
+        "answer": "4√3"
+    },
+    {
+        "question": "¿Cuántos números enteros positivos menores que 1000 tienen un número impar de divisores?",
+        "options": [
+            "31",
+            "32",
+            "33",
+            "34"
+        ],
+        "answer": "31"
+    },
+    {
+        "question": "Si x + 1/x = 3, ¿cuánto vale x² + 1/x²?",
+        "options": [
+            "5",
+            "7",
+            "9",
+            "11"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "En un círculo inscrito en un cuadrado, ¿qué porcentaje del área del cuadrado ocupa el círculo?",
+        "options": [
+            "68.5%",
+            "75.4%",
+            "78.5%",
+            "82.5%"
+        ],
+        "answer": "78.5%"
+    },
+    {
+        "question": "Si lanzas cinco monedas, ¿cuál es la probabilidad de obtener más caras que cruces?",
+        "options": [
+            "3/8",
+            "5/16",
+            "7/16",
+            "1/2"
+        ],
+        "answer": "5/16"
+    },
+    {
+        "question": "¿Cuál es el resto de dividir 7^100 entre 8?",
+        "options": [
+            "1",
+            "3",
+            "5",
+            "7"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "Si un número de dos dígitos es igual a 3 veces la suma de sus dígitos, ¿cuál es ese número?",
+        "options": [
+            "36",
+            "48",
+            "54",
+            "72"
+        ],
+        "answer": "54"
+    },
+    {
+        "question": "En una progresión aritmética de 10 términos, la suma del primer y último término es 15, y la suma de todos los términos es 75. ¿Cuál es la diferencia común?",
+        "options": [
+            "1",
+            "1.5",
+            "2",
+            "2.5"
+        ],
+        "answer": "1.5"
+    },
+    {
+        "question": "¿Cuántos números de cuatro dígitos tienen la propiedad de que cada dígito es mayor que el anterior?",
+        "options": [
+            "126",
+            "210",
+            "252",
+            "288"
+        ],
+        "answer": "252"
+    },
+    {
+        "question": "Si tienes 12 puntos en una circunferencia, ¿cuántos triángulos diferentes puedes formar usando estos puntos como vértices?",
+        "options": [
+            "220",
+            "230",
+            "240",
+            "250"
+        ],
+        "answer": "220"
+    },
+    {
+        "question": "En un grupo de 100 personas, a 85 les gusta el chocolate, a 75 les gusta la vainilla y a 70 les gusta el fresa. A 60 les gusta el chocolate y la vainilla, a 55 les gusta la vainilla y la fresa, y a 50 les gusta el chocolate y la fresa. ¿A cuántas personas les gustan los tres sabores?",
+        "options": [
+            "35",
+            "40",
+            "45",
+            "50"
+        ],
+        "answer": "45"
+    },
+    {
+        "question": "Si tienes una cuerda de 100 metros y cada día cortas la mitad de lo que queda, ¿después de cuántos días te quedará menos de 1 metro?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "¿Cuál es la probabilidad de que al elegir al azar un número de cuatro dígitos, este sea divisible por 4 y termine en 2?",
+        "options": [
+            "1/40",
+            "1/50",
+            "1/100",
+            "1/400"
+        ],
+        "answer": "1/40"
+    },
+    {
+        "question": "Si a + b + c = 10 y a² + b² + c² = 40, ¿cuál es el valor máximo posible de abc?",
+        "options": [
+            "24",
+            "27",
+            "30",
+            "33"
+        ],
+        "answer": "27"
+    },
+    {
+        "question": "¿Cuántos números de tres dígitos tienen la propiedad de que la suma de sus dígitos es un número primo?",
+        "options": [
+            "360",
+            "378",
+            "384",
+            "396"
+        ],
+        "answer": "378"
+    },
+    {
+        "question": "En un cuadrado de lado 8, ¿cuál es la longitud de su diagonal?",
+        "options": [
+            "8√2",
+            "10√2",
+            "12",
+            "16"
+        ],
+        "answer": "8√2"
+    },
+    {
+        "question": "Si tienes 10 cartas numeradas del 1 al 10, ¿cuál es la probabilidad de sacar tres cartas que sumen un número par?",
+        "options": [
+            "3/8",
+            "1/2",
+            "5/8",
+            "3/4"
+        ],
+        "answer": "5/8"
+    },
+    {
+        "question": "¿Cuál es el menor número que tiene exactamente 12 divisores?",
+        "options": [
+            "60",
+            "72",
+            "100",
+            "144"
+        ],
+        "answer": "100"
+    },
+    {
+        "question": "Si en un triángulo ABC, AB = 13, BC = 14 y AC = 15, ¿cuál es su área?",
+        "options": [
+            "81",
+            "84",
+            "87",
+            "90"
+        ],
+        "answer": "84"
+    },
+    {
+        "question": "¿Cuántos números capicúa hay entre 1000 y 9999?",
+        "options": [
+            "90",
+            "100",
+            "110",
+            "120"
+        ],
+        "answer": "90"
+    },
+    {
+        "question": "En una progresión geométrica infinita, la suma de todos los términos es 6 y la suma de sus cuadrados es 12. ¿Cuál es el primer término?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Si lanzas dos dados y multiplicas los números obtenidos, ¿cuál es la probabilidad de obtener un número par?",
+        "options": [
+            "3/4",
+            "5/6",
+            "7/8",
+            "11/12"
+        ],
+        "answer": "3/4"
+    },
+    {
+        "question": "¿Cuál es el dígito de las unidades de 999^999?",
+        "options": [
+            "1",
+            "3",
+            "7",
+            "9"
+        ],
+        "answer": "9"
+    },
+    {
+        "question": "En un polígono regular de n lados, la suma de sus ángulos internos es 1080°. ¿Cuántos lados tiene?",
+        "options": [
+            "6",
+            "8",
+            "10",
+            "12"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "Si tienes una hoja de papel y la doblas por la mitad 7 veces, ¿cuántas capas de papel tendrás?",
+        "options": [
+            "64",
+            "96",
+            "128",
+            "256"
+        ],
+        "answer": "128"
+    },
+    {
+        "question": "¿Cuál es la suma de todos los números primos menores que 50?",
+        "options": [
+            "280",
+            "290",
+            "300",
+            "310"
+        ],
+        "answer": "290"
+    },
+    {
+        "question": "Si x + y = 10 y xy = 21, ¿cuánto vale x² + y²?",
+        "options": [
+            "58",
+            "62",
+            "66",
+            "70"
+        ],
+        "answer": "58"
+    },
+    {
+        "question": "En un grupo de 20 personas, ¿cuál es la probabilidad de que al menos dos personas cumplan años el mismo mes?",
+        "options": [
+            "0.89",
+            "0.91",
+            "0.93",
+            "0.95"
+        ],
+        "answer": "0.93"
+    },
+    {
+        "question": "¿Cuántos números de cuatro dígitos son divisibles por 3 y tienen exactamente dos dígitos iguales?",
+        "options": [
+            "2160",
+            "2280",
+            "2400",
+            "2520"
+        ],
+        "answer": "2400"
+    },
+    {
+        "question": "Si un triángulo tiene lados de longitudes 5, 12 y 13, ¿cuál es su área?",
+        "options": [
+            "24",
+            "26",
+            "28",
+            "30"
+        ],
+        "answer": "30"
+    },
+    {
+        "question": "¿Cuál es la probabilidad de sacar una mano de póker (5 cartas) que contenga exactamente dos pares?",
+        "options": [
+            "0.0475",
+            "0.0485",
+            "0.0495",
+            "0.0505"
+        ],
+        "answer": "0.0475"
+    },
+    {
+        "question": "En un cubo de 3x3x3, ¿cuántos cubitos pequeños tienen exactamente una cara en común con otro cubito que tenga una cara exterior pintada?",
+        "options": [
+            "12",
+            "16",
+            "20",
+            "24"
+        ],
+        "answer": "20"
+    },
+    {
+        "question": "Si la suma de tres números consecutivos es igual al producto de los mismos tres números, ¿cuál es el número del medio?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "¿Cuántos números enteros positivos menores que 1000 son cuadrados perfectos o cubos perfectos?",
+        "options": [
+            "37",
+            "38",
+            "39",
+            "40"
+        ],
+        "answer": "38"
+    },
+    {
+        "question": "En un rombo, una diagonal mide 12 y su área es 60. ¿Cuánto mide la otra diagonal?",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        "answer": "10"
+    },
+    {
+        "question": "Si tienes un número de 5 dígitos donde cada dígito es mayor que el anterior, ¿cuántos números posibles hay?",
+        "options": [
+            "126",
+            "156",
+            "196",
+            "216"
+        ],
+        "answer": "126"
+    },
+    {
+        "question": "¿Cuál es el mayor número primo que divide a 1001?",
+        "options": [
+            "7",
+            "11",
+            "13",
+            "17"
+        ],
+        "answer": "13"
+    },
+    {
+        "question": "Si a + b + c = 15 y abc = 125, ¿cuál es el valor mínimo posible de a² + b² + c²?",
+        "options": [
+            "75",
+            "85",
+            "95",
+            "105"
+        ],
+        "answer": "85"
+    },
+    {
+        "question": "En un dodecaedro regular (12 caras pentagonales), ¿cuántas aristas hay en total?",
+        "options": [
+            "24",
+            "28",
+            "30",
+            "32"
+        ],
+        "answer": "30"
+    },
+    {
+        "question": "¿Cuál es la probabilidad de que al elegir tres números al azar entre 1 y 20, su suma sea divisible por 3?",
+        "options": [
+            "1/3",
+            "2/5",
+            "1/2",
+            "3/5"
+        ],
+        "answer": "1/3"
+    },
+    {
+        "question": "Si x^3 + y^3 = 28 y x + y = 4, ¿cuánto vale xy?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "¿Cuántos números de 4 dígitos son divisibles por 11 y no contienen el dígito 0?",
+        "options": [
+            "729",
+            "738",
+            "747",
+            "756"
+        ],
+        "answer": "738"
+    },
+    {
+        "question": "En una progresión aritmética de 8 términos, el primer término es 3 y el último es 24. Si todos los términos son enteros, ¿cuántos términos son números primos?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "3"
+    },
+    {
+        "question": "Si tienes un reloj que se atrasa 3 minutos cada hora y otro que se adelanta 2 minutos cada hora, y los pones en hora a las 12:00, ¿a qué hora marcarán la misma hora por primera vez?",
+        "options": [
+            "14:00",
+            "15:00",
+            "16:00",
+            "17:00"
+        ],
+        "answer": "16:00"
+    },
+    {
+        "question": "¿Cuál es la suma de todos los números de tres dígitos que son cuadrados perfectos y tienen todos sus dígitos diferentes?",
+        "options": [
+            "24136",
+            "24236",
+            "24336",
+            "24436"
+        ],
+        "answer": "24236"
+    },
+    {
+        "question": "En un torneo de tenis participan 2^n jugadores. Si se juegan 120 partidos en total, ¿cuántos jugadores hay?",
+        "options": [
+            "64",
+            "128",
+            "256",
+            "512"
+        ],
+        "answer": "128"
+    },
+    {
+        "question": "¿Cuál es la probabilidad de que al lanzar tres dados, el producto de los números obtenidos sea divisible por 4?",
+        "options": [
+            "7/8",
+            "13/16",
+            "15/16",
+            "31/32"
+        ],
+        "answer": "7/8"
+    },
+    {
+        "question": "Si tienes un número de 6 dígitos donde la suma de los dígitos en posiciones pares es igual a la suma de los dígitos en posiciones impares, ¿cuántos números posibles hay?",
+        "options": [
+            "45000",
+            "50000",
+            "55000",
+            "60000"
+        ],
+        "answer": "50000"
+    },
+    {
+        "question": "En un triángulo, las medianas dividen a cada lado en la razón 2:1. Si el área del triángulo es 54, ¿cuál es el área del hexágono formado por los puntos medios de los lados?",
+        "options": [
+            "36",
+            "27",
+            "24",
+            "18"
+        ],
+        "answer": "36"
+    },
+    {
+        "question": "¿Cuántos números menores que 1000 tienen un número impar de factores primos (contando repeticiones)?",
+        "options": [
+            "384",
+            "396",
+            "408",
+            "420"
+        ],
+        "answer": "396"
+    },
+    {
+        "question": "Si tienes una circunferencia inscrita en un triángulo equilátero de lado 6, ¿cuál es el radio de la circunferencia?",
+        "options": [
+            "1",
+            "√3",
+            "2",
+            "3"
+        ],
+        "answer": "1"
+    },
+    {
+        "question": "¿Cuál es la suma de todos los números de dos dígitos que son divisibles por la suma de sus dígitos?",
+        "options": [
+            "1164",
+            "1172",
+            "1180",
+            "1188"
+        ],
+        "answer": "1172"
+    },
+    {
+        "question": "En un paralelepípedo rectangular, las diagonales de las caras miden 5, 6 y 7. ¿Cuál es el volumen del paralelepípedo?",
+        "options": [
+            "24",
+            "36",
+            "48",
+            "60"
+        ],
+        "answer": "36"
+    },
+    {
+        "question": "¿Cuántos números de 4 dígitos son divisibles por 3 y tienen exactamente tres dígitos iguales?",
+        "options": [
+            "240",
+            "270",
+            "300",
+            "330"
+        ],
+        "answer": "270"
+    },
+    {
+        "question": "Si la suma de dos números es 10 y la suma de sus cuartas potencias es 130, ¿cuál es el producto de los números?",
+        "options": [
+            "12",
+            "15",
+            "18",
+            "21"
+        ],
+        "answer": "21"
+    },
+    {
+        "question": "En una urna hay bolas numeradas del 1 al 20. Si sacas tres bolas, ¿cuál es la probabilidad de que formen una progresión aritmética?",
+        "options": [
+            "1/6",
+            "1/8",
+            "1/10",
+            "1/12"
+        ],
+        "answer": "1/10"
+    },
+    {
+        "question": "¿Cuál es el menor número que tiene exactamente 15 divisores?",
+        "options": [
+            "24",
+            "32",
+            "36",
+            "48"
+        ],
+        "answer": "32"
+    },
+    {
+        "question": "Si tienes un octágono regular inscrito en una circunferencia de radio 4, ¿cuál es su área?",
+        "options": [
+            "32",
+            "38.6",
+            "41.4",
+            "45.2"
+        ],
+        "answer": "38.6"
+    },
+    {
+        "question": "¿Cuántos números de tres dígitos tienen la propiedad de que el producto de sus dígitos es un cuadrado perfecto?",
+        "options": [
+            "96",
+            "108",
+            "120",
+            "132"
+        ],
+        "answer": "108"
+    },
+    {
+        "question": "En un grupo de 50 personas, ¿cuál es la probabilidad de que haya al menos tres personas que cumplan años el mismo día del mes?",
+        "options": [
+            "0.85",
+            "0.90",
+            "0.95",
+            "0.97"
+        ],
+        "answer": "0.95"
+    },
+    {
+        "question": "Si a + b + c = 12 y a² + b² + c² = 50, ¿cuál es el valor mínimo posible de max(a,b,c)?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": "6"
+    },
+    {
+        "question": "¿Cuántos números menores que 1000 tienen un número par de divisores?",
+        "options": [
+            "969",
+            "970",
+            "971",
+            "972"
+        ],
+        "answer": "969"
+    },
+    {
+        "question": "Si lanzas 6 monedas, ¿cuál es la probabilidad de obtener al menos 4 caras consecutivas?",
+        "options": [
+            "5/32",
+            "3/16",
+            "7/32",
+            "1/4"
+        ],
+        "answer": "7/32"
+    },
+    {
+        "question": "En un cubo de 4x4x4, ¿cuántos cubitos pequeños tienen exactamente tres caras pintadas?",
+        "options": [
+            "4",
+            "6",
+            "8",
+            "10"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "¿Cuál es la suma de todos los números de tres dígitos que son divisibles por 7 y tienen dígitos consecutivos en orden creciente?",
+        "options": [
+            "4851",
+            "4935",
+            "5019",
+            "5103"
+        ],
+        "answer": "4935"
+    },
+    {
+        "question": "En un triángulo rectángulo, uno de sus ángulos es el doble del otro. ¿Cuánto mide el ángulo mayor?",
+        "options": [
+            "60°",
+            "72°",
+            "75°",
+            "80°"
+        ],
+        "answer": "60°"
+    },
+    {
+        "question": "¿Cuántos números de cuatro dígitos son divisibles por 12 y tienen todos sus dígitos diferentes?",
+        "options": [
+            "495",
+            "504",
+            "513",
+            "522"
+        ],
+        "answer": "504"
+    },
+    {
+        "question": "Si tienes una progresión geométrica donde la suma de los primeros tres términos es 14 y su producto es 64, ¿cuál es el primer término?",
+        "options": [
+            "1",
+            "2",
+            "4",
+            "8"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "¿Cuál es la probabilidad de que al elegir tres números entre 1 y 10, sin repetición, formen los lados de un triángulo?",
+        "options": [
+            "0.4",
+            "0.45",
+            "0.5",
+            "0.55"
+        ],
+        "answer": "0.5"
+    },
+    {
+        "question": "En un pentágono regular, ¿cuánto mide la suma de las longitudes de todas sus diagonales?",
+        "options": [
+            "5√5",
+            "10",
+            "5(1+√5)",
+            "10√2"
+        ],
+        "answer": "5(1+√5)"
+    },
+    {
+        "question": "¿Cuántos números de tres dígitos son tales que la suma de sus dígitos es igual al producto de sus dígitos?",
+        "options": [
+            "12",
+            "14",
+            "16",
+            "18"
+        ],
+        "answer": "14"
+    },
+    {
+        "question": "Si tienes un número de 5 dígitos donde cada dígito es menor que el siguiente y su suma es 15, ¿cuántos números posibles hay?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "5"
+    },
+    {
+        "question": "En una progresión aritmética de 7 términos, el producto del primero y el último término es 12, y la suma de todos los términos es 28. ¿Cuál es la diferencia común?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "¿Cuál es la probabilidad de que al elegir un número al azar entre 1 y 1000, sea divisible por 2 o por 3 o por 5?",
+        "options": [
+            "0.65",
+            "0.7",
+            "0.75",
+            "0.8"
+        ],
+        "answer": "0.7"
+    },
+    {
+        "question": "Si tienes un polígono regular de n lados donde la suma de los ángulos externos es igual a la suma de los ángulos internos, ¿cuántos lados tiene?",
+        "options": [
+            "6",
+            "8",
+            "10",
+            "12"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "¿Cuántos números de cuatro dígitos son tales que cada dígito es mayor que la suma de los dígitos que le siguen?",
+        "options": [
+            "715",
+            "725",
+            "735",
+            "745"
+        ],
+        "answer": "725"
+    },
+    {
+        "question": "En un tetraedro regular de arista 6, ¿cuál es su volumen?",
+        "options": [
+            "18",
+            "24",
+            "36",
+            "48"
+        ],
+        "answer": "36"
+    },
+    {
+        "question": "Si tienes una fracción donde tanto el numerador como el denominador son números de dos dígitos, y al cancelar incorrectamente el dígito común da el resultado correcto, ¿cuántas fracciones así existen?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "¿Cuál es la suma de todos los números primos p menores que 100 tales que p+2 también es primo?",
+        "options": [
+            "836",
+            "846",
+            "856",
+            "866"
+        ],
+        "answer": "846"
+    },
+    {
+        "question": "En un cuadrado de lado 1, se elige un punto al azar. ¿Cuál es la probabilidad de que esté más cerca del centro que de cualquier lado?",
+        "options": [
+            "π/4",
+            "1/2",
+            "π/6",
+            "1/3"
+        ],
+        "answer": "π/4"
+    },
+    {
+        "question": "¿Cuántos números de tres dígitos son tales que al sumarles 1 se obtiene un cuadrado perfecto?",
+        "options": [
+            "22",
+            "23",
+            "24",
+            "25"
+        ],
+        "answer": "23"
+    },
+    {
+        "question": "Si tienes una sucesión donde cada término es la suma de los dos anteriores al cuadrado, y los dos primeros términos son 1 y 2, ¿cuál es el cuarto término?",
+        "options": [
+            "25",
+            "125",
+            "625",
+            "3125"
+        ],
+        "answer": "625"
+    },
+    {
+        "question": "En un triángulo, las bisectrices de dos ángulos se cortan formando un ángulo de 110°. ¿Cuánto mide el tercer ángulo del triángulo?",
+        "options": [
+            "40°",
+            "50°",
+            "60°",
+            "70°"
+        ],
+        "answer": "60°"
+    },
+    {
+        "question": "¿Cuántos números entre 1 y 1000 son producto de exactamente tres primos distintos?",
+        "options": [
+            "120",
+            "130",
+            "140",
+            "150"
+        ],
+        "answer": "140"
+    },
+    {
+        "question": "Si tienes un número de 6 dígitos donde cada dígito es el cuadrado del número de dígitos que le siguen que son mayores que él, ¿cuántos números así hay?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "En un hexágono regular, se trazan todas las diagonales posibles. ¿En cuántas regiones queda dividido el hexágono?",
+        "options": [
+            "24",
+            "30",
+            "32",
+            "36"
+        ],
+        "answer": "32"
+    },
+    {
+        "question": "¿Cuál es la probabilidad de que un número de tres dígitos elegido al azar sea divisible por la suma de sus dígitos?",
+        "options": [
+            "1/9",
+            "1/8",
+            "1/7",
+            "1/6"
+        ],
+        "answer": "1/7"
+    }
+]
