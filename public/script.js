@@ -143,7 +143,7 @@ function setCounterAndLoadingBar() {
 // ERROR BUG FIX IT
 function activeCountDown() {
     intervalID = setInterval(() => {
-        if (time < 1) {
+        if (time <= 0) {
             clearInterval(intervalID);
 
             setInterrogationMarks(currentCard.querySelector('.question-card'), currentDimensions);
@@ -399,6 +399,7 @@ function setInterrogationMarks(card, dimensions) {
         posY += dimensions.height / verticalItems;
     }
     activeTransitionSVG(card);
+    currentCard.querySelector('.question-card').classList.add('unable-question-asap');
     currentCard.querySelector('.question-card').classList.add('unable-question');
 }
 
