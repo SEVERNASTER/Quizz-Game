@@ -18,15 +18,6 @@ El objetivo es obtener la mayor cantidad de respuestas correctas.
 - **Google Gemini API** (para generar mensajes finales con humor e ironía)  
 - **Vercel** (para hosting)  
 
-## 📂 Instalación y ejecución  
-Si deseas ejecutar el juego en local, sigue estos pasos:  
-
-```bash
-git clone https://github.com/tu_usuario/quiz-game.git
-cd quiz-game
-
-Luego, simplemente abre `index.html` en tu navegador.
-
 ## 🎮 Cómo jugar  
 - Inicia el juego y selecciona una categoría (si aplica).  
 - Responde las preguntas dentro del tiempo límite.  
@@ -36,3 +27,14 @@ Luego, simplemente abre `index.html` en tu navegador.
 - 🔹 Implementar **modo multijugador**.  
 - 🔹 Agregar **modificadores** para hacer el juego más dinámico.  
 - 🔹 Incluir más **categorías de preguntas**.  
+
+
+## 📂 Instalación y ejecución  
+Si deseas ejecutar el juego en local, sigue estos pasos:  
+
+```bash
+git clone https://github.com/tu_usuario/quiz-game.git
+cd quiz-game
+
+Luego, simplemente abre `index.html` en tu navegador.
+
